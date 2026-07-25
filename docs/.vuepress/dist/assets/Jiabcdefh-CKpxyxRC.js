@@ -1,1 +1,0 @@
-var e=`/ewm/Jiabcdefh.jpg`;export{e as t};

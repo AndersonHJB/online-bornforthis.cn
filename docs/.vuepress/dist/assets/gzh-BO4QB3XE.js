@@ -1,1 +1,0 @@
-var e=`/gzh.jpg`;export{e as t};
