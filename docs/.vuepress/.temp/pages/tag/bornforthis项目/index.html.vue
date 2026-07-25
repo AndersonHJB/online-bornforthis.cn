@@ -1,0 +1,17 @@
+<template><div></div></template>
+<script>
+export const _pageData = JSON.parse("{\"path\":\"/tag/bornforthis%E9%A1%B9%E7%9B%AE/\",\"title\":\"标签: Bornforthis项目\",\"lang\":\"zh-CN\",\"frontmatter\":{\"dir\":{\"index\":false},\"index\":false,\"feed\":false,\"sitemap\":false,\"title\":\"标签: Bornforthis项目\",\"blog\":{\"type\":\"category\",\"name\":\"Bornforthis项目\",\"key\":\"tag\"},\"layout\":\"Blog\",\"head\":[[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"WebPage\\\",\\\"name\\\":\\\"标签: Bornforthis项目\\\"}\"],[\"meta\",{\"property\":\"og:url\",\"content\":\"https://bornforthis.cn/tag/bornforthis%E9%A1%B9%E7%9B%AE/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"AI悦创-Python一对一辅导\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"标签: Bornforthis项目\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}]]},\"git\":{},\"readingTime\":{\"minutes\":0,\"words\":0},\"filePathRelative\":null,\"excerpt\":\"\"}")
+export default { name: "index.html.vue" }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  __VUE_HMR_RUNTIME__.updatePageData?.(_pageData)
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept((m) => {
+    __VUE_HMR_RUNTIME__.updatePageData?.(m._pageData)
+  })
+}
+
+</script>
