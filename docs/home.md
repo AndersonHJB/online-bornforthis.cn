@@ -16,7 +16,6 @@ image: false
 navbar: true
 sidebarIcon: true
 comment: true
-changelog: false
 backToTop: true
 toc: true
 head:

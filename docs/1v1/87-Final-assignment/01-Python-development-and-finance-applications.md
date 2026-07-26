@@ -11,10 +11,7 @@ timeline: true
 image: false
 navbar: true
 sidebarIcon: true
-changelog: false
 comment: true
- 
-
 backToTop: true
 toc: true
 ---
