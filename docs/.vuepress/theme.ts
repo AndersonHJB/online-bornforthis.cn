@@ -27,13 +27,13 @@ export default hopeTheme({
   // navTitle: "AI悦创-Python一对一辅导",
   // navTitle: false,
 
-  editLink: true,
+  editLink: false,
   docsBranch: "main",
   docsDir: "docs",
   docsRepo: "AndersonHJB/bornforthis.cn",
   changelog: false,
   repo: "AndersonHJB/bornforthis.cn",
-  lastUpdated: true,
+  lastUpdated: false,
   contributors: "content",
 
   darkmode: "switch",
@@ -207,8 +207,8 @@ export default hopeTheme({
       ],
     },
     git: {
-      updatedTime: true,
-      createdTime: true,
+      updatedTime: false,
+      createdTime: false,
       contributors: {
         avatar: false,
       }
