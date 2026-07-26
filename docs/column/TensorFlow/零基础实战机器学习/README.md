@@ -29,9 +29,7 @@ toc: true
 
 ![首图](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/20/2028f6f22421771cf3e194ad1536e42bda0f8f4eb036a5b097647ccd17177336.jpg)
 
-<VidStack src="/零基础实战机器学习/00.mp3" title="00-开篇词｜开发者为什么要从实战出发学机器学习？" />
-
-你好，我是黄佳。
+你好，我是悦创。
 
 去年，我写了一本书，叫《零基础学机器学习》。很多人都挺喜欢这本书，就问我我是怎么入行机器学习的。要说这事儿，得从十几年前开始说起喽。
 
