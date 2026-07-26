@@ -50,9 +50,7 @@ yarn add @vuepress/client@next @vuepress/plugin-docsearch@next vue@next vuepress
 }
 ```
 
-**yarn.lock.txt**
 
-[yarn.lock.txt](/website-copy/2022-11-02-10-09-52/yarn.lock.txt)
 
 - 添加 哔哩哔哩、YouTube 视频播放
 - 代码块修复
