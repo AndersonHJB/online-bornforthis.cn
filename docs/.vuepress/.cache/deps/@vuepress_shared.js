@@ -162,5 +162,3 @@ var isPlainObject = (val) => Object.prototype.toString.call(val) === "[object Ob
 var isString = (val) => typeof val === "string";
 //#endregion
 export { dedupeHead, ensureEndingSlash, ensureLeadingSlash, formatDateString, inferRoutePath, isFunction, isLinkExternal, isLinkHttp, isLinkWithProtocol, isPlainObject, isString, normalizeRoutePath, omit, removeEndingSlash, removeLeadingSlash, resolveHeadIdentifier, resolveLocalePath, resolveRoutePathFromUrl, splitPath };
-
-//# sourceMappingURL=@vuepress_shared.js.map

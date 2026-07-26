@@ -1,1 +1,1 @@
-import "/Users/huangjiabao/bornforthis.cn/docs/.vuepress/styles/index.scss"
+import "/Users/bornforthis/Desktop/bornforthis.cn/docs/.vuepress/styles/index.scss"

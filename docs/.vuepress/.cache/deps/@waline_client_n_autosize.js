@@ -75,5 +75,3 @@ var r = null;
 var n = r;
 //#endregion
 export { n as default };
-
-//# sourceMappingURL=@waline_client_n_autosize.js.map

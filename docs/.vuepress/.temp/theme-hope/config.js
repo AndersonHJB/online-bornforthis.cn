@@ -1,16 +1,16 @@
-import { Layout, NotFound, injectDarkMode, setupDarkMode, setupSidebarItems, scrollPromise } from "/Users/huangjiabao/bornforthis.cn/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.107_dd248bc3a6c51ce814e15f4580754d24/node_modules/vuepress-theme-hope/dist/bundle/exports/base.js";
+import { Layout, NotFound, injectDarkMode, setupDarkMode, setupSidebarItems, scrollPromise } from "/Users/bornforthis/Desktop/bornforthis.cn/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.107_602b8dc6870089c7ecb49c8a7e163c10/node_modules/vuepress-theme-hope/dist/bundle/exports/base.js";
 
-import { defineCatalogInfoGetter } from "/Users/huangjiabao/bornforthis.cn/node_modules/.pnpm/@vuepress+plugin-catalog@2.0.0-rc.130_@vuepress+bundler-vite@2.0.0-rc.30_@types+node@25_839d051157eb96292f2931668dbd4d5e/node_modules/@vuepress/plugin-catalog/dist/client/index.js"
+import { defineCatalogInfoGetter } from "/Users/bornforthis/Desktop/bornforthis.cn/node_modules/.pnpm/@vuepress+plugin-catalog@2.0.0-rc.130_@vuepress+bundler-vite@2.0.0-rc.30_@types+node@26_5dbd57102a08525844fefa8be72140db/node_modules/@vuepress/plugin-catalog/dist/client/index.js"
 import { h } from "vue"
 import { resolveComponent } from "vue"
-import { Blog, BloggerInfo, SocialMedias, setupBlog } from "/Users/huangjiabao/bornforthis.cn/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.107_dd248bc3a6c51ce814e15f4580754d24/node_modules/vuepress-theme-hope/dist/bundle/exports/blog.js";
-import "/Users/huangjiabao/bornforthis.cn/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.107_dd248bc3a6c51ce814e15f4580754d24/node_modules/vuepress-theme-hope/dist/client/styles/blog/layout.scss";
-import { GlobalEncrypt, LocalEncrypt } from "/Users/huangjiabao/bornforthis.cn/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.107_dd248bc3a6c51ce814e15f4580754d24/node_modules/vuepress-theme-hope/dist/bundle/exports/encrypt.js";
+import { Blog, BloggerInfo, SocialMedias, setupBlog } from "/Users/bornforthis/Desktop/bornforthis.cn/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.107_602b8dc6870089c7ecb49c8a7e163c10/node_modules/vuepress-theme-hope/dist/bundle/exports/blog.js";
+import "/Users/bornforthis/Desktop/bornforthis.cn/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.107_602b8dc6870089c7ecb49c8a7e163c10/node_modules/vuepress-theme-hope/dist/client/styles/blog/layout.scss";
+import { GlobalEncrypt, LocalEncrypt } from "/Users/bornforthis/Desktop/bornforthis.cn/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.107_602b8dc6870089c7ecb49c8a7e163c10/node_modules/vuepress-theme-hope/dist/bundle/exports/encrypt.js";
 
-import "/Users/huangjiabao/bornforthis.cn/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.130_@vuepress+bundler-vite@2.0.0-rc.30_@types+node@25.9.1_@vu_b93fa586a438399e16dc741240b015cb/node_modules/@vuepress/helper/dist/client/styles/colors.css";
-import "/Users/huangjiabao/bornforthis.cn/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.130_@vuepress+bundler-vite@2.0.0-rc.30_@types+node@25.9.1_@vu_b93fa586a438399e16dc741240b015cb/node_modules/@vuepress/helper/dist/client/styles/normalize.css";
-import "/Users/huangjiabao/bornforthis.cn/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.130_@vuepress+bundler-vite@2.0.0-rc.30_@types+node@25.9.1_@vu_b93fa586a438399e16dc741240b015cb/node_modules/@vuepress/helper/dist/client/styles/sr-only.css";
-import "/Users/huangjiabao/bornforthis.cn/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.107_dd248bc3a6c51ce814e15f4580754d24/node_modules/vuepress-theme-hope/dist/client/styles/index.scss";
+import "/Users/bornforthis/Desktop/bornforthis.cn/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.130_@vuepress+bundler-vite@2.0.0-rc.30_@types+node@26.1.1_@vu_ef5a9d2df27158e9ea086394b5b0666c/node_modules/@vuepress/helper/dist/client/styles/colors.css";
+import "/Users/bornforthis/Desktop/bornforthis.cn/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.130_@vuepress+bundler-vite@2.0.0-rc.30_@types+node@26.1.1_@vu_ef5a9d2df27158e9ea086394b5b0666c/node_modules/@vuepress/helper/dist/client/styles/normalize.css";
+import "/Users/bornforthis/Desktop/bornforthis.cn/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.130_@vuepress+bundler-vite@2.0.0-rc.30_@types+node@26.1.1_@vu_ef5a9d2df27158e9ea086394b5b0666c/node_modules/@vuepress/helper/dist/client/styles/sr-only.css";
+import "/Users/bornforthis/Desktop/bornforthis.cn/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.107_602b8dc6870089c7ecb49c8a7e163c10/node_modules/vuepress-theme-hope/dist/client/styles/index.scss";
 
 defineCatalogInfoGetter((meta) => {
   const title = meta.title;
