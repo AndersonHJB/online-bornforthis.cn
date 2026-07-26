@@ -31,7 +31,7 @@ watermark:
   <VPCard
   title="Python 在线编程网站"
   desc="无需安装，即可在线运行 Python 代码"
-  logo="https://pythontutor.bornforthis.cn/favicon.ico"
+  logo="/Book/pythontutor.png"
   link="https://codemark.bornforthis.cn/editor"
   background="rgba(253, 230, 138, 0.15)"
   />
