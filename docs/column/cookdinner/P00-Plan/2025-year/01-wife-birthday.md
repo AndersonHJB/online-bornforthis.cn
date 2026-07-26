@@ -162,11 +162,6 @@ toc: true
 
 
 
-## 3. 视频
-
-<VidStack
-  src="/cookdinner/芋头.mp4"
-/>
 
 @tab 2. 卤猪蹄
 
