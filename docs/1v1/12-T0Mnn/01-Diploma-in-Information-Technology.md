@@ -27,7 +27,7 @@ backToTop: true
 toc: true
 ---
 
-- [DITPS.pdf](/1v1/12-T0Mnn/DITPS.pdf)
+- [DITPS.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/12-T0Mnn/DITPS.pdf)
 
 ::: center
 

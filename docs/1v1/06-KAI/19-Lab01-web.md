@@ -147,7 +147,7 @@ Your task is to design a simple website that creates a "collage" of pictures usi
 
 Click on the "toggle files" button to show the filesystem and location of the source image assets.
 
-> 单击“toggle files”按钮，显示源图像资产的文件系统和位置。[images.zip](/1v1/06-KAI/19-Lab01-web/images.zip)
+> 单击“toggle files”按钮，显示源图像资产的文件系统和位置。[images.zip](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/19-Lab01-web/images.zip)
 
 ::: tabs
 

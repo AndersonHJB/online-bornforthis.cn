@@ -191,9 +191,9 @@ For this assignment you will be creating a Pokemon hunting game the user can pla
 
 Here is a video example of how the game is played. Note that you may redesign your game to use your own colors and layout, but the overall gameplay logic should be the same. [The graphics being used in the video (background, grass, Pokemon and Pokeballs) can be found here.](https://cs.nyu.edu/courses/spring23/CSCI-UA.0061-001/images/assignment03/assignment03_images.zip)
 
-- [assignment03_images.zip](/1v1/06-KAI/22-Macro-Assignment-03-Gotta-Catch-em-All/assignment03_images.zip)
+- [assignment03_images.zip](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/22-Macro-Assignment-03-Gotta-Catch-em-All/assignment03_images.zip)
 
-<VidStack src="/1v1/06-KAI/22-Macro-Assignment-03-Gotta-Catch-em-All/yt1s.com-webdev-assignment03-2021_1080p.mp4" />
+<VidStack src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/22-Macro-Assignment-03-Gotta-Catch-em-All/yt1s.com-webdev-assignment03-2021_1080p.mp4" />
 
 Here are some overarching hints to help you get started:
 

@@ -29,7 +29,7 @@ backToTop: true
 toc: true
 ---
 
-- [Assignment3_ Battleship.pdf](/1v1/06-KAI/12-Assignment3-Battleship/Assignment3Battleship.pdf)
+- [Assignment3_ Battleship.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/12-Assignment3-Battleship/Assignment3Battleship.pdf)
 
 ## Assignment 5: Battleship
 

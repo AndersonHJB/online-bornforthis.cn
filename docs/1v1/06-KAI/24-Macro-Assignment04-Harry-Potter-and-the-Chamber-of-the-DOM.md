@@ -48,7 +48,7 @@ The wizards at Hogwarts need your help! Voldemort has apparently been taking a w
 
 Your mission is to work through five challenges (4 'starter' challenges and a final one.) Each challenge is based on a single HTML file. Read through the comments in the HTML file to determine your task, and then solve it using your HTML, CSS and JavaScript skills! When you solve a challenge you can come back here and input any magical results that appear by using the buttons below. Finishing a challenge will reward you with a password. If you collect all four passwords you can open up the final challenge. [The source code for the first four challenges can be downloaded here](https://cs.nyu.edu/courses/spring23/CSCI-UA.0061-001/assignment04/assignment04-harry_potter_challenges.zip).
 
-- [24-assignment04](/1v1/06-KAI/24-assignment04/assignment04-harry_potter_challenges.zip)
+- [24-assignment04](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/24-assignment04/assignment04-harry_potter_challenges.zip)
 
 > 你的任务是完成五个挑战(4个“初始”挑战和一个最终挑战)。每个挑战都基于一个 HTML 文件。阅读 HTML 文件中的注释来确定您的任务，然后使用您的 HTML, CSS 和 JavaScript 技能来解决它!当你解决了一个挑战，你可以回到这里，输入任何神奇的结果出现使用下面的按钮。完成一个挑战将奖励你一个密码。如果你收集到所有四个密码，你就可以开始最后的挑战了。前四项挑战的源代码可以在这里下载。
 

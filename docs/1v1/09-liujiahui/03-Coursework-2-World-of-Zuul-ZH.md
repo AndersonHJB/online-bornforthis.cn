@@ -27,10 +27,10 @@ toc: true
 
 ## 资料
 
--   [coursework2_woz.pdf](/1v1/09-liujiahui/02-Coursework2-World-of-Zuul/coursework2_woz.pdf)
--   [zuul-better.zip](/1v1/09-liujiahui/02-Coursework2-World-of-Zuul/zuul-better.zip)
--   [zuul-better_chinese.zip](/1v1/09-liujiahui/02-Coursework2-World-of-Zuul/zuul-better_chinese.zip)
--   [zuul-better_chinese-Plus.zip](/1v1/09-liujiahui/02-Coursework2-World-of-Zuul/zuul-better_chinese-Plus.zip)
+-   [coursework2_woz.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/09-liujiahui/02-Coursework2-World-of-Zuul/coursework2_woz.pdf)
+-   [zuul-better.zip](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/09-liujiahui/02-Coursework2-World-of-Zuul/zuul-better.zip)
+-   [zuul-better_chinese.zip](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/09-liujiahui/02-Coursework2-World-of-Zuul/zuul-better_chinese.zip)
+-   [zuul-better_chinese-Plus.zip](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/09-liujiahui/02-Coursework2-World-of-Zuul/zuul-better_chinese-Plus.zip)
 
 ## PPA02A
 

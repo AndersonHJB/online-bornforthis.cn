@@ -64,7 +64,7 @@ Here's a quick video that shows the basic features of the system:
 
 > 这是一个简短的视频，展示了系统的基本功能：
 
-<VidStack src="/1v1/06-KAI/31-Assignment07-Server-side-Quizzing-System/yt1s.com-simpsonsquiz assignment6_360p.mp4" />
+<VidStack src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/31-Assignment07-Server-side-Quizzing-System/yt1s.com-simpsonsquiz%20assignment6_360p.mp4" />
 
 网页结构如下从上到下：
 
@@ -147,7 +147,7 @@ In Part A you will be setting up a form that will prompt the user to answer a se
 
 [You can download all of the artwork used in the sample project here](https://cs.nyu.edu/courses/spring23/CSCI-UA.0061-001/images/assignment07/assignment07_images.zip) (but you are welcome to use your own graphics / content items)
 
-> 您可以在这里下载示例项目中使用的所有艺术作品（但您也可以使用自己的图形/内容项目）。[assignment07_images.zip](/1v1/06-KAI/31-Assignment07-Server-side-Quizzing-System/assignment07_images.zip)
+> 您可以在这里下载示例项目中使用的所有艺术作品（但您也可以使用自己的图形/内容项目）。[assignment07_images.zip](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/31-Assignment07-Server-side-Quizzing-System/assignment07_images.zip)
 
 Here's what you should work on for Part A:
 

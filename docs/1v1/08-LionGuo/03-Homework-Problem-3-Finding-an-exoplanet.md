@@ -25,7 +25,7 @@ backToTop: true
 toc: true
 ---
 
-[/1v1/08-LionGuo/03-Homework-Problem-3-Finding-an-exoplanet/problem_3.ipynb](/1v1/08-LionGuo/03-Homework-Problem-3-Finding-an-exoplanet/problem_3.ipynb)
+[/1v1/08-LionGuo/03-Homework-Problem-3-Finding-an-exoplanet/problem_3.ipynb](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/08-LionGuo/03-Homework-Problem-3-Finding-an-exoplanet/problem_3.ipynb)
 
 **Hand-in format:** IPython Notebook or python program. Submit via email.
 

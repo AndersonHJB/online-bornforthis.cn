@@ -49,11 +49,11 @@ Remember that micro assignments are time sensitive! You should try and complete 
 
 ## JavaScript Promises
 
-<VidStack src="/1v1/06-KAI/33-Micro-Assignment08/webdev-micro08-promises.mp4" />
+<VidStack src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/33-Micro-Assignment08/webdev-micro08-promises.mp4" />
 
 ## The "fetch" API
 
-<VidStack src="/1v1/06-KAI/33-Micro-Assignment08/webdev-micro08-fetch.mp4" />
+<VidStack src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/33-Micro-Assignment08/webdev-micro08-fetch.mp4" />
 
 **Making a Basic Fetch Request in Code**
 
@@ -245,7 +245,7 @@ All of the HTML, CSS and PHP has been written for this program, along with a SQL
 
 You can download the starter code here:
 
-[/1v1/06-KAI/33-Micro-Assignment08/micro08_starter_code.zip](/1v1/06-KAI/33-Micro-Assignment08/micro08_starter_code.zip)
+[/1v1/06-KAI/33-Micro-Assignment08/micro08_starter_code.zip](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/33-Micro-Assignment08/micro08_starter_code.zip)
 
 
 

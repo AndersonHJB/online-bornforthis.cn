@@ -39,7 +39,7 @@ toc: true
 <Share colorful services="qq,weibo,email,qrcode"/>
 
 - [https://cs.nyu.edu/courses/spring23/CSCI-UA.0102-001/index.html](https://cs.nyu.edu/courses/spring23/CSCI-UA.0102-001/index.html)
-- [hw01.pdf](/1v1/06-KAI/18-Data-Structures-Programming-Assignment-1-OOP-Review/hw01.pdf)
+- [hw01.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/18-Data-Structures-Programming-Assignment-1-OOP-Review/hw01.pdf)
 
 Last month, scientists at NASA discovered life on Mars, Neptune, and Saturn! Your job is to create a program that can convert currencies between the planets to aid in interplanetary transactions.
 

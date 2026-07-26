@@ -33,7 +33,7 @@ toc: true
 
 ## Question 1
 
-请在超星学习平台“章节”的第12讲下找到文本文件 [**mid_score.txt**](/1v1/15-Lantern_Fs/README/mid_score.txt) ，该文本文件包含四列数据，第一列为学号，第二、三、四列分别为语文、数学和英语课程的分数。请编写 Python 程序，实现以下功能。
+请在超星学习平台“章节”的第12讲下找到文本文件 [**mid_score.txt**](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/15-Lantern_Fs/README/mid_score.txt) ，该文本文件包含四列数据，第一列为学号，第二、三、四列分别为语文、数学和英语课程的分数。请编写 Python 程序，实现以下功能。
 
 - 读取该文本文件，计算每个学生的总分；
 - 将学生学号和总分输出到一个文本文件 `score_rank.txt`，并将总分按**从高到低**排序。也就是说，在你最后得到的文本文件`score_rank.txt` 里，包含两列数据，第一列是学生的学号，第二列是该学生的总分，且数据是按照总分从高到低排列的。
@@ -146,7 +146,7 @@ if __name__ == '__main__':
 
 ## Question 2
 
-请在超星学习平台“章节”的第 12 讲下找到两个文本文件："[**name_score.txt**](/1v1/15-Lantern_Fs/README/name_score.txt)"这个文件包含了每个人的中文姓名和对应的成绩；"[**name_pinyin.txt**](/1v1/15-Lantern_Fs/README/name_pinyin.txt)"文件包含了每个人的中文姓名和对应的拼音。
+请在超星学习平台“章节”的第 12 讲下找到两个文本文件："[**name_score.txt**](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/15-Lantern_Fs/README/name_score.txt)"这个文件包含了每个人的中文姓名和对应的成绩；"[**name_pinyin.txt**](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/15-Lantern_Fs/README/name_pinyin.txt)"文件包含了每个人的中文姓名和对应的拼音。
 
 请编写 Python 程序，读取这两个文件，然后生成一个名为 `pinyin_score.txt` 的文本文件，要求新的文本文件中第一列为每个人姓名所对应的拼音，第二列为这个人的成绩，并且每个人的姓名和他对应的成绩是按照成绩**从高到低**排列的。
 

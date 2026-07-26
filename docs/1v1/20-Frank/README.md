@@ -27,7 +27,7 @@ backToTop: true
 toc: true
 ---
 
-- [CISC235_W23_A1.pdf](/1v1/20-Frank/CISC235_W23_A1.pdf)
+- [CISC235_W23_A1.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/20-Frank/CISC235_W23_A1.pdf)
 
 ## Assignment 1
 

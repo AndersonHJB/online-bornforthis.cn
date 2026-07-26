@@ -36,7 +36,7 @@ backToTop: true
 toc: true
 ---
 
-- [krowemoH01](/1v1/22-DongYuhang/hw/README.pdf)
+- [krowemoH01](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/22-DongYuhang/hw/README.pdf)
 
 ## CS-UY 1114 Spring 2023 
 

@@ -29,8 +29,8 @@ backToTop: true
 toc: true
 ---
 
-- [Final-Projectp.pdf](/1v1/06-KAI/13-Final-Project/Final-Project-Introduction-to-Web-Design-and-Computer-PrinciplesSection002-NYU.pdf)
-- AI悦创作品链接：[https://bornforthis.cn/1v1/06-KAI/13-Final-Project/PortKit/](https://bornforthis.cn/1v1/06-KAI/13-Final-Project/PortKit/)
+- [Final-Projectp.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/13-Final-Project/Final-Project-Introduction-to-Web-Design-and-Computer-PrinciplesSection002-NYU.pdf)
+- AI悦创作品链接：[https://bornforthis.cn/1v1/06-KAI/13-Final-Project/PortKit/](https://github.com/AndersonHJB/blog-images/tree/main/1v1/06-KAI/13-Final-Project/PortKit)
 
 **Instructions**
 

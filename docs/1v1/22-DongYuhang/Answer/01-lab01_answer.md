@@ -36,7 +36,7 @@ backToTop: true
 toc: true
 ---
 
-- [Lab1.pdf](/1v1/22-DongYuhang/Answer/Lab1.pdf)
+- [Lab1.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/22-DongYuhang/Answer/Lab1.pdf)
 
 ## IO and Types
 

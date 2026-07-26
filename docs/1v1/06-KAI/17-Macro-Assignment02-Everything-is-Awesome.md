@@ -59,7 +59,7 @@ Your website should do the following:
 
 > 你的网站应该做到以下几点:
 
-- Begin by downloading the following set of images: [Macro Assignment 02 Images](https://cs.nyu.edu/courses/spring23/CSCI-UA.0061-001/images/assignment02/assignment02_images.zip)/[assignment02_images.zip](/1v1/06-KAI/17-Macro-Assignment02-Everything-is-Awesome/assignment02_images.zip)
+- Begin by downloading the following set of images: [Macro Assignment 02 Images](https://cs.nyu.edu/courses/spring23/CSCI-UA.0061-001/images/assignment02/assignment02_images.zip)/[assignment02_images.zip](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/17-Macro-Assignment02-Everything-is-Awesome/assignment02_images.zip)
 
 > 首先下载以下一组图像:宏分配02图像
 

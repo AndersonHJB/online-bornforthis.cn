@@ -27,7 +27,7 @@ backToTop: true
 toc: true
 ---
 
--   [ppa翻译.txt](/1v1/10-MaLin/01-Java-Hw/ppa翻译.txt)
+-   [ppa翻译.txt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/10-MaLin/01-Java-Hw/ppa%E7%BF%BB%E8%AF%91.txt)
 
 ## 开始:
 

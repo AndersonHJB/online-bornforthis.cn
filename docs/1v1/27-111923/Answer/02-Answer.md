@@ -31,7 +31,7 @@ backToTop: true
 toc: true
 ---
 
-[Bloch-HW-2.ipynb](/1v1/27-111923/Bloch-HW-2.ipynb)
+[Bloch-HW-2.ipynb](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/27-111923/Bloch-HW-2.ipynb)
 
 ## 第二步：U 矩阵的解析与重建
 

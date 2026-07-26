@@ -67,12 +67,12 @@ for key in sorted(dictionary.keys()):
 	print(key + ': ' + str(dictionary[key]))
 ```
 
--   [data.txt](/1v1/05-Patrick/02-CS-shaoshuai-Python-cs/data.txt)
--   [data2.txt](/1v1/05-Patrick/02-CS-shaoshuai-Python-cs/data2.txt)
--   [data3.txt](/1v1/05-Patrick/02-CS-shaoshuai-Python-cs/data3.txt)
--   [empty.txt](/1v1/05-Patrick/02-CS-shaoshuai-Python-cs/empty.txt)
--   [jelly.txt](/1v1/05-Patrick/02-CS-shaoshuai-Python-cs/jelly.txt)
--   [jolly.txt](/1v1/05-Patrick/02-CS-shaoshuai-Python-cs/jolly.txt)
+-   [data.txt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/05-Patrick/02-CS-shaoshuai-Python-cs/data.txt)
+-   [data2.txt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/05-Patrick/02-CS-shaoshuai-Python-cs/data2.txt)
+-   [data3.txt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/05-Patrick/02-CS-shaoshuai-Python-cs/data3.txt)
+-   [empty.txt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/05-Patrick/02-CS-shaoshuai-Python-cs/empty.txt)
+-   [jelly.txt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/05-Patrick/02-CS-shaoshuai-Python-cs/jelly.txt)
+-   [jolly.txt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/05-Patrick/02-CS-shaoshuai-Python-cs/jolly.txt)
 
 
 

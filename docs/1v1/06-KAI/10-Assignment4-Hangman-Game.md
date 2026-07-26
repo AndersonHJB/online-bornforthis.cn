@@ -29,8 +29,8 @@ backToTop: true
 toc: true
 ---
 
-- [animals.txt](/1v1/06-KAI/10-Assignment4-Hangman-Game/animals.txt)
-- [words_alpha.txt](/1v1/06-KAI/10-Assignment4-Hangman-Game/words_alpha.txt)
+- [animals.txt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/10-Assignment4-Hangman-Game/animals.txt)
+- [words_alpha.txt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/10-Assignment4-Hangman-Game/words_alpha.txt)
 
 Assignment 4: Hangman Game
 

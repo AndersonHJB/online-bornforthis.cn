@@ -40,7 +40,7 @@ toc: true
 
 [In class code (ZIP)](https://cs.nyu.edu/courses/spring23/CSCI-UA.0061-001/assignment08.zip)
 
-[In class code (ZIP)](/1v1/06-KAI/34-Assignment-08-Interactive-Database/assignment08.zip)
+[In class code (ZIP)](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/34-Assignment-08-Interactive-Database/assignment08.zip)
 
 Note: The majority of this assignment uses only HTML, CSS and PHP - very little (if any) JavaScript is necessary  to solve this problem.  I've outlined the technologies needed for each  feature below.
 

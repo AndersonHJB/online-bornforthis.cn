@@ -186,11 +186,11 @@ For this assignment you will be creating 'matching game' that will allow visitor
 
 > 对于这个作业，你将创建一个“匹配游戏”，允许访问者尝试和匹配一系列隐藏的令牌。速度是关键，最好的时间将被存储在你的电脑上的“高分”-未来的玩家将需要尝试并打破这个分数，以成为新的匹配冠军!下面是一段简短的视频，展示了该系统的基本功能:
 
-<VidStack src="/1v1/06-KAI/30-Assignment06-Matching-Game/webdev matching game_360p.mp4" />
+<VidStack src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/30-Assignment06-Matching-Game/webdev%20matching%20game_360p.mp4" />
 
 Your program should do the following. [You can download all of the artwork used in this project here](https://cs.nyu.edu/courses/spring23/CSCI-UA.0061-001/images/assignment06/assignment06_images.zip).
 
-> 您的程序应该执行以下操作。你可以在这里下载这个项目中使用的所有艺术品。[assignment06_images.zip](/1v1/06-KAI/30-Assignment06-Matching-Game/assignment06_images.zip)
+> 您的程序应该执行以下操作。你可以在这里下载这个项目中使用的所有艺术品。[assignment06_images.zip](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/30-Assignment06-Matching-Game/assignment06_images.zip)
 
 - Layout
     - A 'start' screen that introduces the user to your game and provides them with a button to start the game. This element should be visible to the user when the page loads.「“开始”屏幕，向用户介绍你的游戏，并提供一个开始游戏的按钮。当页面加载时，该元素应该对用户可见。」

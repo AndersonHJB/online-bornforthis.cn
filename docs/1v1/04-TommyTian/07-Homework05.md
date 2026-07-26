@@ -36,9 +36,9 @@ backToTop: true
 toc: true
 ---
 
-- [HW05.pdf](/1v1/04-TommyTian/07-Homework05/HW05.pdf)
+- [HW05.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/04-TommyTian/07-Homework05/HW05.pdf)
 
-<PDF url="/1v1/04-TommyTian/07-Homework05/HW05.pdf" />
+<PDF url="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/04-TommyTian/07-Homework05/HW05.pdf" />
 
 ## NYU Tandon School of Engineering
 

@@ -31,7 +31,7 @@ backToTop: true
 toc: true
 ---
 
-[Bloch-HW-1.ipynb](/1v1/27-111923/Bloch-HW-1.ipynb)
+[Bloch-HW-1.ipynb](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/27-111923/Bloch-HW-1.ipynb)
 
 
 

@@ -31,7 +31,7 @@ backToTop: true
 toc: true
 ---
 
-[Bloch-HW-4.ipynb](/1v1/27-111923/Bloch-HW-4.ipynb)
+[Bloch-HW-4.ipynb](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/27-111923/Bloch-HW-4.ipynb)
 
 ## 第一步：混态的 Bloch 坐标
 

@@ -31,9 +31,9 @@ toc: true
 
 ## 注意点
 
-- [FinalProject.pdf](/1v1/06-KAI/15-group-hw/FinalProject.pdf)
+- [FinalProject.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/15-group-hw/FinalProject.pdf)
 
-<PDF url="/1v1/06-KAI/15-group-hw/FinalProject.pdf" />
+<PDF url="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/15-group-hw/FinalProject.pdf" />
 
 
 
@@ -573,7 +573,7 @@ public class Main {
 
 在他们的那个代码逻辑上 尽量不要大改棋盘。实现这个效果
 
-<VidStack src="/1v1/06-KAI/15-group-hw/demo.mp4" />
+<VidStack src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/15-group-hw/demo.mp4" />
 
 欢迎关注我公众号：AI悦创，有更多更好玩的等你发现！
 
