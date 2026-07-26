@@ -37,19 +37,19 @@ toc: true
 
 @tab img-1
 
-![](./02-shiyanba.assets/image-20240615161816752.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4f/4f1af3f646dda7dc1b4bc3161fe0c78e4551e4975c6d8585b306255a18921f2c.png)
 
 @tab img-2
 
-![](./02-shiyanba.assets/image-20240615161827110.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4f/4f86cc23e5385271243fbfba452f6043cc0763e0aa6572282ae734385d20fa08.png)
 
 @tab img-3
 
-![](./02-shiyanba.assets/image-20240615161902225.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cb9e46ff8272dfbd47bdb169bfc43b0945b07122e98a5d05eb18460711c2a488.png)
 
 @tab img-4
 
-![](./02-shiyanba.assets/image-20240615161909048.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/00/00f6b0f88d4cdccb62c92a692dae89b4516c9f0d52c2fe03de1f37dbe02a6905.png)
 
 :::
 
@@ -92,7 +92,7 @@ python程序设计
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -108,7 +108,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

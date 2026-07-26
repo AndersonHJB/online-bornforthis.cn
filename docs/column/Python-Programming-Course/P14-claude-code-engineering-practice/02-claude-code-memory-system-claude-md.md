@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](./02-claude-code-memory-system-claude-md.assets/3b015b8865d4e8a19ab3c82462ac58f3.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/35/35db986b0ff6254d8d36908eb11ee00d926e708465ca7a405738be425b89705c.png)
 
 你好，我是悦创。
 
@@ -54,7 +54,7 @@ Claude：好的，这是一个份根据你的项目制作的详细知识图谱PP
 
 我在刚刚开始使用 Claude Code 时，这种情况常见。对于小项目，我多说几次需求，倒也无所谓。但是时间长了，项目逐渐复杂的时候，如果每次新对话，Claude 都让我从零开始，如果它不记得你的项目用什么技术栈、什么代码风格、什么团队规范——那这种“失忆症”让人抓狂。
 
-![](./02-claude-code-memory-system-claude-md.assets/42e4743df41a306cc58379f5bd41bb6b.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e5/e56eca2c0039196e4582c19f37398803bf963604a3facdfeaff8522d36e6a195.jpg)
 
 **CLAUDE.md 就是治疗这种失忆症的药**。它是一份给 Claude 的“项目入职手册”——Claude 每次开始对话时，都会自动阅读这份手册，了解你的项目背景，明确它在干活时应该遵循的一系列底层规则。
 
@@ -64,13 +64,13 @@ Claude：好的，这是一个份根据你的项目制作的详细知识图谱PP
 
 当你在项目目录启动 Claude Code 时，发生的“记忆系统初始化”过程如下图所示。
 
-![](./02-claude-code-memory-system-claude-md.assets/d1a847a91839b94cdd4dc7aac5fdacc0.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/01/01fa91380cfff3347245165bc9aacd1c461d5739642421263e755d23ff354c44.jpg)
 
 这就像你给新员工一份入职手册，他读完之后就知道公司的规矩。不同的是，Claude 每次对话都会重新“入职”——所以这份手册必须简洁有效。
 
 Claude Code 有多种方式获取项目相关知识，它们的区别如下表所示：
 
-![](./02-claude-code-memory-system-claude-md.assets/2b3ab9a326f6816e32280d6d3801882a.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bb/bb699b1dd719de43ac8e901d33c687aa23c5a43d4c2480e87d8f8fed93c55a9c.jpg)
 
 这里的关键洞察是——**CLAUDE.md 的内容会**每次对话都加载，所以要精简。把“每次都需要”的内容放这里，把“偶尔需要”的内容放到 Skills 或文档里。
 
@@ -78,15 +78,15 @@ Claude Code 有多种方式获取项目相关知识，它们的区别如下表�
 
 Claude Code 支持五个层级的记忆，就像洋葱一样，从外到内，按层级结构组织——高层级的文件优先加载，为底层文件提供基础：
 
-![](./02-claude-code-memory-system-claude-md.assets/77cc990d2b8c5d906e82e9abd17c3835.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/65/65c7cc508950bb6e0d5e4d49319f627d7df515b92cd1ea5fe0ad4cfce9bf0df9.jpg)
 
 
 
 完整记忆类型表如下。
 
-![](./02-claude-code-memory-system-claude-md.assets/02bb1bd6ba02853c3f314f66d54f8155.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c0/c06be9851061d5ea812d6305b75813a5ca81714066f864153891229fc48cdb9d.jpg)
 
-![](./02-claude-code-memory-system-claude-md.assets/lllll.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e6/e6aa1ed96c5a7642c1ab255f9837be8c5af267404c12b141917467eead9295d8.png)
 
 下面分别对每一个级别给出 `CLAUDE.md` 的说明和示例。
 
@@ -520,7 +520,7 @@ expect(component.state.isLoading).toBe(false);
 
 可以问自己：哪些内容是每次对话都需要的？下面是对于项目整体的一个规划示例——目的是使 CLAUDE.md 保有一个简单而清晰的结构。
 
-![](./02-claude-code-memory-system-claude-md.assets/78b409e82f2626e31c205a9aea644c0c.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/ed90e26f2223912ab1ca73d481c18fa1655ce48293159611e87f97fb77c8cb04.jpg)
 
 #### 7.2.2 Step 2：拆分成独立文件
 
@@ -587,7 +587,7 @@ Claude：好的，我可以将这个信息添加到项目的 CLAUDE.md 中。
 
 当 Claude 响应明显变慢，经常出现上下文长度警告，而且 Claude“忘记”对话早期的内容时，可以采用 “`.md` 瘦身三步法”：精简 → 拆分 → 条件规则。
 
-![](./02-claude-code-memory-system-claude-md.assets/c81b252f29a7ef345eb0e99dd17ef3f7.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/31/3138f9c7cc78a72806f092955f58fffda05663d5b4ef2e5381d77614961cfa8d.jpg)
 
 
 
@@ -634,7 +634,7 @@ Claude：好的，我可以将这个信息添加到项目的 CLAUDE.md 中。
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -650,4 +650,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

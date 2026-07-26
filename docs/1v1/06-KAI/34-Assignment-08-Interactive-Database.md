@@ -75,7 +75,7 @@ Search Movies 这个按钮下实现了查找功能，可以实现标题查找和
 
 
 
-![webdev_database_movies](./34-Assignment-08-Interactive-Database.assets/webdev_database_movies-2153243.gif)
+![webdev_database_movies](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/7955f5b414f9753cf70cd48e78503c16961c58e20b945e68abdd8d96f61f7d2a.gif)
 
 
 
@@ -404,7 +404,7 @@ $all_movies = get_all_movies($db);
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -420,4 +420,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

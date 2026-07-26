@@ -25,7 +25,7 @@ Enter **Docling** — a cutting-edge, open-source Python library that transforms
 
 In this article, we’ll explore Docling’s features, installation, and use cases to help you leverage its capabilities for your projects.
 
-![](./10-docling-transform-any-document-into-llm-ready-data-in-just-a-few-lines-of-python-code.assets/1*rKjVpHCsc4ImC5VaeUwCpw.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f9/f9315e0a8ef0b16c4beb114620c620819100d54eef087340de56c28204f51405.png)
 
 ## Why Docling?
 
@@ -175,7 +175,7 @@ Let Docling handle the heavy lifting, so you can focus on building smarter, AI-p
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -191,7 +191,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://medium.com/coding-nexus/docling-transform-any-document-into-llm-ready-data-in-just-a-few-lines-of-python-code-c00528bd6403)
 

@@ -31,13 +31,13 @@ toc: true
 
 ::: details 长图
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-3.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1b/1b67e76ed9c3fa7bed47a48b5cfc9d24b39fced8b011e71335de1ef51dc1c512.jpg)
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-4.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c4/c411adc07273e14f7122fd3d2b03fe4337e45f318cddaff0c825d901656880fb.jpg)
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-1.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7b/7b322f2077bd0fa93e3eb8a2d8ff191f0238bcbdc53fc586dd7371d3bd0fbe95.jpg)
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-2-20221215130351390.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/519df6d776c5243637fcaf8790878eeb3091c25440459a05ab8db802f0a19f36.jpg)
 
 :::
 
@@ -59,13 +59,13 @@ PS：A mood board is a type of visual presentation or a collage consisting of im
 
 ::: details 长图
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-20.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b4/b4f275300d33cfc3d3e4e17cff8b240c72f03ef559d84145c907b90f5d64e904.jpg)
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-6.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/65/659a15f6d53c798704dbaf27d325c0b39d64ca39a4014dea5cfaac4ad3d58d4f.jpg)
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-7.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/44/4409ef563b37270d850765da0ec899590dcdc532ac2c653f8000c23ec9afa013.jpg)
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-8.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/39/391edcff6adf0b13d7e86985e170e30329065eb59d098cdb81f73ab03eaf9b91.jpg)
 
 :::
 
@@ -73,9 +73,9 @@ PS：A mood board is a type of visual presentation or a collage consisting of im
 
 ::: details 长图
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-9.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5f9cf1806b1f22f09d9a1a3202c6585f48ce9657b6282e1fc974595d73e2ed59.jpg)
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-10.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/758f782299181477369257c426c18745a66d305609abbc983a1628261f120c11.jpg)
 
 :::
 
@@ -85,23 +85,23 @@ PS：A mood board is a type of visual presentation or a collage consisting of im
 
 ::: details 长图
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-11.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/68/6800fc3b28c7fc8093a8802bfea1e734b57cfb2dfb738dbdfb9e9a38171f3f86.jpg)
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-12.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1a/1add382d326048b40d914d59b8ff2b1138b0139c3867601a66c2751383cc2c08.jpg)
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-13.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0d/0d6787407665e1ed71e7e6818b6fadf5786e749de0072eadd4e6f864dab64cbb.jpg)
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-14.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/14/14b8e5ef336ee54f50d8169f853c1b7bff89da2f822f5d1cb093611e89553d5b.jpg)
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-14-20221215130742411.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/14/14b8e5ef336ee54f50d8169f853c1b7bff89da2f822f5d1cb093611e89553d5b.jpg)
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-15.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/74882a695a4d8676279d51ff009b8d58d0f3b8d050bab79c6714e2964e9bf594.jpg)
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-16.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b2/b220a4e28f4a65f18a10f194d7cc6da4a521e0b441a32fbefb6365c9afebfdd5.jpg)
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-17.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/00/00f23ad224f091940931e20b04f91dc06e48682a3c7ea7b141ad3334d43fc15c.jpg)
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-18.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/81/81e498c724f1cc0471cda9f05541c5c455de787539e0624c153642752e2f38bc.jpg)
 
 :::
 
@@ -117,7 +117,7 @@ PS：A mood board is a type of visual presentation or a collage consisting of im
 
 ::: details 长图
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-5.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0b/0bfec5394de0994bca41eb11ac93e42c2cf4401cb98a7ffe728dcceccf304c80.jpg)
 
 :::
 
@@ -127,7 +127,7 @@ PS：A mood board is a type of visual presentation or a collage consisting of im
 
 ::: details 长图
 
-![大厂都在用的情绪板，到底是什么？](./03-mood-board.assets/uisdc-dh-20200604-21.jpg)
+![大厂都在用的情绪板，到底是什么？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fd/fda4cad41d7f51e82cc0a527c78cb8cd4c53d32790312d1697c25379e386d30f.jpg)
 
 :::
 
@@ -139,7 +139,7 @@ PS：A mood board is a type of visual presentation or a collage consisting of im
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -155,4 +155,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

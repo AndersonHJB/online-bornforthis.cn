@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](./03-OpenClaw-step-up.assets/色色色色色色色色.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9c/9cab29c4a34db7629e82e67cb26af675517d02b3f25a7bc3193b3e3645148652.png)
 
 ::: tip ChangeLog
 
@@ -44,7 +44,7 @@ toc: true
 
 :::
 
-![欢迎赞助·服务器费用时不时欠费停机～](./03-OpenClaw-step-up.assets/money.png)
+![欢迎赞助·服务器费用时不时欠费停机～](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5fa847423f8ea5b09c3b90c14825228367fed37d0c3b33ec6873c2cb85ae20e3.png)
 
 - Mac 部署视频教程：[https://www.bilibili.com/video/BV1pbcCzjEsk](https://www.bilibili.com/video/BV1pbcCzjEsk)
 
@@ -71,7 +71,7 @@ toc: true
 - **基础安装**：500¥，包含：OpenClaw 基础安装➕对接智谱大模型➕对接 Telegram 或 Whatsapp、飞书；
 - **彻底卸载**：200¥，OpenClaw 相关彻底卸载；
 
-![](./03-OpenClaw-step-up.assets/Gemini_Generated_Image_205bxz205bxz205b.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/60/6079f52e864ccadfef773a7b00f09ac3e197e719f51b237ebbe544e7aa31543e.png)
 
 :::
 
@@ -81,9 +81,9 @@ toc: true
 
 ::: details 聊天记录
 
-![](./03-OpenClaw-step-up.assets/image-20260321224015172.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2a/2af74dcb8dd0358bd94cc97ff33b152358568c354d10349f57cfbb0062035860.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260321224036879.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6e3a73b5ff423bf064ca4be6185674e3d3167446921d708eb9dd6d6e4f0c1d18.png)
 
 :::
 
@@ -129,7 +129,7 @@ toc: true
 
 **个人建议**：各大厂商都为了拉人，现在才便宜，只有到你们离不开他们才是他们割韭菜的开始！所以，最好自己安装！！！
 
-![](./03-OpenClaw-step-up.assets/image-20260321225001130.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/29/291b4b513376d37fdb361dbf62771edf6d395aba17dac521835e81087bcd5f45.png)
 
 ::: details 右侧有大纲
 
@@ -153,7 +153,7 @@ toc: true
     - **方法一：程序坞 > 启动台 > 其他 > 终端**；
     - **方法二：打开程序坞搜索“终端”**；
 
-    ![](./03-OpenClaw-step-up.assets/image.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/95/950b5ea5cbd9a758e751e95bae18062431d0d9b839c38c2eba2e0a693d3f5717.png)
 
 - **如何使用终端**：打开“**终端**” > 输入指令 > 点击“**回车**”确认；
 
@@ -169,13 +169,13 @@ xcode-select --install
 
 输入之后：
 
-![](./03-OpenClaw-step-up.assets/image-20260308163430827.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/26/26be4a4dc9a53613071bb2eebf6cdd09e7e653a3e50cda2f6818fe5f8d1e7609.png)
 
-![image-20260308163538905](./03-OpenClaw-step-up.assets/image-20260308163538905.png)
+![image-20260308163538905](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1a/1a4c0d915702887684fb2196f9225591e3e05678b7d9761c45c4491903310c7d.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260308163647750.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77047e173d1048fe264fb264df751babe0e3259db8f3ed84c849010f2f892cca.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260308164757902.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a1/a17c87b73aadb2dac0a0c2e59ee223e282d61e976821274b4bc4bb7cb34742ce.png)
 
 这样就成功安装了必备的一些开发工具，以及后续安装会使用到软件。
 
@@ -203,27 +203,27 @@ xcode-select --install
 
 :::
 
-![](./03-OpenClaw-step-up.assets/image-20260308165230461.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f2/f2adafb52fb203c67d65fa1b3a448b595913d97540e3a98883eee7293e037adf.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260308165348541.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8d/8dc01e40c37a93dca27e5a5b0684660e5545724896cf73ec11ca9df860ecc89e.png)
 
 密码输入完成后，按回车（Enter）。
 
-![](./03-OpenClaw-step-up.assets/image-20260308165647034.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/37/376bc20c4d64dc4fdb8b534c4ca7792062f88ef7ad211811a7d57331902e51ea.png)
 
 安装成功如下图：
 
-![](./03-OpenClaw-step-up.assets/image-20260308200154474.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/740318522ae90eab97e5787f2a0b0f44a88b80928eb783f0b87a187eb5e1e5c8.png)
 
 出现上图，则表明安装成功。如果安装成功且出现上图中的提示，则需要复制执行。（也就是，一行一行复制。如何一行一行命令行执行）
 
 **注意**：没提示，则不用执行。
 
-![](./03-OpenClaw-step-up.assets/image-20260308200415734.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/db/db5f34e212fe716a4bb5e5ff86255ff613ed3bf32e93408e273bde27ea551585.png)
 
 **必须操作**：关闭所有终端，重启开启终端，我们安装的 brew 才会生效。
 
-![](./03-OpenClaw-step-up.assets/image-20260308200750039.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7d/7d93199796078ef7090eb4f136f6927eacff8fda90151a0b5b0da2a2bb50800f.png)
 
 **如果安装失败，或者安装过久。进行下一步安装，之后再尝试。**
 
@@ -240,19 +240,19 @@ xcode-select --install
 - 转发朋友圈或 300+ 人群中进行推荐；
 - **注意**：不定期福利，不要被拉黑名单！只提供福利，不提供🪜的任何答疑与收费！
 
-![](./03-OpenClaw-step-up.assets/image-20260308174702250.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f2/f2194032319ce8fc5f0f273a49a43b2790e8e434e942aa928b5ed39f06272ad7.png)
 
 - Mac 系统只需要双击，即可解压。
 
 - 随后，直接拖拽到【应用程序】：
 
-    ![](./03-OpenClaw-step-up.assets/image-20260308172944986.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2f/2f42603c3f20db60dfaa2fb74bdd13be4dba17aa938d176ec506bcc805dcae47.png)
 
 - 运行 SwitchHosts，新建：
 
-    ![](./03-OpenClaw-step-up.assets/image-20260308173130282.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a8/a8d5bd7c9808f974e09c3add47cd7494424bb8a783699f330a74d1504e308994.png)
 
-    ![](./03-OpenClaw-step-up.assets/image-20260308173431440.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c3/c3911df7512041715843b467843b5b403f4fb2312bd2c6647d3a44b7f608237a.png)
 
 :::
 
@@ -264,13 +264,13 @@ AI悦创的粉丝，享有安装网络辅助福利（**免费**的订阅链接 3
 
 梯子正常使用后，再尝试安装 homebrew。代理记得安装 Tun 模式并开启：
 
-![](./03-OpenClaw-step-up.assets/image-20260308204253362.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d8/d85ccb3b50eec43fd6e6f8ea05bfbadad232cdffa56cd548079c08516ab2ece8.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260308204357758.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8d/8d0cd90e937eae0e9fe7c005baa321f93f994155a26086ae9dcdc3a26c39dd79.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260308205204869.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e4f270f0f025806a729cd1f93f64565a4e4eb430767730ab2fc8ccebb8945595.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260308205359323.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/60/60990043f3bf01ffe6a9a6aea7c273d653cfde70e6c887c83b034250ab76f5d9.png)
 
 接下来，重新输入安装命令测试：
 
@@ -300,7 +300,7 @@ AI悦创的粉丝，享有安装网络辅助福利（**免费**的订阅链接 3
 
 进一步验证 brew 安装是否成功，再打开一个全新的终端，输入 brew 回车验证：
 
-![](./03-OpenClaw-step-up.assets/image-20260308201042827.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/49/49f8ea85ed152df0b89f49ede61c25fc27e5003897ef7f69a9864be8d2755227.png)
 
 出现图片中的内容，表明安装成功。
 
@@ -312,11 +312,11 @@ AI悦创的粉丝，享有安装网络辅助福利（**免费**的订阅链接 3
 brew install node
 ```
 
-![](./03-OpenClaw-step-up.assets/image-20260308204049516.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/08/0812dfc0fb7c4aed25e8b251293226d02852600caf504d08dfaed42207fa1b67.png)
 
 如下图片，则表明安装成功：
 
-![](./03-OpenClaw-step-up.assets/image-20260308205702299.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ef/ef61b21e75cb060412c5c8fb5adfdd156edf889c50630434eea68f70824a7e26.png)
 
 ### 1.4 安装 git/改进终端
 
@@ -340,11 +340,11 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 
 **网址**：[https://openclaw.ai](https://openclaw.ai)
 
-![](./03-OpenClaw-step-up.assets/image-20260308214638651.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f3/f3b1c476c137691055136a70345d2e0383edb1bec60577ede52acf63fe7a5dfd.png)
 
 #### 1.5.2 向下滑找到“Quick Start”（快速开始），获取安装指令
 
-![](./03-OpenClaw-step-up.assets/image-20260308215605500.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ee/eea392a7717babd8d63dc69b7e482e25edb0b43cb400e3fb54a5ddac000e3a6b.png)
 
 #### 1.5.3 「方法一」打开“终端”输入这段指令
 
@@ -360,17 +360,17 @@ curl -fsSL https://openclaw.ai/install.sh | bash
 ulimit -f unlimited
 ```
 
-![](./03-OpenClaw-step-up.assets/e1d5ca796fb206781242520f56800dd2.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/ed5c9c93c9adad37d3290c3a13931d31eeb944162015a02b977a9655a3e78cc7.jpg)
 
 :::
 
 正式执行命令之前，可以考虑代理开启 TUN 模式，并进行测速选择延迟较低的节点：
 
-![](./03-OpenClaw-step-up.assets/image-20260308222842769.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/93920e7bb7203cb718935fc9313987f61576efc4d7b5560b17a8e5ee548f10b1.png)
 
 正式执行命令：
 
-![](./03-OpenClaw-step-up.assets/image-20260308221938245.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b6f572d0510dfd7a34420721259737c09fc43cec51558fae3cbb65a0685ff4a7.png)
 
 如果安装成功则没事，如果没有安装成功需要把 npm 进行换源尝试，使用如下命令进行换源：
 
@@ -386,9 +386,9 @@ npm config set registry https://registry.npmmirror.com/
 
 下面的内容就是：网络失败正在重试的信息。
 
-![](./03-OpenClaw-step-up.assets/image-20260308222541763.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/92/92912f9ce414a4b269e4914942f1f2c0a6e142fdf9610ded594fb30735476e86.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260308223057015.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/1573255a579ed52905d05d5dd73301caf37d5b2a954755eec18b5630f9432d6b.png)
 
 下载成功后，会自动进入配置流程。
 
@@ -402,7 +402,7 @@ npm config set registry https://registry.npmmirror.com/
 
 2.  ❌ 如果出现了**“error”**这类报错，则输入下面这段指令（作用是强制执行安装指令）
 
-    ![❌ 安装出现错误](./03-OpenClaw-step-up.assets/image-2980376.png)
+    ![❌ 安装出现错误](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b69a5b2f67a560de45f5e0ea54fc912400702cc8f58e8476c615c19f21703e41.png)
 
     ```bash
     sudo npm i -g openclaw
@@ -410,7 +410,7 @@ npm config set registry https://registry.npmmirror.com/
 
     需要输入密码，**当前指令输入密码时屏幕不会有任何显示**，这是正常的安全保护，请直接盲打完密码后按回车键。
 
-    ![✅ 安装成功](./03-OpenClaw-step-up.assets/11111.png)
+    ![✅ 安装成功](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cb691cc52af93e23971e106047995c78cac6c6d5e6d2297675bf785d354cc77e.png)
 
 3. **如何验证安装是否成功？**
 
@@ -420,7 +420,7 @@ npm config set registry https://registry.npmmirror.com/
     openclaw --version
     ```
 
-    ![](./03-OpenClaw-step-up.assets/image-20260308223733876.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/933e5baac7af86e8fa0ed93603e94bfdb93cb7b8c2c0f739bb922afb0e2361e3.png)
 
 4. 方法二不会自动进入 OpenClaw 的配置流程，需要如下命令激活：
 
@@ -440,7 +440,7 @@ npm config set registry https://registry.npmmirror.com/
 
 - 邀请海报：
 
-    ![](./03-OpenClaw-step-up.assets/BigmodelPoster.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/21/211b317222e7f97b349fc1443757907ca164adc0f32de7a6758204f115e23b0e.png)
 
 注册需要实名认证等，自己按官方提示操作即可。
 
@@ -448,19 +448,19 @@ npm config set registry https://registry.npmmirror.com/
 
 **第一步：进入控制台**
 
-![](./03-OpenClaw-step-up.assets/image-20260308225901159.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6d/6d6ca16a000647272f25c49f88cbdd55c61847572d7d32c8516bd2b15b8ab03d.png)
 
 **第二步：点击 API Key**
 
-![](./03-OpenClaw-step-up.assets/image-20260308230008761.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9f/9fc3d40da35fa49c6208ee5ad1c9db962ea24f67d33d6ca4f0b0a60b853bd309.png)
 
 **第三步：创建新的 API Key**
 
-![](./03-OpenClaw-step-up.assets/image-20260308230142495.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/db/dba6ace4c7318b29f8bfb7dba5285a5450d1b20ed342e736e80225440addacb4.png)
 
 **第四步：设置新 API Key 的名称**
 
-![](./03-OpenClaw-step-up.assets/image-20260308230337285.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/56/56533fe6e1b94455d4b34e1061cd34142297fe51e12504749dc43876ca4bef78.png)
 
 
 
@@ -470,21 +470,21 @@ npm config set registry https://registry.npmmirror.com/
 
 **第一步：点击财务**
 
-![](./03-OpenClaw-step-up.assets/image-20260308230900121.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/57/573f4a5a7d41697a3994cf45717349a1d142db6f87be72c77b946c4bd5ffb03d.png)
 
 **第二步：点击【资源包管理】**
 
-![](./03-OpenClaw-step-up.assets/image-20260308230939173.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/37/3797c0eec78e4692e89844b1a754bb838cf99d0ba2176601038369bce6017a1a.png)
 
 **第三步：点击【我的资源包】**
 
-![](./03-OpenClaw-step-up.assets/image-20260308231030529.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f4/f4f0cfbe067e3e9ff33fefec8ebfe1eaf7608fba66ad2ee859c0fd089a0682bc.png)
 
 **第三步：鼠标悬停查看**
 
 这里目前支持的是 `GLM-4.5-Air` 模型。
 
-![](./03-OpenClaw-step-up.assets/image-20260308231249986.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/32/3201276edb6b0653d187de5f89033bba94a180977985c1a0667060bb91307032.png)
 
 #### 1.6.4 目前所掌握的数据
 
@@ -493,37 +493,37 @@ npm config set registry https://registry.npmmirror.com/
 
 #### 1.6.5 选择 Yes
 
-![](./03-OpenClaw-step-up.assets/image-20260308224547566.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cd/cd006374343c584603fba9fc0358353b5b474c80aedeb4ec4f6494046d1438a1.png)
 
 #### 1.6.6 选择：QuickStart
 
-![](./03-OpenClaw-step-up.assets/image-20260308224803645.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/89/89a2f905bdc2c85aa4b84a2ac3e3b0d741ef4f8871b7f9196c16c6a43083d910.png)
 
 #### 1.6.7 选择智谱 AI
 
-![](./03-OpenClaw-step-up.assets/image-20260308224958630.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0b/0bda2c62b4e20c0c506dc939b1943eb4e152c6093445c010cfdf323d0eb07e11.png)
 
 #### 1.6.8 选择【CN】
 
-![](./03-OpenClaw-step-up.assets/image-20260308231621418.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f1/f16ddffaa10f9e3ac3ae6ab1e806191bd0a731e52d3c068f05e92ced5ed1ebc6.png)
 
 #### 1.6.9 粘贴 API Key
 
-![](./03-OpenClaw-step-up.assets/image-20260308231743737.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f2/f275c636775c460c0c81b4304ccdf3b4e330368ae6f7e5232377ab45b871ffe6.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260308231936748.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4a/4a41250aeee9f5497fd350345128e49dd539ef2d83b1179969f382e16a076ea1.png)
 
 #### 1.6.10 选择大模型
 
 前面已经验证过了，直接选择 `glm-4.5-air`：
 
-![](./03-OpenClaw-step-up.assets/image-20260308232050838.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/51be11f6efe815c76473bd001d9bd798754339f7049cd71869aa0b1bf762cf42.png)
 
 #### 1.6.11 选择配置通讯工具
 
 **本次，我们选择跳过！**
 
-![](./03-OpenClaw-step-up.assets/image-20260308233149745.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5e/5e770b8d145e922f5889355cf1705d835b97456d6aecabb777b58409dd8d93ce.png)
 
 - **Telegram**：
 
@@ -531,7 +531,7 @@ npm config set registry https://registry.npmmirror.com/
 
     - 创建机器人：[https://t.me/BotFather](https://t.me/BotFather)；
 
-        ![](./03-OpenClaw-step-up.assets/image-20260308232839169.png)
+        ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bf/bff0f1ea582527d7a8ea5b83feb78cff60b1b9fcf63ea37c61b3caf3e36136ef.png)
 
     - 后续再补充，主要是飞书！
 
@@ -559,21 +559,21 @@ npm config set registry https://registry.npmmirror.com/
 
 本次，选择跳过：
 
-![](./03-OpenClaw-step-up.assets/image-20260308235102495.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/69/69f7fd4f5d634e6aa57162fb2f7bec4f5ccc3ee12cb7f2c2bf0ca5ed854bd98d.png)
 
 #### 1.6.13 安装 Skills
 
-![](./03-OpenClaw-step-up.assets/image-20260308235213114.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5d/5dd399d5367c379a9f2f282c1ea135267cf3e52f8387c2e268edf3ec2586ee29.png)
 
 
 
-![](./03-OpenClaw-step-up.assets/image-20260308235415457.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/41/41537884b6c56d0b2e20a1debe34030a2a9eec3aacad480fe76c188bbfed75f4.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260308235458687.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d1/d15c045eb9712e82cc28088a9d78c86858db8c0f38417cf16f1184c99e237537.png)
 
 等待下载完成即可：
 
-![](./03-OpenClaw-step-up.assets/image-20260309000037845.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0b/0b5786a1d70eea630bfbf2f0c98be76b26c9c9c40a9ceeb66818932333058c28.png)
 
 #### 1.6.14 补充说明
 
@@ -583,7 +583,7 @@ npm config set registry https://registry.npmmirror.com/
 
 上面下载 Skills 时，遇到了一个报错。这个报错不是网络下载错误❌，而是 Mac Intel 芯片不支持，仅限支持 Apple M 芯片。报错截图如下：
 
-![](./03-OpenClaw-step-up.assets/image-20260309075550751.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c3/c387dc59fb0cad955f51c21fa22cb5b7fd157e1a172e5fce71609208baf3e4d5.png)
 
 换句话说就是：**OpenClaw 在安装 camsnap 组件时失败，因为你的系统架构不符合要求。**
 
@@ -601,31 +601,31 @@ camsnap 是 OpenClaw 的 **技能（skill）组件**之一，用于：📷 **摄
 
 summarize 是 OpenClaw 的一个 **技能（Skill）**，作用是：总结网页、总结文档、总结聊天记录、总结文章。
 
-![](./03-OpenClaw-step-up.assets/image-20260309082326111.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2f/2f7ee83164fa307556b2c791a2a276b6269cb3c2256c12a89ef4729747c20830.png)
 
 #### 1.6.15 剩余流程
 
 全部选择 No 即可，后续需要再配置。
 
-![](./03-OpenClaw-step-up.assets/image-20260309083005252.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ec/ec2172bc1ccf8e0bf607dfe05794039e5935df9631a21fdbbdcfb83dfc86dd37.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309083434569.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2f/2f9d662ec40000e86240dc706b842771eb738988dca46edeaea65a94fa596bc3.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309083854952.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d9/d965184796a600ca03d833487e68bc0941d6f85baea61ca126e92ec513d860b8.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309093541731.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bf/bf6da810cbe17e77ebb42f319e61aa08ecd8ef0f24f576c9665bcf59dcfcfa79.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309093721321.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/50/5009e5474df465cee81067b02e0037f0e7bbd6f461b183448d096e090bc1a854.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309093829511.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/12/12effbb5060924289c1de92d40904fb6d18f9907adbb25a7b62faed3d5ffdb03.png)
 
 启动成功后，会自动打开浏览器：
 
-![](./03-OpenClaw-step-up.assets/image-20260309093930683.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7c/7ccc7d0a3ad9534bb08ecd95a0f3a8d7f76028ed16620567ea01978b06f1af68.png)
 
 #### 1.6.16 体验 OpenClaw 对话
 
-![](./03-OpenClaw-step-up.assets/image-20260309094503564.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/18/186e3483e4687deb3830d689b5613dea1af2483b963973af8fc7599b5c416ac3.png)
 
 
 
@@ -647,13 +647,13 @@ summarize 是 OpenClaw 的一个 **技能（Skill）**，作用是：总结网�
 
 访问飞书开放平台地址 [https://open.feishu.cn](https://open.feishu.cn)，并点击【开发者后台】。
 
-![](./03-OpenClaw-step-up.assets/image-20260309095400252.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f9/f9a50e62bd0737952ad4856a3ea3f1b8c1d113f7a4ef8bfc117f998637100a54.png)
 
 
 
 #### 1.7.2 第二步：点击【创建企业自建应用】
 
-![](./03-OpenClaw-step-up.assets/image-20260309095739903.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d46567f4b2d03547bb64865f7fe33ab5e6941deecfc493822f1570750c2b2d6f.png)
 
 #### 1.7.3 第三步：配置机器人信息
 
@@ -665,17 +665,17 @@ summarize 是 OpenClaw 的一个 **技能（Skill）**，作用是：总结网�
 | 应用描述 | （内容随便写）                 | 简单描述用途 |
 | 应用图标 | 可以暂时不传                   |              |
 
-![](./03-OpenClaw-step-up.assets/image-20260309100052985.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2a/2aa5cfa8a278fb7c6924a29c73d206111b103f0018a67871d7df0c7c579f8316.png)
 
 #### 1.7.4 第四步：点击【添加】机器人能力
 
 在能力列表中，找到 **“机器人”** 能力卡片，点击卡片上的 **“添加”** 按钮。
 
-![](./03-OpenClaw-step-up.assets/image-20260309100628938.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bd/bd1601c54e73e830040c3d8aa3f5e0981148a48c9822fd036e903c0669fbbc8c.png)
 
 #### 1.7.5 第五步：点击【权限管理】
 
-![](./03-OpenClaw-step-up.assets/image-20260309100812708.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0c/0c8f97e799de14e7eed5b88b8c5332cda3ffd734da138889eef7dd8eb9db3e16.png)
 
 #### 1.7.6 第六步：点击【批量导入/导出权限】（最关键步骤）
 
@@ -683,7 +683,7 @@ summarize 是 OpenClaw 的一个 **技能（Skill）**，作用是：总结网�
 
 在应用详情页左侧目录树，找到 **权限管理  > 批量导入 / 导出权限**。
 
-![](./03-OpenClaw-step-up.assets/image-20260309101005438.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6e62a7f33aa3ea1f98669f8e7fb16ba841a583d639f16845d6cff80779e9e228.png)
 
 #### 1.7.7 第七步：导入我们需要开通的权限。
 
@@ -788,49 +788,49 @@ summarize 是 OpenClaw 的一个 **技能（Skill）**，作用是：总结网�
 }
 ```
 
-![](./03-OpenClaw-step-up.assets/image-20260309101423756.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/aa/aa212f1542ccb78a1e6ea80b248ad20840e56a7007b2b804f4f5dbca9190f0a3.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309101620510.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0b/0bba6e6cd06eb3a19c72f7da242a18a016688899e0ea70124be731c198340e0c.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309101806798.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a4ebceba5b42e7328be8590a3abb5564bcdaa0a0cac3bf27dba8920f4cad7c99.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309102136642.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4e/4e43eedfd3c53f9db20fc61907ff60bf77b7fa0e70b5924b6565145b176c5350.png)
 
 等待几秒钟，页面会显示权限已添加。
 
 #### 1.7.8 第八步：点击【创建版本】
 
-![](./03-OpenClaw-step-up.assets/image-20260309102438933.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/40/405fd6967f07257b512af60f5ab4f77e25e535cac7e6056ab6dd851c32a63fcd.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309103126854.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b8/b817f18829e8c22e9e17c0aaaa2ffad29b3734ec45cac0acd4bece552031cbcd.png)
 
 滑动到最底部，点击【保存】：
 
-![](./03-OpenClaw-step-up.assets/image-20260309103235193.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/16b97b8387750cfc0a5ffea1d0b277dd052a3bd69e4c0c23fb0312e5e7b039a9.png)
 
 #### 1.7.9 第九步：申请线上发布
 
-![](./03-OpenClaw-step-up.assets/image-20260309103334345.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/20/20f0580dda7155f37e7a6474702673726f833ed3279bd2ceaaaf6c9ea382b820.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309103445410.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/42/42b7bb0fc3a82be4fe2d3c29f5959fb8c067911a87707588c4ebb4fcb45ec763.png)
 
 
 
 #### 1.7.10 第十步：来到飞书客户端进行审批
 
-![](./03-OpenClaw-step-up.assets/image-20260309103735053.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a3/a37c183c95e9afb07ebc6dbce1ce2476f07398b6e197ab697178183847f81795.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309103851398.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8c/8c926be16f004d2efbaccbda829da85108b940cd19616213b61e22ff38652079.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309103925961.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/67/6737e8355d24e8c3ce0d1dd63e32dcd22b1ac1f989d7a316ebe1196269870882.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309103947568.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/5191e12eb444c57f20e6dba939a3128f4ea65e3238352ed423cb00b68bc34efd.png)
 
 #### 1.7.11 第十一步：获取应用凭证（⚠️ 请对自己的这两个信息严格保密！)
 
 刷新刚刚的申请页面，就会看见审核通过：
 
-![](./03-OpenClaw-step-up.assets/image-20260309104449524.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/66/66c1bc40985ca4a3d82c4b2e8e004b88ba770e4eea1735b0ca2b81fa3565ecbc.png)
 
 
 
@@ -843,7 +843,7 @@ summarize 是 OpenClaw 的一个 **技能（Skill）**，作用是：总结网�
 | **App ID**     | 格式如 `cli_xxxxxxxxxxxx` | 飞书应用唯一标识       |
 | **App Secret** | 一串长字符串              | 应用安全密钥，不可泄露 |
 
-![](./03-OpenClaw-step-up.assets/image-20260309105258419.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a5/a57fd8cca9aec81ac399c1a8e3631d0552595644c6d662baf917b4c9947be9ff.png)
 
 ### 1.8 安装飞书官方插件&配置
 
@@ -893,7 +893,7 @@ summarize 是 OpenClaw 的一个 **技能（Skill）**，作用是：总结网�
     rm /tmp/feishu-openclaw-plugin-onboard-cli.tgz
     ```
 
-    ![](./03-OpenClaw-step-up.assets/image-20260309111758663.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4d/4d710dcc6a6f357b00a17d399b1a6f4c6c8f680ecc6108abdb8b4937c52409e5.png)
 
     
 
@@ -909,7 +909,7 @@ feishu-plugin-onboard install
 
 > ⚠️ 安装飞书插件时如果看到 “dangerous code patterns” 警告不用担心，这是 OpenClaw 的安全扫描提示，因为插件需要读取环境变量并调用飞书 API 才能工作，只要插件来源官方即可正常使用。
 
-![](./03-OpenClaw-step-up.assets/image-20260309112453197.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/62/62e672f2e88abf2754ff0e8e2bd126a57644b844f360e3e1b05cac83f9e851ec.png)
 
 #### 1.8.3 在这一步遇到使用问题怎么办？
 
@@ -921,7 +921,7 @@ feishu-plugin-onboard doctor
 
 可以查看问题，自主修复：
 
-![](./03-OpenClaw-step-up.assets/image-3026754.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0a/0a06dadccfed162b10462a0e79a1555b676c3c76183565aaab655a0c4d4d2ce9.png)
 
 运行 fix 尝试自动修复，出现“`All checks passed`”则可进入下一步，**如果输入一次不行就输入两次**！
 
@@ -929,7 +929,7 @@ feishu-plugin-onboard doctor
 feishu-plugin-onboard doctor --fix
 ```
 
-![](./03-OpenClaw-step-up.assets/sssssss.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/69/693df3816e1d51d1eca4601ce835b3373a04a4a65b1b86f20484b0f041a7a60b.png)
 
 #### 1.8.4 配置完成后复制以下指令启动 OpenClaw
 
@@ -939,7 +939,7 @@ openclaw gateway run --allow-unconfigured
 
 **⚠️ 注意：该指令运行开始后，**该终端页面不可关闭！后续所有指令都**需新建终端页面**进行运行（快捷方式：command T 创建新的终端窗口）
 
-![](./03-OpenClaw-step-up.assets/image-20260309113236497.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7b/7b518926a174bc5e280c6faf33b688c5cbdfc2e5b9f12fa7947b0222e3f339ef.png)
 
 重启命令如下：
 
@@ -958,11 +958,11 @@ openclaw gateway stop
 openclaw gateway run
 ```
 
-![](./03-OpenClaw-step-up.assets/image-20260309113555990.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a2/a26041d02b39b3abfee13683f007e114cc0ee8de236e43c6be4fbd9a961243ce.png)
 
 运行上述代码后，如果出现下面这段说明插件已经开始运行，启动成功：
 
-![](./03-OpenClaw-step-up.assets/image-20260309113708735.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/17a1a947b1f71b96781a6fff5650a6ac4f5d7719323e09cfc993409220498ea7.png)
 
 ##### 1.8.5.2 方法二
 
@@ -974,7 +974,7 @@ openclaw plugins list
 
  **ID** 为 **feishu-openclaw-plugin** 的 Status 为 “`loaded`” ，**ID** 为 **feishu** 的 Status 为 “`disabled`” 则标明已成功启用飞书官方插件：
 
-![](./03-OpenClaw-step-up.assets/33.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/73/73ff7fc3453505c6d0139c735e90d288dddf9276f1bdd9fb93c4f3cd317611db.png)
 
 
 
@@ -988,41 +988,41 @@ openclaw plugins list
 
 进入：**事件配置** > **订阅方式** > **使用长链接接受事件** > **保存**
 
-![](./03-OpenClaw-step-up.assets/image-20260309115814168.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/da/daf7b4a47d54638e134a27d0732c6be9e496b28d9ea99a0020de7bf7893476a2.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309115931690.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4d/4d02557da459f4fc639ff6e45e1a6e54e86cb9e1422c4b4a0d4f44b9c647bbaf.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309120052961.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4b/4b2a7d369691adcd0873ba3e14d25af2a95981418a5e6e5a43d6e9841b4b5292.png)
 
 如果你出现如下提示：
 
-![](./03-OpenClaw-step-up.assets/image-20260309120752264.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/169d3ac86db685d034d9fb4910348c4691282de1c6e46aeabc79a46a12f14f84.png)
 
 保存成功如下：
 
-![](./03-OpenClaw-step-up.assets/image-20260309121019975.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/da/da4b623ca556ebb0207c765f35a2140651ac6b1a7c7a257a33416ab5079379c2.png)
 
 输入：接收消息，进行添加。
 
-![](./03-OpenClaw-step-up.assets/image-20260309121225669.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1a/1a49eb8963f09db711334763dc9fc02c618caff79d96d3fb1010438755f636b5.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309121503577.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ee/eead380a1763d930ebb44e7c9ab72ded0ff0faa944dd1cc25cf92eff5581e31a.png)
 
 #### 1.9.2 回调配置
 
 进入**“回调配置”**，搜索并添加**“卡片回传交互”**，点击“**确认添加**”：
 
-![](./03-OpenClaw-step-up.assets/image-20260309122222006.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e7/e7521e7e4f4510e5dd36eaa9d6435a39f970141bb5e0fec710614e70c15ef1d6.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309122317305.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5c/5c58f345c6c3d5b1be6be3ba289fd5cda86b8a8bd5c135a8647996d16fcc6815.png)
 
 点击【添加回调】：
 
-![](./03-OpenClaw-step-up.assets/image-20260309122402722.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7f/7f39c97f3591e00cdbd583ae6f66191c49569cd69bee9be8aa772664b7e7ae7c.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309122453837.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c2/c27efcca5dd37099b811fd1644bedba5d0c8214ef0874e531ae58a666f1ecf66.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309122508941.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/92/923423c41a55589fb95f0ecaa83d98f85413d9e21bb96b2d5e6904ffa241cdf7.png)
 
 :::
 
@@ -1032,28 +1032,28 @@ openclaw plugins list
 
 应用必须发布后，才能在飞书中使用！
 
-![](./03-OpenClaw-step-up.assets/image-20260309122604044.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/93981a82413028e5390c573ad782b0aec998fd168d361b14acffdb95a74fd088.png)
 
 在弹出的窗口中：
 
 1. 填写版本号（如：`1.0.1`）
 2. 填写版本描述（如：首次发布，实现卡片回复！）
 
-![](./03-OpenClaw-step-up.assets/image-20260309122737927.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f5c903475ad8a47a942d72dcd37716e23ffe97b376c2e5f3718a2fdd17691c29.png)
 
 滑动至底部，点击【保存】：
 
-![](./03-OpenClaw-step-up.assets/image-20260309122810807.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/62/6223c640769ef1ce2180ceae9b2dc265de1d9d650b7543db5198e0ef7e85db46.png)
 
 点击发布：
 
-![](./03-OpenClaw-step-up.assets/image-20260309122824870.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/39/39d534f6adf4a5a5029e8bfca3c346bc14a3de56b1adeabd1924dddf8105fe7d.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309122847299.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/fa4cc4c34e8dc946229a7dae86c4799c58f276d4958119b89e961260639b49fe.png)
 
 进行管理员审批：
 
-![自动审批通过](./03-OpenClaw-step-up.assets/image-20260309122927478.png)
+![自动审批通过](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7f/7f04e1f16f832920df1dd1a84b39fbfc5c830ffde7b044b250e2967fcf34802f.png)
 
 ## 🎉 到这里恭喜你已经离成功只差一步之遥了！
 
@@ -1063,15 +1063,15 @@ openclaw plugins list
 
 - **方法一**：直接打开
 
-    ![](./03-OpenClaw-step-up.assets/image-20260309125301758.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/84/847f1b95c96730e79cf83752e7ebc78d79375bf3f90aa76541c62447833a66ba.png)
 
 - **方法二**：搜索打开
 
-    ![](./03-OpenClaw-step-up.assets/image-20260309125411676.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2a/2a6790c03040a1df929fbdafe53f91487d7210e2e6070af9e2c14f23d75851f1.png)
 
-    ![](./03-OpenClaw-step-up.assets/image-20260309125519936.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6b/6b249d4d37a674680f18531b96599c607e49bad0455b3ed770ed6a03e4b7c112.png)
 
-    ![](./03-OpenClaw-step-up.assets/image-20260309125648764.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e8/e817d1254f496b778525b4e6701e2051f25d72a70f1e59858363cd309520901b.png)
 
 #### 1.10.2 在飞书中向机器人发送任意消息，系统会生成一个配对码
 
@@ -1085,7 +1085,7 @@ openclaw plugins list
 6. 如果不想在此刻授权，也可以直接开始对话，后续在对话框中输入 `/feishu auth` 来完成批量授权。
 7. 确认是否安装成功，可在对话框中输入：`/feishu start`。如果返回了版本号信息，则代表安装成功。
 
-![](./03-OpenClaw-step-up.assets/image-20260309130126886.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cf/cf17ae67453405e0af40d908641d03fa93a82e85e0446035b6aadf8b077eecfd.png)
 
 打开**“终端”**执行以下命令完成绑定：
 
@@ -1097,25 +1097,25 @@ openclaw plugins list
 
 输入：`openclaw pairing approve feishu 8BB9EBV8 --notify`
 
-![](./03-OpenClaw-step-up.assets/image-20260309130744182.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/33/33bda80960c70b6ac2994b29b83277a7064cbb829c1dd83518b9feb77a4b4a78.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309130829496.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/10/105902bc5b15363b973ae92f7450077990e1b68e051ab149fd1317463ff8c756.png)
 
 #### 1.10.3 完成配对后有个授权的过程
 
-![](./03-OpenClaw-step-up.assets/image-20260309130855647.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/41/41e3f42ab72eadef1a4bb52e4c1d96af4f99f8203dc47e82b428539ba9fb86aa.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260309130920338.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5b/5b2c6224d2124ec92dc4f6ce7a3d7eaa191425cb148532351c9ec68c363e35f6.png)
 
 授权成功，配置完成！
 
-![](./03-OpenClaw-step-up.assets/image-20260309130942205.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/ea5175313302e614408a10aa853b704321bda10f7683b035f1b620135cd98f20.png)
 
 #### 1.10.3 没有主动出现授权情况
 
 如果没收到授权申请，**则在聊天框输入`/feishu auth`**。记得把 OpenClaw 运行起来，没有运行是不会回复你的。
 
-![](./03-OpenClaw-step-up.assets/image-20260309131403878.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b1/b1b2bf37a9f491356d93f01a54e567f83b3051aaf6b821fda7d9b4a3e1801539.png)
 
 ## 🎉 到这步你已完成了飞书内安装 OpenClaw 的全部配置，现在可以开始使用啦！
 
@@ -1169,7 +1169,7 @@ openclaw plugins list
 
 ::: details 长图片【点击展开】
 
-![](./03-OpenClaw-step-up.assets/image-20260310102946675.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/88/88f2f868c1919a8b3b1ca2ab25df9e11b81eeff8101b6d5924df083b2d23dc4e.png)
 
 :::
 
@@ -1183,7 +1183,7 @@ openclaw plugins list
 
 **下载地址**：[https://nodejs.org/zh-cn/download](https://nodejs.org/zh-cn/download)
 
-![Windows](./03-OpenClaw-step-up.assets/d1396425d8d4091851286c7655ca68c6-20260205134026020.png)
+![Windows](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/85/8533f1e7ac70b967d564a518222476fb2a22f37ea63780a0348052aee827f2f9.png)
 
 
 
@@ -1195,7 +1195,7 @@ openclaw plugins list
 
 **下载地址**：[https://git-scm.com/install/windows](https://git-scm.com/install/windows)
 
-![](./03-OpenClaw-step-up.assets/image-20260310205750479.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bd/bd9f0e31e70297070d4c389258dfd681d89b1ced0dca9cacb2bc187e707e9e44.png)
 
 按照软件提示安装即可，所有选择均默认。
 
@@ -1206,7 +1206,7 @@ openclaw plugins list
 3. 选择 **以管理员身份运行**；
 4. 点击 **是** 确认；
 
-![](./03-OpenClaw-step-up.assets/14b7a3d968595e9b226fc2da53efe6a6.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b3/b3917ebfb421b68bb20c641d34586e4feb377e70b0b560173106d84859b71eeb.png)
 
 在管理员 PowerShell 窗口中，依次执行以下两条命令：
 
@@ -1219,7 +1219,7 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 **安全提示**：这些命令只会影响您自己的账户，不会影响系统安全或其他用户。
 
-![](./03-OpenClaw-step-up.assets/image-20260310222230528.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/57/57c45185e6ef79a768beaaf2b6dad6d692c78a5dcff2ca2190e4e1165bd12751.png)
 
 #### 2.1.4 开始安装
 
@@ -1257,19 +1257,19 @@ iwr -useb https://openclaw.ai/install.ps1 | iex
 
 ::: details 聊天记录截图
 
-![](./03-OpenClaw-step-up.assets/image-20260310223633176.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/62/6265b8f9f4225b96cd1a0b45442372de849bfc73c0b9521a5e3ccf6465d26763.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260310223701512.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6a/6ae91de58dc292b197bbdd834974b32a5d237bc953318f20fdb904894ecf698a.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260310224016742.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/81/81cc892d4a3622fd6d1041b9b07399123d3f4063a4c36a9f59437d5bfd252970.png)
 
 :::
 
 ::::
 
-![](./03-OpenClaw-step-up.assets/551a3aa7bbe198f9fe0d237391815fe0.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/7282097918b8b7d745767aa570c23fe4373673be9473f4f0662553a2261f18c6.png)
 
-![](./03-OpenClaw-step-up.assets/95ecbe13b5ef3059c0a52142a3cb2456.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/95/95b7345a9ead18c4b2db829456afc5f6a471335d615eeb07000e70cfa1ca4ecc.png)
 
 接下来的步骤，就和 Mac 一致。点击跳转：[**【配置 OpenClaw】**](#_1-6-配置-openclaw)
 
@@ -1308,7 +1308,7 @@ iwr -useb https://openclaw.ai/install.ps1 | iex
 
 在 Windows 搜索：**PowerShell** > **右键：以管理员身份运行**。
 
-![](./03-OpenClaw-step-up.assets/14b7a3d968595e9b226fc2da53efe6a6.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b3/b3917ebfb421b68bb20c641d34586e4feb377e70b0b560173106d84859b71eeb.png)
 
 ##### 2.2.1.2 安装 WSL
 
@@ -1324,7 +1324,7 @@ wsl --install
 - 安装 Linux；
 - 安装 Ubuntu；
 
-![](./03-OpenClaw-step-up.assets/image-20260311114745326.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/28/284d9069647fefd3d2ac853850569077db046b6da064fd34461c4b98cbb5a2c7.png)
 
 **Tips 卸载：**
 
@@ -1350,7 +1350,7 @@ wsl --uninstall
 
 完成后进入 Linux。
 
-![](./03-OpenClaw-step-up.assets/image-20260311115203193.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/911a3af6a9cc5bcb86a75c7ba6e4db2ca19835acd07f9a61bbfef04e4d2a7176.png)
 
 1. 更新 Linux 系统，分别执行下面命令：
 
@@ -1361,9 +1361,9 @@ wsl --uninstall
 
     ::: details 图片
 
-    ![](./03-OpenClaw-step-up.assets/image-20260311144024504.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1a/1a5be5046dd78ef4b9012f3f34b97e273bc48cb23a713f48c7d6715fc327396c.png)
 
-    ![](./03-OpenClaw-step-up.assets/image-20260311145524303.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0f/0fab6872fa1b108c7eda1e360300b3dce1395a37cdfd02d4e18c1318bce2eae4.png)
 
     :::
 
@@ -1375,7 +1375,7 @@ wsl --uninstall
 
     ::: details 图片
 
-    ![](./03-OpenClaw-step-up.assets/image-20260311150638447.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dc/dc824926f88b105959d2a5e18edf7aaedbac564c5d6050f348b178ff6f935f2b.png)
 
     :::
 
@@ -1401,9 +1401,9 @@ wsl --uninstall
 
     ::: details 图片
 
-    ![](./03-OpenClaw-step-up.assets/image-20260311150857632.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f2/f2af5ab8393bdbf72aeb61042edf4476a7c6d97913111542a454fb73357ecc1d.png)
 
-    ![](./03-OpenClaw-step-up.assets/image-20260311151051617.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5f3bb45979991334a311dbb8abde5ab6ac09b035e658bce4b03f6e14e50246ca.png)
 
     :::
 
@@ -1421,7 +1421,7 @@ wsl --uninstall
     10.x.x
     ```
 
-    ![](./03-OpenClaw-step-up.assets/image-20260311151143112.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3f/3f1f1e45bf97cbd08ea3e489b21c98e1c7eb6183cae304f1bef6a90593146539.png)
 
 #### 2.2.3 安装 OpenClaw
 
@@ -1431,7 +1431,7 @@ wsl --uninstall
 curl -fsSL https://openclaw.ai/install.sh | bash
 ```
 
-![](./03-OpenClaw-step-up.assets/image-20260311153706722.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/df8ba8c7a72deb3de77df1c5e0d2561e5e0be84b5f99498a27017258d4c41578.png)
 
 解决环境提示问题，当前命令行窗口不用动。打开一个新的 PowerShell 管理员窗口，输入命令：`wsl` 切换到 Linux 系统。
 
@@ -1496,19 +1496,19 @@ openclaw onboard
 
 @tab Step 1
 
-![](./03-OpenClaw-step-up.assets/image-20260311160040766.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d5/d506b27eea68e2c5addc72d7ef40c632cd67124b6ea278fa144f80edf5e7e43d.png)
 
 @tab Step 2
 
-![](./03-OpenClaw-step-up.assets/image-20260311160208379.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6d/6de3974f6f8e16c3253b960bf31d23f4eb5a9e77777cadc729a875a2d5d35759.png)
 
 @tab Step 3
 
-![](./03-OpenClaw-step-up.assets/image-20260311160311288.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d4087ae222a1b0bfc15b9d3522a83628919623da7681e80dfeebcbeacb9886f6.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260311160357003.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/9957bc701427916bbd41b33bc4918bdba83d46b9337307b9b2b226f72f85e63f.png)
 
-![](./03-OpenClaw-step-up.assets/image-20260311164749328.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6e2ad853e8c972162596fc96b9d214d481fe783e54e0649d37061dc3ade3b527.png)
 
 :::
 
@@ -1731,11 +1731,11 @@ feishu-plugin-onboard install
 
 并在同一个消息中，复制黏贴以上四份 md 文件中的内容，参考：
 
-![](./03-OpenClaw-step-up.assets/image-20260309132207440.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/15fe0d3b4bfa18c29e7bc13810d9fe05eb3f2ac3efc2f9c2b55d5ea8ea0e84b7.png)
 
 ### 3.2 👍 飞书 X OpenClaw 推荐应用场景
 
-![](./03-OpenClaw-step-up.assets/image-20260309132343767.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6f/6ff7882d3c529c1960159247c06897d8b4fc1cf47057bf611f8404192a87f05b.png)
 
 
 
@@ -1806,7 +1806,7 @@ openclaw uninstall; openclaw uninstall --all --yes --non-interactive; npx -y ope
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1822,4 +1822,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

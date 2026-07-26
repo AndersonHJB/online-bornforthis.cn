@@ -83,7 +83,7 @@ Double click the MATLAB icon on your screen. This will start the MATLAB program,
 
 > 在您的屏幕上双击MATLAB图标。这将启动MATLAB程序，MATLAB桌面将出现。
 
-![](./07-MATLAB-Tutorial-for-Calculus-III-Part-1.assets/image-20230517083754421.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e2/e2be3ab6d51380d1644f0a1212fe24986535a2d2f6ea1dbcb64440e735d3a117.png)
 
 The MATLAB desktop is divided into three smaller windows. On the upper left you will see the ”Current Directory” subwindow. We will not be using this, so remove it by clicking the small ”x” in the upper right corner of the subwindow. Now the ”Workspace” subwindow appears; remove this also. Then remove the ”Command History” subwindow. Now the only subwindow that is left is the ”Command” subwindow. You should see a prompt in the Command window that looks like this: ”*>>*”.
 
@@ -190,7 +190,7 @@ The Help window now appears on the MATLAB desktop.
 
 > 帮助窗口现在出现在MATLAB桌面上。
 
-![](./07-MATLAB-Tutorial-for-Calculus-III-Part-1.assets/image-20230517103441777.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7d/7d6cb83377cda781e0a5bb567b54ba5e35987293a488371b281bd8aad3ee18ba.png)
 
 You can browse the table of contents by clicking on the ”Contents” tab in the ”Help Navigator” window. This is very similar to the help used in other programs. Simply use the mouse to click on the topic of your choice.
 
@@ -349,7 +349,7 @@ zero_x_values = x(zero_indices); % 获取对应的x值
 disp(['Number of zeros between x = -4 and x = 4: ', num2str(length(zero_x_values))])
 ```
 
-![](./07-MATLAB-Tutorial-for-Calculus-III-Part-1.assets/image-20230517112821461.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0f/0fec7139c1e267ee3c8b9a93b2a27ff2e49c9b382ebbac27623ab7dc91e26eb6.png)
 
 ```matlab
 % 定义 x 的范围
@@ -562,7 +562,7 @@ for i = 1:4
 end
 ```
 
-![](./07-MATLAB-Tutorial-for-Calculus-III-Part-1.assets/image-20230523150625726.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/13/1320e28f679f7cc31300dfd0f2dc1f3299d0c2ab457fed5d1b046cc05289c4e6.png)
 
 
 
@@ -596,7 +596,7 @@ legend('y(x)', 'tangent at x=-6')
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -612,5 +612,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

@@ -19,7 +19,7 @@ backToTop: true
 toc: true
 ---
 
-![](./06-tangcuoupian.assets/image-20241025170623769.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3f/3f485490d5d7ee48ade9cb9208a385598ccbb8ed5a8ce0274aa79b1c6523d3a2.png)
 
 ## 1. 食材
 
@@ -59,27 +59,27 @@ toc: true
 
 @tab 1
 
-![](./06-tangcuoupian.assets/image-20241025175946365.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/81/8166503a21aee032fde0716c951b7b4c24d5e99dffa5ab978a7ebc4d7282c8f6.png)
 
 @tab 2
 
-![](./06-tangcuoupian.assets/image-20241025175957006.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/88/887eac9e7641e1a3407e986fdbf3bd4e830d0ed111c4ba5e794f87e7eb09cdcc.png)
 
 @tab 3
 
-![](./06-tangcuoupian.assets/image-20241025180006764.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/63/637f9916e116428c7bee98a9963c8fb0da2cdd6b80bcc7e0486f7f4c840f1eaf.png)
 
 @tab 4
 
-![](./06-tangcuoupian.assets/image-20241025180022876.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/eb/ebd7f34a8b6a6261ca58c212ebdef2d999638593cbee437644d3fef318982e05.png)
 
 @tab 5
 
-![](./06-tangcuoupian.assets/image-20241025180032824.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/94/9464b716e92ea0ba3d76996315b7b325097373f743a26fbb910eb71f9902ba26.png)
 
 @tab 6
 
-![](./06-tangcuoupian.assets/image-20241025180046766.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/03417902f5a2f850ba3c555cbd3021c7156e76e4419fa7bf3f736ef758fdbcda.png)
 
 :::
 
@@ -91,7 +91,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -107,5 +107,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

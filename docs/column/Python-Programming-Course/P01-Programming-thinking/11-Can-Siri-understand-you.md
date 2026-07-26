@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](./11-Can-Siri-understand-you.assets/raw-20250415075535420.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a0/a02d2c0bd78c6f8d6607249cace8b8e6dac3bc17934139dff5b991d911d3b2cc.png)
 
 你有没有试过对着手机说话，然后它就照你说的打开了一个应用、搜了个答案，或者播了一段你喜欢的音乐？这种让机器“听你指挥”的功能，其实早已悄悄走进了我们的生活。
 
@@ -39,15 +39,15 @@ toc: true
 
 不过问题来了：声音比图像麻烦得多。图像里的颜色基本不会变化太大，但说话的人声音可千差万别。不同地区的口音、语速、语调，再加上多音字、模糊音，计算机想要准确知道你在说什么，简直像是在“猜谜”。
 
-![概率分布](./11-Can-Siri-understand-you.assets/image-20250415075126112.png)
+![概率分布](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/21/21ce3691a44db35a684c282ad0ba082905ce75f272d6c519e966aeda68465664.png)
 
 但猜谜也有技巧，语音助手用的是一种聪明的方法，叫做**概率推断**。
 
-![蜜蜂 or 密封](./11-Can-Siri-understand-you.assets/raw-20250415075838580.png)
+![蜜蜂 or 密封](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e2/e208c62d1a9c6b6df491370815caa5d481a2274ab364a372acbf9039713e4395.png)
 
 比如你说了个“mifeng”，这听起来可能是“蜜蜂”（那种飞来飞去的昆虫），也可能是“密封”（把盒子盖紧的动作）。计算机会根据它学过的海量资料——我们称之为“语料库”——来判断哪个更有可能。
 
-![](./11-Can-Siri-understand-you.assets/raw-20250415080446992.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d1/d1643632e9265a0edb4ba01dfc7270a3351a1491ef8143d4f81316c4b5358e7b.png)
 
 它会想：“在过去我遇到 ‘mifeng’ 这个词时，有 90% 的时候，用户是指蜜蜂，只有 10% 才是密封，那我就选概率更大的蜜蜂吧！”这就像你找朋友吃饭时忘了具体约在哪家餐厅，那你多半会去他最常去的那家碰碰运气——因为**成功的可能性最大**。
 

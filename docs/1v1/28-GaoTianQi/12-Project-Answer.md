@@ -126,11 +126,11 @@ Based on appropriateness of problem-solving approach
 
 @tab 2
 
-![](./12-Project-Answer.assets/image-20230518215225938.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f1/f1ff1e060c0da3058bb91101f34fcf81468758b2667180158b5b75408f5bf38b.png)
 
 :::
 
-![](./12-Project-Answer.assets/image-20230518215255260.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/73/7314496ced097e9787a4372db6d7430782cc37b3bec032c0f9a64cdd6acab890.png)
 
 ```
 #  Adherence to style guide (without comments)
@@ -177,7 +177,7 @@ Great commenting, but there is slightly too much detail involved, try cutting it
 Also you're missing a docstring!
 ```
 
-![](./12-Project-Answer.assets/image-20230518215402192.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5c/5ccb3799b1820517a17017d33030bdc544a852a36dd08711caaed49e4bac4369.png)
 
 
 
@@ -270,9 +270,9 @@ def valid_direction(direction):
     return direction in DIRS
 ```
 
-<img src="./12-Project-Answer.assets/image-20230518215509018.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/67/67865f9b75637aef4718cf60fe799621a02558acb67e378aa3c0f1186f7ca49b.png" style="zoom:25%;" />
 
-<img src="./12-Project-Answer.assets/image-20230518215529333.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/14/14c43d313fdf677dc8403d73fa3d230b3ce0a4938137fb06e1f068d4cd9ffb31.png" style="zoom:25%;" />
 
 
 
@@ -442,11 +442,11 @@ def get_next_position(board, position, direction):
     return next_position
 ```
 
-<img src="./12-Project-Answer.assets/image-20230518215626647.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7a/7a3783880e6078ee11291780a0d94d147213b3dcca39039835b498a43c131e8e.png" style="zoom:25%;" />
 
-<img src="./12-Project-Answer.assets/image-20230518215643185.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/41/41a5fa13bcc9d927f5734e60ab34603a15563c1efea08827d22c03bb55f4c6ad.png" style="zoom:25%;" />
 
-<img src="./12-Project-Answer.assets/image-20230518215656954.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a1/a1c32b82f942b43941d3a96ecf11d16515fc5c0e0d8a6c038dce73084d2594e2.png" style="zoom:25%;" />
 
 ## Make a Move
 
@@ -653,11 +653,11 @@ def add_2_tuple(tup0, tup1):
     return tup0[ROW] + tup1[ROW], tup0[COL] + tup1[COL]
 ```
 
-<img src="./12-Project-Answer.assets/image-20230518215753403.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e1/e1868855a89c641b27632b5790c3d5f9da3b40cb4c826d248f61410146052b68.png" style="zoom:25%;" />
 
-<img src="./12-Project-Answer.assets/image-20230518215809347.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/03f74bf275ec92cd610525bc0b169c9a98cba8cce26435bfac1228a82ef6449d.png" style="zoom:25%;" />
 
-<img src="./12-Project-Answer.assets/image-20230518215819166.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6ef1ec5f1a326b3bb8af29a3557f1d7d4a726018985cd1774b285de4199e0a79.png" style="zoom:25%;" />
 
  
 
@@ -800,9 +800,9 @@ def generate_moves(board):
              if legal_move(board, (r, c), d)]
 ```
 
-<img src="./12-Project-Answer.assets/image-20230518215930756.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/84/84dd70a500fe584b821c808b930c58f70d9b279360ff576cd50c4356bc8625e4.png" style="zoom:25%;" />
 
-<img src="./12-Project-Answer.assets/image-20230518215947344.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/57/57b48f59bb2637694e8feab6dfcfa10d5b0260776c17c0fb531ec1d7a6ec75f8.png" style="zoom:25%;" />
 
 
 
@@ -810,7 +810,7 @@ def generate_moves(board):
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -826,4 +826,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

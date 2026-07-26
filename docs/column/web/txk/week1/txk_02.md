@@ -35,11 +35,11 @@ toc: true
 
 ### 职业前景好 
 
-![image-20220805102528538](./txk_02.assets/image-20220805102528538.png)
+![image-20220805102528538](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bb/bb3e30fd3d7f71865572c50c5bf15fb2f1058b97a6c6d382a498c2bbffd43eb4.png)
 
 ### 选择性多
 
-![image-20220805102626607](./txk_02.assets/image-20220805102626607.png)
+![image-20220805102626607](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6eede0dfaf27338fde8345b30e1a6164e09469752e209a82036e1b302ee446e5.png)
 
 
 
@@ -52,11 +52,11 @@ toc: true
 
 不再只要求单一技能需求，而是多种多样的技能需求。要很多技术都要会！
 
-![image-20220805102827824](./txk_02.assets/image-20220805102827824.png)
+![image-20220805102827824](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/60/607ca8319245974db494238d3e0ff8ab063f4a8f6314b4663eca8758f0d09a9f.png)
 
 
 
- ![image-20220805103001228](./txk_02.assets/image-20220805103001228.png)
+ ![image-20220805103001228](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e6/e6d85abe765c9736c48252063da5f649a6b4ef1514d9b700ea7cf35c6b910fec.png)
 
 
 
@@ -69,7 +69,7 @@ toc: true
 
 ### 前端招聘需求
 
-![image-20220805103324930](./txk_02.assets/image-20220805103324930.png)
+![image-20220805103324930](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/12/124b73c5772c43b78078116b81fb67ecaf041dabe9f8c8ed875d89ae85b5a635.png)
 
 ## 我将带你：从 0 到全栈能力，更具有职业竞争力的前端工程师
 
@@ -80,29 +80,29 @@ toc: true
 - 15+ 练手项目，学习过程即实战，帮你夯实基础；
 - 学练测评答一体化，为你的学习保驾护航。
 
-![image-20220805104939690](./txk_02.assets/image-20220805104939690.png)
+![image-20220805104939690](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ac/acee8e939477a3c2cf2bfc666504b261da3eec9cc47e21f43fd3b2061d05ecd9.png)
 
 ### 阶段一：零基础入门
 
 完成第一阶段的学习，你将可以胜任网页开发工程师的工作了。
 
-![image-20220805105228555](./txk_02.assets/image-20220805105228555.png) 
+![image-20220805105228555](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ee/eeb24894197c4d82b577a3b196ecd262e79ff5176b191284f7ee68ab7a9705a3.png) 
 
 ### 阶段二：组件化与 Web APP 开发
 
-![image-20220805105449031](./txk_02.assets/image-20220805105449031.png)
+![image-20220805105449031](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/da/da1b87027125aa8c8c3fc5b24329f28f2a7c93d49303b5b676610d9ff60eedb6.png)
 
 ### “仿穷游”旅游网前端项目
 
-![image-20220805105630887](./txk_02.assets/image-20220805105630887.png)
+![image-20220805105630887](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bc/bc64fca0286ace8b913ffb5a1f83269a894cfbf507c26c00bcde44b943cf50a1.png)
 
 在这个项目中，你会体验到，同一项目逐步迭代，亲历体验企业开发项目。
 
-![image-20220805105748631](./txk_02.assets/image-20220805105748631.png)
+![image-20220805105748631](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/db/dbf9635ae79206cd47e3fba702fea0c666c4ad1d464c73e73e08afdf431b706a.png)
 
 ### 阶段三：主流框架与小程序
 
-![image-20220805105944442](./txk_02.assets/image-20220805105944442.png)
+![image-20220805105944442](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bc/bcab238e6a67f4c15b5c070d6bcebef1f0c40a43b69b29cded4f364dad2fd6fc.png)
 
 ### “仿京东到家 WebAPP 全栈项目
 
@@ -111,31 +111,31 @@ toc: true
 - 12+ 真实接口
 - 多套实用解决方案
 
-![image-20220805110146580](./txk_02.assets/image-20220805110146580.png)
+![image-20220805110146580](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/91433127a11e1117ead0e919bf61e784e82a4f84d8c4ed71e9a8e73d8eb018ad.png)
 
 ### 前后端分离的开发模式
 
-![image-20220805110219803](./txk_02.assets/image-20220805110219803.png)
+![image-20220805110219803](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/db/db65955a95b85837c80db53303ea618dca61d655a6289b6aa4314454e3cdd0e2.png)
 
 ### 企业真实开发业务场景+流程
 
-![image-20220805110315510](./txk_02.assets/image-20220805110315510.png)
+![image-20220805110315510](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/21/21160baf66e05fecf0bd774baf8d88dafa9c68270e073eb4c890cbc6b7209e84.png)
 
 其实，学完第一到第三阶段，你已经拥有，一年的开发经验。带你就业不是目的，只是顺带的，而是要带出具有核心竞争力的人。
 
 ### 阶段四：大厂钟爱技术栈
 
-![image-20220805110645771](./txk_02.assets/image-20220805110645771.png)
+![image-20220805110645771](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b7/b7892b9452c0f13ab5921ac27409669b3b363737cec253213b5db097c7386920.png)
 
 
 
 ### 大型旅游项目
 
-![image-20220805110720665](./txk_02.assets/image-20220805110720665.png)
+![image-20220805110720665](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f4/f438e951ffeff00bf8a2710f11c89dbdc2fb04ca6a8ed73acfd83f3435285eca.png)
 
 ### 多样化案例驱动式教学
 
-![image-20220805110826673](./txk_02.assets/image-20220805110826673.png)
+![image-20220805110826673](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d7/d7750253b1112d1b5bae05f3f3cbe9b031f81b5e6b45cbdb34c793c7f7b54fc2.png)
 
 
 
@@ -156,17 +156,17 @@ toc: true
 
 遵循科学学习理论，AI悦创为国内外学生定制，更适合国人的教学方法。
 
-![image-20220805115657234](./txk_02.assets/image-20220805115657234.png)
+![image-20220805115657234](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6a/6ad87ec8c581cfa86b0d1a8c61af47851f5d752d684cf035582f6766db408e19.png)
 
 
 
 ## 好的方法让你的学习事半功倍
 
-![image-20220805115710939](./txk_02.assets/image-20220805115710939.png)
+![image-20220805115710939](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d7/d76cef2efa956a8c3cced601b5c742a5d6940ddcc71389984fb29c70dbfa2fa7.png)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -182,7 +182,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

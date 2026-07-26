@@ -50,7 +50,7 @@ backToTop: true
 
 旋转的文字：
 
-<img src="./svg-text.assets/image-20221104141335499.png" alt="image-20221104141335499" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7f/7fb3186a5d55772ac9e6262840ffb09269ab8f8faa6dbc0dc7cc74ba207d7702.png" alt="image-20221104141335499" style="zoom:50%;" />
 
 下面是 SVG 代码
 
@@ -103,7 +103,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
 
 作为链接文本（ `<a>` 元素）：
 
-[![image-20221104154142973](./svg-text.assets/image-20221104154142973.png)](https://bornforthis.cn/column/svg-tutorial/)
+[![image-20221104154142973](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/94/94d191c3070d3509b46c0a61dbfc0a26069e248e2a3265e7988ae99d2275375d.png)](https://bornforthis.cn/column/svg-tutorial/)
 
 下面是 SVG 代码：
 
@@ -122,7 +122,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -138,4 +138,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -28,7 +28,7 @@ backToTop: true
 
 - 简单的 Chatbot 开发示例
 
-![](./01.assets/image-20230319222844431.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f622ba5ad7bdcab3c2270fbc2bc05d57d0bfb1c177c66c6a3b819f2814cf7533.png)
 
 
 
@@ -36,11 +36,11 @@ backToTop: true
 
 ## 1. 新建 Project
 
-![](./ChatGPT-Demo-Create.assets/image-20230624112917778.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ae/aec701c261e752d1cb50ff362f13784252bc9975e55748331629f8001b001a6e.png)
 
 新建完成：
 
-![](./ChatGPT-Demo-Create.assets/image-20230624113101966.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/39/39599682061b9180d3e9bfa8448b5a6539d93cbbe7f6ff42ed60c7c1dd43aa2c.png)
 
 接着我们可以运行感受一下：
 
@@ -48,7 +48,7 @@ backToTop: true
 
 - [https://openai.com/](https://openai.com/)
 
-![](./ChatGPT-Demo-Create.assets/image-20230624113729470.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/42/42769a963876faf52afcd5e5e3d29bc3dc046c8e7b6670316a4d9f0d00993870.png)
 
 
 
@@ -64,7 +64,7 @@ backToTop: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -80,4 +80,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

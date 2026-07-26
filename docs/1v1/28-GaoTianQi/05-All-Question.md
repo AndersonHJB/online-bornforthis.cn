@@ -55,9 +55,9 @@ Now, submit again ('Run' then 'Mark' and 'Submit'), and you'll get the green dia
 
 ### Solution 1
 
-![](./05-All-Question.assets/image-20230319185427138.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/27/279a57cd54a56083bffff457602d0eef51c61335172ad4c08162f0d385fe192a.png)
 
-![](./05-All-Question.assets/image-20230325085009766.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b2/b2183255444c43395479cbb77ab689df093a1d1eb3d38beeb8f57f02da1ec7e6.png)
 
 ```python
 from turtle import *
@@ -72,7 +72,7 @@ Now it's your turn to build a program!
 
 Here's an animation of a turtle robot following a hidden program:
 
-![](./05-All-Question.assets/image-20230319185612916.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/faa71ab6d2bc5cd10bace3209c550a19c29dc54d8f0cd34b7f749e1ee89262e4.png)
 
 Your job is to make a turtle program which makes the turtle do the same thing.
 
@@ -84,9 +84,9 @@ You might need to turn on the 'grid' in the animation above, and do some experim
 
 ### Solution 2
 
-![](./05-All-Question.assets/image-20230325084013790.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/19/19f367214dd5f7ea956d1bb9a7e7c24ae3e17bb35e68f02c41daba9fa52810c0.png)
 
-![](./05-All-Question.assets/image-20230325085110435.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/62/620ffadbad54eb06ccb304fafaf5313eb3f8196516b813d320f37ba91d3697d5.png)
 
 ```python
 from turtle import *
@@ -106,7 +106,7 @@ left(90)
 
 Time to try another one! Here's another turtle program animation:
 
-![](./05-All-Question.assets/image-20230325085155079.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d7/d74a21954dc7d5ac581f988bfafb5720b23dfd39af7e03df20a7a0aabe08a5f1.png)
 
 Try to build a program that makes your turtle draw the same "lightning-bolt" pattern - *zappy*!
 
@@ -126,7 +126,7 @@ Is solution 3 shorter? Compared to the original animation, the turtle finishes a
 
 #### Sample solution #1
 
-![](./05-All-Question.assets/image-20230325085407933.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a0/a067901d4375f2e32ed381612675a1989e63d36b8a281d97d30d31b1c1fb0568.png)
 
 ```python
 from turtle import *
@@ -143,11 +143,11 @@ right(60)
 forward(50)
 ```
 
-![](./05-All-Question.assets/image-20230325085622526.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/22/22c503078bea64debc7441c62c9d40e11977da46844172bbc93ab379840f3c5c.png)
 
 #### Sample solution #2
 
-![](./05-All-Question.assets/image-20230325085643248.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e0/e05b86e06cd21bb715fbd7b48fc84a463ef6f10481e650553f312671ef191c26.png)
 
 ```python
 from turtle import *
@@ -183,7 +183,7 @@ forward(50)
 
 Now it's your turn to build a program using a loop. It will be very similar to the previous example, but this time, we want the turtle to draw a *hexagon*, like this:
 
-![](./05-All-Question.assets/image-20230325090035069.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/78/7854c642d52a952631fc3ccf2ce0ae61d442f5be82b2e22645cbc68009d212be.png)
 
 Build your program in the editor over on the right, like last time, and make sure to 'Mark' and 'Submit' it to get your green diamond when it is finished!
 
@@ -197,7 +197,7 @@ The blockly editor for this problem contains two **categories** of code blocks. 
 
 ### Solution 4
 
-![](./05-All-Question.assets/image-20230325090157710.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f7/f7fde03f0848050af03fc00bb80b57d32408755a409d7deb2c1cf54370491aac.png)
 
 
 
@@ -214,7 +214,7 @@ for count in range(6):
 
 Can you write a turtle program to execute a double loop-the-loop? It should look like this:
 
-![](./05-All-Question.assets/image-20230325090640535.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c4/c4aaea417f5d5c15d52361c178a8d35ecf43b8c40f1cf38665b30b618ec921ff.png)
 
 The edges of the loops, and the lines before and after both loops, are all 40 turtle steps long.
 
@@ -224,7 +224,7 @@ Try writing out pseudocode first before launching into the code, and work out wh
 
 ### Solution 5
 
-![](./05-All-Question.assets/image-20230325091045618.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/70/702aaae01fa7fa192fa6a4720c8f4870afb07b287b15d794b840360cd9623e64.png)
 
 ```python
 from turtle import *
@@ -245,7 +245,7 @@ forward(40)
 
 For your final loop challenge, write a program that uses a **nested loop** to draw the following pattern:
 
-![](./05-All-Question.assets/image-20230325091311344.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/17bb4b8d07079b44df1960ee18024df0d0c1cee7f4ceadc1e881544057accabd.png)
 
 Good luck!
 
@@ -255,7 +255,7 @@ The sides of each square flower petal are 100 turtle steps long. Between drawing
 
 ### Solution 6
 
-![](./05-All-Question.assets/image-20230325091345409.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d7/d72e128eee13aa63cdedd6fda31b6229aaa2b2c9d63b63542d7009f6980da3c3.png)
 
 ```python
 from turtle import *
@@ -285,11 +285,11 @@ In the case of "yes" and `3` is input, the turtle should draw the following patt
 
 ::: details
 
-![](./05-All-Question.assets/image-20230325091542782.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1e/1e81001e01ec19e28f5d8bc61822ec94d007ce7e10abc421632ded6e5d665887.png)
 
 :::
 
-![](./05-All-Question.assets/image-20230325091612068.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7a/7a8f8afeeae4513e852762020cc72dc91583ccaf781deea43e4954d94d7045f8.png)
 
 
 
@@ -300,7 +300,7 @@ How many squares? 3
 
 If the user enters a number other than `3`, that number of squares should be drawn. For example, the pattern will look complete after 36 squares: how beautiful! We've sped up the drawing speed here because it takes a while otherwise.
 
-![](./05-All-Question.assets/image-20230325091643125.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/64/643d925bed5687ac7e4754cdb282a35d10b6c790615e04ad2ad148f0252b77c3.png)
 
 ```python
 Draw a pattern? yes
@@ -313,7 +313,7 @@ If you can't see any blocks or they're split up in any way, you can click the "r
 
 ### Solution 7
 
-![](./05-All-Question.assets/image-20230325091724023.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/71/713696044921325e00ebd915fcbd072b8b3779a55280f2339f720412774f52bd.png)
 
 ```python
 from turtle import *
@@ -345,11 +345,11 @@ Here are some examples. The first has inputs `blue`, `3` and `triangle`.
 
 ::: details
 
-![](./05-All-Question.assets/image-20230325091903863.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/db/db90fdb5e47b3f16f4fd977e30a8a6fc1b80093810f1d0a1acecabb1d930da0b.png)
 
 :::
 
-![](./05-All-Question.assets/image-20230325091931473.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/43/4302041696f75e626896b148b3a8bf42d276379435a1a64e29a8f9456d2864c7.png)
 
 ```python
 Enter red or blue: blue
@@ -359,7 +359,7 @@ Which shape? triangle
 
 The second example has inputs `red`, `7` and `square`.
 
-![](./05-All-Question.assets/image-20230325091957066.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b8/b8ba2ccd52109e62f4209ecfa8549ea2b7eb6947f9ec1aab56e3f5a18fcc9b12.png)
 
 ```python
 Enter red or blue: red
@@ -371,13 +371,13 @@ Which shape? square
 
 If you're struggling to start, try setting up your editor with an if-else block, a set pen size to block, and then another if-else block.
 
-![](./05-All-Question.assets/image-20230325092037076.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e1/e12f71ea681d5c5b056f5a70473d0637f07f2ac5fb564fca67ec86c82c6c2dc7.png)
 
 ### Solution 8
 
 #### Sample solution #1
 
-![](./05-All-Question.assets/image-20230325092153831.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/67/67122ebacff237920ae51d1d69da149400c7ae8885b8a9c9b3dbfc13dcd8e35c.png)
 
 ```python
 from turtle import *
@@ -400,7 +400,7 @@ else:
 
 #### Sample solution #2
 
-![](./05-All-Question.assets/image-20230325092235591.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/20/20238c7bcf521da53f09e843ebdefe5f5fb33431fd46961224673f8d13d226ea.png)
 
 ```python
 from turtle import *
@@ -429,15 +429,15 @@ Below is an example of running the block call draw hexagon. Note that you **must
 
 ::: details
 
-![](./05-All-Question.assets/image-20230325092346222.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bf/bf12228235193daf16f7acf01e5f66953bfff3566d5fde5133450bc97ee31f3a.png)
 
 :::
 
-![](./05-All-Question.assets/image-20230325092359679.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cd/cd9e25c09b773cb3d7528b959b4b45d4e7cea5dc23bdf2f3e1ea9a75b278e775.png)
 
 ### Solution 9
 
-![](./05-All-Question.assets/image-20230325092424195.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b9567fcca46177de0a92df8f48215089e68165bcfffd48545f40e895db3019d8.png)
 
 ```python
 from turtle import *
@@ -463,15 +463,15 @@ Note that we have included "Decisions" and "Logic" blocks in the Turtle "palette
 
 ::: details
 
-![](./05-All-Question.assets/image-20230325092519349.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/29/29dc84bd90991a1959db609d232ca89f102e40bfacdfef2bca939678314cf9c0.png)
 
 :::
 
-![](./05-All-Question.assets/image-20230325092531329.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/161fea62ad1238103d297c6fd2641c7f130b458b678b3a1e3b4732002a656ccc.png)
 
 ### Solution 10
 
-![](./05-All-Question.assets/image-20230325092600277.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a0/a0938bf54e396b9be4011e74e7ffa8f29f6970e79bae532971e2d42bc7db3539.png)
 
 ```python
 from turtle import *
@@ -2261,7 +2261,7 @@ def cycle(input_list):
 
 Now write a function `cycle(input_list)` that performs a [cycling](https://media.giphy.com/media/ftvphb1LgYP9SgoNGn/giphy.gif) of the elements of a list as before, but this time returns the result as a new object and does not mutate the input argument. For example:
 
-![](./05-All-Question.assets/giphy.gif)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/52/5230fac5bad39bc134ced0279d49fae64c26bad29ed8dccc376a29b53e6b962f.gif)
 
 ```python
 >>> a_list = [1, 2, 4, 5, 'd']
@@ -3429,7 +3429,7 @@ Write a function `triangle_legs(hyp, angle)` that returns the lengths of the two
 
 As a refresher from high-school Maths, $Adj=Hyp×cos(α)$ and $Opp=Hyp×sin(α)$ where α is a non-right angle of a right-angled triangle, $Adj$ is the length of the leg adjacent to the angle $α$, $Opp$ is the length of the leg opposite to the angle $α$, and $Hyp$ is the length of the hypotenuse.
 
-![](./05-All-Question.assets/image-20230501180303475.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/790c069d0113c7b81f3bff696c509c351c3e1742be94d58aeb90686d2feb81af.png)
 
 ### Hint
 
@@ -3545,7 +3545,7 @@ def top5_word_lengths(text):
 
 Write a program that asks the user for a positive integer `limit` and prints a table to visualize all factors of each integer ranging from 1 to `limit`. A factor $i$ of a number n is an integer which divides $n$ evenly (i.e. without remainder). For example, 4 and 5 are factors of 20, but 6 is not. Each row represents an integer between 1 and 20. The first row represents the number 1, the second row the number 2, and so forth. For a given position $i$ (starting from 1) in a row n, `'* '` indicates that $i$ is a factor of $n$, and `'- '` indicates that it is not.
 
-![](./05-All-Question.assets/image-20230501182337781.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a8/a8a7ac6f8b797abac4ff0e516e327d0ac5a8599b65c434cd8a55d29485dd1751.png)
 
 The output of your program should look like this:
 
@@ -3612,7 +3612,7 @@ In molecular biology, a codon refers to a substring of a DNA sequence made up of
 
 Write a function `matching_codons(complements, pool1, pool2)` that takes three arguments: a dictionary `complements` and two lists `pool1` and `pool2`. The dictionary contains the base pairs, and the pools each contain a list of codon sequences. Your task is to find the complementary codon sequence in `pool2` for each codon sequence in `pool1`, and return all matching pairs in following format:
 
-<img src="./05-All-Question.assets/image-20230501182923704.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5d/5d1cca4023f5a37e2c6f1aafd623c586833c4f597d60e23438721d8868e2a68f.png" style="zoom:25%;" />
 
 ```python
 >>> complements = {'A':'T', 'C':'G', 'T':'A', 'G':'C'}
@@ -3626,7 +3626,7 @@ The return value is a list of 2-tuples of codons. The first item in each tuple i
 
 Make sure to use the base pair information given in the `complements` dictionary to identify the complementary codons, and not hard-code any assumptions about base pairs in your code (and expect some of the hidden tests to confirm that you are doing this!).
 
-<img src="./05-All-Question.assets/image-20230501182956326.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d41d10b40e8f9d150c9fbacb23b91708bb87515eac7a7c14b097db2b33643710.png" style="zoom:25%;" />
 
 
 
@@ -3648,7 +3648,7 @@ def matching_codons(complements, pool1, pool2):
 
 ## 76. Image Grey Value
 
-![A Python representation of a black and white image.](./05-All-Question.assets/white_pixels2.png)
+![A Python representation of a black and white image.](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77761a114ba9c5e969302fd6367027c3c9527b2cb90897ad67052bcabf619247.png)
 
 The above figure shows a digital picture represented as a nested list. Each element in the list stores the value of a single pixel. Each pixel is either black or white. A white pixel is represented by `1` and a black pixel by `0`.
 
@@ -4866,15 +4866,15 @@ import PIL.Image as pim
 
 @tab rabbit.png
 
-![](./05-All-Question.assets/rabbit.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/78/78bb7763f8087ab3e528e5f211946558aa36fd81ab0937be80a1b9880bb956ba.png)
 
 @tab panda.png
 
-![](./05-All-Question.assets/panda-20230520181929328.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cb3536e476f3e0abcb9c177d1db7dd3262d39183f0bf132442de32df969bdbdd.png)
 
 @tab hippo.png
 
-![](./05-All-Question.assets/hippo-20230520181949713.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/87/8738926f2b9d218a2597091aab481f97a171e36c13a2b720b035e57d3fa448d7.png)
 
 @tab Answer
 
@@ -4948,7 +4948,7 @@ print(f"Height: {image.height}px")
 
 Using what you have learned about the tools available from Pillow, write a program (yes, a program, so if you write a function, make sure to call it) that creates the following 9 by 7 black and white image, and saves it to a file named 'smile.png'.
 
-![](./05-All-Question.assets/smile.grid.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c9/c9b7b7e4e2d4ef73f1af6103f67c08e840b75c5f18d36d8e771bff0489fb9eca.png)
 
 ::: tabs
 
@@ -5020,7 +5020,7 @@ To practice looping through pixels, write a program that creates a 50 by 50 blac
 
 A diagram of the expected output image is shown here:
 
-![](./05-All-Question.assets/x.grid.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/01/0141b0f96bb408b945f60db49176b86d3302e5f715aa3d34027336ed130e2d45.png)
 
 ### Challenge:
 
@@ -5041,7 +5041,7 @@ image.save('output.png')
 
 To practice filling part of an image with a nested `for` loop, write a program that creates a 32 by 24 black and white image of the following pattern:
 
-![](./05-All-Question.assets/quarts.grid.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4e/4e3ee073b9ee1493821c791244c853c78d05ecd4353d5c16fee0cfd40b3643cc.png)
 
 This pattern is evenly divided into four sections (therefore each section is 12 pixels tall and 16 pixels wide).
 
@@ -5067,19 +5067,19 @@ To perform the negative effect, set each pixel in the output image to the **oppo
 
 Here is an example of the effect your program should produce:
 
-![astronaut.png](./05-All-Question.assets/spaceman.png)
+![astronaut.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/03bdaba378b47e0b2e9c1f6178f63f246a021f789e16548c8a1314d0836ae74a.png)
 
 ```python
 Enter a filename: astronaut.png
 ```
 
-![output.png](./05-All-Question.assets/spaceman-negative.png)
+![output.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/7599544795f7d9beaaae8c344c83d8db8d66366602158d7f07aaa552e0f93f99.png)
 
 ::: tabs
 
 @tab astronaut.png
 
-![](./05-All-Question.assets/spaceman-20230520185855043.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/03bdaba378b47e0b2e9c1f6178f63f246a021f789e16548c8a1314d0836ae74a.png)
 
 @tab code
 
@@ -5168,7 +5168,7 @@ image.save('output.png')
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -5184,4 +5184,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

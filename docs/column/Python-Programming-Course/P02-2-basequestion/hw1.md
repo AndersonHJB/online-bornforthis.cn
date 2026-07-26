@@ -25,5 +25,5 @@ toc: true
 
 **如例：**
 
-![image-20200713094252087](./hw1.assets/fb736dc40ee235cf8565a7d6ed222fd3.png)
+![image-20200713094252087](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3b1286b521f48db7967b4651ad9b1dcbd0281789eee09493aced01759a51887d.png)
 

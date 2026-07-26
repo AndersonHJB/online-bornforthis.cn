@@ -82,7 +82,7 @@ Define a function my_enumerate(items) that behaves in a similar way to the built
 
 >   定义一个函数 my_enumerate(items)，其行为方式与内置的 enumerate 函数类似。它应该返回元组(i, item)的列表，其中 item 是列表项的第 i 个项，原点为0(参见下面的示例)。检查测试用例以了解该功能应该如何工作。你的函数不能调用 python 的内置 enumerate 函数。
 
-![image-20221013112157390](./02-CS-shaoshuai-Python-cs.assets/image-20221013112157390.png)
+![image-20221013112157390](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0e/0e8e996a43d761e33207404e2a4d5f8e6f18d38114a6ed9f90f9923c180ef37c.png)
 
 ```python
 def my_enumerate(items: list):
@@ -105,7 +105,7 @@ Sequences of numbers in which there are frequent "runs" of a particular number r
 
 >   一个特定的数字频繁地重复出现几次的数字序列，通常可以用所谓的“长度编码”来更紧凑地表示。通过将列表表示为一对(2元组)的列表，将其编码为运行长度，其中每对是一个数字和该数字的“运行”长度，如果一个数字出现一次，则长度为1，如果它在一行中出现两次，则长度为2，以此类推。编写一个函数run_length_encode(nums)，它返回整数列表nums的运行长度编码表示。
 
-![image-20221013112904773](./02-CS-shaoshuai-Python-cs.assets/image-20221013112904773.png)
+![image-20221013112904773](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3b30640482ab09cdc49d68985bd728bc0b00823f6638ef51fddc85c4768fbf54.png)
 
 ```python
 def run_length_encode(nums: list):
@@ -132,7 +132,7 @@ Write a function composite2(N) which takes an integer N as an input and returns 
 
 >   编写一个函数composit2 (N)，它接受整数N作为输入，并返回第N个不能被2整除的合数。
 
-![image-20221013114143581](./02-CS-shaoshuai-Python-cs.assets/image-20221013114143581.png)
+![image-20221013114143581](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d1/d13f2642ea94d55322a455ea017d76357e651edb0993e17c2585c9d74045f803.png)
 
 
 
@@ -144,7 +144,7 @@ Write a function composite2(N) which takes an integer N as an input and returns 
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -160,4 +160,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

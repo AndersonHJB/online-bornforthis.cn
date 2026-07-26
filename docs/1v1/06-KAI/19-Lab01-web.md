@@ -60,9 +60,9 @@ You can test your work by clicking the "Mark" button. If your code works as expe
 
 > 你可以通过点击“标记”按钮来测试你的工作。如果您的代码按预期工作，您将看到一个绿色的复选标记，表明您通过了特定的测试;如果没有，您将看到一个红色的“X”，以及描述为什么您的代码不能按预期执行的反馈。
 
-![](./19-Lab01-web.assets/image-20230215224127776.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3c/3cbc3c44f4d4f467c6670158f2cb62ac593910418f707bf3557e58c6bad08e15.png)
 
-![](./19-Lab01-web.assets/image-20230216073915387.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6d/6dbd272d2f34712f674dab6c17cb84847506f472344f3b1d73fc90c1d22ea611.png)
 
 ```html
 <!doctype html>
@@ -143,7 +143,7 @@ Your task is to design a simple website that creates a "collage" of pictures usi
 
 > 你的任务是设计一个简单的网站，只使用HTML和CSS创建一个图片的“拼贴画”。你的成品应该如下图所示:
 
-![](./19-Lab01-web.assets/image-20230215224153746.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9f/9f7002af66275c0afdee0ed7279d56bb82574e70790dba78642cdc1cb70d9bad.png)
 
 Click on the "toggle files" button to show the filesystem and location of the source image assets.
 
@@ -153,15 +153,15 @@ Click on the "toggle files" button to show the filesystem and location of the so
 
 @tab bg.png
 
-![bg](./19-Lab01-web.assets/bg.jpg)
+![bg](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/30c2c0b9869f52d9b0c14a228fa8a2aedc79597afd5acdd3c852d878a7b3ba2d.jpg)
 
 @tab bulbasaur.png
 
-![bulbasaur](./19-Lab01-web.assets/bulbasaur.png)
+![bulbasaur](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/38/382d1343a4800afb4abb7110d597c88595a3b6c43c5059b89614ce4f17bb4808.png)
 
 @tab pikachu.png
 
-![pikachu](./19-Lab01-web.assets/pikachu.png)
+![pikachu](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7b/7bd5a2dcde6757a1553a4775cc8031c7f6a05f86bf593a84d214e04c04ecf804.png)
 
 :::
 
@@ -205,7 +205,7 @@ Set up the pikachu graphic to appear at the top-left side of the solution div, a
 </html>
 ```
 
-![](./19-Lab01-web.assets/image-20230216073928535.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/23/23486c6259c2ea68c13ac0065ee488c910976e41295f00f5385deb967b294610.png)
 
 ## Answer 02
 
@@ -324,7 +324,7 @@ Set up the pikachu graphic to appear at the top-left side of the solution div, a
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -340,4 +340,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

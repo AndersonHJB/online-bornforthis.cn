@@ -60,32 +60,32 @@ if __name__ == '__main__':
 
 代码运行之后，并没有得到网页源码，而是获取到一段 JS 脚本，具体如下所示。
 
-![](./04-That-a-thousand-cat-map-crawler-was-even-anti-crawl-todays-review-to-solve-a-little-Python-crawler-120-examples.assets/6b3fa43046854135aa5899a41c236f39.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e0/e0d64971e4549b5938a432bf738315f2184c1ada4f998e5e31728ff89da1405a.png)
 
 JS 可以先放在一遍，先用开发者工具分析一下请求头中，是否有一些加密相关的参数。
 
 简单对比之后发现，请求头中只在 Cookie 中增加了一个参数，具体如下图所示。
 
-![](./04-That-a-thousand-cat-map-crawler-was-even-anti-crawl-todays-review-to-solve-a-little-Python-crawler-120-examples.assets/c237d927e78b4d7fa30e63b0ec0ed8d0.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8a/8a73e778b499cdd87ede8ca34acca0759bd2c21e1cc61044c211c740549e2217.png)
 
 为了寻找该值的来源，还需要多次点击分页链接，查看该值是否产生过变化，N 次测试之后，得到如下结论:在短时间内，或一定时间内，这个值无变化。
 
 测试的时候，注意勾选保留日志，否则日志会因为页面跳转丢失。
 
-![](./04-That-a-thousand-cat-map-crawler-was-even-anti-crawl-todays-review-to-solve-a-little-Python-crawler-120-examples.assets/48af0c7f5db84c67b891ca9f4e971096.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/af/afeb2974ee2b08b90333a03cab7e106f2a301c45490615daf36dc5366b7e4b94.png)
 
 那接下来就要找到该值的计算方式，即值是如何出现的。
 
 由于该请求是 GET 形式，而且加密形式是依赖 Cookie 实现的，所以需要找到 `set-cookie` 的位置，经过反复请求，得到如下内容。
 
-![](./04-That-a-thousand-cat-map-crawler-was-even-anti-crawl-todays-review-to-solve-a-little-Python-crawler-120-examples.assets/e94f1605d5b24cc38cbf142357d71f48.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8b/8bc44a242ddeeda25f10b2b4b52b367b792d49c1d1f840168869103e7b88bba4.png)
 
 如果出现上图效果，需要两个步骤：
 
 1. 删除已经生成的 cookie；
 2. 网络请求保留日志；
 
-![](./04-That-a-thousand-cat-map-crawler-was-even-anti-crawl-todays-review-to-solve-a-little-Python-crawler-120-examples.assets/7c99b410a7444429b00b9ac7ee5d4cdc.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/72199de89779374153bc157296c788cbd5fe2fb88341edd8d0418b51c463489b.png)
 
 结论，一个简单的二次请求，反爬逻辑。
 
@@ -132,7 +132,7 @@ if __name__ == '__main__':
 
 请求头中的 COOKIE 参数，注意名称的变化。
 
-![](./04-That-a-thousand-cat-map-crawler-was-even-anti-crawl-todays-review-to-solve-a-little-Python-crawler-120-examples.assets/5763476052ee4dab99883aff85764693.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ef/efb31c70221aaebf434d5318cfb4bd6c86b1e88d5a009096e112b9b96ceabf0a.png)
 
 响应的 COOKIE 是 `token` 和 `secret` ，请求的是 `t` 和 `r`。
 
@@ -151,7 +151,7 @@ secret, token = get_cookie(url)
 
 再次运行代码，这个小案例猫咪图片的反爬就被我们成功的的拿下了。
 
-![](./04-That-a-thousand-cat-map-crawler-was-even-anti-crawl-todays-review-to-solve-a-little-Python-crawler-120-examples.assets/902e8aeb94dc4a4192f2690224b0fda1.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8b/8be1c9d7c99a6d43b15388becb4bfef23f1041d927fe4cc26acaf4eb9aaaa4c8.png)
 
 没想到在 Python 爬虫的第 3 例，就碰到一个棘手的反爬，有趣有趣。
 
@@ -165,7 +165,7 @@ secret, token = get_cookie(url)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -181,4 +181,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

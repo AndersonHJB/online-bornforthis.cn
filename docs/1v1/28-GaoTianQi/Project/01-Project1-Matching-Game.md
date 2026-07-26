@@ -75,7 +75,7 @@ Before you start the project, you must watch the videos and complete the quiz un
 
 Matching games are a popular class of games, with titles like Bejeweled and Candy Crush receiving great success over recent years. In this assignment we will create our own basic matching game.
 
-![Bejeweled](./01-Project1-Matching-Game.assets/Bejeweled_deluxe_sc1.jpg)
+![Bejeweled](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d5/d5f8e07e9f5a686f3a25cf65e4a318628ed167d2d0e579223f825e24f4de0af2.jpg)
 
 An example of the Bejeweled matching game (Wikipedia).
 
@@ -90,7 +90,7 @@ board = [['B', 'G', 'B', 'Y'],
 ['B', 'Z', 'Z', 'Z']]
 ```
 
-![Our representation](./01-Project1-Matching-Game.assets/diagram.jpg)
+![Our representation](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3c/3cc321f78c4c9835eb2b580742902c76ece15328fd1b39ae7d6e4cb79072cf5f.jpg)
 
 Note that `board[0][0]` therefore corresponds to the position in the top-left corner of the board. A 4 x 4 board is shown, but our game will allow for boards of sizes up to 99 x 99.
 
@@ -358,15 +358,15 @@ See [PEP-8 comment guidelines](https://www.python.org/dev/peps/pep-0008/#id30).
 
 **NOTE: Per-test scores are shown to a maximum of 2 decimal places. The total score may differ due to rounding.**
 
-![](./01-Project1-Matching-Game.assets/image-20230905125226367.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/35/3513583564555758375951cea9ee5b191293c6890615d7075aca8c421938535f.png)
 
 
 
 ::: details 截图
 
-![](./01-Project1-Matching-Game.assets/image-20230905125259486.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/36/36606411f0f09b37558d8c46c12650a7a608afccbb9e2e241f9f9fd0f4d1d3b5.png)
 
-![](./01-Project1-Matching-Game.assets/image-20230905125336860.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/56/56a75a5667271ea4ce3a8ddf8104cf7a5f40faf316589c74ed4a5eb56524cef7.png)
 
 :::
 
@@ -612,13 +612,13 @@ See [PEP-8 comment guidelines](https://www.python.org/dev/peps/pep-0008/#id30).
 
 **NOTE: Per-test scores are shown to a maximum of 2 decimal places. The total score may differ due to rounding.**
 
-![](./01-Project1-Matching-Game.assets/image-20230905131225307.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/94/949a315ecf018804b37ee6ed2663175b8c113836333e4b42ff7b460d2d54a3b3.png)
 
 ::: details
 
-![](./01-Project1-Matching-Game.assets/image-20230905131307779.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f8/f88b3baf3a82dd67a4adb5f7948e1e6c4dba2823d43f3719c3ee87c18bbd72dc.png)
 
-![](./01-Project1-Matching-Game.assets/image-20230905131344000.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5ff5ca8c8e39642e2717a0a029b356abe53f3ea13198fdf77823cb5679f08255.png)
 
 :::
 
@@ -980,13 +980,13 @@ See [PEP-8 comment guidelines](https://www.python.org/dev/peps/pep-0008/#id30).
 
 :::
 
-![](./01-Project1-Matching-Game.assets/image-20230905132250727.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ef/efc9ba61d8f9e73e126c975fd8f2efb05bc6ab246ed9b5584e5f3d28cf788192.png)
 
 ::: details
 
-![](./01-Project1-Matching-Game.assets/image-20230905132312474.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/04/0490e9af7c95c7a870a4a01617d90c69adb0720ccff24c0aad6e5e8ee66d51e8.png)
 
-![](./01-Project1-Matching-Game.assets/image-20230905132429285.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ee/ee3752615123d13ce25e9d61eb4c612721be4157465c5386b878ada1609a72dd.png)
 
 :::
 
@@ -1363,19 +1363,19 @@ def add_2_tuple(tup0, tup1):
 
 @tab 1
 
-![](./01-Project1-Matching-Game.assets/image-20230905133756435.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e5/e50c3f13a37b05ccad87dfa2281df0f1036545bd920fff8d4fc283bcc94e66d2.png)
 
 @tab 2
 
-![](./01-Project1-Matching-Game.assets/image-20230905133807983.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/66/66a0e0462f828108311492c91992e021d9c057025d2680224c623fa7a079f81c.png)
 
 @tab 3
 
-![](./01-Project1-Matching-Game.assets/image-20230905133948450.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bf/bfee437f10077e6e600c83049889ebc9949fd0478e40c61cfbee5e50350dad72.png)
 
 @tab 4
 
-![](./01-Project1-Matching-Game.assets/image-20230905134015853.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d2/d250b5f18aad668d582128ef9a29a1c6dc0d8923f572e607365e9cee6a17175d.png)
 
 :::
 
@@ -1842,19 +1842,19 @@ def generate_moves(board):
 
 @tab 1
 
-![](./01-Project1-Matching-Game.assets/image-20230905134457289.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9e/9ea3062bd75e3b8f2a8409abaf4b27bfc6991b7c2c355ac237eebc3cb29582a4.png)
 
 @tab 2
 
-![](./01-Project1-Matching-Game.assets/image-20230905134517908.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/29/294c92fbd61d7fab62da3e74a426f615b6f2e77055a6a209b7d4fb969d9e84c4.png)
 
 @tab 3
 
-![](./01-Project1-Matching-Game.assets/image-20230905134541019.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/804e6d4077044128700022cb15f59472eb6dd132cb8075cd5f9b7a6506bccc29.png)
 
 @tab 4
 
-![](./01-Project1-Matching-Game.assets/image-20230905134607381.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ef/ef6c5d8d18373e68175883b6723a1b7739089c6fcb4b45189b9ec8a2c5330365.png)
 
 :::
 
@@ -1862,7 +1862,7 @@ def generate_moves(board):
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1878,4 +1878,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

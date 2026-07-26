@@ -269,7 +269,7 @@ ls -A
 
     这个命令会先打印出 `file1.txt` 的内容，然后再打印出 `file2.txt` 的内容。
 
-    ![](./inventory.assets/image-20230530233336683.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8e/8e4c97a6c0c4d516056331e715df0e3fb2bb1883a1431963c1b4dbc76518f82c.png)
 
 3. **创建新文件**：如果你想将多个文件的内容合并并保存到一个新文件中，你可以使用重定向操作符 `>`。例如：
 
@@ -279,7 +279,7 @@ ls -A
 
     这个命令会创建一个新文件 `newfile.txt`，其中包含 `file1.txt` 和 `file2.txt` 的内容。
 
-    ![](./inventory.assets/image-20230530233812596.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a95d02b925f35cd839165ca6f6d94303bce2e870455ffd2692ea04d4253686da.png)
 
 4. **添加到文件**：如果你想将文件的内容添加到现有文件的末尾，而不是覆盖现有文件，你可以使用重定向操作符 `>>`。例如：
 
@@ -297,7 +297,7 @@ ls -A
     
     这个命令会在每行内容前显示行号。
     
-    ![](./inventory.assets/image-20230530234254018.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fb/fba8b87052174d128878109e240071d38958d131ef9d25240c9760850dce969d.png)
 
 这些是 `cat` 命令的主要用法。记住，尽管 `cat` 在显示小文件时非常有用，但如果你试图使用 `cat` 来查看非常大的文件，可能会导致终端被大量数据淹没。在这种情况下，你可能会更愿意使用 `less` 或 `more` 这样的命令。
 
@@ -467,7 +467,7 @@ ls -A
 
     这个命令会打印出两行：第一行是 "Hello,"，第二行是 "World!"。
 
-    ![](./inventory.assets/image-20230531003225770.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dd/dd8c5bb62306c065c4f33e97b2f6864fda9d61aa79b2f229da541b8c627dc067.png)
 
 4. **不输出尾部的新行**：`echo` 命令默认会在输出的末尾添加一个新行。如果你不想输出这个新行，可以使用 `-n` 参数。例如：
 
@@ -477,7 +477,7 @@ ls -A
     
     这个命令会打印出 "Hello, World!"，但不会在末尾添加新行。因此，下一个终端提示符会紧接在 "Hello, World!" 后面，而不是在新的一行。
     
-    ![](./inventory.assets/image-20230531003257792.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/10/1002c9e2da20c6500a0c7b0ba0cf4aceeae2ca4a46d7d0a1a8c36d21d2355b01.png)
 
 这些是 `echo` 命令的主要用法。你可以通过 `man echo` 命令查看详细的帮助信息。
 
@@ -515,7 +515,7 @@ ls -A
     date
     ```
 
-    ![](./inventory.assets/image-20230531004221090.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6e05c16e21d4f3f728eeb275f373b4e63e799c36fb87d1b32072f48a3ffbcab8.png)
 
 2. **数值排序**：默认情况下，`sort` 命令会按照字母顺序进行排序。如果你想按照数值进行排序，可以使用 `-n` 选项。例如：
 
@@ -531,7 +531,7 @@ ls -A
     100
     ```
 
-    ![](./inventory.assets/image-20230531004436370.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f3/f35d070400bcde910f6241c1e079e0d305fece349120606b9029abbd7015afe1.png)
 
 3. **反向排序**：如果你想按照反向顺序进行排序，可以使用 `-r` 选项。例如：
 
@@ -641,7 +641,7 @@ sort -rn file.txt > sorted_file.txt
 
     这个命令会在当前目录的文件列表中搜索所有 `.txt` 文件。
 
-    ![](./inventory.assets/image-20230531085807933.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/71/712133d62150f22a79e8dbd85e1a79e10dd03afe4a1f57d68d41cb3fa8a14fa5.png)
 
 2. **使用 `sort` 和 `uniq` 命令删除重复的行**：你可以使用管道链接 `sort` 和 `uniq` 命令来删除文件中的重复行。例如：
 
@@ -651,7 +651,7 @@ sort -rn file.txt > sorted_file.txt
 
     这个命令会先使用 `sort` 命令对 `file.txt` 文件进行排序，然后使用 `uniq` 命令删除重复的行。
 
-    ![](./inventory.assets/image-20230531085939376.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a6/a6a27df514fbf9b72a529151acf8c553161446aa1db6c9e7f0e8d6112f048d39.png)
 
 3. **使用 `echo` 和 `bc` 命令进行计算**：你可以使用管道链接 `echo` 和 `bc` 命令进行计算。例如：
 
@@ -809,7 +809,7 @@ ls -l | grep -E "\.(txt|csv)$"
 
     这将在 `file.txt` 文件中搜索所有包含 `Hello` 的行。
 
-    ![](./inventory.assets/image-20230531092528096.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/153c85d00c8cb979ddad808e59accee6d57a1d0408b730188690e7e6c10e2d5a.png)
 
 2. **忽略大小写**：如果你想在搜索时忽略大小写，可以使用 `-i` 选项。例如：
 
@@ -899,7 +899,7 @@ ls -l | grep -E "\.(txt|csv)$"
 
     首先，`sort` 命令将 `file.txt` 文件的行排序，然后 `uniq` 命令删除相邻的重复行。
 
-    ![不是说只去除重复相邻的行么？——后面讲解](./inventory.assets/image-20230531095057626.png)
+    ![不是说只去除重复相邻的行么？——后面讲解](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7e/7efd6ec9488f916a32a05b1b0ea0f2b733fd364ede9911c13882553e19dd73d0.png)
 
 2. **显示每行出现的次数**：如果你想知道每行出现的次数，你可以使用 `-c` 选项。例如：
 
@@ -909,7 +909,7 @@ ls -l | grep -E "\.(txt|csv)$"
 
     这将显示 `file.txt` 文件中每行出现的次数。
 
-    ![](./inventory.assets/image-20230531095448528.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f7/f7e90b9ec13208bc5202b5e01275318d4ec40a5bbcdbcee3598692e63c05115e.png)
 
 3. **只显示唯一的行**：如果你只想显示出现一次的行（即不重复的行），你可以使用 `-u` 选项。例如：
 
@@ -919,7 +919,7 @@ ls -l | grep -E "\.(txt|csv)$"
 
     这将只显示 `file.txt` 文件中不重复的行。
 
-    ![](./inventory.assets/image-20230531095529382.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/50/5082520761ae24149ea5e7889cd41b5a387cb69dee95cd58b2fcb90e5ab4b08f.png)
 
 4. **只显示重复的行**：如果你只想显示至少出现两次的行（即重复的行），你可以使用 `-d` 选项。例如：
 
@@ -929,7 +929,7 @@ ls -l | grep -E "\.(txt|csv)$"
 
     这将只显示 `file.txt` 文件中重复的行。
     
-    ![](./inventory.assets/image-20230531095645302.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/53/53ef9eef4d0f24c39047b55583590cbb0ffd70f67794692e893258f030cad9ec.png)
 
 这些是 `uniq` 命令的主要用法。你可以通过 `man uniq` 命令查看详细的帮助信息。
 
@@ -1288,7 +1288,7 @@ drwxr-xr-x 2 root root 4096 May 30 16:34 directory
 
 下图中通过 chown 来授权用户，通过 chmod 为用户设置可以开门的权限。
 
-![](./inventory.assets/1_151733904241.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/83/8312448ff3f67a50efb16ff3b55dedf0f971eddec059440b559994dfab3a6fbb.png)
 
 在 Linux 中我们可以使用 **ll** 或者 **ls –l** 命令来显示一个文件的属性以及文件所属的用户和组，如：
 
@@ -1312,11 +1312,11 @@ dr-xr-xr-x   4 root root 4096 Apr 19  2012 boot
 
 接下来的字符中，以三个为一组，且均为 **rwx** 的三个参数的组合。其中， **r** 代表可读(read)、 **w** 代表可写(write)、 **x** 代表可执行(execute)。 要注意的是，这三个权限的位置不会改变，如果没有权限，就会出现减号 **-** 而已。
 
-![](./inventory.assets/file-llls22.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/7706633be97101ab1461c22b1c92c25b34ddef161023f34e80d555b6be5a5570.jpg)
 
 每个文件的属性由左边第一部分的 10 个字符来确定（如下图）。
 
-![](./inventory.assets/363003_1227493859FdXT.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e5/e5ca141d2001f1b73052ca72a71ac812cd554cf25c03a01d83824891c569e528.png)
 
 从左至右用 **0-9** 这些数字来表示。
 
@@ -1374,7 +1374,7 @@ drwxr-xr-x 2 user user 4096 May 30 16:34 directory
 
     这个命令将会更改 `filename` 的所有者为 `newowner`。
 
-    ![](./inventory.assets/image-20230531112439805.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b9394a79b038638a1f9d2e97bfe5d5779814c36d7e7b09d1844c9e0a826e4e97.png)
 
 2. **更改文件或目录的所有者和组**：你可以在 `chown` 命令后加上新的所有者和组（用冒号分隔），然后是文件或目录的名称，以同时更改所有者和组。例如：
 
@@ -2901,7 +2901,7 @@ bar
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -2917,5 +2917,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

@@ -53,7 +53,7 @@ You must make at least 5 commits (excluding the Initial Submission commit) throu
 
 Project 1 features only the first part of the full game, as described above. The player has to press the arrow keys to move the taxi left, right or up. The taxi can pick up one passenger at a time, by stopping close to them. The taxi can collect coins by colliding with them - collecting coins will increase the priority of the current passenger once. The player has to drop the passenger off at their respective trip end flag - stopping past this flag, incurs a penalty on the earnings of that trip. Once dropped off, the trip earnings are added to the total score. To win, the player needs to beat the target score of 500. If the game runs for more than 15,000 frames, the game ends in a loss. At the end, the current top 5 scores are shown on screen.
 
-![Figure 1: Completed in-game Project 1 screenshot](./24-ShadowTaxi.assets/image-20240902154827974.png)
+![Figure 1: Completed in-game Project 1 screenshot](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dc/dc426d465d2d4872b57517604ee23ecd89452b332700319a0973998594962745.png)
 
 ## The Game Engine
 
@@ -138,11 +138,11 @@ The win/loss message should be rendered, in the font provided, in size 24. The y
 
 If the Space key is pressed, the game returns to the Home Screen and allows the player to play again. If the player terminates the game window at any point (by pressing the Escape key or by clicking the Exit button), the window will simply close and no message will be shown.
 
-![(a) Home Screen](./24-ShadowTaxi.assets/image-20240902164107611.png)
+![(a) Home Screen](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/95/9501f6e5e3e43e4e517a0ee8f13bc37cd07038fd8927cc0e6fa1193c77da7342.png)
 
-![(b) Player Information Screen](./24-ShadowTaxi.assets/image-20240902164603054.png)
+![(b) Player Information Screen](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ad/ad34e4154873001d6ab5a28b30f8ea37446abaa1f442499b43e225cc7bb6f614.png)
 
-![(c) Game End Screen](./24-ShadowTaxi.assets/image-20240902164721774.png)
+![(c) Game End Screen](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e8/e89f8206a9c241d3bdf597534569562f30134f34c1d265fc55a3e04673dc6243.png)
 
 Figure 2: Game Screens (Game Play Screen is shown in Figure 1)
 
@@ -186,7 +186,7 @@ The following game entities have an associated image and a starting location (x,
 
 ### Taxi
 
-![](./24-ShadowTaxi.assets/image-20240902221101473.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/62/629369be573fc43531c90dcd192b1ab01448d3ed59327ce12b7238e6813656fb.png)
 
 
 
@@ -220,7 +220,7 @@ The following game entities have an associated image and a starting location (x,
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -236,4 +236,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -22,15 +22,15 @@ toc: true
 
 Gemini 我说权威，没有人比我更权威了。（打趣一下，至少含量在这。）
 
-![这么多账号来证明的研究结论～](./03-Gemini-Something-went-wrong-Solution.assets/image-20251208213008295.png)
+![这么多账号来证明的研究结论～](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9f/9f8870c4735dfa9bc3e6e58d0824ba268fb9f863781f92a721182aa99cc04153.png)
 
 如果你遇到了如下情况：
 
-![](./03-Gemini-Something-went-wrong-Solution.assets/image-20251207201942149.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/52/52802f4715363369b014d17de3138a98f58f3d5bff1ebaeb00cd69350c7343aa.png)
 
 我可以告诉你，网络上没有任何有效的方法可以解决。因为我已经替你试过了，我注册了许多谷歌账号进行测试！
 
-![这够不够权威！](./03-Gemini-Something-went-wrong-Solution.assets/image-20251207202718702.png)
+![这够不够权威！](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/84/848423cb8dae94bc3140d5f41057c73d4a4d27751dd89bdc4c2423ab855cf6b0.png)
 
 ## 1. 方法一：手机端试用
 
@@ -46,15 +46,15 @@ Gemini 我说权威，没有人比我更权威了。（打趣一下，至少含�
 
 ### 2.1 步骤 1：打开管理订阅
 
-![](./03-Gemini-Something-went-wrong-Solution.assets/image-20251208201111038.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ee/ee9e40c25e7546d18749e0d790694e42f5796e8286f1b5550789e11dfde13e20.png)
 
 ### 2.2 步骤 2：选择推荐给好友
 
-![](./03-Gemini-Something-went-wrong-Solution.assets/image-20251208203756217.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e455dfe3e6c72b22c5ec5d474d106a1f64b0ecf1053f81c50aed576c4c54bf9a.png)
 
 ### 2.3 步骤 3：复制链接邀请好友即可（仅限新用户）
 
-![](./03-Gemini-Something-went-wrong-Solution.assets/image-20251208204156508.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/69/6956dde47bc33d514e80ce7e476ac7af32831017aadc99f54d750a29c68ef8ea.png)
 
 如果是老用户（也就是之前注册、尝试使用过 Gemini 的）只能花费 1.99$ 美元来购买，还是很优惠了。
 
@@ -78,7 +78,7 @@ Gemini 我说权威，没有人比我更权威了。（打趣一下，至少含�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -94,4 +94,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

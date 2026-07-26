@@ -42,7 +42,7 @@ Draw the memory image for evaluating the following code:
 
 这段 Python 代码首先创建了一个列表 `lst1`，之后又创建了另一个列表 `lst2`，它包含 3 个指向 `lst1` 的引用。这意味着 `lst2` 中的三个子列表实际上是指向同一个对象的引用。
 
-![](./Homework1-Answer.assets/image-20230916175424216.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e3/e30e700b6d0c4b3ef9224b7b2def0e1ea6699a3bb810b247a14ab5d7c6c2546d.png)
 
 
 
@@ -912,7 +912,7 @@ After implementing sections (a)-(f), you should expect the following behavior:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -928,7 +928,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 ::: details
 

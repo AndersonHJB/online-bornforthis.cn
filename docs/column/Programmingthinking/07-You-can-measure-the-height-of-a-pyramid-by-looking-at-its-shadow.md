@@ -26,7 +26,7 @@ toc: true
 
 为了搞清楚什么是抽象，我先给你说一位古希腊的数学家和哲学家的故事，他叫做**毕达哥拉斯**。
 
-![毕达哥拉斯雕塑](./07-You-can-measure-the-height-of-a-pyramid-by-looking-at-its-shadow.assets/8a3ef5a0b8622b3a27c238881bc056df.jpg)
+![毕达哥拉斯雕塑](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/10/108348a82d875d91d25b2246339cf33f252fb7a72d57e2e591b05bd356b558f9.jpg)
 
 据说毕达哥拉斯的老爸是一位特别有钱的**商人**，所以毕达哥拉斯年轻的时候，就可以到处去旅游。不过你要注意啊，毕达哥拉斯可不是光顾着玩，他是去世界各地学习**先进的科学知识和文化**，什么几何、音乐、天文还有各种各样的宗教知识他都学过。
 
@@ -34,7 +34,7 @@ toc: true
 
 这一点，咱们现在会觉得是个常识了。但是在那个年代，却是让人非常非常吃惊的一种说法。因为那个时候，人们并不知道地球是什么样的，说法千奇百怪，有人觉得地球就是个大平面，天就像个碗一样扣在地球上，有人觉得咱们的地球就是一个**大乌龟**，咱们都站在乌龟的背上。
 
-![](./07-You-can-measure-the-height-of-a-pyramid-by-looking-at-its-shadow.assets/71b04302f77b304345abe7a60327cf1f.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/49/49ae52d4650a56401a4785eb2d6417614ef8581758acb0f9f31da7df43bc1e3a.png)
 
 
 
@@ -46,11 +46,11 @@ toc: true
 
 其实，在生活中你也经常在用抽象思维，比如，**量身高**的时候，胖瘦也不重要对吧？所以，咱们就可以把自己的身高抽象成一条线段的长度。还有，在看地图的时候，我们只想知道自己在哪里，眼睛、胳膊、腿啥的都不重要的，我们也可以用抽象的方法把自己抽象成地图上的一个点，这也是抽象思维。
 
-![](./07-You-can-measure-the-height-of-a-pyramid-by-looking-at-its-shadow.assets/722c17f530cb68b45314d1fdeb5842ca.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f0/f05f6dd12c94f1b3d495c53b45f6ef1077433167edeeb738670bdca47d4cd132.jpg)
 
 当然了，抽象思维课不光能抽象出图形，还可以抽象出数字。而且，毕达哥拉斯这个人可以说是把数字抽象给发挥到极致了。他曾经创办过一个学术流派，就叫**毕达哥拉斯学派**。这个学派就特别崇尚一个说法，叫“**万物皆数**”。什么意思呢？
 
-![](./07-You-can-measure-the-height-of-a-pyramid-by-looking-at-its-shadow.assets/6e78e547537bc26ae0c1a5b403c12211.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4a/4a25ce8d77bc15618636c7952b179ceb36c78665ef366cf0c0e87aef6f290727.jpg)
 
 他们就觉得，任何东西都可以抽象成数字。你们班一共有30个同学，可以用数字**30**来表示。森林里有几棵树呢？虽然多了点，但总归是可以数出来的。一个苹果，切成三份，每一份呢，可以用分数**1/3**来表示。
 
@@ -58,7 +58,7 @@ toc: true
 
 我给你举个例子吧，假如有5只猫，每只猫吃了3条鱼，它们一共吃了几条鱼呢？你脑海中浮现的，肯定就是5乘以3等于15，对吧？你肯定不会去想象5只猫，再想象它们吃鱼的样子，然后一条一条数，这也太麻烦了。
 
-![](./07-You-can-measure-the-height-of-a-pyramid-by-looking-at-its-shadow.assets/a27e83a3bc118828ad75758da857b4c3.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3a/3a20ade058e2dc0b2457e58ca90fb325bd7a19385464cd0ff7a4cec012e8bae4.jpg)
 
 在想这个问题的时候，你就把猫和鱼抽象成了数字。当然了，你现在看这个问题可能会觉得太简单了，但其实，这种抽象的能力可**不是天生就有**的。
 
@@ -68,7 +68,7 @@ toc: true
 
 比方说，毕达哥拉斯有一位老师叫**泰勒斯**，他也是一位特别厉害的哲学家和数学家，他就用抽象思维解决过大难题。
 
-![泰勒斯画像](./07-You-can-measure-the-height-of-a-pyramid-by-looking-at-its-shadow.assets/0e8629e3c20ac40c568f69e2ba6f4f72.jpg)
+![泰勒斯画像](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/76/765d55e52052ef8a8042a51b2a59aceadcb52d04912dcf2145840347371f2d90.jpg)
 
 
 
@@ -78,7 +78,7 @@ toc: true
 
 他没有去爬金字塔，而是**站在太阳底下**，让人量自己的**影子**长度。随着太阳移动，我们影子的长度也会不断变化。等影子的长度和自己身高一样的时候，泰勒斯就赶紧让人记下金字塔影子顶点的位置。然后再拿尺子量出金字塔影子的长度就可以了。
 
-![图片来源：Dake](./07-You-can-measure-the-height-of-a-pyramid-by-looking-at-its-shadow.assets/9d99b34160ed3083aac0f3163a14b8d2.png)
+![图片来源：Dake](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/73/733c0c689180ba0def2262d30cf8773cfd2f2113736d79aa830eca2da73801cb.png)
 
 你看，他用的其实就是抽象思维。首先，他把自己的身高、影子的长度还有金字塔的高度都抽象成了一条线的长度。当自己的**影子长度等于身高**的时候，金字塔的影子长度正好也等于它的高度。靠着抽象思维，泰勒斯破解了金字塔高度问题，是不是很巧妙？你也可以试试用这个方法去测量你家小区里树或者是路灯的高度。
 
@@ -88,7 +88,7 @@ toc: true
 
 你可以拿尺子在纸上画一个边长10厘米的正方形，然后把它的对角线连起来，然后量一量**对角线**的长度。它肯定比14厘米长一点，又不到15厘米。
 
-![](./07-You-can-measure-the-height-of-a-pyramid-by-looking-at-its-shadow.assets/c02481d602326001b9adac3acbcdba05.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f66b923d48251239638fae6a1d09c034f1bcae5aa16626b8be304fbb22db3d5f.jpg)
 
 那是不是尺子的精度不够，量不出准确长度呢？
 

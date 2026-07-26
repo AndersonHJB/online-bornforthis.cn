@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](./00-Why-do-you-need-to-have-research-skills.assets/201807181537454271872409.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/32/321c404d63f06f9f6abf5d12e7ceda3be4e06516ce291dd8652c1907e69b306e.jpg)
 
 你好，我是悦创。
 

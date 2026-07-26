@@ -21,7 +21,7 @@ toc: true
 
 > Automate PDF extraction and get structured data instantly with Python’s best tools
 
-![Unstructured data can be a goldmine, but extracting its value can be hard without proper guidance. Image by Leonardo AI](./18-stop-copy-pasting-turn-pdfs-into-data-in-seconds.assets/0*caDeWhhh2VlLxMAU.jpeg)
+![Unstructured data can be a goldmine, but extracting its value can be hard without proper guidance. Image by Leonardo AI](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f8/f887d5909c17e4505fd1d938f0f312241f8b108946ac156fb0967f32163e4900.jpeg)
 
 If you’ve ever copy-pasted information from PDFs to another file, only to have it all corrupted or full of errors, you know the pain. I’ve been facing this challenge daily because my company performs data analysis from public corporate data. This data is usually served to you in the shape of PDFs. I’ve literally spent entire days copy-pasting columns and rows of relevant data tables, in order to get what I need for my analyses.
 
@@ -516,7 +516,7 @@ I’ve literally gained weeks of my time back by automating data extraction. I�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -532,7 +532,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://medium.com/data-science-collective/stop-copy-pasting-turn-pdfs-into-data-in-seconds-c5997d523133)
 

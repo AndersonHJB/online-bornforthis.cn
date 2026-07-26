@@ -53,7 +53,7 @@ The Game of Life is "played" on a board, which is a **2D (two-dimensional) grid 
 3. A live cell with more than three live neighbours dies (overpopulation),
 4. A dead cell with exactly three live neighbours becomes a live cell (reproduction).
 
-![](./04-australian-national-university-homework4-game-of-life.assets/zU5QdARojynDgVtzMDpPJgpX.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fe/fec8d64a3b4cec0154e2b0cb5adf1bc7c6b75c29814107a9d0cc3aafeb4b532d.png)
 
 
 
@@ -90,7 +90,7 @@ For both tasks 1 and 2 you must follow this restriction:
 
 To test your code, click the "Test" button at the bottom right of the workspace. The scaffold file also has two testing functions `test_count_live_neighbors()` and `test_generate_next_board()` that will run the same tests as when you click the Test button. In case you use your "favorite" IDE to implement the function, you can run this function to test the code yourself. To submit your code, click the "Submit" button at the top right corner:
 
-![](./04-australian-national-university-homework4-game-of-life.assets/isehblSKVNC90iZwWXByiJ7E.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/47/479f832837c5d8e2c83bfa6caab894e1cfb1da20ee56512cbf063bd0e7715a08.jpeg)
 
 
 
@@ -98,7 +98,7 @@ To test your code, click the "Test" button at the bottom right of the workspace.
 
 We have provided other functions in the scaffold code file for your pleasure: `draw_board(board)` will be useful when you start designing your own boards, and `evolve_life(initial_generation, number_steps, filename)` which will run your `generate_next_board` for `number_steps` and will generate a GIF animated file ! To generate the animated file with an evolution, you can call one of the provided `evolve_life_pattern(...)` functions. For example calling `evolve_life_beacon(10)` will generate a file named `beacon.gif` with an oscillating pattern of periodicity 2 called "Beacon": 
 
-![](./04-australian-national-university-homework4-game-of-life.assets/2dKROa0nX0LdCMS9PvernPkX.gif)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d4cb0c40bf9d4d6d296c844dad96f0d9297fe00405c5af9014029636e235cacd.gif)
 
 In the scaffold code file you will also find functions for the well known ["Glider Gun"](https://en.wikipedia.org/wiki/Conway's_Game_of_Life#/media/File:Gospers_glider_gun.gif), and "line" and "box" which display simpler boards that you can easily experiment with.  
 
@@ -940,7 +940,7 @@ def generate_next_board(board):
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -956,4 +956,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

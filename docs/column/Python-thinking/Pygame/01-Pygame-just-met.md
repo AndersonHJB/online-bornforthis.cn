@@ -57,11 +57,11 @@ Python 本身具有一些基本功能和函数，但是很明显并不能覆盖�
 
 直接访问：[https://pypi.org/](https://pypi.org/) 所有的第三方库，都会发布在此网站。
 
-![https://pypi.org/](./01-Pygame-just-met.assets/image-20230201093218450.png)
+![https://pypi.org/](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9b/9b3a506f6031e43f5c0394ce85b5bddd21dc3ba80cebb3a251ea7366d4838e6a.png)
 
 查询自己想要的第三方库，比如下图查询我自己开发的库：Code1v1
 
-![Code1v1](./01-Pygame-just-met.assets/image-20230202091754703.png)
+![Code1v1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2a/2a191fe0971f8a44fe82d07d8d3603bcce330a5b26c9f792f6a496abe7900af3.png)
 
 ### 1.2 第三方库如何安装？
 
@@ -93,7 +93,7 @@ pip install pygame
 
 如果实在不清楚，可以直接查询所需要的库，网站都会给你提供安装命令。
 
-![](./01-Pygame-just-met.assets/image-20230201095129512.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d1/d19f27c70055322697b248bb9b2945af518ff342919e200b330039e55c8ea8d8.png)
 
 :::
 
@@ -113,15 +113,15 @@ pip install pygame
 
 1. 打开终端
 
-![](./01-Pygame-just-met.assets/image-20230201100404613.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f0/f0602a030ca357da2feee5a322c6a1b494c30aee8456e0e27a10fa49b5f788f1.png)
 
 2. 点击其他、终端
 
-![](./01-Pygame-just-met.assets/image-20230201100454675.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2d745f84fba28e499ac3a04fe6afc4e455021240f12db513f344e10a1e83badb.png)
 
 3. 输入安装命令：`pip3 install pygame`
 
-![](./01-Pygame-just-met.assets/image-20230201100551353.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/55/55011428a2c276500969f8927dc3a6cf3bb121182b28ead6464841f51afeed63.png)
 
 4. 安装完成
 
@@ -131,7 +131,7 @@ pip install pygame
 
 ::: center
 
-<img src="./01-Pygame-just-met.assets/image-20230201095723586.png" alt="image-20230201095723586" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cf/cf9b21a492f25f41344ab7c6070de7557cf82396a3716688f19795c2bf127c63.png" alt="image-20230201095723586" style="zoom:50%;" />
 
 :::
 
@@ -139,25 +139,25 @@ pip install pygame
 
 ::: center
 
-<img src="./01-Pygame-just-met.assets/image-20230201095847912.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/22/226271b4510a741d33adabdc43a20a183948b9d63d549f710b47685306afce19.png" style="zoom:50%;" />
 
 :::
 
 3. 出现命令行「终端」
 
-![cmd](./01-Pygame-just-met.assets/image-20230201095921366.png)
+![cmd](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/40/40f10620d0ebe96e611a93ac755b6f80c71562d58956fe411c8855861ea3e29c.png)
 
 4. 输入安装命令并回车，`pip install pygame`
 
-![pip install pygame](./01-Pygame-just-met.assets/image-20230201100013859.png)
+![pip install pygame](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ce/ce13a0b327067e83365eb1c142e28ece7aa811a095b1146db48d5b4e04b07520.png)
 
 5. 正在安装
 
-![](./01-Pygame-just-met.assets/image-20230201100141735.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/00/002778b93961aecfcdbdf10c95e80170ddf42353019ba6e90897078818f503bc.png)
 
 6. 安装完成
 
-![](./01-Pygame-just-met.assets/image-20230201100622094.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/be/be83cc0ba5abe1e2262a477e9e652604425766a780df05c2550b8fa958c4fd91.png)
 
 ## 2. Pygame 简单介绍
 
@@ -175,9 +175,9 @@ Pygame 是 Python 中比较流行的游戏库，它提供的函数能够处理�
 
 ::: center
 
-<img src="./01-Pygame-just-met.assets/image-20230201101351108.png" alt="1" style="zoom: 25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/91c81bc89d5e4aedff88307c97cb524068b2090ee68bcaee6ac542d033e0a001.png" alt="1" style="zoom: 25%;" />
 
-![2](./01-Pygame-just-met.assets/image-20230201101417523.png)
+![2](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/65/65b7a1f8844270ba81b223407bcd3c2dd3cd49c08b700c586d3113357ea288d7.png)
 
 :::
 
@@ -226,7 +226,7 @@ pygame.examples.aliens.main()
 
 **游戏界面：**
 
-![aliens](./01-Pygame-just-met.assets/image-20230201102607143.png)
+![aliens](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/74f35033386cefaac907ea77f47945658da0fa661f8bb0bf812c0fa623439aef.png)
 
 
 
@@ -242,7 +242,7 @@ pygame.examples.stars.main()
 
 **游戏界面：**
 
-![stars](./01-Pygame-just-met.assets/image-20230201102734032.png)
+![stars](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/73/7353643fe1180b14014a54e046e3ffd41f3243198c7efa3e5e67ab5014f06852.png)
 
 @tab 3. chimp
 
@@ -256,7 +256,7 @@ pygame.examples.chimp.main()
 
 **游戏界面：**
 
-![chimp](./01-Pygame-just-met.assets/image-20230201102952446.png)
+![chimp](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7e/7e694872522966e8d7933f338583459cc997bec1933347bbe4fc0cef735a9316.png)
 
 @tab 4. moveit
 
@@ -270,7 +270,7 @@ pygame.examples.moveit.main()
 
 **游戏界面：**
 
-![moveit](./01-Pygame-just-met.assets/image-20230201103224675.png)
+![moveit](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8a/8a96784efadb07cf99a3ed9267133320c7684357c0b4338f7d19ea606e3aa5be.png)
 
 @tab 5. fonty
 
@@ -284,7 +284,7 @@ pygame.examples.fonty.main()
 
 **游戏界面：**
 
-![fonty](./01-Pygame-just-met.assets/image-20230201105334967.png)
+![fonty](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b8/b86e30de4a5cd3b664322310614c9e0d17fcd34dcd064566590b725fed393735.png)
 
 ::::
 
@@ -314,7 +314,7 @@ screen = pygame.display.set_mode(screen_size)  # screen 接收了 pygame 建立�
 
 接下来，我们可以运行看看效果，注意这个窗口会一闪而过，如下图：
 
-![](./01-Pygame-just-met.assets/image-20230202101243986.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/7770cd792aaceaa9278f810050798c052e870e45d2fd16930d821f60508c6bf8.png)
 
 ### 3.3 代码解析
 
@@ -333,7 +333,7 @@ screen = pygame.display.set_mode(screen_size)  # screen 接收了 pygame 建立�
 
 进入游戏时需要加载游戏——可理解为：游戏初始化，下图为 QQ 飞车进入时的加载「初始化」。
 
-![QQ 飞车游戏加载界面](./01-Pygame-just-met.assets/image-20230202093938192.png)
+![QQ 飞车游戏加载界面](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/69/69bc5cba4c8df7bf2e8ac539ef73ffcfcfc0dd1802796285bd6a279db7c5c9a9.png)
 
 #### 3.3.3 窗口大小设置
 
@@ -433,7 +433,7 @@ while True:
 
 运行效果：
 
-![](./01-Pygame-just-met.assets/image-20230212195031928.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/11/11e90ab63f236625d68a6766e54776e484638e90913a79289ad01be1271bc41d.png)
 
 ### 5.2 设置窗口背景颜色
 

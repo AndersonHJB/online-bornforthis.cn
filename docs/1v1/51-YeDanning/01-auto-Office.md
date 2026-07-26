@@ -36,31 +36,31 @@ footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https:/
 
 @tab 1
 
-![](./01-auto-Office.assets/image-20230824212159724.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7d/7de170819bf16788f33797350793cdf72b5f22d98e770099756a56fd070c1ee4.png)
 
 @tab 2
 
-![](./01-auto-Office.assets/image-20230824212224478.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/72ac12f7131dee4bc8a075ece97f28aa78b02d90774a73b4883cb9ae651a2148.png)
 
 @tab 3
 
-![](./01-auto-Office.assets/image-20230824212432597.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/ea11d2988cbb78c1ff3da84a31afba7fc2fde1cf834692c3a65991117f123f6a.png)
 
 @tab 4
 
-![](./01-auto-Office.assets/image-20230824212503199.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cbcf399b3dac45fb4e12bf73eafbdbb731724e6b2fca279ec2f5b206c45a9927.png)
 
 @tab 5
 
-![](./01-auto-Office.assets/image-20230824212535891.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5c/5c8b48fc09169161d08d3fb1467a0b0e4227ebae56c3d0672e40939d9c874e7b.png)
 
 @tab 6
 
-![](./01-auto-Office.assets/image-20230824212618227.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f0/f00b10eeef39f8bc87cc379913c6b343415b8f37622f81ab3f7c5704df23961d.png)
 
 @tab 7
 
-![](./01-auto-Office.assets/image-20230824212648857.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/43/430bec6fd7949efe73cccdcdf456660f7cc9bd6d8978c33bac6e6d96b96e3886.png)
 
 :::
 
@@ -105,15 +105,15 @@ footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https:/
 
 @tab 效果图片
 
-![](./01-auto-Office.assets/image-20230826233025636.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9c/9c4c9f1d3ef602c515dba3af5151613ea10ada6405a2fb59099f785e1eb353ef.png)
 
 @tab 图-1
 
-![图-1](./01-auto-Office.assets/image-20230824214938623.png)
+![图-1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3d/3d55446dd5e050735bc2d49831098d4ca40d854b2cde3b3dd3c944035a31dcb0.png)
 
 @tab 图-2
 
-![](./01-auto-Office.assets/image-20230904220741800.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5f4e3087dd430dd9e950c2d2c6e0b1254e0497b175210e88423984e1580d68c4.png)
 
 ::::
 
@@ -129,11 +129,11 @@ footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https:/
 
 @tab 产品中对应的基金名称
 
-![](./01-auto-Office.assets/image-20231007163903220.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/eaacc5998c90f83b0b3ab6ed6b94a62d1f5ffe77e7804449f056b0a2d165a528.png)
 
 @tab 追加到输出文件.xlsx
 
-![](./01-auto-Office.assets/image-20231007164043310.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/66/6691924a51124c920b8572c9c02cccaa28b5f0d573c416427f955d2ca67e92c0.png)
 
 :::
 
@@ -147,7 +147,7 @@ footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https:/
 
 提取每个 产品2估值表中的”资产净值“所对应的“市值的本币”
 
-![](./01-auto-Office.assets/image-20231007165501430.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/05/055ac9c7838de53e32eabbc6d9d36521b2e8d71a1233bc775fc3f66294a550c1.png)
 
 ```python
 import pandas as pd
@@ -178,11 +178,11 @@ print(cp1, cp2)
 
 @tab 数据点 2
 
-![](./01-auto-Office.assets/image-20231007170127775.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c8/c8dcf3697e7522668de5d48e61b60b950a95bce01db009aec3ca747125850d24.png)
 
 @tab 数据点 3
 
-![](./01-auto-Office.assets/image-20231007170742648.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/38/38618d4ae6132fef0902ad3c8adeebc6e023f6318b8e637171bde7bc9e59a71e.png)
 
 :::
 
@@ -359,7 +359,7 @@ import pandas as pd, openpyxl
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -375,5 +375,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

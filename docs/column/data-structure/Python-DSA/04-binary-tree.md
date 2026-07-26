@@ -36,7 +36,7 @@ class TreeNode:
 
 **在二叉树中，除叶节点外，其他所有节点都包含子节点和非空子树**。如图 7-1 所示，如果将“节点 2”视为父节点，则其左子节点和右子节点分别是“节点 4”和“节点 5”，左子树是“节点 4 及其以下节点形成的树”，右子树是“节点 5 及其以下节点形成的树”。
 
-![图 7-1  父节点、子节点、子树](./04-binary-tree.assets/image-20240926215244352.png)
+![图 7-1  父节点、子节点、子树](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7d/7dd4ba7d2328e8cab09a5b9c527570c4668186d03cc7814bcdc3c4159cecf33e.png)
 
 ## 1. 常见的术语
 
@@ -51,7 +51,7 @@ class TreeNode:
 - 节点的深度（depth）：从根节点到该节点所经过的边的数量。
 - 节点的高度（height）：从距离该节点最远的叶节点到该节点所经过的边的数量。
 
-![](./04-binary-tree.assets/image-20240926222913111.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/db/db9e05471f119cb5ae4f58aaa9ea59fc6579f35666779137f18a494c41ca2e0b.png)
 
 
 
@@ -89,7 +89,7 @@ n2.right = n5
 
 与链表类似，在二叉树中插入与删除节点可以通过修改指针来实现。图 7-3 给出了一个示例。
 
-![图 7-3  在二叉树中插入与删除节点](./04-binary-tree.assets/image-20240927212047796.png)
+![图 7-3  在二叉树中插入与删除节点](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3e/3e443ecd98dfadff411d7eb00c08e204adb93ac88848e5a6bed762d8fbcd651a.png)
 
 ```python
 # 插入与删除节点
@@ -119,7 +119,7 @@ n1.left = n2
 
 :::
 
-![图 7-4  完美二叉树](./04-binary-tree.assets/image-20240927213228830.png)
+![图 7-4  完美二叉树](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/18/18724c3b832cce636f1cc7df48d55903e186dcd667ca642d83e06ee9cdccda3c.png)
 
 
 
@@ -137,7 +137,7 @@ n1.left = n2
 
 如图 7-5 所示，完全二叉树（complete binary tree）只有最底层的节点未被填满，且最底层节点尽量靠左填充。
 
-![图 7-5  完全二叉树](./04-binary-tree.assets/image-20240927214143068.png)
+![图 7-5  完全二叉树](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/06/06a90c537aa63113820533406bbc4a3298f04b475ecf7fad86ab8f2fc2d9ff37.png)
 
 
 
@@ -147,7 +147,7 @@ n1.left = n2
 
 如图 7-6 所示，完满二叉树（full binary tree）除了叶节点之外，其余所有节点都有两个子节点。
 
-![图 7-6  完满二叉树](./04-binary-tree.assets/image-20240927214620769.png)
+![图 7-6  完满二叉树](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/03dc15e71393645b7b03cc5ddcd5abf1ed2a908e0abe32651a39ef6e9fcc3a9e.png)
 
 
 
@@ -161,7 +161,7 @@ n1.left = n2
 
 如图 7-7 所示，平衡二叉树（balanced binary tree）中任意节点的左子树和右子树的高度之差的绝对值不超过 1 。
 
-![图 7-7  平衡二叉树](./04-binary-tree.assets/image-20240927215824442.png)
+![图 7-7  平衡二叉树](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2a/2ac42443c8b639b5e9785f38092ab8a17fc704e7ffc1b19f66334df5b4d92e3b.png)
 
 
 
@@ -174,7 +174,7 @@ n1.left = n2
 - 完美二叉树是理想情况，可以充分发挥二叉树“分治”的优势。
 - 链表则是另一个极端，各项操作都变为线性操作，时间复杂度退化至 $O(n)$。
 
-![图 7-8  二叉树的最佳结构与最差结构](./04-binary-tree.assets/image-20240927220539701.png)
+![图 7-8  二叉树的最佳结构与最差结构](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a9553e3124137418c19c9c29494f08837beb2068c8751fb7acfec5599a4ce51f.png)
 
 如表 7-1 所示，在最佳结构和最差结构下，二叉树的叶节点数量、节点总数、高度等达到极大值或极小值。
 
@@ -397,7 +397,7 @@ display(root)  # 打印二叉树
 
 层序遍历本质上属于广度优先遍历（breadth-first traversal），也称广度优先搜索（breadth-first search, BFS），它体现了一种“一圈一圈向外扩展”的逐层遍历方式。
 
-![图 7-9  二叉树的层序遍历](./04-binary-tree.assets/image-20241010223109713.png)
+![图 7-9  二叉树的层序遍历](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/54/5490c22bad5ba2f02ffad36ac213356c90b62a60ced304e00dd74ba598a6dd07.png)
 
 #### 6.1.1 代码实现
 
@@ -709,7 +709,7 @@ List<int> LevelOrder(TreeNode root) {
 
 :::
 
-![](./04-binary-tree.assets/image-20241010231752514.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/09/097e78c5abacd15927c64177bda6a6e94038296dcf44a91f375ee4a210933354.png)
 
 #### 6.1.2 复杂度分析
 
@@ -722,7 +722,7 @@ List<int> LevelOrder(TreeNode root) {
 
 图 7-10 展示了对二叉树进行深度优先遍历的工作原理。**深度优先遍历就像是绕着整棵二叉树的外围“走”一圈**，在每个节点都会遇到三个位置，分别对应前序遍历、中序遍历和后序遍历。
 
-![图 7-10  二叉搜索树的前序、中序、后序遍历](./04-binary-tree.assets/image-20241013213556617.png)
+![图 7-10  二叉搜索树的前序、中序、后序遍历](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b4/b45b60fc9937ddb06ec430b07e406a3467ed642b9b4299c4e38807e7b5c3186a.png)
 
 
 
@@ -881,49 +881,49 @@ void PostOrder(TreeNode? root) {
 
 @tab 1
 
-![](./04-binary-tree.assets/image-20241013220133007.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/938a8a1e43111e2027f5fb562086af5dc4f43f098b0e424e0f3b44e8cf33c231.png)
 
 @tab 2
 
-![](./04-binary-tree.assets/image-20241013220214063.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9a/9a518802d6934dab8a9498f49afaf17bc9e7105e96962e8e93b35385c0681941.png)
 
 @tab 3
 
-![](./04-binary-tree.assets/image-20241013220231748.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/98/98e681c2601f0d583f9eb76ef8095820507cd92185ae06961623b03c0129e50c.png)
 
 @tab 4
 
-![](./04-binary-tree.assets/image-20241013220521661.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/32/32f7ad77601d4257dced661fd14294da40d41120ee1abdcb11ecb9e19489d492.png)
 
 @tab 5
 
-![](./04-binary-tree.assets/image-20241013222126142.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/9109012afaf7982ee821d590c4f4ac06b381ce629e78891c8cc0a7152a233b1b.png)
 
 @tab 6
 
-![](./04-binary-tree.assets/image-20241013222209139.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/60/6089a243f61138418c5eec6ffaa445c2e3fe5915b826e0a2921da945442cb5d9.png)
 
 
 
 @tab 7
 
-![](./04-binary-tree.assets/image-20241013222320368.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d5/d5de7547ebad29f1faeb2c2dcd7bb2deeadee9137317f58385ef9d79d2f23b90.png)
 
 @tab 8
 
-![](./04-binary-tree.assets/image-20241013222357205.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/35/35fc8b1a0887541705a4a7b091126a0f63058a06aa11cfdffaade6cee8225b94.png)
 
 @tab 9
 
-![](./04-binary-tree.assets/image-20241013222410827.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/04/0422df571602e3ade6ddb8d911e92f6fadcd529a6d6641b6f60ec77cfcdffad8.png)
 
 @tab 10
 
-![](./04-binary-tree.assets/image-20241013222432996.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b1/b1faff649ff18858643bc7a697b15409104ba801fc88cf6e775670b6f471d326.png)
 
 @tab 11
 
-![](./04-binary-tree.assets/image-20241013222504467.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/69/69505fdccc7dd874411e4882345ca853a2fc8ab94ea9195510d3364575f31368.png)
 
 :::
 
@@ -952,7 +952,7 @@ void PostOrder(TreeNode? root) {
 
 根据层序遍历的特性，我们可以推导出父节点索引与子节点索引之间的“映射公式”：**若某节点的索引为 $i$ ，则该节点的左子节点索引为 $2i+1$ ，右子节点索引为 $2i+2$** 。图 7-12 展示了各个节点索引之间的映射关系。
 
-![图 7-12  完美二叉树的数组表示](./04-binary-tree.assets/image-20241013222841272.png)
+![图 7-12  完美二叉树的数组表示](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/54/5444a3e745d4261214e6210d3c4c47e3c2ba0d88fd866eb691ae6d6d9f9bd2e1.png)
 
 **映射公式的角色相当于链表中的节点引用（指针）**。给定数组中的任意一个节点，我们都可以通过映射公式来访问它的左（右）子节点。
 
@@ -962,7 +962,7 @@ void PostOrder(TreeNode? root) {
 
 如图 7-13 所示，给定一棵非完美二叉树，上述数组表示方法已经失效。
 
-![图 7-13  层序遍历序列对应多种二叉树可能性](./04-binary-tree.assets/image-20241013223237318.png)
+![图 7-13  层序遍历序列对应多种二叉树可能性](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1f/1f0c50a34ff6e6e12173420b0ddc46b34a77b1009e98212d0c7d7e768e4ffd17.png)
 
 为了解决此问题，**我们可以考虑在层序遍历序列中显式地写出所有 `None`** 。如图 7-14 所示，这样处理后，层序遍历序列就可以唯一表示二叉树了。示例代码如下：
 
@@ -972,13 +972,13 @@ void PostOrder(TreeNode? root) {
 tree = [1, 2, 3, 4, None, 6, 7, 8, 9, None, None, 12, None, None, 15]
 ```
 
-![图 7-14  任意类型二叉树的数组表示](./04-binary-tree.assets/image-20241014083819430.png)
+![图 7-14  任意类型二叉树的数组表示](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0f/0fb8ac6aaa221d148ce6afab28cc5fd2cf4442abf0a7d71ee0a7f77db99248e1.png)
 
 值得说明的是，**完全二叉树非常适合使用数组来表示**。回顾完全二叉树的定义，`None` 只出现在最底层且靠右的位置，**因此所有 `None` 一定出现在层序遍历序列的末尾**。
 
 这意味着使用数组表示完全二叉树时，可以省略存储所有 `None` ，非常方便。图 7-15 给出了一个例子。
 
-![图 7-15  完全二叉树的数组表示](./04-binary-tree.assets/image-20241014083858818.png)
+![图 7-15  完全二叉树的数组表示](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/20/20899e11f49adffcb05d7301a3aa2d7c359e2ed0ae857ade93e807fcf90b2308.png)
 
 以下代码实现了一棵基于数组表示的二叉树，包括以下几种操作。
 
@@ -1081,7 +1081,7 @@ class ArrayBinaryTree:
 1. 对于根节点，左子树中所有节点的值 < 根节点的值 < 右子树中所有节点的值。
 2. 任意节点的左、右子树也是二叉搜索树，即同样满足条件 `1.` 。
 
-![图 7-16  二叉搜索树](./04-binary-tree.assets/image-20241014084036941.png)
+![图 7-16  二叉搜索树](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ca/ca764a0fee59bd1c8b5fb1196b08bf49c1ea5cd9814d88f3012c8fc5ff6081a2.png)
 
 ### 8.1 二叉搜索树的操作
 
@@ -1099,19 +1099,19 @@ class ArrayBinaryTree:
 
 @tab 1
 
-![](./04-binary-tree.assets/image-20241014084149056.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a8/a89a4fbea7e9f80b394d8e34c2f85138afef813f254958190ba562b9590500ea.png)
 
 @tab 2
 
-![](./04-binary-tree.assets/image-20241014084205749.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/92/920863be152f937f3e7ebea179fe944fc708ddb5b97b46b85aec7921f2321ac3.png)
 
 @tab 3
 
-![](./04-binary-tree.assets/image-20241014084225794.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/158562f83b3c30cdba46d2b24b7383ccf1066568343a439d5f66082913f4dcf6.png)
 
 @tab 4
 
-![](./04-binary-tree.assets/image-20241014084245097.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bf/bf246ebef900f94b1d70afd33cde83cc047f77c55abea6abacc8423f5c42c5dc.png)
 
 :::
 
@@ -1326,7 +1326,7 @@ if __name__ == '__main__':
 1. **查找插入位置**：与查找操作相似，从根节点出发，根据当前节点值和 `num` 的大小关系循环向下搜索，直到越过叶节点（遍历至 `None` ）时跳出循环。
 2. **在该位置插入节点**：初始化节点 `num` ，将该节点置于 `None` 的位置。
 
-![图 7-18  在二叉搜索树中插入节点](./04-binary-tree.assets/image-20241014090050059.png)
+![图 7-18  在二叉搜索树中插入节点](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/96/966c468381fc2a5a1c48a129262a2d01fa712894d60391f70fe813000d82f36c.png)
 
 在代码实现中，需要注意以下两点。
 
@@ -1498,11 +1498,11 @@ if __name__ == '__main__':
 
 如图 7-19 所示，当待删除节点的度为 $0$ 时，表示该节点是叶节点，可以直接删除。
 
-![图 7-19  在二叉搜索树中删除节点（度为 0 ）](./04-binary-tree.assets/image-20241014090627316.png)
+![图 7-19  在二叉搜索树中删除节点（度为 0 ）](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/be/be9e23a184605c812270b8577d9d10a38e90d536ca90a72ee3f645edf3b8556f.png)
 
 如图 7-20 所示，当待删除节点的度为 $1$ 时，将待删除节点替换为其子节点即可。
 
-![图 7-20  在二叉搜索树中删除节点（度为 1 ）](./04-binary-tree.assets/image-20241014090710995.png)
+![图 7-20  在二叉搜索树中删除节点（度为 1 ）](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/9365da7fc9773671ada5e727f230e320ed5ddcb5ddcb4f599809ac99e2a60778.png)
 
 
 
@@ -1517,19 +1517,19 @@ if __name__ == '__main__':
 
 @tab 1
 
-![](./04-binary-tree.assets/image-20241014090827191.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d5/d58d44ccc94dbe06ac14061eb1bc6da462da9c4f5f48c0291abdaf03981692a4.png)
 
 @tab 2
 
-![](./04-binary-tree.assets/image-20241014090843306.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/45/45ecdd41a11ca268574f32e936d9ec9590cdf95de9e231380b3077d104491336.png)
 
 @tab 3
 
-![](./04-binary-tree.assets/image-20241014090901855.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/16f661ace5a0c0475408102359ca5796160a82a1202da9a4e28aba79f86836ad.png)
 
 @tab 4
 
-![](./04-binary-tree.assets/image-20241014090915435.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/58/5803dc526831aea0ae47feec58dc398d4ecf28f61d47e1395208cb8aaf706c6e.png)
 
 :::
 
@@ -1782,7 +1782,7 @@ if __name__ == "__main__":
 
 利用中序遍历升序的性质，我们在二叉搜索树中获取有序数据仅需 $O(n)$ 时间，无须进行额外的排序操作，非常高效。
 
-![图 7-22  二叉搜索树的中序遍历序列](./04-binary-tree.assets/image-20241014091217876.png)
+![图 7-22  二叉搜索树的中序遍历序列](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/67/670ef133a4f20fb6efa5f4c8f92aab6cea285478c0c7b76ff2d4763d75f27b84.png)
 
 ### 8.2 二叉搜索树的效率
 
@@ -1804,7 +1804,7 @@ if __name__ == "__main__":
 
 然而，如果我们在二叉搜索树中不断地插入和删除节点，可能导致二叉树退化为图 7-23 所示的链表，这时各种操作的时间复杂度也会退化为 $O(n)$ 。
 
-![图 7-23  二叉搜索树退化](./04-binary-tree.assets/image-20241014093257883.png)
+![图 7-23  二叉搜索树退化](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c0/c0e40ac3461f5d99da121a6d7110969a0666a8bda63a671abe0b5cf55e3f737b.png)
 
 
 
@@ -1822,7 +1822,7 @@ if __name__ == "__main__":
 
 如图 7-24 所示，经过两次删除节点操作，这棵二叉搜索树便会退化为链表。
 
-![图 7-24  AVL 树在删除节点后发生退化](./04-binary-tree.assets/image-20241015094723871.png)
+![图 7-24  AVL 树在删除节点后发生退化](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/53/5379ef08786369e36949b34d5dfffdfab569eeedc0f02a09d5fa7ab27c918a03.png)
 
 
 
@@ -1912,7 +1912,7 @@ if __name__ == "__main__":
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1928,4 +1928,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

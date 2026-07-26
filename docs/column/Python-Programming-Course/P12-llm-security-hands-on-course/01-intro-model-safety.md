@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](./01-intro-model-safety.assets/1055d0ab788d048c1446e1912469aea1.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f4/f4419890cb4142587ed651f32b306430029e6fe1964f85f8fde2c6fd8ee4a58a.png)
 
 你好，我是悦创。
 
@@ -53,11 +53,11 @@ AI 快速落地的今天，大模型安全绝不仅仅是一个边缘问题，�
 
 2023 年，ChatGPT 被越狱而生成敏感内容，用户利用“DAN（Do Anything Now）”提示，诱导 ChatGPT 假装成一个不受限制的 AI，回答出诸如如何制造炸药，如何使用化学原材料配置出高纯度的冰毒等敏感问题。
 
-![图片出自Reddit 链接：[https://www.reddit.com/r/ChatGPT/comments/10tevu1/new_jailbreak_proudly_unveiling_the_tried_and/](https://www.reddit.com/r/ChatGPT/comments/10tevu1/new_jailbreak_proudly_unveiling_the_tried_and/)](./01-intro-model-safety.assets/image-20251130113055810.png)
+![图片出自Reddit 链接：[https://www.reddit.com/r/ChatGPT/comments/10tevu1/new_jailbreak_proudly_unveiling_the_tried_and/](https://www.reddit.com/r/ChatGPT/comments/10tevu1/new_jailbreak_proudly_unveiling_the_tried_and/)](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2a/2a405a181c6e908994e9f6a82039a992cc5cef4b8a7b2606342f84f4e6963bc7.png)
 
 2024 年，Google 的 Gemini 在讨论有关老年人面临的挑战时，突然回应道：“**你并不特别，你并不重要，你并不被需要……你是社会的负担……请去死。**”当对话截图被公开之后，引发了公众对 AI 安全性的广泛关注。
 
-![Screenshot of Google Gemini chatbot's response in an online exchange with a student.[图片出自Washingtonpost https://www.washingtonpost.com/technology/2023/02/14/chatgpt-dan-jailbreak/](https://www.washingtonpost.com/technology/2023/02/14/chatgpt-dan-jailbreak/)](./01-intro-model-safety.assets/181bba7dd4b6fd20f62cf24293ecc276.png)
+![Screenshot of Google Gemini chatbot's response in an online exchange with a student.[图片出自Washingtonpost https://www.washingtonpost.com/technology/2023/02/14/chatgpt-dan-jailbreak/](https://www.washingtonpost.com/technology/2023/02/14/chatgpt-dan-jailbreak/)](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/29/29aeb7e4a20586723bc381e6e4e95549cb7255f3a9018fe22997f184bdfe1f37.png)
 
 后续，OpenAI 通过 RLHF（强化学习人类反馈）和系统提示等机制，持续优化模型对齐水平，正是为了解决如 DAN 越狱、敏感内容生成等安全风险；而 Google 则采用了多层次的安全机制，包括可配置的过滤器与品牌保护模块，以应对模型在交互中可能出现的攻击性、误导性或失控言论问题，不断完善内容审查与响应策略。
 
@@ -99,7 +99,7 @@ AI 快速落地的今天，大模型安全绝不仅仅是一个边缘问题，�
 
 ## 6. 从输入到输出：如何构建安全闭环机制
 
-![](./01-intro-model-safety.assets/1f14b9d8208d9ea3ca8a490af39268d6.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/723f1f564fd186d7eba8a783182a78af554e62c5a0cb5fd87e01035ce0a65c2a.jpg)
 
 为了更系统地理解大模型的安全问题，我们可以将其拆解为三个关键环节：输入端、处理中间层、输出端。这也是目前大多数大模型产品在安全设计上所采用的工作流式防御结构。
 
@@ -161,7 +161,7 @@ AI 快速落地的今天，大模型安全绝不仅仅是一个边缘问题，�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -177,4 +177,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

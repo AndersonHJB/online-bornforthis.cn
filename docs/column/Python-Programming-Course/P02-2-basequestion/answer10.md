@@ -65,7 +65,7 @@ and 是 python 逻辑运算里的与运算。
 
 4. 下面程序的执行结果是\_\_\_\_\_\_\_\_\_\_\_。
 
-![](./q10.assets/41b209ed7985dc2f7333fce665b55167.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e3/e34f45f759782dbaf941e8e1184149c97516484ecf26da4c2ebb55d412861d2a.png)
 
 ::: tip 答案解析
 
@@ -159,7 +159,7 @@ for i in range(len(x)):
 
 11. 请写出以下代码的执行结果：
 
-![](./q10.assets/784dde09ac8178ddcf851290a9d2369d.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5b/5bc595d48b37a20e0f0e5e54cad79f9f5c970a2d0ca6e231aad213c766961294.png)
 
 ::: tip 答案解析
 
@@ -197,7 +197,7 @@ print('长方形的面积为：'+ str(area))
 
 ::: tip 答案解析
 
-![](./answer10.assets/d7dcf5cc21f461a76ecbdc30e6b64e54.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e7/e7f96eae2add9654001961341a4bc20fdfb17de9b6655917468e7be25ae1fe17.png)
 
 :::
 
@@ -205,7 +205,7 @@ print('长方形的面积为：'+ str(area))
 
 ::: tip 答案解析
 
-![](./answer10.assets/a3c7e23478cc5b26f8cf352ee474af6b.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/96/96dcbc32ea792b878de01207a3a5ef515c53c415cc449cebc24e435bdcd00391.png)
 
 :::
 
@@ -220,7 +220,7 @@ dictc = {"a":1,"b":5,"c":3,"d":9,"e":7,"m":9,"f":"hello","k":"world"}
 
 ::: tip 答案解析
 
-![](./answer10.assets/abeee3a7a1c1c7e2ff6dca8a07c66afe.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f0/f0654139570fc8b01c691ee19d3d77453047600d39be3df66c3c6a4fa9ca40db.png)
 
 :::
 

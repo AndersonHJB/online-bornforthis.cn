@@ -44,7 +44,7 @@ backToTop: true
 
 首先，我们将使用 FirstName，LastName 和 Telephone 的名称来设置列。
 
-![](./01-why-database.assets/1515224786674511.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/89/89f17ab816c5006242404fa04b362478f669a7860339729acd71a5b517e86a21.png)
 
 注： 表具有指定数量的列，但可以包含任意数量的行。
 
@@ -66,7 +66,7 @@ backToTop: true
 
 例如，在下面的表中，唯一的 ID 号将是表中主键的最佳选择，在名字重复的时候可以通过 ID 来唯一识别, 就像身份证号码一样。
 
-![](./01-why-database.assets/1509693783156669.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/60/6051394ea159fb1ec10df62f04364a06b256a1343cfe0ee35336f9de7207c03f.png)
 
 注: 每张表格只能有一个主键, 每行主键的值必须不同。
 
@@ -265,7 +265,7 @@ SHOW TABLES 命令用于显示当前选定的 MySQL 数据库中的所有表。
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -281,4 +281,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

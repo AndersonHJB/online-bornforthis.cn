@@ -34,7 +34,7 @@ toc: true
 
 所以，也就是说，我们对数字进行排列的时候我可以以一维的方式进行排列，那一维的长啥样呢？也就是下图的左边第一个图。那二维的呢？有点像个表格，也就是下图的中间「第二个图」。三维的就变成了这样的立方体，也就是下图的最右边的图形。
 
-![](./04-python-numpy-fast-data-processing-2.assets/20200817122421.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/91d835cbd0100f28ef48ddc0216bc3204d111ae3068b3817223af5cd84c4a7a8.png)
 
 所以，这样大家看上图基本上可以看出来是什么意思：
 
@@ -44,7 +44,7 @@ toc: true
 
 ## 2. 数据处理的一般流程
 
-![](./04-python-numpy-fast-data-processing-2.assets/20200817122433.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3f/3f77ab6fcae1607d37013f1028ecab42c4cfd4c98fd72483d7638c03798c1f7b.png)
 
 
 
@@ -151,11 +151,11 @@ toc: true
 
 @tab 原图：
 
-![](./04-python-numpy-fast-data-processing-2.assets/image-20260317204039612.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9b/9b312fa75af110b13089e6a5f10e3426664662311bba03cebf3153c2caf6b485.png)
 
 @tab 二值化之后的效果
 
-![](./04-python-numpy-fast-data-processing-2.assets/image-20260317204101097.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ee/ee4d266c2a65d2227b8c84fea0c76522b0f976a088e63f6b165120db46337761.png)
 
 :::
 
@@ -333,7 +333,7 @@ print(filtered_df)
 
 ### 2.4 数据展示
 
-![](./04-python-numpy-fast-data-processing-2.assets/1597640733193-b2d776d1-b64d-45f0-adb4-2ebc0844b7c3.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a3/a31fca5b392e27765bdaac780cee74d27ec1a0fddfef86bbdccddbeea601726e.jpeg)
 
 1. 列表；
 2. 图表；
@@ -480,7 +480,7 @@ array([2. , 4. , 6.5, 8. ])
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -496,4 +496,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

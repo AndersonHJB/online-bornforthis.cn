@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](./26-Who-knows-you-best-Search.assets/raw-20250424194625000.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/20/20bc697a8083190442b318c807fabc0b64fdd072f31232a91f9f0b2480a9ba14.png)
 
 还记得你上一次在网上找东西是什么时候吗？也许是查一集动画片的名字，也许是想听一首脑海里循环播放的旋律，又或者……你正在为一道作业题头疼，试图看看有没有“提示”。不管你在找什么，只要打开一个网页，输入几个字，几秒钟后，答案就出现在眼前。看似轻松，其实背后是一套复杂又聪明的系统在默默运作——**搜索引擎**。
 
@@ -37,7 +37,7 @@ toc: true
 
 这样的上网方式，你可能没法想象吧？要是想去不同网站里查点资料，那就得记许许多多的网址，进去之后还得找半天，就像从一个胡乱塞满东西的箱子里找玩具，特别浪费时间。
 
-![](./26-Who-knows-you-best-Search.assets/sssss.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/79d6ebfe7d8762651cc8ebb01932ce7be481498a886215ca7b42aa7f4b2faa74.png)
 
 就在这信息如沙堆的时代，一个神奇的网站横空出世：**Yahoo！（雅虎）**。它不是自己造内容，而是帮你整理信息，把全世界的网站按“种类”分门别类，就像图书馆的书架。（省字版：**第一代搜索引擎：雅虎**）
 
@@ -69,7 +69,7 @@ toc: true
 
 ### 2.1 缘起
 
-![](./26-Who-knows-you-best-Search.assets/daasas.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a0/a0482342524e59ec6815de4b2d4b4bc1de78f45982d84a70877e1da8bfaa6e55.png)
 
 1998年，两位年轻的博士生**拉里·佩奇**和**谢尔盖·布林**，在斯坦福大学的寝室里，搞出了个新玩意儿：一个名叫 **Google（谷歌）** 的搜索引擎。
 
@@ -79,7 +79,7 @@ toc: true
 
 ### 2.2 一般的搜索引擎实现原理剖析
 
-![](./26-Who-knows-you-best-Search.assets/llllsls.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c4/c481cc2d9bd01b08ea8acc563fe9664e69d27179ba84edd9c33326a155f3f5d1.png)
 
 咱们先说说，一般搜索引擎的结果是按什么顺序排列的。说来也简单，它们是按照相关性排列的。
 
@@ -103,7 +103,7 @@ toc: true
 
 我就拿我自己的 AI悦创来说吧，如果这个网站优质文章内容多且学习访问的人多，那别的网站肯定会经常推荐我这个网站，在自己的网页上放上它的链接。并且现在很多网站的友情链接，就是为了达到这样的效果。
 
-![别碰我的镜头盖·友情链接页面](./26-Who-knows-you-best-Search.assets/image-20250424204849210.png)
+![别碰我的镜头盖·友情链接页面](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3c/3cf165b08c0bdf96524d72c693157cbd5798d626bca02b333c26cd760edf6f07.png)
 
 它只信那些被大量其他优质网站“引用”过的网页。被推荐次数多，排名就高；没人提起你？对不起，请靠边站。例如：还是上面说的卖保健品的网站，是不是挺无聊还有可能是骗子网站。那别的网站肯定不想与有可能是骗子的网站一伙，且去推荐。
 
@@ -137,7 +137,7 @@ toc: true
 
 ### 3.1 「选读」30年如何来？
 
-![](./26-Who-knows-you-best-Search.assets/1111111.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/66/6636ac2263b639e51c0b56c8296e3fa5990bc189ebd69228e81c8b090777a430.png)
 
 写到本书中的互联网 30年时，我就好奇的去研究了一下。然后汇总出下面的结论：
 
@@ -176,7 +176,7 @@ toc: true
 
 它不再把网站当作一堆孤零零的“点”，而是看成**一张互相关联的大网**。这让搜索结果更贴近真实世界的结构，也让我们对知识的理解变得更有层次。
 
-![](./26-Who-knows-you-best-Search.assets/raw-20250424230001639.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4f/4f357135f7960850199c943da900fef3e2869c27f428a6982802f775667dc859.png)
 
 这不仅仅是我这么想，谷歌公司一位资深员工也说过，**网页排名算法**的高级之处，就在于**它真正把互联网当成了一张网**。
 
@@ -184,7 +184,7 @@ toc: true
 
 拿蜘蛛网来比喻，以前的搜索网站只看到了蜘蛛丝的节点，却漏掉了连接节点的蜘蛛丝。而谷歌看到的，是能够抓住猎物的蜘蛛丝。
 
-![](./26-Who-knows-you-best-Search.assets/raw-20250424212327874.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/37/375167c421ef0d39f28c1f9f60952b2fd00bbc10f8cb58d3fb05e07a88249b0b.png)
 
 所以，我们在学习的时候也是一样：只是学会单独的知识点，作用其实不大。我们要想方设法，在单个的知识点之间建立起联系，让它们织成一张知识的大网，到那时候，才算真正掌握了这些知识。
 
@@ -192,7 +192,7 @@ toc: true
 
 ## 5. 忍不住，真的忍不住
 
-![](./26-Who-knows-you-best-Search.assets/raw-20250425064358788.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/58/58c944eb47c2136b7831a646d0a4fe715b20c9ac346ae4f717037d7940d19ade.png)
 
 我还是要在这篇中，跟你聊聊碎片化阅读好不好。不要觉得突兀，因为上面提到了学习方法：知识网。
 

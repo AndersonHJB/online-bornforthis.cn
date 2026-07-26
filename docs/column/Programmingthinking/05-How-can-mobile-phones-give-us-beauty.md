@@ -22,7 +22,7 @@ toc: true
 
 你用过手机的“**美颜功能**”吧？把拍好的照片，导入照片处理软件里，按一下按键，就**自动变美**了。有些手机照相软件，自带了美颜功能，直接一拍，什么脸上的瑕疵啊、皮肤的颜色啊，就都处理过，整个人都变得更好看了。
 
-![](./05-How-can-mobile-phones-give-us-beauty.assets/1b842b3dba13f6cabd29226776565bf0.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/43/43dce3b362e3c8ee543ff1de790706fa855eea054b9be818d4fc18576bf7a87e.png)
 
 不过，你有没有想过一个问题啊？咱们看一个人的照片，知道哪儿是眼睛，哪儿是嘴唇，哪儿是鼻子……可手机照相软件又没有大脑，它怎么可能知道哪儿是眼睛，哪儿是嘴唇，哪儿是鼻子呢？如果分不清楚这些眼睛鼻子什么的，它又是怎么给照片美颜的呢？
 
@@ -32,7 +32,7 @@ toc: true
 
 首先啊，我想请你观察一下家里的电脑或者电视屏幕。如果你凑近了看，就会发现，屏幕是由一个个很小的格子组成的，这些格子就叫“**像素**”。图像的像，要素的素，你可以就把它理解成构成图像的要素。
 
-![](./05-How-can-mobile-phones-give-us-beauty.assets/a9425e9920b9884afb48c72d545eda2d.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2c/2c8298dc616716fdcb5cf98cca17e28731a8907f036f290c07528ff0be774df9.jpg)
 
 你家的电视机有可能是**4K**的，现在有些电脑屏幕也是4K的。这个4K就跟像素有关。你要是拿着放大镜，一格一格地数4K屏幕上的像素。如果没有数错的话，最后会发现，在它横着的方向上，有**4096个像素**，比4000略微多一点点。这就是4K，K在这里表示千的意思。
 
@@ -48,13 +48,13 @@ toc: true
 
 具体来说，现在的屏幕一般都会把**最高亮度**设置成数字255，而把**最低的亮度**设置成0。如果设置成0，那就相当于黑色了。这样，从0到255，红、绿、蓝每种颜色都分出了**256种亮度**。
 
-![](./05-How-can-mobile-phones-give-us-beauty.assets/932485640f0132dd31524e83167c13ee.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ac/ac063a88d7c33a45cd62268d062ff6f1694db45c814160a1317481029bb7a2f7.png)
 
 3种颜色以不同的亮度排列组合起来，一共可以得到**1670多万种颜色**，用这么多的颜色来表现人类眼睛所看到的世界，那可真的是绰绰有余了！而且，这1670多万种颜色里的每一种，我们都可以给它一个数字编号。
 
 比如某种颜色，红光亮度是**150**，绿光亮度是**200**，蓝光亮度是**180**，它的编号就是150，200，180。我在屏幕上放了一张图片，你可以看一下，这到底是一种怎样的颜色。
 
-![RGB（150 200 180）](./05-How-can-mobile-phones-give-us-beauty.assets/b0db17160e27f474390ad8b1dbe9d6fe.jpg)
+![RGB（150 200 180）](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a6/a68500d125a1484c8e914326b86727205ed2b80ced4982113924683d576d941d.jpg)
 
 用数字编号表示颜色，有什么好处呢？这就是“**问题转化**”思维起作用的地方了，计算机虽然看不懂颜色，但它认识数字呀。通过这种方法，我们可以把任何颜色变成一串数字，计算机就可以处理了。
 
@@ -80,9 +80,9 @@ toc: true
 
 有一位聪明的摄影师就想了一个办法，把自己的家乡表现得特别美好。你可以看看音频封面上的明信片：有跟人一样大的洋葱，还有马一样大的母鸡，拉着巨大的鸡蛋！
 
-![巨大的洋葱](./05-How-can-mobile-phones-give-us-beauty.assets/ef090ecda3cb8d5f9ae4090a3c543f6e.png)
+![巨大的洋葱](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/58/584055be95c42187157b8081730fe8a27118a1bc53607021bafa46a53c057657.png)
 
-![大母鸡和大鸡蛋](./05-How-can-mobile-phones-give-us-beauty.assets/bfb2367194ff2b3411fc30d1d7a73203.png)
+![大母鸡和大鸡蛋](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/96/9693c1d7da3ac8919a39a410750610ad5cd357bd9fb9766096a0ff99a9c48b10.png)
 
 这可能吗？当然不可能啦。其实，摄影师拍了两张照片。一张是**背景照**。一张是凑近了洋葱、玉米拍的**特写照**。两张照片拍出来之后，再把洋葱、玉米剪下来，跟另一张背景照片拼起来，然后再给它们拍进新的照片里。只要注意细节，那也会做得很逼真的！
 

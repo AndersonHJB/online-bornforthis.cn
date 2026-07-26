@@ -66,7 +66,7 @@ True
 
 看下图：
 
-![](./09-python-bool.assets/布尔值.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9a/9aeaa437d6b7b33f24fab9cab36493c7e6a9dc3f76f0b32aeabe3dc309a635ad.png)
 
 如果是当作正常的变量值使用时，虽然数据是空的，但都是原有的数据类型：
 

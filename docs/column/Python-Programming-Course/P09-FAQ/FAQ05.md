@@ -38,7 +38,7 @@ toc: true
 
 需不需要预习？——我要引导，预习了之后无法引导的带你训练逻辑与思考，因为你对答案有了一个提前预知。看起来是便捷了上课时的理解，但是丧失了有效训练逻辑的机会
 
-![](./FAQ05.assets/image-20250721210914339.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f1/f1d8e1ea6cc53fa201074afaef8f09e4d532420fa94d076f2453883fef43996e.png)
 
 
 
@@ -48,7 +48,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -64,4 +64,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

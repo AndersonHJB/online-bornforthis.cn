@@ -67,7 +67,7 @@ As a little exercise to get warmed up, make some changes to the code. For exampl
 
 > 增加一个房间(或两个，或三个，……)
 
-![image-20221121190454894](./02-Coursework-2-World-of-Zuul.assets/image-20221121190454894.png)
+![image-20221121190454894](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d4d52b45911c577cc27320d04951da7397abb2ad76e98dc6055166d0d3956706.png)
 
 ## Designing your game
 
@@ -223,7 +223,7 @@ All coursework must be submitted on time. If you submit coursework late and have
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 

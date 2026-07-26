@@ -25,13 +25,13 @@ Zoomerbinis are mystical creatures known for their brilliant minds, particularly
 
 Thankfully, the Zoomerbinis have your help and guidance. Your challenge in this project is to write some Python code to help them compute an optimal set of study groups, thus enabling them to reach their full potential!
 
-![Three Zoomerbinis](./ToDolist.assets/zbinis-1.png)
+![Three Zoomerbinis](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1e/1e198a4c496afc6f99e8627d6b1213f8f780f3b859eaa82edb14c9ed0b689b55.png)
 
 ## Zoomerbinis
 
 There are 256 "types" of Zoomerbinis, each having a corresponding numeric identifier (a "type ID") represented as an integer between 0 and 255 inclusive. The figure below depicts the full mapping. You can also view an enlarged version of the same figure [here](https://2024s1-comp10001-d7ccc59f4734fd6399530ec2572d0fddd929b27d8ca441.pages.gitlab.unimelb.edu.au/).
 
-![Zoomerbini Type ID Mapping (click ](./ToDolist.assets/zbinis-mapping.png)
+![Zoomerbini Type ID Mapping (click ](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f3/f3141cf5b919ea63ca3f19ed40822588d8c2f598d303acbdec0f88a5678fee7e.png)
 
 If you study the mapping closely, you'll notice that it is far from random – there are certain attributes that different subsets of Zoomerbini types share, and these can be inferred from the type ID numbers themselves. Indeed, it is the unique *combination* of features that defines any one type.
 
@@ -41,19 +41,19 @@ Here are the possible values and corresponding visualisations for each attribute
 
 **Hair (or hat) style** 
 
-![Hair/Hat Attribute](./ToDolist.assets/zbini-attrs-hair.png)
+![Hair/Hat Attribute](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c3/c32772cb28367f5bd17c5482dea21269279092cda8a472affee3b3612262567c.png)
 
 **Favourite colour**
 
-![Favourite Colour Attribute](./ToDolist.assets/zbini-attrs-colour.png)
+![Favourite Colour Attribute](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/10/10ae989ff05b5b69ab9764c27f9ef377ba42a3fef8de9f01e054fcdad635e7fd.png)
 
 **Preferred social media**
 
-![Social Attribute](./ToDolist.assets/zbini-attrs-social.png)
+![Social Attribute](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/728d6f77dd47e806a1b6381327e7c186c3877abaafd6cbade9ff81d405125531.png)
 
 **Fashion accessory**
 
-![Fashion Accessory Attribute](./ToDolist.assets/zbini-attrs-accessory.png)
+![Fashion Accessory Attribute](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4e/4e636e64ff77295073e117ba0d3428efb7bfe8f7eb42d3d99398b46c4a61b0a5.png)
 
 ## Task 1: Decoding Attributes (3 marks)
 
@@ -443,7 +443,7 @@ print(alloc_study_groups(
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -459,4 +459,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -30,7 +30,7 @@ footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https:/
 
 这篇我将带你解决，公式与函数之间的实现方法：
 
-![](./README.assets/image-20230312223420198.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/96/96a0ff66f7f8f977c99e5583db0650d84cc8e48168d4c8f26e07e884a0cd2fff.png)
 
 $$\sum_{i=1}^{n} ix^{4}_{i} + random[0, 1), |x_{i}\le 1.28|$$
 
@@ -128,7 +128,7 @@ plt.title('Quartic Function i.e. Niose')
 plt.show()
 ```
 
-![](./README.assets/image-20230322133211179.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f3/f3b38b508ea964c51a9d0deaa3d05f6d4740129d7701287badf5e97d1f467228.png)
 
 `np.random.rand()` 是 NumPy 库中的一个函数，用于生成在 `[0, 1)` 区间内的随机浮点数。当调用此函数时，它将返回一个服从均匀分布的随机数。
 
@@ -151,13 +151,13 @@ print(random_matrix)
 
 **即三维图像的二维平面：**
 
-![](./README.assets/224533376-6ea7360a-c94b-4a3d-9dcb-148de98fad8a.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5b/5b95e39a3c623e3a39c01f8a0ceb00784acb8277c759aa7a3a2b8a037a4ba319.png)
 
 根据此二维图像我们可以将其拓展为，三维图像，三维图像涉及到个点 z 轴的高度。
 
 当我们默认其维度为 1 时，可以得出二维图像平移拉伸后的三维图像：
 
-![](./README.assets/224534059-0e4f0f79-0977-4da6-aaad-b214b497db73.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9f/9f59ecfb6486c2e697c001a01bf61c2af464fd13453fa648a9e96f823a1235bf.png)
 
 该图像与我们题目所给出的最终图像不符合，z 轴明显缺少一定的弧度。因此我们对其进行优化。
 
@@ -169,7 +169,7 @@ print(random_matrix)
 
 因此我们尝试将代码中的维度 n 扩大为 3.并绘制图像。
 
-![image](./README.assets/224534220-316de523-7d1c-42e7-bd22-d0289f9c733d.png)
+![image](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/37/37e79e184633d8c74772cd4b0237d0613df2ae76793c6a94476ecb0d6d21b39b.png)
 
 ```python
 import numpy as np
@@ -264,7 +264,7 @@ plt.show()  # 显示图像
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -280,4 +280,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

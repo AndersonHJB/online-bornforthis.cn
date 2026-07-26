@@ -42,7 +42,7 @@ ChatGLM-6B 和 LLaMA2 是目前开源项目比较热的两个，早在 2023 年�
 
 还有就是对于个人兴趣爱好，诸如本书的读者，想体验体验大模型，ChatGML-6B 再合适不过了。
 
-![](./03-Local-Deployment-How-to-locally-Deploy-the-open-source-large-model-ChatGLM3-6B.assets/image-20250429231231191.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9b/9ba50671c515b5799af912c648c2c682df1785f7bc351dd53784890a2bba3559.png)
 
 说点额外的话题：130B 轻量化后，可以在 `RTX3090 * 4` 上进行推理，生产环境使用的话，推荐至少准备 A100（40G * 8）或 V100（32G * 8）* n 台服务器，n 的大小取决于推理吞吐量。训练 130B 大概需要 96 台 A100（320G），历时 2 个多月。
 
@@ -153,7 +153,7 @@ wsl --install
 
     示例搜索：**Ubuntu**
 
-    ![](./02-Local-Deployment-How-to-locally-Deploy-the-open-source-large-model-ChatGLM3-6B.assets/image-20250430111842209.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/9921014b71d5a742d730710258a674f4ef2b3195a527040eac256445c6692a0e.png)
 
 3. 步骤 3：点击“获取”进行安装
 
@@ -297,25 +297,25 @@ wsl --set-version Ubuntu 2
 
 直接启动命令行，输入 wsl 即可：
 
-![](./03-Local-Deployment-How-to-locally-Deploy-the-open-source-large-model-ChatGLM3-6B.assets/image-20250430115121670.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/45/45e80a76f2f819a1c22b4e8c67d66ca9b98e0f35c9d28d2656eaef96a08cbc16.png)
 
 如果要退出 wsl，则输入 exit 回车即可：
 
-![](./03-Local-Deployment-How-to-locally-Deploy-the-open-source-large-model-ChatGLM3-6B.assets/image-20250430115154328.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/08/08745ef6fc87df400007d8c01a5fd26816c39979800e666217879093c3e35a38.png)
 
 #### 3.1.15 迁移 wsl
 
 1. 打开系统设置
 
-    ![](./03-Local-Deployment-How-to-locally-Deploy-the-open-source-large-model-ChatGLM3-6B.assets/image-20250430115520746.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2a/2a571ebc48ada80ceb1decd8511756048db50f04f2b953cfbdcf0c7993b0e338.png)
 
 2. 点击进入应用
 
-    ![](./03-Local-Deployment-How-to-locally-Deploy-the-open-source-large-model-ChatGLM3-6B.assets/image-20250430115601515.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d2/d251ab6477e337df40bf413af757f0060869e59b6b05b0171e6051696097f224.png)
 
 3. 找到 Ubuntu，选择移动：
 
-    ![](./03-Local-Deployment-How-to-locally-Deploy-the-open-source-large-model-ChatGLM3-6B.assets/image-20250430115704467.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/03e51c27fe5f6f83f060a5c36799e4f5cec9f962f117d84e2a95620de1cb1044.png)
 
 4. 选择想要移动的位置，自行移动，移动失败重试或重启电脑后重试。
 
@@ -327,7 +327,7 @@ wsl --set-version Ubuntu 2
 git clone https://github.com/THUDM/ChatGLM3
 ```
 
-![](./03-Local-Deployment-How-to-locally-Deploy-the-open-source-large-model-ChatGLM3-6B.assets/e53bcfdc761101b5a5e55b4f58dd6dbc.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ca/cab675ff5976bdef289e5ec5ce4865a88be3b723b0fd15a4fac81e0de23022d4.png)
 
 ### 3.3 安装 Python3.10
 
@@ -374,7 +374,7 @@ pip install -r requirements.txt
 
 显示以下内容表明依赖安装成功。
 
-![](./03-Local-Deployment-How-to-locally-Deploy-the-open-source-large-model-ChatGLM3-6B.assets/e8b4f77dff6dd93ab9554e2853cc564b.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/60/60f9e7485feac0fa3489e3c1a2327f0e27dbaf09f00de3dbd2487310f6165015.png)
 
 如果你无损到这，那下面的 vllm 库问题可以不用阅读。
 
@@ -384,7 +384,7 @@ pip install -r requirements.txt
 
 2. 检查 nvcc 是否可用：`nvcc --version`，如果 nvcc 命令找不到，说明 CUDA 可能没有正确配置。
 
-    <img src="./03-Local-Deployment-How-to-locally-Deploy-the-open-source-large-model-ChatGLM3-6B.assets/image-20250215203848991.png" style="zoom:25%;" />
+    <img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/70/708d31d0c4c12e1bdcdf5faeeec29166229f0f562e82be407027bf3f791e2c79.png" style="zoom:25%;" />
 
 3. 配置请求源：
 
@@ -456,7 +456,7 @@ MODEL_PATH = os.environ.get('MODEL_PATH', '../model')
 
 执行 `python cli_demo.py`。
 
-![](./03-Local-Deployment-How-to-locally-Deploy-the-open-source-large-model-ChatGLM3-6B.assets/b9c920372yy65521df248f8efb66b01b.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e0/e0f888d4a67f68ebf1f893eaf2b6b5e76a4ed1f2e798e8a1c24247640fc62ce2.png)
 
 ### 3.8 Web 控制台模式启动
 
@@ -482,7 +482,7 @@ demo.launch(server_name="127.0.0.1", server_port=7870, inbrowser=True, share=Fal
 
 执行 `python web_demo_gradio.py`。
 
-![](./03-Local-Deployment-How-to-locally-Deploy-the-open-source-large-model-ChatGLM3-6B.assets/70cbbe44362d1548094f77a959e7c1fa.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e4a9d71735aafb26878c1612995a94755548810efb1a202f46a504a6598a70ed.png)
 
 默认情况下，模型以 FP16 精度加载，大概需要 13GB 显存。如果你的电脑没有 GPU，只能通过 CPU 启动，6B 也是支持的，需要大概 32G 的内存。我们修改一下模型加载脚本。
 
@@ -507,7 +507,7 @@ streamlit run main.py 或者 python -m streamlit run main.py
 
 页面确实上了一个档次。
 
-![](./03-Local-Deployment-How-to-locally-Deploy-the-open-source-large-model-ChatGLM3-6B.assets/284f2c42be5dd945ee495163602aff06.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/ea7d2f20bf3229d5a0c984fea4d10c1dfb3e2ff88200adbca320145a810ccb8c.png)
 
 接下来我简单总结一下部署过程：
 

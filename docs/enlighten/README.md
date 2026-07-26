@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: idea2
 title: 启发俱乐部
-heroImage: /enlighten/enlighten.png
+heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/58/583719475190f7f8edce99389fb77eeae88b1281432c999916b7abbf3f0167e5.png
 heroText: 启发俱乐部
 heroFullScreen: false
 tagline: 启发俱乐部

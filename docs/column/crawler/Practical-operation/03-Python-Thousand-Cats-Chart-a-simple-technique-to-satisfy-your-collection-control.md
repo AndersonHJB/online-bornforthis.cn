@@ -43,7 +43,7 @@ toc: true
 
 通过开发者工具，可以便捷得到详情页地址所在 HTML 标签，每页合计 12 条数据，关键标签分别如下图所示。
 
-![](./03-Python-Thousand-Cats-Chart-a-simple-technique-to-satisfy-your-collection-control.assets/image-20230502074432268.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f1/f180c60bf117e8a37eebb9c2bbf4227bf1bd557c01e5cb30485bdb0e42e2608d.png)
 
 - `li class = "img"` 详情页所在标签；
 - `li class = "lists"` 分页所在标签。
@@ -52,7 +52,7 @@ toc: true
 
 点击任意[猫咪图片](http://www.ik123.com/q/tuku/keai/74309.html)，进入详情页，查看源码，很容易找到图片标签。
 
-![](./03-Python-Thousand-Cats-Chart-a-simple-technique-to-satisfy-your-collection-control.assets/image-20230502074739212.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/de/de93b9c2bbd783db55187f30ad625f8749eb22d7994bc1d116711cafe6be39d3.png)
 
 简单分析已经完成，接下来对分析过程进行一下基本梳理。
 
@@ -264,7 +264,7 @@ if __name__ == '__main__':
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -280,4 +280,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

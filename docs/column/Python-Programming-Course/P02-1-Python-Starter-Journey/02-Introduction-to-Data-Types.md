@@ -32,7 +32,7 @@ watermark: true
 
 ~~所以，本节的目标就是把 Python 入门过程中会涉及的数据类型，都提前讲解过一遍。便于在后续的内容中理解，故此设计这样一篇。对于每个数据类型具体的操作、使用，我们会在后续的章节逐一编写。~~
 
-![Python 基础数据类型](./02-Introduction-to-Data-Types.assets/Python基础数据类型.png)
+![Python 基础数据类型](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fb/fb0f776f955965c1053991280df99abd6baa209cde6818f2476e6e563eb2ba21.png)
 
 ## 1. 数字型「int、float」
 
@@ -197,7 +197,7 @@ lst type is:>>> <class 'list'>
 
 ::: details Python 所拥有的数据类型「下面只包含基础类型」
 
-![Python 基础数据类型](./02-Introduction-to-Data-Types.assets/Python基础数据类型.png)
+![Python 基础数据类型](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fb/fb0f776f955965c1053991280df99abd6baa209cde6818f2476e6e563eb2ba21.png)
 
 :::
 
@@ -304,13 +304,13 @@ tup = (1, 2...., 100000) #数据量很大
 new_t = (111, 222) + tup
 ```
 
-![](./02-Introduction-to-Data-Types.assets/image-20260625115432435.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7f/7f92f1c5b1977266e3b8670615495de6aad78e46fba05aef59db88062768724f.png)
 
 列表 append 添加数据后，还是原本的碗。元组新增数据之后，是要放在一个更大的碗。例如：原本是 B 碗，增加之后得是用 B+ 碗，放进去的碗变大了，操作的数据也多了！
 
-![](./02-Introduction-to-Data-Types.assets/1111111111111.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/52/5214ca3522eeec3009943c55a0bda3e1d4dff4f16669735efde32cc4c9f52207.png)
 
-![](./02-Introduction-to-Data-Types.assets/1111111111.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/83/8313c807d86c21cba18df8d0b61803043b1bdc61aa4343cf7fb30254918de814.png)
 
 :::
 

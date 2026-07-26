@@ -32,27 +32,27 @@ toc: true
 
 第一种常见的运算法则叫做“**非**”，也就是不的意思。非运算要怎么做呢？很简单，你看一下前面的同学：如果他手里的灯是亮的，你就把自己的灯灭了；如果他的灯灭了，你就把自己的灯点亮。就跟他**反着来**，这就是非运算，很简单吧？
 
-![非运算](./09-How-does-a-computer-analyze-a-problem.assets/2b7ce1c71b79219a38437be8984ae5b6.png)
+![非运算](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/753bc0c83f410a69305865fd0c8be977dceec1535da0671868afa2a263b9137a.png)
 
 
 
 第二种常见的法则叫做“**或**”，就是或者的意思。现在你对面的同学手里有两个灯泡了，一手拿一个。如果他手上有灯泡是亮的，一个或者两个都行，只要有亮的，你就把手上的灯点亮，如果他手上两个灯都是灭的，那你就把灯关了，这就是“或”运算。
 
-![或运算](./09-How-does-a-computer-analyze-a-problem.assets/9258ec1e527b91115224f3bfb6f3a481.png)
+![或运算](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d0/d0a91edb930d30be10ecfc15d691e633a466048a91d87489c97aa11844bbe2f0.png)
 
 第三种常见的方法叫做“**与**”，假如你对面的人还是一手拿一个灯泡，如果两个灯泡都是亮的，那你就点亮自己的灯泡，否则就不开灯。
 
-![与运算](./09-How-does-a-computer-analyze-a-problem.assets/259e56bc57c97a99d9d37972570a2b18.png)
+![与运算](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/28/2853b046f0b5184650080c091a7f10810f02882d5e1954b5ef62dcc9c757a7ad.png)
 
 听着就很简单吧？这就是三种特别常见的逻辑运算，当然了，逻辑运算还有其他的运算规则，但也都和四则运算的规则很不一样。这一套运算体系，是数学家**乔治·布尔**建立的，所以这种算法又叫做**布尔运算**。
 
-![乔治·布尔](./09-How-does-a-computer-analyze-a-problem.assets/7edb96af2a1956e453c1a598b89ccad8.jpg)
+![乔治·布尔](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/46/466c75c470c988e7f127957dcd86a9d0236e6212562e2446dfce4d764217db3d.jpg)
 
 虽然布尔提出了这一套运算规则，但在布尔生活的时代，这套运算规则在实际应用中还特别少，人们关注程度也不太高。那后来这套规则是怎么被用到计算机里的呢？而且，为啥偏偏选中了这种计算规则，不用咱们熟悉的加减乘除呢？ 
 
 这就要说到一位特别厉害的科学家了，他叫**香农**。现在音频封面上显示的，就是香农的照片。
 
-![图片来源：Jacobs, Konrad](./09-How-does-a-computer-analyze-a-problem.assets/cf987164fbc21a5225e5873cf46f28ba.jpg)
+![图片来源：Jacobs, Konrad](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/7925e872750788ab4e66571e822d70e72454cfb56831f3ba1453cb581c6d6c58.jpg)
 
 你别看他一脸严肃的样子，他其实是一个特别爱玩的科学家。他不光爱骑独轮车玩杂耍，还喜欢制造奇奇怪怪的机器，比如，电动弹簧高跷、能自己找迷宫出口的电动老鼠，还有按一下按钮就会伸出一只机器手的盒子。
 
@@ -64,7 +64,7 @@ toc: true
 
 我们上一讲说到过，计算机电路里会用二进制的0和1来代表电路的开和关，把各种各样的数据信息都变成电信号，这个想法就是香农提出来的。但光有了0和1还不够，香农还需要找一套**适合计算机的运算法则**，不然也没法处理这些信息。
 
-![](./09-How-does-a-computer-analyze-a-problem.assets/a07df34194d615b9a8e8fd23746730dc.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/13/13d69d04126c9d7e364ff9b1cfa675a174b16b1f13aa2cd18b0a24f78e9d5d84.png)
 
 那为什么不用现成的加减乘除法呢？
 
@@ -80,7 +80,7 @@ toc: true
 
 你想，咱们前面说布尔运算的时候，是拿小灯泡的亮和灭打比方的，其实，小灯泡的亮和灭不就是计算机电路里面的有电和没电吗？
 
-![](./09-How-does-a-computer-analyze-a-problem.assets/c20e92a466d85ab085ba6709a9f6c4cb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1f/1f01b1e9a84ae356d4af0aa2c28109f1b7351c94aa87cbf51aeafa1a1a19ca10.png)
 
 所以，布尔运算的规则再加上二进制，正好就可以让计算机处理信息。当然了，香农也在二进制和布尔运算的基础上构建了一套更复杂的体系，好让计算机能够进行各种各样的运算。
 

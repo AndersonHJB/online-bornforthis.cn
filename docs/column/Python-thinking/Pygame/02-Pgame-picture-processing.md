@@ -43,11 +43,11 @@ toc: true
 
 @tab football.png
 
-![football](./02-Pgame-picture-processing.assets/football.png)
+![football](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dd/dda0e503a63a42b0bcbbf7972847ac34b26aeeec031d279b367525e1222a4a7a.png)
 
 @tab background.jpg
 
-![background](./02-Pgame-picture-processing.assets/background.jpg)
+![background](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/aa/aa52b10bd2c52422a1d62f3e1b6c2c05c1cf50b31f4a7c06074ad6a39ed0c7cd.jpg)
 
 :::
 
@@ -154,7 +154,7 @@ while True:
 
 首先，需要把你的代码和图片放在同一个文件夹下。
 
-![](./02-Pgame-picture-processing.assets/image-20230223181035448.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a1/a10c0397599d55dc404ea02e692fc19dff83d104e575a7035dd4ac9285ec0800.png)
 
 ### 3.2 加载足球
 
@@ -191,7 +191,7 @@ while True:
 
 **运行代码后：**
 
-![](./02-Pgame-picture-processing.assets/image-20230223182755825.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cc/cc8b86298c728e62e87b497ff1ff3e59f170a8add1aa067b62f6ac4e3b1cd9dd.png)
 
 我们发现，空白的只有背景颜色？What？——别急，这是因为 Pygame 的特点，把每一个图片、颜色等都当作一层一层的来操作。
 
@@ -223,7 +223,7 @@ while True:
 
 接下来，运行后，足球就可以正常显示了：
 
-![](./02-Pgame-picture-processing.assets/image-20230223182819716.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/eb/eb951f2cb3efa891d7e40082e5763db8bf4f019f64771ccd353a5ae45c56c89f.png)
 
 ::: info 动手试一试
 
@@ -254,7 +254,7 @@ while True:
 
 运行效果：
 
-![](./02-Pgame-picture-processing.assets/image-20230224192319866.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/76/761b204f63c1e2ba76f9f86152ae1fbd691ffc7b6da718c463599f55cfd9a93d.png)
 
 ## 4. Pygame 的坐标
 
@@ -262,7 +262,7 @@ Pygame Zero 坐标系的原点在游戏窗口的左上角，越靠近窗口右�
 
 - 以左上角为原点 `(0, 0)`
 
-![](./02-Pgame-picture-processing.assets/image_exERgXo.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fd/fd6a3dfd3f468ca7256e9981c3e7a382493e7337ceaa74eda1ad786fccf01272.png)
 
 ## 5. 使足球移动起来
 

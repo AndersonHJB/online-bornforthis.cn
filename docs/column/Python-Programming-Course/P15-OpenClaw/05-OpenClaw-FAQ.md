@@ -24,9 +24,9 @@ toc: true
 
 ::: details 问题图片
 
-![](./05-OpenClaw-FAQ.assets/image-20260314203302696.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3c/3c65d228e7fc1eefa235bd0e395c7b1e60928589f000aa822f3e0f38cf6afdc8.png)
 
-![](./05-OpenClaw-FAQ.assets/mac_1773491311421.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0d/0ddbc4bf5aa5ccd1a785177e920313c2e9717fd110f4bac5001204ee2c52dee6.png)
 
 :::
 
@@ -34,7 +34,7 @@ toc: true
 
     ::: details 解决图片
 
-    ![](./05-OpenClaw-FAQ.assets/mac_1773491670248.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8b/8bfc9c9ee7ff4daa2b0855ad67a7867fdbfb688d866c58242ddad3b65ebb8f6a.png)
 
     :::
 
@@ -127,7 +127,7 @@ npx -y @larksuite/openclaw-lark update
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -143,4 +143,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

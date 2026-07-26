@@ -40,7 +40,7 @@ toc: true
 
 > 宏观作业#04:哈利·波特与DOM密室!
 
-![](./24-Macro-Assignment04-Harry-Potter-and-the-Chamber-of-the-DOM.assets/image-20230303230025918.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f5014ce2f435b7e2f3eba231df9c381e738ee5f48ca4731d000f3e8a189b4371.png)
 
 The wizards at Hogwarts need your help! Voldemort has apparently been taking a web development class and is creating havoc by casting a wide array of dangerous JavaScript spells!
 
@@ -68,7 +68,7 @@ Cast a series of spells to cause the names of familiar Harry Potter words to app
 
 > 施放一系列咒语，使熟悉的哈利波特单词的名字出现。关于如何开始的说明可以在文件01.html中找到。为了检查你的作业，把你的答案打在下面的空格里。当你成功施放所有咒语时，你将获得一个密码，以证明你已经掌握了这个挑战!
 
-![](./24-Macro-Assignment04-Harry-Potter-and-the-Chamber-of-the-DOM.assets/image-20230303231021377.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/17eb8e38164217ed580499684011f083e4ddb9e866042843969f652b19b48352.png)
 
 @tab Challenge #2
 
@@ -80,7 +80,7 @@ Dumbledore needs your help to summon a wizard to Hogwarts! Solve the challenge d
 
 > 邓布利多需要你帮忙召唤一名巫师到霍格沃茨!解决文件02.html中描述的挑战。在下面的空白处输入你的答案，检查你的作业。当你成功施放咒语时，你将获得一个密码，以证明你已经掌握了这个挑战!
 
-![](./24-Macro-Assignment04-Harry-Potter-and-the-Chamber-of-the-DOM.assets/image-20230304001357660.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/ed4720d2afb1c76376e885664683291576458405a9dcbfd2d7b868ada9f0b7d5.png)
 
 @tab Challenge #3
 
@@ -92,7 +92,7 @@ A powerful ally of Voldemorte has trapped some of Harry's friends in a magical f
 
 > 伏地魔的一个强大盟友将哈利的一些朋友困在了一个魔法力场中。用你的JavaScript技巧解开他的朋友们，把咒语重定向到阿兹卡班!
 
-![](./24-Macro-Assignment04-Harry-Potter-and-the-Chamber-of-the-DOM.assets/image-20230304001514284.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f4/f468a61ed4dd0f1fd58c7a803de5b5f76a6f7b5f89f9d7b78ebe0dc3cea62c18.png)
 
 @tab Challenge #4
 
@@ -104,7 +104,7 @@ Professor Snape has locked his potions cabinet and he can't get it open! Solve t
 
 > 斯内普教授把他的魔药柜锁上了，打不开!解决文件中描述的挑战，帮助斯内普打破阻止他打开柜子的锁。要检查你的工作类型，在柜子里找到什么放进下面的空白处。当你成功地打开柜子时，你会得到一个密码来证明你已经掌握了这个挑战!
 
-![](./24-Macro-Assignment04-Harry-Potter-and-the-Chamber-of-the-DOM.assets/image-20230304001611742.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fd/fdd886f401b60fb75d5dec76b0b2289724fd457f796947bbf6f993f7c2c04ae8.png)
 
 @tab Final Challenge
 
@@ -116,7 +116,7 @@ Type in the four passwords you have obtained throughout your journey. You will t
 
 > 输入你在旅途中获得的四个密码。然后你将面临最后的挑战!
 
-![](./24-Macro-Assignment04-Harry-Potter-and-the-Chamber-of-the-DOM.assets/image-20230304001720204.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b9f6a63486d2725581967d4a048298115078ffb3ceb09583f75a001ce0e6f5a8.png)
 
 ::::
 
@@ -133,7 +133,7 @@ Type in the four passwords you have obtained throughout your journey. You will t
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -149,4 +149,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

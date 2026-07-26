@@ -2,7 +2,7 @@
 home: true
 icon: BCN
 title: 字节跳动大学题解
-heroImage: /ColumnImages/字节跳动/字节跳动.jpg
+heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5f56d5d721ec81403eae6c6c0fa3ac15a210d72453bad256fbb92f5b6f8fd608.jpg
 heroText: 字节跳动大学题解
 tagline: 大学：中山大学
 actions:

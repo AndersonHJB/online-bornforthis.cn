@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: book1
 title: 三体电子书免费阅读
-heroImage: /ColumnImages/book/The-Three-Body-Problem/The-Three-Body-Problem.jpg
+heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5b/5bb4363c9c11fd5233d72e6dfce465e8b2a516776fe52a55a4625e746d7bcb20.jpg
 heroText: 三体「全集」
 heroFullScreen: false
 tagline: 征服世界的中国科幻神作，包揽九项世界顶级科幻大奖。

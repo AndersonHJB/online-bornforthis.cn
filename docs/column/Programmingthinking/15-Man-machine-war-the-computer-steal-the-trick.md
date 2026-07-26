@@ -28,17 +28,17 @@ toc: true
 
 而**国际象棋和围棋**就不一样了，如果还是用相同的算法考虑所有的情况，国际象棋要考虑的情况有**10的150次方**那么多，就是在1后面写150个0；围棋呢，则要在**1后面写300多个0**。这么多的情况，计算机运算能力再高也思考不过来。那在这两个战场上，计算机还能战胜人类吗？
 
-![国际象棋](./15-Man-machine-war-the-computer-steal-the-trick.assets/8d437994903df785166c805486f45028.png)
+![国际象棋](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cb71bd1e76b9541758af1c9983399f417fd1eb995e76628ad81c32a835ee1913.png)
 
 咱们一起先来看看国际象棋战场吧。这次，计算机一方派出的选手叫做“**深蓝**”。制造深蓝的公司叫做**IBM**。你可能还记得，这个公司就和咱们第一集里说过的科学家**霍尔瑞斯**有关。这个公司在人工智能领域非常厉害。
 
-![深蓝计算机组件 图片来源：James the photographer ](./15-Man-machine-war-the-computer-steal-the-trick.assets/c99ce7f7e93efce519913825054f25e6.jpg)
+![深蓝计算机组件 图片来源：James the photographer ](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d2/d258fa979f46bebd58da0e4417556d20c0b3e6d3aee26e2e675168fedc785fb2.jpg)
 
 那咱们人类这边的代表，是人类顶尖的国际象棋棋手**卡斯帕罗夫**。他绝对是代表人类出战的最佳人选，为什么呢？
 
 首先，卡斯帕罗夫是一个实打实的国际象棋天才，他8岁的时候开始学习国际象棋，18岁就获得了国际象棋特级大师的称号。这可是国际象棋领域最高的称号了。之后，在他20多年的职业生涯里，几乎就没怎么输过。
 
-![图片来源：Owen Williams](./15-Man-machine-war-the-computer-steal-the-trick.assets/3cae98c962b29703679865db7bc02e87.jpg)
+![图片来源：Owen Williams](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2dc5850d0c06cc0a5e8dbab9db9859957e1d3007c40160fec67f0be2b635d2fd.jpg)
 
 另外，卡斯帕罗夫还干过一件有意思的事情，他曾经战胜过“**世界队”**。诶，这世界队是怎么回事呢？
 
@@ -56,7 +56,7 @@ toc: true
 
 那你可能会问了，这些科学家是不是心虚啊？他们是不是怕计算机会输，所以不敢继续比下去啦？诶，还真不是。接下来计算机在更有挑战性的**围棋战场**上，战胜了人类，说明计算机取胜绝不是靠运气。
 
-![围棋  图片来源：HermanHiddema](./15-Man-machine-war-the-computer-steal-the-trick.assets/7b419d2faad5104ed0453be2f5889695.png)
+![围棋  图片来源：HermanHiddema](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3b1b4cf42e4cbdd5957e63113811320961ed91dd4834f826f57a8e7d9a7f6ca2.png)
 
 如果你下过围棋或者见过围棋的棋盘肯定能发现，围棋的棋盘比象棋的棋盘还要大，横竖都有**19条线**，在下棋的时候呢，棋手可能在任何一个地方放棋子，这就意味着围棋棋局变化的可能性比国际象棋还要多。
 
@@ -64,7 +64,7 @@ toc: true
 
 这次，计算机阵营派出的代表叫做 **Alpha Go**，你可能也听说过这个名字，而且很多人开玩笑叫它“阿尔法狗”。其实，这里的“go”就是围棋的意思，它是英语里面一个来自日语的词。Alpha Go就是谷歌公司制造的专门下围棋的机器人。
 
-![](./15-Man-machine-war-the-computer-steal-the-trick.assets/bed7c5a66f78fbd19e94bf25c51cc771.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/57/5768c88d4a179625818f89947b824f4020be7f3a44d1b8f5fa75e22860d7979b.png)
 
 那人类这边呢，你可能会抢答说：“我知道，Alpha Go打败了人类棋手柯洁，他可是当时世界排名第一的围棋棋手。” 
 
@@ -98,7 +98,7 @@ toc: true
 
 可以说在策略类游戏的比拼上，机器人大获全胜。那你可能会但心了，在现实生活中，机器人会不会有一天也向人类发起战争呀？到时候我们还能打过它们吗？
 
-![](./15-Man-machine-war-the-computer-steal-the-trick.assets/c237ff328a9a692e51a523466a38f48c.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/89/89d140451124755b6cf296393679479978c9ab4b360be9b743f81a57d91537d8.jpg)
 
 那在这节课最后，我就给你说明一下这一点。虽然人类被机器人打得一败涂地，但你不用太担心，毕竟机器人这么厉害，还不是因为制造它们的科学家厉害嘛。计算机的智慧进步其实反映的是人类智慧的进步。
 
@@ -160,7 +160,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -176,4 +176,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

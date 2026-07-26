@@ -33,19 +33,19 @@ toc: true
 
 @tab image-1
 
-![](./03-Experimental-data-analysis.assets/image-20240618152955878.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6e2cac9aa4dd89e9d1248373aae5bbe6202eb1a36ac0b44132f6e088175c436a.png)
 
 @tab image-2
 
-![](./03-Experimental-data-analysis.assets/image-20240618153012985.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d6/d612b2fa50d2bc39a86c21ba001750716c40f7a58b20381d46c70bd3aebd8bfe.png)
 
 @tab image-3
 
-![](./03-Experimental-data-analysis.assets/image-20240618153250791.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0a/0a3b456137bef76470b27650633c2b9a170d6cd15b9021250c408ca62440385f.png)
 
 @tab image-4
 
-![](./03-Experimental-data-analysis.assets/image-20240618153314578.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/174e5758c3762d65c19db81dc59e91aceb9f3ddc32ea1f488546a6cf451b37aa.png)
 
 :::
 
@@ -898,7 +898,7 @@ if __name__ == "__main__":
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -914,4 +914,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

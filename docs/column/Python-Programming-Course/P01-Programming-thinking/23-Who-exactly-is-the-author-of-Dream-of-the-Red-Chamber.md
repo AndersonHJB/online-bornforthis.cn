@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](./23-Who-exactly-is-the-author-of-Dream-of-the-Red-Chamber.assets/llll.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ad/adbd5f250efa1e6b3a4d0ccdbc39b28ea7c62d7adfcc1a36de6539df57048b7a.png)
 
 你相信“侦探”这个角色，也能由程序员来扮演吗？今天我们就来挑战一个大案子——谁才是真正写出《红楼梦》的人？
 
@@ -30,7 +30,7 @@ toc: true
 
 为啥会搞成这样？因为线索太少了。你知道曹雪芹这个名字，可其实他活了多少年、长啥样、怎么写书的，史书上都说不清楚。所有关于他的资料，拼拼凑凑连一页纸都写不满。这种情况，当然给足了“侦探们”猜测的空间。
 
-![1960年的胡适](./23-Who-exactly-is-the-author-of-Dream-of-the-Red-Chamber.assets/Hu_Shih_1960_color.jpg)
+![1960年的胡适](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3a/3ab5ecb92e76f90c3e0aa27a02970471a1427886f959c95b78751f5a58346ab2.jpg)
 
 直到有一天，一位名叫**胡适**的大先生出场了。他提出一个广为流传的说法：《红楼梦》的**前80回是曹雪芹写的，后40回是高鹗续的**。听起来蛮合理的吧？但争议也从没停过——有人说全是曹写的，也有人说曹压根就不是作者。
 
@@ -73,13 +73,13 @@ toc: true
 
 你可以这样理解：假如你看到一张地图，上面有120个小点，每个点代表一回《红楼梦》的文字风格。通过计算这些点之间的“相似程度”，程序就能自动把它们归为若干组。是不是太抽象，不够具体。别急，我们来看看下面具体的图示和例子。
 
-![](./23-Who-exactly-is-the-author-of-Dream-of-the-Red-Chamber.assets/sssllll.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/ea75e9d8b61da4fde5e4cbce4e168c07d26e36bc1f4e980a07e43008a53ccb9b.png)
 
 如果，我们假设每个小方块都代表一支军队，这些小方块就是几个国家的军队布置图。那现在我问你，一共有几个国家呢？
 
 你肯定会猜3个吧？每个国家的军队一般都驻扎在自己国家的城市附近，它们肯定会凑成一团的。没错，按照小方块之间距离关系，聚类分析就把它们分成了**3个阵营**，分别用红黄蓝表示。这就是聚类分析的基本思想了！
 
-![](./23-Who-exactly-is-the-author-of-Dream-of-the-Red-Chamber.assets/wwwwwwww.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7f/7f4e18c8e8322c6712a7951d7dfe8e5fec6e7ab8cb3ada99f0bf77b6e15a76fd.png)
 
 同样的，在做《红楼梦》作者分析的时候，程序员先是找出了一些能代表作者写作风格的文字。
 
@@ -97,7 +97,7 @@ toc: true
 
 ## 4. 生活中也能“聚类分析”
 
-![](./23-Who-exactly-is-the-author-of-Dream-of-the-Red-Chamber.assets/raw-20250423192846362.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/00/00eec267708661d40d69810a8204daf65cdb21e63fb5d725a5a268d8ea79e1b5.png)
 
 你以为这种分析方式只能用在古文研究里？那可就小看它了。生活中，我们也常常不自觉地用“聚类思维”判断一个人。
 

@@ -27,9 +27,9 @@ toc: true
 
 | 序号 | 名称              | 主页                                                   | 发现链接                                                     | 语言 | 说明 | 评价                                                         |
 | ---- | ----------------- | ------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
-| 01   | **Arpit Bhayani** | [https://arpitbhayani.me/](https://arpitbhayani.me/)   | [Function Overloading in Python](https://arpitbhayani.me/blogs/function-overloading) | EN   | IT   | ![😀](./blog.assets/7CFAF639-CEA7-49C0-8EBB-5D99FAC5371F.png) |
-| 02   | **老齐教室**      | [https://qiwsir.github.io/](https://qiwsir.github.io/) | [Python如何实现重载函数](https://qiwsir.github.io/2020/02/26/python-overload-function/) | CN   | IT   | ![🥶](./blog.assets/C223F1EF-21C2-47DD-809A-61607C43E263.png) |
-| 03   | **Mr.Hope**       | [https://mrhope.site/](https://mrhope.site/)           | [https://mrhope.site/](https://mrhope.site/)                 | CN   | IT   | ![Mr.Hope](./blog.assets/logo.svg)👍                          |
+| 01   | **Arpit Bhayani** | [https://arpitbhayani.me/](https://arpitbhayani.me/)   | [Function Overloading in Python](https://arpitbhayani.me/blogs/function-overloading) | EN   | IT   | ![😀](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/75fa2e81229fc6315013325b41db0aeb58de9367192f496ea70f6a6ef6a61422.png) |
+| 02   | **老齐教室**      | [https://qiwsir.github.io/](https://qiwsir.github.io/) | [Python如何实现重载函数](https://qiwsir.github.io/2020/02/26/python-overload-function/) | CN   | IT   | ![🥶](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/41/41649d3acddbc9b3cfdeeee14e27d40abadf8892986031f483cfdabe0eeb97bb.png) |
+| 03   | **Mr.Hope**       | [https://mrhope.site/](https://mrhope.site/)           | [https://mrhope.site/](https://mrhope.site/)                 | CN   | IT   | ![Mr.Hope](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bc/bcee19073d682776e45574f8bd00fc4d675e8bbbf6ed2fbec91cbdbbfff60aa9.svg)👍                          |
 |      |                   |                                                        |                                                              |      |      |                                                              |
 |      |                   |                                                        |                                                              |      |      |                                                              |
 |      |                   |                                                        |                                                              |      |      |                                                              |
@@ -59,7 +59,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -75,5 +75,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

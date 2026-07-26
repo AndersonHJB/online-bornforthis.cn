@@ -254,7 +254,7 @@ Write a program that receives the number of beers, cigars and if it is weekend a
 
 Examples:
 
-![](./01-Assignment01.assets/image-20230402133946798.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/92/92e745dd0f6d73171ca551ee16fe34a8f34aab85206cc1fb5d0d2ee3cb28a986.png)
 
 **Notes**:
 
@@ -299,7 +299,7 @@ Write a program in Python which receives 3 strings, one by one, each containing 
 
 Examples:
 
-![](./01-Assignment01.assets/image-20230416131734385.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c7/c758ea8588c3d03b39cde5c62b96620fe474f22b2f730353113c203ab14009be.png)
 
 **Notes**:
 
@@ -343,7 +343,7 @@ print("字符对应的数字之和为:", total)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -359,7 +359,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: Code1v1 文档
-heroImage: /ColumnImages/cpp/cpp.avif
+heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ca/cad2734865784d42a52610abb086bac8fd7e1a7e4aca1f9ffd33294b6c57118e.avif
 heroText: 📦 Code1v1 文档
 tagline: Code 1v1 是 AI悦创·致力推广编程教学而研发的教学库
 actions:

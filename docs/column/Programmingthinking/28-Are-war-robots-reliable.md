@@ -24,7 +24,7 @@ toc: true
 
 背景是这样的，有一个坏蛋从监狱里逃了出来，躲进了一座房子里。你可以动用各种先进的人工智能技术抓住他。不过注意了，这座房子里还住着平民，**抓住坏蛋的时候千万不能伤了好人**。你要怎么处理呢？你可以暂停先思考一下。
 
-![无人机](./28-Are-war-robots-reliable.assets/7221fc98011fc9ff5ff3750648328740.jpg)
+![无人机](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bc/bc4c11234453ac7b1911d53b2a2d553cb4f8e265671d504616a1917440475473.jpg)
 
 下面，我来说一个办法。如果直接就派出人类士兵，他跟坏蛋搏斗的时候会受伤，不太稳妥。所以我啊，会派**无人机**进入这座房子。
 
@@ -34,7 +34,7 @@ toc: true
 
 听到这，你是不是觉得，这人工智能技术太方便了，能消灭坏人，又不会误伤好人，要是真把这项技术用在战场上，说不定能减少很多无辜的伤亡呢。
 
-![大狗机器人](./28-Are-war-robots-reliable.assets/c7aa11f249f576af36def654d62f74b3.jpg)
+![大狗机器人](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e2/e2817e8759c7a9094d781ba0b6a67897f329dd4d283bc3c8eb97d1979d0d7eb1.jpg)
 
 你还别说，人工智能技术已经出现在战场上了。比方说，**在2010年**，在**阿富汗**的**美军**里多了一项新装备，名叫“**大狗机器人**”。
 
@@ -46,7 +46,7 @@ toc: true
 
 怎么办呢？最开始的时候，美国军队就训练**骡子**来运送货物。于是在战场上，你可以看到一队装备精良的美军士兵，牵着骡子在行军。
 
-![运送货物的骡子](./28-Are-war-robots-reliable.assets/bdcbfd877123ea197e3ba6f2d2506b92.jpg)
+![运送货物的骡子](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c6/c61d946ffcf5f3e4292ed59398937aceb05ddb1f479506c5542705ecae9c2ecc.jpg)
 
 而且，万一有敌人发起突袭，枪声一响，骡子可能被吓得四处乱跑，士兵们打完仗还要漫山遍野去找骡子，想想这个画面也是很滑稽。
 
@@ -64,7 +64,7 @@ toc: true
 
 那你可能会想了，如果给大狗加上**面部识别系统**，让它识别出敌人自动开枪，岂不是连遥控人员都省了？把大狗机器人往战场上一扔，就可以坐等战斗结束了，是不是很省事？
 
-![](./28-Are-war-robots-reliable.assets/f23640ca081ecd5adbd39a7b295c93ef.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/9113aa907d4d88572e588d4cdbabd0494572b8ab66edf4cdbf8aee272e662ccd.png)
 
 在这件事情上，很多科学家不同意，因为它太危险了。
 
@@ -78,7 +78,7 @@ toc: true
 
 所以，在2017年的时候，很多科学家一起签署了一份公开信。**反对把AI技术应用到战争中**，你熟悉的**埃隆·马斯克**、**霍金**，都在这份公开信上签了名。后来，越来越多的科学家也加入到了他们的阵营中。
 
-![](./28-Are-war-robots-reliable.assets/d3c60716565c8e22710f1c3c1b31dbb4.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d410d67b5ea09409f83b270f1f410d4202df7cee6611a3aaef9674778018fb7c.jpg)
 
 可问题来了，这AI技术既可以用来消灭坏人，也可能威胁好人的安全，你说这AI技术还要不要继续发展呢？
 
@@ -90,7 +90,7 @@ toc: true
 
 用辩证的思维去看问题，你就会比别人看得**更全面**。这种思考方式，你以后在历史课上也会经常用到。在分析一个历史事件的时候，不要简单地说好或者不好，试试能不能从不同的角度去分析它，得出更加可靠的结论。
 
-![](./28-Are-war-robots-reliable.assets/707e77e8924bdc1016c069af5a6ec25d.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f57b22570129e01353895935f5efd4508079104b1dccf40cd2374130fd05165e.jpg)
 
 那咱们说回人工智能技术，现在科学家们提倡要加快研究人工智能技术，并不是因为他们没有看到人工智能技术的问题。他们用**辩证思维**分析之后，认为人工智能给人类带来的**好处是多于坏处**的。而且，我们也有足够的时间来解决**人工智能滥用**这件事。所以，现在应当继续发展人工智能技术。
 
@@ -126,7 +126,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -142,4 +142,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

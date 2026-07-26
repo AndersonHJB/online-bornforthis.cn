@@ -35,7 +35,7 @@ toc: true
 5.  浏览器开始解析渲染页面并显示
 6.  关闭连接
 
-![clipboard.png](./replenish03.assets/20200717172147-165242050764310.png)
+![clipboard.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0d/0d1a598438c5771c9c338fa7448d4ff05fc74e9b08f0bcabb5b583b7fc41716a.png)
 
 * * *
 
@@ -178,7 +178,7 @@ MSL: 全程 Maximum Segment Lifetime，中文可以翻译为报文最大生存�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -194,4 +194,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

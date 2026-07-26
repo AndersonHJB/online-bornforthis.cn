@@ -30,7 +30,7 @@ toc: true
 
 平时你数数的时候，肯定是0、1、2、3、4这样一直数到9，然后进一位变成10。然后接着11、12、13继续数下去，对吧？这个数法啊，每到十就往前进一位，所以叫**十进制**。
 
-![](./08-Computers-dont-even-know-the-number-2.assets/852e498afbfdd2d8558105e27abf618b.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/71/71a885450df33316f0284f483a879e54870a846ec22792f7253f384d3aa8289f.jpg)
 
 咱们平常数数或者做数学题，用的都是十进制。这也比较好理解，咱们人类有**10个手指头**，掰手指头数数比较方便嘛。
 
@@ -38,17 +38,17 @@ toc: true
 
 开头两个还是0、1，到了第三个，就没有数字可用了。怎么办呢？你想想看，在十进制里，碰到这种情况，咱们是怎么做的呢？咱们会往前进一位，123456789后面进一位，就是10。
 
-![](./08-Computers-dont-even-know-the-number-2.assets/045207d813b6b28cab0b8e16e27e0883.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/86/865b202994f8daeb61e3502bc56558dcb2932eea57262af74a3b6bca81cdcd1c.jpg)
 
 二进制也一样，数到1没有数字可用了，也往前进一位，变成一零（10），虽然一零（10）写出来跟咱们平时看到的十进制里的十（10）一样，但在电脑里，一零可不表示十啊，而是二进制里的2。相应的，二进制里的3呢？写出来就是一一（11）。
 
-![](./08-Computers-dont-even-know-the-number-2.assets/59df435e40bacde5f8a7e915cd8a23b5.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c8/c8f99ab6a0f7e76293b249b577d337f0a33e1bac7a0f49933d193a963250c307.jpg)
 
 不管怎么样，今天你用的各种软件、玩的各种游戏都是建立在一大串0和1基础上的。那你可能会好奇了，计算机干嘛要用这么奇怪的计数方法呢？跟咱们一样用十进制不行吗？还真不行。
 
 为什么呢？这件事，还要从300多年前讲起，最开始研究二进制的人叫**莱布尼茨**。如果你听过顾森老师的**《北大学霸的数学培优课》**，那你可能听过这个名字了。他可是个厉害人物，可以跟大名鼎鼎的牛顿相提并论。
 
-![莱布尼茨画像](./08-Computers-dont-even-know-the-number-2.assets/f9193d1eeed2f6e11c87e93c794fe4b3.jpg)
+![莱布尼茨画像](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/df9c9f43683e513296ad2be0d4cee4d4bf90655d93b65881426d356f7804880e.jpg)
 
 在1701年的时候，莱布尼茨就发明了二进制的算术体系，而且这背后还有一段跟中国有关的小八卦。
 
@@ -58,7 +58,7 @@ toc: true
 
 诶，这里的八卦可不是“小八卦”的意思哈，八卦最初的意思，是一组以“**乾坎艮震巽离坤兑**”为基础的符号系统。我在音频封面上给你放了一张八卦图，你可以看一下。
 
-![图图片来源：BenduKiwi](./08-Computers-dont-even-know-the-number-2.assets/d4b4f2e13dc0b5db5ffd4fe6b31131b4.png)
+![图图片来源：BenduKiwi](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c3/c3d8fa188e1d31e4aefb34ec0890d57f8a9985ea94482e2d302ffff6a6cb9228.png)
 
 
 
@@ -76,7 +76,7 @@ toc: true
 
 第二个特点是：二进制可以进行所有的**数学运算**。任何你喜欢或者讨厌的十进制数学题，二进制都可以做！这个特点没啥好说的，因为连十进制所有的数字都能表示成二进制了，十进制的数学运算当然也能翻译成二进制了。
 
-![二进制运算法则](./08-Computers-dont-even-know-the-number-2.assets/下载.png)
+![二进制运算法则](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/23/23c09b8687a552e57cf231b1601b53ab9230dccef583ca7688a01bc30ffcc686.png)
 
 说完前两个特点，你可能会问了：二进制能做的，十进制也能做，那我们何必多此一举，把十进制、二进制来回转换呢？计算机直接使用十进制不就好了吗？
 
@@ -84,7 +84,7 @@ toc: true
 
 在现在的计算机里面，计算是在芯片上进行的。什么是芯片呢？其实芯片有个更专业的名字叫“**集成电路**”，也就是把电路缩小到很小很小，你家电脑的芯片可能就像一片指甲盖那么大。
 
-![集成电路](./08-Computers-dont-even-know-the-number-2.assets/ba24dd386e810f5330f2d09e032046d1.jpg)
+![集成电路](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3bcf4d42c12421cff5e57d9694cb1f7af879f28829074213d6432b0799a94a02.jpg)
 
 那用电路怎么表示二进制呢？其实很简单，芯片里，是用电路的开和关表示1和0的。你自己就可以在家里试一下。比如，按一下开关，灯就亮了，这就表示1，再按一下，灯就会灭掉，这就表示0。
 
@@ -92,7 +92,7 @@ toc: true
 
 你家有能**调节亮度的灯**吗？除了用关掉的状态表示0之外，你还需要再调节出9个亮度，依次表示1-9。现在你看出问题来了吧？你要记住这9种亮度，其实是很困难的。
 
-![](./08-Computers-dont-even-know-the-number-2.assets/239940e55c47b15142cc3d6f14c7387c.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3094e9d947a08b402a1568158843e533520405d977b7539eb088ebac0c945403.jpg)
 
 在芯片上也是一样，10种不同的信号特别容易搞混，而且电路越复杂，越不容易制造。反过来呢，二进制就简单多了，只要能开能关就够了。
 

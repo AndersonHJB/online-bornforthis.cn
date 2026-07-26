@@ -21,7 +21,7 @@ toc: true
 
 **Aufgabe 13:** **Oberfläche und Volumen eines Parallelflachs**
 
-![](./05-HomeWork6.assets/image-20231230105801478.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e5/e5b37662d2572600e618450e4d51200210f32758013459b77a31e63d26ea82fc.png)
 
 Es sollen die Oberfläche und das Volumen eines Parallelflachs (auch Parallelepiped oder Spat genannt) berechnet werden. Dabei werden folgende Begriffe verwendet:
 
@@ -150,7 +150,7 @@ Welcher Startwert oder welche Startwerte kleiner 10000 erzeugt bzw. erzeugen die
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -166,4 +166,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

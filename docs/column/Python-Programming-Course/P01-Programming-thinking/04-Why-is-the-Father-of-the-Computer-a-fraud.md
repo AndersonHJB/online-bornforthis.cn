@@ -24,11 +24,11 @@ toc: true
 
 ## 1. 他是“机械控”，也是数学天花板
 
-![查尔斯·巴贝奇](./04-Why-is-the-Father-of-the-Computer-a-fraud.assets/d174f1506a9b57dd3d1da54fd28a166b-20250411224404610.jpg)
+![查尔斯·巴贝奇](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d6/d6fe5dfd54d4f72ec30c85c89514c82e910aab60d1fc716d0aace879b0cec9cf.jpg)
 
 巴贝奇从小就是个“拆家狂魔”，尤其热衷于把各种机械装置拆个精光。闹钟、玩具、齿轮类的东西，只要他一拿到手，分分钟变成零件堆。但他和一般“只拆不装”的小朋友不同——他**拆得彻底，装得完美**，而且还能解释原理。
 
-![剑桥大学三一学院](./04-Why-is-the-Father-of-the-Computer-a-fraud.assets/TrinityCollegeCamGreatGate.jpg)
+![剑桥大学三一学院](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/fa23aa810659af57fb0ae1a016b0c2423b8b4e9d696b16156517bc5e47124515.jpg)
 
 不仅如此，他还是个天赋异禀的数学奇才，轻松考进了**剑桥大学最顶尖的学院——三一学院**（对，就是牛顿和霍金也曾在那儿的地方）。
 
@@ -54,7 +54,7 @@ toc: true
 
 ## 3. 理想很丰满，现实太骨感
 
-![差分机的未完成作品](./04-Why-is-the-Father-of-the-Computer-a-fraud.assets/91b0265963bc9cc397ff6ece47f76427-20250412074957269.jpg)
+![差分机的未完成作品](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/50/50d21383446f48edb74c59e1a2b0f61b8013f101b25d8a0a3875da8bb7e125b8.jpg)
 
 说起来简单，做起来难。巴贝奇的差分机对**精度的要求极高**，有些部件的误差不能超过**0.03毫米**，——这是什么概念？比一根头发丝还细！这在那个工业技术尚未成熟的时代，几乎就是天方夜谭。
 
@@ -66,7 +66,7 @@ toc: true
 
 ## 4. 如果有台万能机器，就好了
 
-![分析机](./04-Why-is-the-Father-of-the-Computer-a-fraud.assets/d4b665ef1196a92c4146ccd68c5e93a1-20250412093548332.jpg)
+![分析机](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/36/3649d73285d6dc62546d2dc22d55865a2a0f92e5acf3348e466c16b9f7036acc.jpg)
 
 虽然差分机失败了，但巴贝奇并没有停下来。他继续思考：**能不能发明一种“通用型”的计算装置？** 就像一个“万能工具箱”，你只需要换一套“说明书”，它就能干不同的活儿。
 
@@ -82,7 +82,7 @@ toc: true
 
 ## 5. 编程的灵感，来自一位天才女性
 
-![埃达的画像](./04-Why-is-the-Father-of-the-Computer-a-fraud.assets/35cfe22cb05d30d51cf6fcaea974531e-20250412093438882.jpg)
+![埃达的画像](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c51238d42693fb362f5331017a4963ac8486b1dcb74d1c393e39373e953b04d7.jpg)
 
 巴贝奇的构想吸引了一位了不起的女性数学家：**埃达·洛夫莱斯（Ada Lovelace）**。她不只是支持，还亲手为分析机编写了一套操作说明和计算步骤。换句话说，**她写了世界上第一段“程序”**。
 
@@ -102,7 +102,7 @@ toc: true
 
 ~~尽管如此，巴贝奇的理念却深深影响了后人。~~ 
 
-![图灵机原型图](./04-Why-is-the-Father-of-the-Computer-a-fraud.assets/sssss.png)
+![图灵机原型图](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/50/504f585f907bb63eef59376e629a8f6aa90d680b699012dad5b9153efdef75c8.png)
 
 多年以后，另一位传奇科学家 **艾伦·图灵（Alan Turing）** 提出了“图灵机”模型——依靠一条打孔纸带驱动，按照预设规则执行任务，这种思想正是对分析机的延续。
 

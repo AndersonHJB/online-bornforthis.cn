@@ -137,9 +137,9 @@ x 现在的值: ['cava', 2, 3, 4, 5, 6]
 y 现在的值: ['cava', 2, 3, 4, 5, 6]
 ```
 
-![](./04-Python-Logic-Pitfalls-Changing-Lists.assets/image-20231207113248613.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/55/55b39a8efe43b793d82a55fac3b2aeeef26f300bd126ba497bfb6c52b52f9ea1.png)
 
-![](./04-Python-Logic-Pitfalls-Changing-Lists.assets/image-20231207113303444.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fc/fcecab865e62daf645b1af4037efe0fbccbb0b34123aac4dd4c3d67fba0fc5b9.png)
 
 
 
@@ -164,7 +164,7 @@ y 现在的值: ['cava', 2, 3, 4, 5, 6]
 
 
 
-![](./04-Python-Logic-Pitfalls-Changing-Lists.assets/image-20231207113448125.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c56eaf9794304a4ea89da473e55f18621916f775fc0f7e73f1d0587ed576c6eb.png)
 
 为什么说它是浅拷贝呢？——因为，当列表出现嵌套的时候，就无能为力了。
 
@@ -393,7 +393,7 @@ print(remove_all([9, 9, 1, 9, 8, 1], 9))
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -409,7 +409,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

@@ -31,11 +31,11 @@ toc: true
 
 @tab image-1
 
-![](./07-FORTRAN95-2.assets/image-20240706171508968.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/69/691362fea718a92c53dbc1087c122359835eb2fa23d288c1c546a95cf0ac7e0d.png)
 
 @tab image-2
 
-![](./07-FORTRAN95-2.assets/image-20240706171525170.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/db/dbeef10125bbcd16a3fc20777d1bbbc705bc3e25659ed63e70a2cbefff60949a.png)
 
 :::
 
@@ -196,7 +196,7 @@ end program TyphoonData
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -212,5 +212,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

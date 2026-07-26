@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](./00-regex-opening-what-to-learn.assets/feab8e7bee2f437f65cfbb0a8969fee4.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/53/53d7d0ba356fb10eaaaf1cf725a6321f628f4f374f6a50aa9ff01095f94d2ba9.jpg)
 
 你好，我是悦创。
 
@@ -63,7 +63,7 @@ toc: true
 - 也可以从文本中提取想要的内容，比如从网页中抽取数据；
 - 还可以用来做文本内容替换，从而得到我们想要的内容。
 
-![](./00-regex-opening-what-to-learn.assets/da861b19b09731c29d1882fea6c25b68.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/73/7341d0f979b34340c8d90f42f9d1b4f8efa9d7b5317853746ed72ab5622b396e.png)
 
 通过它的功能和分布的广泛你也能看出来，正则是一个非常值得花时间和精力好好学习的基本技能。
 
@@ -95,7 +95,7 @@ toc: true
 
 我们经常需要从大段文本中抽取需要的内容，学会使用正则之后，不用写代码就可以完成类似的日常工作。举个例子，假如我们在 Sublime Text 3 中使用正则，查找重复出现的单词，并且想把它替换成单个单词。
 
-![](./00-regex-opening-what-to-learn.assets/5389df52d6007ed1f5c9b52f5ba4da35.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/ea3c7135e29bd0ad1d3cffd9930976971a2c0f0cbe3139baa75fc31bdac41b36.png)
 
 菜单中的 `Find -> Replace`，在查找栏中输入 `(\w+) \1`，在替换栏中输入子组的引用 `\1` ，然后点击 Replace All 就可以完成替换工作了。这样，通过少量的正则，我们就完成了文本的处理工作了。是不是很方便呢？
 
@@ -145,7 +145,7 @@ VScode工具需要把替换内容由 `\1` 改为 `$1`
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -161,4 +161,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

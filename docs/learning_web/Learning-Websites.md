@@ -35,10 +35,10 @@ toc: true
 | 05   |                                                              |                           |                                                              |       |                                |
 | 06   | **W3Schools**                                                | web                       | [https://www.w3schools.com/](https://www.w3schools.com/)     | EN    | HTML                           |
 | 07   | **W3School**                                                 | web                       | [https://www.w3school.com.cn/index.html](https://www.w3school.com.cn/index.html) | zh    |                                |
-| 08   | ![logo](./Learning-Websites.assets/logo.png)                 | 学习 Python 与 gui 之类的 | [https://www.delftstack.com/zh/](https://www.delftstack.com/zh/) | EN    | Python GUI Tkinter Text        |
+| 08   | ![logo](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/47/4780811f6d5ee6724ae2a81af46eb481eee809b644580ee7172742744366efb0.png)                 | 学习 Python 与 gui 之类的 | [https://www.delftstack.com/zh/](https://www.delftstack.com/zh/) | EN    | Python GUI Tkinter Text        |
 | 09   | 流沙团队书籍                                                 | 全栈                      | [https://book.bornforthi.com/](https://book.bornforthi.com/) | zh    |                                |
 | 10   | mozilla                                                      | Web                       | [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/) | EN    | HTML em                        |
-| 11   | ![geeksforgeeks](./Learning-Websites.assets/gfg-gg-logo.svg)**geeksforgeeks** | 全栈                      | [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/) | EN    | Python                         |
+| 11   | ![geeksforgeeks](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/47/4776331593cd2df444aecdb9ee04a803a5327449ba41a130105b4c090c4a5fcd.svg)**geeksforgeeks** | 全栈                      | [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/) | EN    | Python                         |
 | 12   | Pythons 数据之道                                             | Python、pandas            | [http://liyangbit.com/math/jupyter-latex/](http://liyangbit.com/math/jupyter-latex/)<br />[http://liyangbit.com/](http://liyangbit.com/) | zh    | Python「寻找 markdown 知识点」 |
 | 13   | shuxuele                                                     | 数学                      | [https://www.mathsisfun.com/](https://www.mathsisfun.com/)<br/>[https://www.shuxuele.com/](https://www.shuxuele.com/) | en/zh | 数学                           |
 | 14   | NumberSystem                                                 |                           | [https://byjus.com/maths/number-system-conversion/](https://byjus.com/maths/number-system-conversion/) |       |                                |
@@ -64,7 +64,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -80,5 +80,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

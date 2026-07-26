@@ -194,7 +194,7 @@ Look at the following image for reference on what we mean by a cone with multipl
 
 ::: center
 
-![](./01-lab01_answer.assets/image-20230127224948670.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/af/afc60aae4bbf063ace58d15e34a9c9864a6264abecd395dcffaa4edacbfb9a69.png)
 
 :::
 
@@ -202,13 +202,13 @@ The formula for sphere volume is as follows and will be used for each ice cream 
 
 > 球体积公式如下，将用于每个冰淇淋勺:
 
-![](./01-lab01_answer.assets/image-20230127221954136.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ef/ef0e4b9c7285a4c875dcda26ba3b6880324faf8394ffdb8e1c4e5ce27826c17e.png)
 
 The formula for cone volume is as follows and will be used for the ice cream cone:
 
 > 蛋筒体积的公式如下，冰激凌蛋筒将使用这个公式:
 
-![](./01-lab01_answer.assets/image-20230127222024724.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5b/5b480297147d55d0913954413599a3bef8c7aa9fb1fecd7c60a4b46cdd4f6f36.png)
 
 Your code should output the following
 
@@ -317,7 +317,7 @@ print(f"{days} Days {hours} Hours {minutes} Minutes and {seconds} Seconds result
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -333,4 +333,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

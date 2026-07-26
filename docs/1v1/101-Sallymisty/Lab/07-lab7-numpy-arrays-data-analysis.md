@@ -268,7 +268,7 @@ def plot_h(filename, a, b, N, use_vectorized=True):
 
 :::
 
-![](./07-lab7-numpy-arrays-data-analysis.assets/image-20250928185423284.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ba/ba594b270a2fcdbcecc3603ae3ba1e47b3c25f0c39cda198e52fb6ca81b56b82.png)
 
 
 
@@ -402,7 +402,7 @@ def evaluate_function_vectorized(function, A):
 
 :::
 
-![](./07-lab7-numpy-arrays-data-analysis.assets/image-20250928190402649.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/36/36846a08089f038eb29736bf952918e2c82032db26482eddbbe4a8071e36c208.png)
 
 ## 5. Data analysis with CSV files and pandas
 
@@ -498,7 +498,7 @@ def diagonality(matrix):
 
 :::
 
-![](./07-lab7-numpy-arrays-data-analysis.assets/image-20250928190815464.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/83/838eb67d7f8bbc7c4ddae987ee2c655de88bc1fd9994dd523bf37911cbb47429.png)
 
 
 
@@ -544,7 +544,7 @@ def cyclic_shifts_rightwards(vec):
 
 :::
 
-![](./07-lab7-numpy-arrays-data-analysis.assets/image-20250928191545158.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6eded649ca97d614c620f2238773388a260ddcae9701a8b9ef2363b2f6217a2c.png)
 
 ### 6.3 Programming problem 3: Analysis of COVID-19 data
 
@@ -658,7 +658,7 @@ def get_country_new_cases(country_name, csv_filename1, csv_filename2):
 
 :::
 
-![](./07-lab7-numpy-arrays-data-analysis.assets/image-20250928193930269.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/68/685ef4d6c1c31c3a5e4cd34515762d6de1aecd29148dcd530f2fa77d168a1d0e.png)
 
 
 
@@ -817,7 +817,7 @@ new_cases = get_country_new_cases("Australia", "/mnt/data/09-11-2020.csv", "/mnt
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -833,4 +833,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

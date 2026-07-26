@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](./01-webui-free-ai-drawing-toolbox-features.assets/28a2eccf0019ab76bcb0f02592fa7509-20260204105846591.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/24/24488aaa9b8d30fe9104ad9196c7d9eb5b1a566ca8bb638e7675a646e9caf1cb.png)
 
 你好，我是悦创。
 
@@ -34,7 +34,7 @@ toc: true
 
 Stable Diffusion（以下简称 SD）在 AI 绘画领域中闪耀着耀眼的光芒，SD 背后的方法在学术界被称为 Latent Diffusion，论文发表于 2022 年计算机顶会 CVPR，相关知识在后面的课程中我们会涉及，这里先按下不表。此时你只需要知道，SD 模型可以输入文本，生成图像。这里提到的文本，就是我们常说的 prompt。比如下面这张图，就是由 SD 模型生成的。
 
-![图片来源：https://stability.ai/blog/stable-diffusion-public-release](./01-webui-free-ai-drawing-toolbox-features.assets/f8b7d1beea87115537ed104b8031a3cb-20260204115340370.jpg)
+![图片来源：https://stability.ai/blog/stable-diffusion-public-release](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/89/896638be72e22754ae750e1b2495fc41d5f1c33a6352f1e78a958cfa36e71a50.jpg)
 
 这里我并非打算讨论其学术价值，而是想和你说说 SD 模型的高昂成本。你知道吗，训练一个 Stable Diffusion 模型的代价相当可观。SD 模型有几个备受关注的版本，比如 SD 1.4、SD 1.5 和 SD 2.0。
 
@@ -50,7 +50,7 @@ Stable Diffusion（以下简称 SD）在 AI 绘画领域中闪耀着耀眼的光
 
 你可以看到，在这个界面最上面的部分，你可以选择各种不同的 AI 绘画模型和不同的 AI 绘画功能；右侧可以展示出 AI 绘画的效果，供我们根据喜好决定是否保存到本地；至于左侧的参数信息怎么用，稍后我再详细讲解。
 
-![](./01-webui-free-ai-drawing-toolbox-features.assets/63c72f749a6aa9aa3ab2348519a6824f-20260204115449140.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c2/c2c0f9c24ac44fcc8b4e48fa0eda3b9e1fe5a73861294ae592486d77c88a7c88.png)
 
 与其他 AI 绘画类模型如 Midjoruney、DALL-E 2 相比，SD WebUI 可以免费在个人电脑或服务器上运行，并根据用户意愿进行改造和扩展。随着社区力量的涌入，SD WebUI 还拥有了丰富的插件，如 LoRA、ControlNet 等，它们让原生 SD 模型的能力和表现更加出色。
 
@@ -75,7 +75,7 @@ git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 2. 从 Windows 资源管理器(CMD 终端)中以非管理员的用户身份运行 webui-user.bat。
 ```
 
-![](./01-webui-free-ai-drawing-toolbox-features.assets/63536b62b12b75532f5302c63e08f891-20260204123912918.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/00/0032c2f9257564eba55dcc28d2bcbb250f546f4abd926680bed6c9c684e387fa.jpg)
 
 对于 Linux 用户，打开终端命令行。
 
@@ -90,7 +90,7 @@ sudo pacman -S wget git python3
 bash <(wget -qO- https://raw.githubusercontent.com/AUTOMATIC1111/stable-diffusion-webui/master/webui.sh)
 ```
 
-![](./01-webui-free-ai-drawing-toolbox-features.assets/c551b86a767759be04c3b94bb956bcb0-20260204124840986.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cbef6a8a766f0732930848903d396c6adc70cca5cb8a661b1d5f7117ebffed3b.png)
 
 对于苹果 M 系列芯片的电脑用户，打开电脑的 iTerm 命令行工具，根据这个[教程链接](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon)来安装 WebUI。
 
@@ -114,7 +114,7 @@ export no_proxy="localhost, 127.0.0.1, ::1"
 
 如果你本地没有英伟达显卡，而且不希望等太久，可以使用各种第三方平台提供的 GPU 资源进行操作。这需要发挥下你的聪明才智，也欢迎小伙伴们在评论区留下你的方法。启动 WebUI 后的界面可以看下面的图示。
 
-![](./01-webui-free-ai-drawing-toolbox-features.assets/fd137cc1a21f32211fc3f27f1b340cf4-20260204125332177.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/36/3636a2f6ced62d5c258c95fbbc579045c7729de535459160ab9f1f8e5015892b.png)
 
 此外，如果你希望进行汉化或者探索更多功能，可以在 Extensions（扩展）中进一步探索。Extensions 提供了一系列额外的功能和工具，里面包括很多功能和定制选项，这让我们的 WebUI 体验更加个性化和定制化。
 
@@ -124,7 +124,7 @@ export no_proxy="localhost, 127.0.0.1, ::1"
 
 现在让我们开始创作吧！首先我们需要熟悉一下后面这些参数信息。
 
-![](./01-webui-free-ai-drawing-toolbox-features.assets/b596e8080731898080e307581a70e829-20260204125428812.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/250c852c733f2d36eb5e1097ed7199f72fe8512694c6b243b78f7e1208ed3935.jpg)
 
 - Stable Diffusion checkpoint：这里可以选择已经下载的模型。目前许多平台支持开源的 SD 模型下载，例如 Civitai、Hugging Face 等。
 
@@ -170,7 +170,7 @@ seed: 10
 
 结果是后面这样。
 
-![](./01-webui-free-ai-drawing-toolbox-features.assets/2cce40c243bff208855dbb31659fb935-20260204125829482.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/fab97b6c86ac9a7ab787f83b5b07af116be8f981e5f4688c464aa0471165b7b4.jpg)
 
 通过 SD 模型，几只可爱的小猫瞬间诞生了！然而，这些小猫似乎带着一丝悲伤。不过，我们可以保持相同的参数，把 prompt 语句稍作修改，在 cute 和 happy cat 之间多写一个单词 “and”。
 
@@ -178,7 +178,7 @@ seed: 10
 prompt：a photo of a cute and happy cat
 ```
 
-![](./01-webui-free-ai-drawing-toolbox-features.assets/dd714e39ee5da4d4b8b5b6a21daf80ca-20260204125912700.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f4/f4075f3ee6731e2a51c6b3d18f0361eea218f8092b117786cb97bb50a6068212.jpg)
 
 魔法再次生效！现在这些可爱的小猫展现出了微笑的表情。接下来，你可以放飞想象力，将所有的生成和创作交给 SD 模型完成了！AI 绘图的文生图模式已经为你打开大门，更加广阔的创作空间就在眼前！
 
@@ -218,7 +218,7 @@ prompt：a photo of a cute and happy cat
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -234,4 +234,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

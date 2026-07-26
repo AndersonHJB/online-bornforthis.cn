@@ -184,7 +184,7 @@ print("被选择的活动:", selected_activities)  # 输出被选择的活动编
 
 ## 2. Knapsack Problem
 
-![](./Greedy-Algorithms.assets/image-20241101111640045.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8c/8c0535a024d1dcd4df1f1c0b8b5647be85b0d560c829b6e07bb3b03fe9947bc0.png)
 
 ::: tabs
 
@@ -761,7 +761,7 @@ if __name__ == '__main__':
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 C:::
 
@@ -777,4 +777,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

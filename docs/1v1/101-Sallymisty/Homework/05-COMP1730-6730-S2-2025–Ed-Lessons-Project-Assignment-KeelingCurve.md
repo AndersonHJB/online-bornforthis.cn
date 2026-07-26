@@ -1378,9 +1378,9 @@ def plot_data(co2_data, temperature_data):
 
 ::: details
 
-![](./05-COMP1730-6730-S2-2025–Ed-Lessons-Project-Assignment-KeelingCurve.assets/image-20250927192128322.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b5/b5b2b4c0c28b976747938e8a96ddcd230788fba3d283362c6081a7493b387fac.png)
 
-![](./05-COMP1730-6730-S2-2025–Ed-Lessons-Project-Assignment-KeelingCurve.assets/image-20250927192146113.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/67/67de7ec2f9cac881b253d3ed24adf1968cf8d7c97d34499e90384008f31bcdcc.png)
 
 :::
 
@@ -1862,7 +1862,7 @@ def plot_data(co2_data, temperature_data):
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1878,4 +1878,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

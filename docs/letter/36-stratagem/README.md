@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: AI悦创的 36 个具体工作方法
-heroImage: /letter/36plan.jpeg
+heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ad/adacc58caf57ce31821a8c7f9a6eb68f2fb362f08deedad99330ffe895a88f95.jpeg
 heroText: 悦创 36 个具体工作方法
 heroFullScreen: false
 tagline: 这是一个不成体统的启发信

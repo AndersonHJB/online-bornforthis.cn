@@ -53,7 +53,7 @@ Type: Assignment
 - 改变出口 - 选择一个目前在另一个房间西边的房间，把它放在北边
 - 增加一个房间（或两个，或三个，...）。
 
-![1](./03-Coursework-2-World-of-Zuul-ZH.assets/1.png)
+![1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/54/54800321e5a0ef0e2d337c1215b6330fd63f0cb91635f94df7a3a7b8fa605493.png)
 
 ### 设计你的游戏
 
@@ -1427,7 +1427,7 @@ public class Parser {
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 

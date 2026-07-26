@@ -30,13 +30,13 @@ toc: true
 
 一说起编程，你可能最先想到的是程序员坐在电脑前面**敲代码**的样子。确实，这就是一般人对“编程”的想象。不过，我要告诉你的是，编程最重要的其实并不是写出那一行行代码，而是“**编程思维**”。
 
-![代码](./README.assets/d49e611175d3e896e6936bf7404a6c9d.jpg)
+![代码](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/af/af56f8f61b952e6564a44b3d224a6659028630d5aae4cf1ccbc58426104f3304.jpg)
 
 那什么是编程思维呢？编程思维就是一种把一个问题**转化**成另一个问题，并且把它解决掉的思考方式。这么说有些抽象，我给你举个例子吧。
 
 你在数学课上，已经学过**面积公式**了吧？你可以通过公式，来计算长方形、三角形和圆形的面积。那如果现在我在纸上画了一只大熊猫，然后请你计算一下，这只**大熊猫所占的面积**，那又该怎么办呢？
 
-![img](./README.assets/2b44613de5952e977b191e5d52224fc1.jpg)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cf/cf6b2c9bea64bf8668d7b2bc9049cb90796c45c70059156a54adde89dc075b3c.jpg)
 
 你可能会问了，秦老师，那有没有求大熊猫面积的公式啊？哈哈，这样的公式可不存在哦。你要想知道大熊猫所占的面积，就需要利用编程思维，把这个问题，**转化**成另一个问题——你可以想象一下，如果在一张纸上先画出这只大熊猫，然后再在纸上**均匀地撒一层大米粒**。那么，大熊猫图形范围里的米粒数，跟它所占的面积是有关的。
 
@@ -46,7 +46,7 @@ toc: true
 
 你看，这就是编程思维当中的一个核心思想——**问题转化思想**。而我给你举的这个例子，也是一种特别常见的编程算法，叫做**蒙特卡洛算法**。你可能听说过，有一个很厉害的人工智能程序叫 **AlphaGo**，下围棋胜过了人类当中最厉害的棋手。AlphaGo 的思考方法，就跟蒙特卡洛算法有关。 
 
-![AlphaGo的标志](./README.assets/bed7c5a66f78fbd19e94bf25c51cc771.png)
+![AlphaGo的标志](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/57/5768c88d4a179625818f89947b824f4020be7f3a44d1b8f5fa75e22860d7979b.png)
 
 你可别觉得编程思维只能用来下围棋。其实在生活中，像这种编程思维的应用还有很多很多，我会通过**30个故事**，让你学会**12种思维方式**和**10种解决问题的办法**。
 
@@ -58,7 +58,7 @@ toc: true
 
 还有啊，很多软件里会自带美颜功能，可以把你的眼睛变大，在脑袋上加两个猫耳朵，或者把腿拉长。那手机软件怎么知道哪里是眼睛哪里是脑袋的呢？
 
-![人脸识别](./README.assets/ee6aaf515ec1dd471a9809b808347e0e.jpg)
+![人脸识别](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/99f4a2d179b2abce172556d374228be72e1ab8fe7882a3507fc7a3578a38df69.jpg)
 
 其实这些，都属于人工智能研究的一个领域，叫做**机器学习**。科学家们会教计算机认识各种各样的东西，可是计算机没有咱们这样的大脑，它的学习跟咱们的学习有什么不同呢？我会在后面的课程里详细给你说。
 

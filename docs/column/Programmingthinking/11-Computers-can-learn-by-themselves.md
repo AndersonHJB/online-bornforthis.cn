@@ -28,7 +28,7 @@ toc: true
 
 你可以轻轻松松把冰箱里的**水果**、**蔬菜**、**肉类**还有**饮料**什么的分开。而且，你甚至不知不觉就会把蔬菜里带叶的与不带叶的分开，把水果里酸的和甜的给分开。
 
-![](./11-Computers-can-learn-by-themselves.assets/378bd4a2efd89c464f9083f7002622aa.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6d/6d0ac7b10d0d1a8c97c480c1db9f2ce8ffb02dbc3a9be6caca03a55a9eed2dc6.png)
 
 这件事不光你做起来简单，让计算机来做也不难。咱们前面说过了，可以通过不停地让计算机看图片，教它们认识各种各样的东西。所以，对现有的水果蔬菜做分类，这个问题对咱们人类和计算机来说，都不难。
 
@@ -36,7 +36,7 @@ toc: true
 
 这里的树上也结满了各种各样的果子，都是地球上完全没见过的，有**三角形的、五角星形的，还有正方形**的。颜色呢？也是奇奇怪怪的，蓝色、绿色、橙色、粉色的都有。
 
-![](./11-Computers-can-learn-by-themselves.assets/bc63fe7e1025b07d4dd4cfc1ae0478cf.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/dfe374aad9c15df2ab086e60cb7de132f6f9ede20dacbff6db5a0985394df07b.jpg)
 
 这时候，通讯器里突然传来了命令，让你把这些果子做个分类，如果是你的话，会怎么办呢？
 
@@ -50,7 +50,7 @@ toc: true
 
 但是在外星球上，咱们**完全不知道**要分类的东西是什么，也没有一个确切的分类标准，先按颜色分还是先按形状分好像都可以。这种情况，咱们一般是不叫分类的，而是叫**聚类**。聚类的意思，就是根据一些特征把不同的东西聚在一块。
 
-![](./11-Computers-can-learn-by-themselves.assets/a5f52d948b3247e16b30c50b42452d7f.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/62/6218677b06081d3de7dbc2f8de8c446c76c37d952f8ce10ec51be5c9f87d7e79.jpg)
 
 
 
@@ -68,7 +68,7 @@ toc: true
 
 你应该还记得吧，咱们前面说计算机学习辨认图片上的小猫小狗的时候，是有人类告诉它们判断得对不对的。这种有人看着的学习方法有个特别形象的名字，叫**监督学习**，在人类的监督之下学习。
 
-![](./11-Computers-can-learn-by-themselves.assets/e47c246f1b06e7abade3ea15078d8565.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/32/321cc5c8a2ba0e64bddfc8d3d80faf287745badbefe9f7ac3361c670d8224f14.jpg)
 
 但现在情况不一样了，人类自己都不知道该怎么分类，自然也就没法监督了，一切都要靠计算机自己判断。怎么判断呢？ 
 
@@ -76,7 +76,7 @@ toc: true
 
 比如原来四四方方的果子可能会和三角形的果子归为一类。可随着观察的果子多了，计算机就发现，四四方方的果子还挺常见的，应该单独归为一类。 
 
-![](./11-Computers-can-learn-by-themselves.assets/44f35b56f6db44a3abbb201e31314897.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0f/0fe48a61e0c5e3d54e945c8cae5b38a10da714463db93f94b111531f870ab073.jpg)
 
 到底哪些果子要归为一类，这个判断标准不是人类给它设定好的，也不是它自己瞎猜出来的，而是**根据收集到的果子的参数不断调整出来的**。
 

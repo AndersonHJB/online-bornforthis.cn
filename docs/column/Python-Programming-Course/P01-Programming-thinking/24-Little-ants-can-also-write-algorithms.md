@@ -65,7 +65,7 @@ toc: true
 
 我实际开始模拟一下：
 
-![](./24-Little-ants-can-also-write-algorithms.assets/raw-20250423221141424.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d5/d59f98ac4fadca395b1e8e60bc8df97901869538a09dcc23318f06354e82e13a.png)
 
 想象一下，有两条通往食物的路：一条近，一条远。一开始，蚂蚁并不知道哪条近，~~它们就会随机走这两条路试试看。也就是~~蚂蚁大军就又派出一些工蚁，**兵分两路**，试着走走看。
 
@@ -75,7 +75,7 @@ toc: true
 
 更厉害的是，蚂蚁不会一直墨守成规。**只要给蚂蚁足够多的时间，它们还会进一步优化路线**。这是因为，蚂蚁虽然大概率会沿着信息素浓度比较高的路线走，但这事儿并不绝对。
 
-![](./24-Little-ants-can-also-write-algorithms.assets/raw.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ee/eef532376ad7e19e84adffb768e75e83fd82d195783665bf40d35ebf741655eb.png)
 
 因为，有些有个性的蚂蚁非要**开辟一条新的路线**。如果这条路线比原来的路线长，那这条路上的信息素很快就消散掉了，这条路线也就被淘汰了。
 
@@ -85,7 +85,7 @@ toc: true
 
 ## 4. 人工智能的“电子蚂蚁”也上线了！
 
-![](./24-Little-ants-can-also-write-algorithms.assets/raw-20250424094425483.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/fac4bdbb0a8965ac1536431a58dcf3485a960b4a27a597126381b81fda53e3e6.png)
 
 说到这，不知道你有没有发现，蚁群不断优化路线的思想对咱们的日常生活也特别有启发。——如果想找到新的更短的路径，就需要有蚂蚁去尝试新的路线。这就好比是，在一个群体里，需要有人能**提出不同的意见**。
 
@@ -108,7 +108,7 @@ toc: true
 
 ## 5. 用“类比思维”打开知识新大门
 
-![](./24-Little-ants-can-also-write-algorithms.assets/raw-20250424095542203.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f51584eb836a60fc28dfd4e5ff442fd6780a57fa00828762bd1974016e7bc7ae.png)
 
 其实，像蚁群算法、蜂群算法、遗传算法……这些听起来很酷的人工智能技术，本质上都是从自然中“偷师学艺”来的。这种从熟悉事物中类推出新知识的方式，有个特别名字：**类比思维**。
 

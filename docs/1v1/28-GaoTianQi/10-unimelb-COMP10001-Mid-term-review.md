@@ -27,7 +27,7 @@ backToTop: true
 toc: true
 ---
 
-![](./10-unimelb-COMP10001-Mid-term-review.assets/image-20230416164954870.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8b/8b9339c50e6fcb7dc83e1a7a77f886347d81efefd46ed9d552515dee193097aa.png)
 
 ## 字典排序
 
@@ -144,11 +144,11 @@ result = filter_long_strings(["apple", "dog", "banana", "cat"])
 print(result)  # 输出：['apple', 'banana']
 ```
 
-![](./10-unimelb-COMP10001-Mid-term-review.assets/image-20230416175102310.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/94/949f6e43de5aa0b11e3aed23ce3b86e9d95f39a650a9990bd5e4b9e275fa6935.png)
 
 ## enumerate()
 
-![](./10-unimelb-COMP10001-Mid-term-review.assets/image-20230416180302872.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9d/9d18c30c328e7c5504c284f35c86a15f602c0f544d121b2f61bedb6cd0032ee3.png)
 
 ### 题目1
 
@@ -280,7 +280,7 @@ print(result)  # 输出：[2, 3, 5, 7]
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -296,4 +296,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

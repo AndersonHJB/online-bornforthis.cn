@@ -56,7 +56,7 @@ toc: true
 
 ::: center
 
-<img src="./01-mean-deviation.assets/image-20221009232139634.png" alt="image-20221009232139634" style="zoom: 50%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a0/a04b9daa16b925997cf1410e10f56fc471b2478d5c97eef99772bf349c56f8c7.png" alt="image-20221009232139634" style="zoom: 50%;" />
 
 :::
 
@@ -75,7 +75,7 @@ toc: true
 
 ::: center
 
-![平均差](./01-mean-deviation.assets/mean-deviation.svg)
+![平均差](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5e/5eac8d73fcd818c465645a018f8a56be05e5da2c1eef015dca27517590f68173.svg)
 
 *（没有正负号！）*
 
@@ -121,7 +121,7 @@ toc: true
 
 ::: center
 
-![绝对偏差](./01-mean-deviation.assets/absolute-deviation.svg)
+![绝对偏差](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b4/b4ada050c0ce2ea4dbd53d7d277c503238c2eef3364bed6f46b7570425237486.svg)
 
 :::
 
@@ -171,7 +171,7 @@ $\hugeμ=\frac{3+6+6+7+8+11+15+16}{8}=\frac{72}{8}=9$
 
 ::: center
 
-<img src="./01-mean-deviation.assets/image-20221010084338645.png" alt="image-20221010084338645" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2a/2a28f788bd3972612b29cc552a6cb6896c4d8bd0ed6e38a4f1bab0ce19ea5bcd.png" alt="image-20221010084338645" style="zoom:50%;" />
 
 :::
 
@@ -193,7 +193,7 @@ $\hugeμ=\frac{3+6+6+7+8+11+15+16}{8}=\frac{72}{8}=9$
 
 ### 例子：你和你的朋友测量了你们的狗的身高（毫米）：
 
-![狗统计图](./01-mean-deviation.assets/statistics-dogs-graph.gif)
+![狗统计图](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/46/466d6106bb7356719f902ef806572d4e103560668a68cdff91c96061e6c5678a.gif)
 
 身高（到肩膀）是：600mm、470mm、170mm、430mm 和 300mm。
 
@@ -209,7 +209,7 @@ $\hugeμ=\frac{600+470+170+430+300}{5}=\frac{1970}{5}=394$
 
 ::: center
 
-<img src="./01-mean-deviation.assets/image-20221010085924952.png" alt="image-20221010085924952" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e0/e026babd77666c8a1c2faca7f952a77bdbc1f66faf9c0a73b5b2b92dee81a78a.png" alt="image-20221010085924952" style="zoom:50%;" />
 
 :::
 
@@ -242,7 +242,7 @@ $\hugeμ=\frac{600+470+170+430+300}{5}=\frac{1970}{5}=394$
 
 ::: center
 
-![平均差](./01-mean-deviation.assets/mean-deviation-20221010101036100.svg)
+![平均差](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5e/5eac8d73fcd818c465645a018f8a56be05e5da2c1eef015dca27517590f68173.svg)
 
 
 
@@ -284,11 +284,11 @@ D. 16
 
 **Step 2** Find the Absolute Deviations:
 
-![[cached] 0.02598762512207 ms](./01-mean-deviation.assets/e3b9af69c9090e4f5177796659130b1.svg)
+![[cached] 0.02598762512207 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8a/8aeca2b89a76c5a7773d00c2c9daf661c2319485d42a27ef7fce023cf4c98081.svg)
 
 **Step 3** Find the Mean Deviation:
 
-![[cached] 0.0061988830566406 ms](./01-mean-deviation.assets/b53955615c31ec62a4aaec98d455611.svg)
+![[cached] 0.0061988830566406 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8b/8b2d1a8c3455e29bce16514e51d3a1f464b8ba2f406e25c1821886ed79a0ce00.svg)
 
 ### Question 2
 
@@ -312,11 +312,11 @@ D. 17%
 
 **Step 2** Find the Absolute Deviations:
 
-![[cached] 0.043869018554688 ms](./01-mean-deviation.assets/ca0f7327677905480eb796749535a61.svg)
+![[cached] 0.043869018554688 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b2/b20c5420db7fdc0ba1e692510fcffd3003ceef7edc6351617c69cf42a19fdce0.svg)
 
 **Step 3** Find the Mean Deviation:
 
-![[cached] 0.030040740966797 ms](./01-mean-deviation.assets/2b1da78d23f8c2fa45005cfd1bd1741.svg)
+![[cached] 0.030040740966797 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/75e01828d6f41b1af82fb35233b2cb08fbaa5012a702b3c26038028a7448460d.svg)
 
 ### Question 3
 
@@ -342,11 +342,11 @@ D. 20.17
 
 **Step 2** Find the Absolute Deviations:
 
-![[cached] 0.045061111450195 ms](./01-mean-deviation.assets/6d6c38de7991ec959100d72e0c29031.svg)
+![[cached] 0.045061111450195 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d4c33ae784fd07bb5429d1d31099916e09a0c6096e61943d1ff821209c810ec0.svg)
 
 **Step 3** Find the Mean Deviation:
 
-![[cached] 0.010013580322266 ms](./01-mean-deviation.assets/7b62c597cbc37118b59fc653c9dfdc1.svg)
+![[cached] 0.010013580322266 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6b/6b40f70349c968ae17375a50218cf75a36d3be4f4ce34c15aa25411712c1176e.svg)
 
 ### Question 4
 
@@ -370,11 +370,11 @@ The first 10 numbers of the Fibonacci sequence are: 0, 1, 1, 2, 3, 5, 8, 13, 21,
 
 **Step 2** Find the Absolute Deviations:
 
-![[cached] 0.060796737670898 ms](./01-mean-deviation.assets/8fb366ba99d9abd412ec917554aca11.svg)
+![[cached] 0.060796737670898 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fe/fe7920ad95f3eb0fa3bccfc6dcd06f54204e5a0f5941c4cfdc7a8f7975d79092.svg)
 
 **Step 3** Find the Mean Deviation:
 
-![[cached] 0.016927719116211 ms](./01-mean-deviation.assets/78005233858f7b438f02208bce4e811.svg)
+![[cached] 0.016927719116211 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ec/ece5e896e7a04771a87d08bdb6c9d62ea3c5a018d93f5b19588295942e4c7e10.svg)
 
 ### Question 5
 
@@ -402,28 +402,28 @@ D. 3
 
 **Step 2** Find the Absolute Deviations:
 
-![[cached] 0.056028366088867 ms](./01-mean-deviation.assets/e216c65a7dbfc6ade5e9a2a66da8ee1.svg)
+![[cached] 0.056028366088867 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9c/9cc5147d524a63d79c0770f6a9ae698c76eb86a7c9dea4fab1079672b56ac511.svg)
 
 **Step 3** Find the Mean Deviation:
 
-![[cached] 0.011920928955078 ms](./01-mean-deviation.assets/328a4896378b19be392361747b9d2d1.svg)
+![[cached] 0.011920928955078 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2d0ad63e1ef884c97935ba8e6a61a5122ce3de00317325b314041a1951a8991b.svg)
 
 **Method 2**
 This can be done much more neatly using tables, as follows:
 
 First complete a frequency table:
 
-![[cached] 0.010967254638672 ms](./01-mean-deviation.assets/cf91c7659ed48babca1b5e911627c91.svg)
+![[cached] 0.010967254638672 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4a/4ae57d3402da74080620a686af7d101e9612f22c83c5d97f628306daee3bcda7.svg)
 
 Then calculate the mean and mean deviation from the following table:
 
-![[cached] 0.010967254638672 ms](./01-mean-deviation.assets/1b76aa877ddf88fbb5c47b816ab59a1.svg)
+![[cached] 0.010967254638672 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9e/9eb6ad5b4e12084d29b78aa7b5f9949b6c3071aba5ef63a53b287c18e6c24e24.svg)
 
 ### Question 6
 
 Ramiro did a survey of the number of pets owned by his classmates, with the following results:
 
-![[image]](./01-mean-deviation.assets/b7bba6fa4a5116a6aad9005c65a43a2.jpg)
+![[image]](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/45/45141d67a562104b421eb387c5caf3861ae31961cd3c5430eddaef07aa836e86.jpg)
 
 What was the mean deviation of the number of pets?
 
@@ -439,12 +439,12 @@ D. 1.12
 
 Calculate the mean and mean deviation from the following table:
 
-![[cached] 0.063896179199219 ms](./01-mean-deviation.assets/36b4dc652622ffee1f2e43a28fac181.svg)
+![[cached] 0.063896179199219 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d5/d510ffbaf9309dd643ac28d90d8d27e5acbdfa78efe3775188db35ac053aca4e.svg)
 
 ### Question 7
 
 Emma rolled a die a number of times and recorded her results in a bar graph, as follows:
-![[image]](./01-mean-deviation.assets/b7d76d61ffff15b74bb54f52d139952.gif)
+![[image]](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c4/c476812dd7a9e9a56ad8e6df137d42e6ef9c341e5521bcd77db61c03c62558a9.gif)
 
 What was the mean deviation of the scores?
 
@@ -460,17 +460,17 @@ D. 1.875
 
 First complete a frequency table:
 
-![[cached] 0.063896179199219 ms](./01-mean-deviation.assets/c284c0bdde9ca5f6330757b385505f1.svg)
+![[cached] 0.063896179199219 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/33/339554ab82cc70cf2a59afa7439d3a72f71f3c89ce260bb0a08348dae50dfdf7.svg)
 
 Then calculate the mean and mean deviation from the following table:
 
-![[cached] 0.016927719116211 ms](./01-mean-deviation.assets/080ebe1f7db9ca6f89898e1d4ef0421.svg)
+![[cached] 0.016927719116211 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b2/b225b9c0bd7cab76ab76d7d6a3120e34056ed37d7099a68dee4f58368137cb7a.svg)
 
 ### Question 8
 
 Rachel rolled a die forty five times with the following results:
 
-![[image]](./01-mean-deviation.assets/dbed293635c6463e44b56d6e191a692.jpg)
+![[image]](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/71/71c0824be0e62a612b9df1549ff1328d7480253eae4710c55dd12ca2ce94f696.jpg)
 
 What was the mean deviation of her scores?
 
@@ -486,7 +486,7 @@ D. 1.653
 
 Calculate the mean and mean deviation from the following table:
 
-![[cached] 0.051975250244141 ms](./01-mean-deviation.assets/e8fea5b4d9132fa458471545f6ead91.svg)
+![[cached] 0.051975250244141 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/da/daf376fd27b569f321666a5a0bad98dff3a2ace8f8417da95ea5eafbf493d2e2.svg)
 
 ### Question 9
 
@@ -494,7 +494,7 @@ A spinner is in the shape of a regular heptagon marked with the numbers 1 to 7.
 
 Theodore spun the spinner 50 times and recorded his results in a table, as follows:
 
-![[image]](./01-mean-deviation.assets/69934bd04b949edeb2bd7cce0ca1942.jpg)
+![[image]](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/60/605de805257657932024b4d9c678f9ec5128113392ba6bdf220873428c01a1ee.jpg)
 
 Calculate the mean deviation of the scores.
 
@@ -510,13 +510,13 @@ D. 1.8088
 
 Calculate the mean and mean deviation from the following table:
 
-![[cached] 0.063180923461914 ms](./01-mean-deviation.assets/9e24ddb8a8ffef6b672601f8848bef1.svg)
+![[cached] 0.063180923461914 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a7/a7bff99055130b52ec48abea651faa77fb90569df5bbf94df1157ea5d85fe54f.svg)
 
 ### Question 10
 
 The children in a class did a survey of the number of siblings (brothers and sisters) each of them had. The results are recorded in the following table:
 
-![[image]](./01-mean-deviation.assets/0d3b9be27588b33900548947fd49a02.jpg)
+![[image]](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/76/767c860387f21932d8828df2749a7749434fd5d883e156f135039c37d68ecb64.jpg)
 
 Calculate the mean deviation of the number of siblings.
 
@@ -532,7 +532,7 @@ D. 1.48
 
 Calculate the mean and mean deviation from the following table:
 
-![[cached] 0.046014785766602 ms](./01-mean-deviation.assets/5f022b81cc17a8e75baf3c9623f5da1.svg)
+![[cached] 0.046014785766602 ms](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cf/cfbc2ad72e5b2aed36dc34cc39af5aa8ae27e3c9d7aa6c816347f4d06f880dd0.svg)
 
 
 
@@ -544,7 +544,7 @@ Calculate the mean and mean deviation from the following table:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -560,4 +560,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

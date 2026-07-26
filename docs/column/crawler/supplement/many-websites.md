@@ -111,7 +111,7 @@ Hello, world.
 
 其中，上面的输出结果：`__main__.Hello` 等价于 `<class 'the_test_code_project.Hello'>` 运行的方式不同显示的方式也不同，但含义是一样的。
 
-![](./many-websites.assets/format,png.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ba/bae7fb3715755362d3f3069df34df26528b77777e348c49c79d36e930776f469.png)
 
 
 
@@ -199,7 +199,7 @@ metaclass，直译为元类，简单的解释就是：
 
 - 当我们定义了类以后，就可以根据这个类创建出实例，所以：先定义类，然后创建实例。
 
-	![](./many-websites.assets/format,png-20230201111948365.png)
+	![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/06/060d6383dff325b83d346a9ea9a385d309c6e0ea63a1e076179aeec379677434.png)
 
 - 但是如果我们想创建出类呢？
 
@@ -320,7 +320,7 @@ ok，到此零基础小白关怀文章就完成了，我就不继续赘述啦！
 
 看到这里，你们的身体还行吗？
 
-![真叫人头大](./many-websites.assets/format,png-20230201111948318.png)
+![真叫人头大](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/91c82d7a6fd4b7e1e122db9c99e914a582074bf2e45aa4d2fedb536f14d55d3e.png)
 
 我正在的干货要开始了！
 
@@ -893,9 +893,9 @@ C:.
 
 
 
-<img src="./many-websites.assets/20200616133415.gif" alt="img" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ee/ee8c63af3946f57d939b9afcc620a2104688e1844a781be753d3f54316aabda5.gif" alt="img" style="zoom:33%;" />
 
-<img src="./many-websites.assets/20200616133459.jpeg" alt="undefined" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bd/bd28b63337bcb8be1de217f100a39021c7fc834c35410b77e2d306b9de3a9181.jpeg" alt="undefined" style="zoom:33%;" />
 
 
 
@@ -907,7 +907,7 @@ C:.
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -923,4 +923,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

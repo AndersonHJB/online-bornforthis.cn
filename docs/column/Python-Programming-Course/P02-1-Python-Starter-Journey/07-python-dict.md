@@ -92,11 +92,11 @@ The Bornforthis phone number is: 18105021208
 
 **方法一**：使用两个列表实现一个列表存储，一个列表存名称，另一个列表存手机号。这样存储有个先决条件两个列表数据存储的顺序要一致，也就是用户名顺序和对应的手机号顺序要一致，如下图：
 
-![](./07-python-dict.assets/电话薄.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5b/5b967f61e659b172b04721b802dc27bb7fe3b9a60b8188d6dcc1f68abaa2f716.png)
 
 **方法二**：使用一个列表实现，此时相较于两个列表，最大的不同在于：一个列表中的数据存储要如何制造规律，这个规律可以是**奇数存名称，偶数存手机号**，还可以是**名称按顺序存储在列表前面，手机号统一存储在列表尾部**，当然还有别的方法你可以自行去设计这个存放规律。（自己设置规律一下，一定要自己设置一下，这样才能真正触发思考。）**学习是需要找到自己，而不是丢掉自己！**
 
-![](./07-python-dict.assets/电话薄方法二.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/153716d26490351e4f20e60a1987e37cb56fe8d9d6716eede87dd97df2231e81.png)
 
 
 
@@ -196,7 +196,7 @@ print(f"The {search_name} phone number is: {phone_number}")
 
 是不是有点绕，来给你做了一张图，一图胜千言全在图里了：
 
-![](./07-python-dict.assets/字典zip.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a1/a1dbcca7abb29e461dae3d0decb61dd929076a3ae5285485c3cc8eb745dd2bdb.png)
 
 所以，代码 `phonebooks[position]` 提取到联系人对应所在的元组，`[1]` 提取元组对应的联系电话（手机号）。
 
@@ -558,7 +558,7 @@ KeyError: '马冬梅'
 
 上面代码尝试对字典 grade 提取不存在的 `马冬梅` 时，出现了报错。回顾本章节一开始的情景，电话薄的需求使用字典实现是非常便捷的。但现在遇到一个问题：~~像我们平时查询电话簿时，没找到对应的联系人会返回：未找到（无结果）。~~就像我们查找电话簿时，如果找不到某个人的电话号码，系统会提示“未找到”。
 
-![](./07-python-dict.assets/image-20240103194907771.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/dfa3df502ae74edbb965ed6183b1afde0d66ce4e2beaa7e757282f0f52674427.png)
 
 那有没有方法解决呢？
 
@@ -608,7 +608,7 @@ print(my_dict.get('gender', '无结果'))  # 输出: 无结果
 
 再想想这句：有则改之，无则加勉。原意：有缺点错误就改正，没有就用以自勉。是不是和上面我说字典的添加方法一样呢，多类比多思考，学习会更舒适。
 
-![](./07-python-dict.assets/更新数据.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d1/d1e0f17a08972585bba16fd275c52d606a99a0652e927353bc8dd98956f2258c.png)
 
 代码实际编写之后，如下：
 
@@ -1789,7 +1789,7 @@ print(dict_sorted)
 
 虽然成功排序了，但是有一些没用的过程代码。首先，题目给的就是列表嵌套元组结构的数据，还有必要转换成字典和使用 `.items()`. 吗？显然是没有必要的，因为字典排序都需要使用 `.items()` 一下，把字典转换成列表嵌套元组。那为什么要把已经符合要求的数据，再经过字典一边呢？原因，我想到这你已经聊熟于心了。一图胜千言！
 
-![](./07-python-dict.assets/字典排序.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/eb/eb6dab3e3af49d4f9f4bf27028348f6fad487c722ab02ba6fd490f1c2038c58b.png)
 
 最终代码应该如下：
 
@@ -1858,7 +1858,7 @@ after = {'a': 19, 'b': [2, 3]}
 
 从输出可知，修改 after 字典键 `'a'` 对应的值时，也会影响原本字典 original 的值。正常情况变量 original 应该需要达到不受影响才对，我们来稍微用可视化分析一下。从图中，也可以发现两个变量指向同一个值。
 
-![](./07-python-dict.assets/image-20250326182815267.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c5f6124f83203e4d91962eef856995156c15e0ee8231571e6197015335b2f41f.png)
 
 使用可视化网站：[https://pythontutor.bornforthis.cn/visualize.html#mode=edit](https://pythontutor.bornforthis.cn/visualize.html#mode=edit)
 
@@ -1897,7 +1897,7 @@ after = {'a': 19, 'b': [2, 3]}
 
 `copy()` 函数虽然解决了上面的问题，但是对于值是一个可修改的数据时，还是会有影响。因为浅拷贝只解决了顶层问题，嵌套数据仍然共用同一个地址，看图：
 
-![](./07-python-dict.assets/image-20250326183453849.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a4da0b4239c760650aed4a22c1b99c948ba968305bde22719ff509402757e459.png)
 
 从图中可知，两个字典虽然独立了。但是两个字典中键 `'b'` 对应的值还是指向同一个列表，意味着修改其中一个字典对应的列表，另外一个字典也会被影响。
 
@@ -1917,7 +1917,7 @@ shallow_copy = {'a': 1, 'b': [2, 3, 4]}
 
 从代码输出结果可知，两个字典的数据均被影响。
 
-![](./07-python-dict.assets/image-20250326184102323.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cc/ccb604ca5422ed030d6c91c0fb4f902983975cfa57c1b89b882dfbb9378db7cc.png)
 
 
 
@@ -1941,7 +1941,7 @@ original = {'a': 1, 'b': [2, 3]}
 deep_copy = {'a': 1, 'b': [2, 3, 4]}
 ```
 
-![](./07-python-dict.assets/image-20250326184303744.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/14/14b9b2af18f440256ce2eeb982a94b17b7eb7aac42a4eaae5a247882c57d452c.png)
 
 通过上面的图，可以发现现在已经完完全全的实现 copy 了，这才是备份思想。
 

@@ -53,7 +53,7 @@ For extra credit, you can implement two players for this game and also allow the
 
 > 为每个类提供一个UML。您可以在word文档中完成此操作，然后将该文件保存为.pdf格式，并与brightspace中的其他四个.java类一起提交。
 
-![image-20221206113823935](./14-Assignment6.assets/image-20221206113823935.png)
+![image-20221206113823935](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/18/18166c9b181af672501cbd6a29514b390d47f24000f4a460e13a116b21487a0a.png)
 
 
 
@@ -76,7 +76,7 @@ For extra credit, you can implement two players for this game and also allow the
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -92,4 +92,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

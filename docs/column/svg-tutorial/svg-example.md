@@ -51,7 +51,7 @@ SVG 文件推荐使用 **.svg**（全部小写）作为此类文件的扩展名�
 
 显示结果如下：
 
-![image-20221101215152085](./svg-example.assets/image-20221101215152085.png)
+![image-20221101215152085](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/179762aecc727052574ee441c71d110aed142249b89869fe5cb1a88d81b0bd32.png)
 
 **SVG 代码解析：**
 
@@ -73,7 +73,7 @@ fill 属性设置形状内的颜色。我们把填充颜色设置为红色。
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -89,4 +89,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

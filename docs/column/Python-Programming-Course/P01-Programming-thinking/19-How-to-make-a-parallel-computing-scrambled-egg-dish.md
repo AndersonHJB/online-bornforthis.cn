@@ -28,17 +28,17 @@ toc: true
 
 100多年前，无线电刚被发明不久，科学界就开始畅想：如果我们能把电波送出去，那会不会也能接收到外星文明发来的信号？
 
-![](./19-How-to-make-a-parallel-computing-scrambled-egg-dish.assets/sss.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/85/85932ebeeef3be7097e2e3b8801158436e5ed295eb99714bd41fe30bacfe4afc.png)
 
 传奇科学家尼古拉·特斯拉当年在搞实验时，还真以为自己听到了火星发来的问候。第二年，无线电发明人古列尔莫·马可尼也声称，他的设备接收到了来自宇宙的“电报”。虽然后来的研究表明，这些信号很可能只是误判，但科学家们从此便踏上了**搜寻外星人**的道路。
 
 不过，无线电波属于电磁波家族，较可见光波长更长，能穿越尘埃与大气层，所以科学家们并未气馁。
 
-![阿雷西博望远镜](./19-How-to-make-a-parallel-computing-scrambled-egg-dish.assets/raw-20250421123631503.png)
+![阿雷西博望远镜](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7f/7fd3f5d595a3daa21ddb86e9f68bf8d7c29f06d8aeea9657736a1a27eb8dcc7c.png)
 
 科学家们建起了巨大的射电望远镜，比如那座外形像铁锅的“阿雷西博望远镜”，直径有350米那么大——差不多能放下一百层楼。只要有外星信号飘进来，它都能接住！
 
-![](./19-How-to-make-a-parallel-computing-scrambled-egg-dish.assets/raw-20250421125652716.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4c/4c034dbfca1b2e0cfb27eb38c0ff5352c092780244d8a3c9f02711415b69b37a.png)
 
 然而，问题很快来了：**信号太多，处理不过来**。
 
@@ -56,7 +56,7 @@ toc: true
 
 你想想，在20世纪90年代的时候，互联网已经在世界上比较普及了。有许多人家都买了家用计算机。这时候，只要制作一个分析外星人信号数据的软件，把这个软件装在你家的计算机里。然后，再把望远镜接收到的信号通过网络传到你的计算机上。等你睡觉了计算机闲着没事的时候，就可以分析这些信号了。
 
-![SETI@home](./19-How-to-make-a-parallel-computing-scrambled-egg-dish.assets/image-20250421105008540.png)
+![SETI@home](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b0/b023518a36c20db91255eec15a14946a5f9968165d4f19d31046d5abdc97cd56.png)
 
 于是，他和一群朋友开发了一个叫做“**在家寻找外星人**（SETI@home）”的程序——只要你愿意，就可以把它装到你家的电脑上。白天你用电脑干自己的事，晚上睡觉了，电脑闲着，它就会自动开始分析外星信号。
 
@@ -92,7 +92,7 @@ toc: true
 
 ## 4. 超级计算机的秘密
 
-![](./19-How-to-make-a-parallel-computing-scrambled-egg-dish.assets/raw-20250421142033954.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9e/9eb32dbe324f5058c70f553e1b7cc36634cb24b7bd6f1ef879cc0b7f6358141f.png)
 
 现实中的超级计算机，现实生活中的超级计算机之所以威力巨大，也是因为它也采用了并行计算。
 

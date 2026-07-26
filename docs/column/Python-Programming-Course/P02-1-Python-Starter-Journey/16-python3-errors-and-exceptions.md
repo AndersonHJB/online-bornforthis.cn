@@ -26,7 +26,7 @@ Python 有两种错误很容易辨认：**语法错误和异常**。
 
 Python assert（断言）用于判断一个表达式，在表达式条件为 False 的时候触发异常。
 
-![](./16-python3-errors-and-exceptions.assets/assets-py.webp)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f0/f0c81781b55a3de0a27aadec1f79b24b10f7971940f1d78db23c8e8683a5dfec.webp)
 
 ## 1. 语法错误
 
@@ -79,7 +79,7 @@ TypeError: can only concatenate str (not "int") to str
 
 异常捕捉可以使用 **try/except** 语句。
 
-![](./16-python3-errors-and-exceptions.assets/try_except.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/eab850129ed51323f61d178be253bf18506883cfde987658f95415c0791e15c5.png)
 
 以下例子中，让用户输入一个合法的整数，但是允许用户中断这个程序（使用 Control-C 或者操作系统提供的方法）。用户中断的信息会引发一个 KeyboardInterrupt 异常。
 
@@ -312,7 +312,7 @@ print("程序继续执行")
 
 else 子句将在 try 子句没有发生任何异常的时候执行。
 
-![](./16-python3-errors-and-exceptions.assets/try_except_else.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/50/50aec7bd272e46d0de2047942ff6a2cfd307eab2c2a0916dbeb7fc9dd75260d5.png)
 
 ::: tip 类似于，一群人去探险找宝物。一个公子哥就让随身的手下，先去探路👩‍🦯。并很自大的跟其他队友说道：咱们先原地休整一下，前面探路没问题了之后，咱们再一同前往。
 
@@ -591,7 +591,7 @@ for arg in files:
 
 ### 3.3 try-finally 语句
 
-![](./16-python3-errors-and-exceptions.assets/try_except_else_finally.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5a/5a5bfc56349fd9ed7651a29abdb2770de0e30841c53c6d66ff0128a43f260380.png)
 
 `try-finally` 语句无论是否发生异常都将执行最后的代码。
 
@@ -631,7 +631,7 @@ raise 语法格式如下：
 raise [Exception [, args [, traceback]]]
 ```
 
-![](./16-python3-errors-and-exceptions.assets/raise.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/34/34857ab30b1d8fa3ad5f3d21f18a2b9ad7bc757ce2b2ea19b068aa09309b8f72.png)
 
 以下实例如果 x 大于 5 就触发异常：
 
@@ -759,7 +759,7 @@ An exception flew by!
 
 ## 6. assert（断言）
 
-![](./16-python3-errors-and-exceptions.assets/assert.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/72dc86bfb138494c1329dffc1e3f4d2869cf8ab3cd20f78bfadddb314ecb5a2f.png)
 
 Python assert（断言）用于判断一个表达式，在表达式条件为 false 的时候触发异常。
 
@@ -880,7 +880,7 @@ print(f"当前系统: {sys.platform}")
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -896,4 +896,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

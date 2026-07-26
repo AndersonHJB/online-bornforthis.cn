@@ -221,19 +221,19 @@ A sample of comments left by former students:
 
 ## Time commitment
 
-![Time commitment](./Course-intro.assets/time-commitment.png)
+![Time commitment](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8c/8c526a352ec6e15de138bf1f9b0d91cfa382ccdb0468af13e1a394080aeb292e.png)
 
 ## Openness
 
-![Openness](./Course-intro.assets/openness.png)
+![Openness](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/37/3734b4a2944516f04465f9ebdfbd5287c64d7a2901083416610589d9a79a5c89.png)
 
 ## Challenge
 
-![Challenge](./Course-intro.assets/challenge.png)
+![Challenge](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e9/e9976cd698a04209243069e1af24b4289c854105bd21e5b05fd3af2c6342c2bb.png)
 
 ## Knowledge increase
 
-![Knowledge increase](./Course-intro.assets/knowledge-increase.png)
+![Knowledge increase](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/90/907d2ab47af8c66efa3c2ed946865f9286bcf1eed877516d9638b6a0cf5b2afa.png)
 
 # Conclusions
 
@@ -248,7 +248,7 @@ All content herein is copyrighted, shared under the [GNU General Public License,
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -264,4 +264,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

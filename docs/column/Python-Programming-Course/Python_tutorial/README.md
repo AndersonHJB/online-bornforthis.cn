@@ -36,7 +36,7 @@ toc: true
 
 有了 Python，你不光可以和**人类**对话，还可以和**机器人**对话，可别小瞧了机器人的智商~
 
-![img](./README.assets/eec7c55447ce39942d9a45afe5b78874.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a1/a1f404b2f6fe140d9ab3838ebbfab64a2c3109647b837aa2e1a53dbaeacc3afd.png)
 
 我们来试着和可爱的机器人，悦创宝宝说说话吧~
 
@@ -85,15 +85,15 @@ Process finished with exit code 0
 
 当然，简单易学并不影响 Python 的强大，在信息时代，在人工智能、数据分析、自动化控制、系统开发等各个领域都有 Python 的身影。
 
-![img](./README.assets/8548532f4a20f82e279613323a59c2d1.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9d/9d728a99cfdeb0fc7d3e7b984a93205eae422e3525447e83b9af6af1961238ff.png)
 
 这些都是能用 Python 实现的，甚至还不止这些。相信屏幕前的你此刻已经暗暗立下了目标，当然，无论你想选择什么方向，都得先扎扎实实的打好 Python 基础。
 
 那学这个到底赚不赚钱呢？当然！岗位需求量非常大，在这个人才过剩的时代，各大公司还是疯狂的在寻觅懂编程和人工智能的员工，并且给出相当丰厚的工资！
 
-![img](./README.assets/4395f54f4526bb7cc89801ed8cf28170.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7c/7c3622824fbdf5351c9c288dabe02f3be82b4fbcc901482601dac58d88a9025f.png)
 
-![img](./README.assets/bdd42555f809654c84ca35f9040a8bde.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/34/34530242e6fb67d6ef25640cfa85e2cae98931c246e825869ae57a77706f377f.png)
 
 不光技术人员，在如今自动化办公的趋势下，很多非技术人员以及业界大佬，也都开始了 Python 之旅，比如销售、财务、运营、分析师等。
 
@@ -107,7 +107,7 @@ Process finished with exit code 0
 
 ## 第一大武器：[在线编辑器](https://py.bornforthis.cn/#/)：[https://py.bornforthis.cn/#/](https://py.bornforthis.cn/#/)
 
-![image-20220620162931624](./README.assets/image-20220620162931624.png)
+![image-20220620162931624](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e2/e2d1ac9d472400db2da7b563c3b01bf21ab6cc4ec081a004e0f6aa2af1259ce2.png)
 
 在基础课阶段，我们统一使用线上编程环境，可以节省掉繁琐的安装步骤~等学好了再安装也不晚。
 
@@ -121,7 +121,7 @@ Process finished with exit code 0
 
 据说，学习 Python 的都是善良可爱的宝宝，小悦怎么知道的呢？下图这个戴粉色帽子的小可爱告诉我的：
 
-![img](./README.assets/c0ff24a1a2081faaff6fb4feeebf5c88.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5a/5ab17a1ce19d88f50fc0f5942bfa2d7122f99a77f70345aba9be005dcbc64048.png)
 
 这是学习 Python 的同学们之间广为流传的一个表情包，虽然学习路上荆棘密布，但是小可爱们还是很善良，而且善良到炸 O(∩_∩)O哈哈~
 
@@ -143,17 +143,17 @@ Process finished with exit code 0
 
 小悦近来日思夜想，做了一个伟大的决定！
 
-![img](./README.assets/4bac512048d1c111f0c8b313ebadfec3.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b3/b34f6586115d68a92a1f315c98841bc378b253a23cd1e1fb38d31da2c16bc09e.png)
 
 哈哈哈哈，做梦都会甜齁！
 
 不说废话，直接上图，信不信完全 hold 住你的 24k 纯金 eyes！（吃瓜脸0o0)
 
-![image-20220621205821888](./README.assets/image-20220621205821888.png)
+![image-20220621205821888](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b4/b4efdf3a3ae008076d93f4109b70fa1b04e961608325ccb26b3065a3ce6a2fdf.png)
 
 肿么样，是不是还不错？咳咳……
 
-![img](./README.assets/db4bbe6a563404dd6d21ff8fbe43de06.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9d/9d2bc122b3de421b515face00899fa974eaa7ab4dda4edb4b577a43ead0ca28f.png)
 
 “小悦奶茶馆今天正式开张了，欢迎喜爱奶茶的你，赏光大驾，小悦将竭诚为您服务！”
 
@@ -161,11 +161,11 @@ Process finished with exit code 0
 
 但是这也带来了一定的点单压力，于是，奶茶馆门前排起了长长的队伍。
 
-![img](./README.assets/936a8bc2b303b2440b13937aa1639371.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5fe311c2901a209f725154367173e35834d1ac0710325dd6e510da7612dba173.png)
 
 为了缩短大家的购物时间，小象君拿出了自己的老本行，动动手指写了几行代码，开发了一款简易自助点单系统。
 
-![img](./README.assets/024db2bb4bc2f1e61f12cc6c895f1628.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2d64106926c111fc11c44d5f92accb805e092038246e4642f316afb783188157.png)
 
 它可以实现什么功能呢，好奇的你先一睹为快吧！
 

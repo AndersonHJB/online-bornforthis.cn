@@ -31,7 +31,7 @@ toc: true
 
 一个小姐姐拿着一个 switch 的选择题来问我。
 
-![img](./01-Why-do-switch-case-statements-need-to-include-breaks.assets/20210611144448300.jpg)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f8/f8c46c274732634a02d24f803892bbfe6cea39686664e1601109ed31d43e2cdf.jpg)
 
 之所以这么笃定地回答这个问题，并不是我知道其中原理，而是之前在一个群里，有人问了同类型的问题，我瞥了一眼记住了答案，所以才依葫芦画瓢。
 
@@ -59,7 +59,7 @@ public class switch_test {
 
 运行代码，结果如下：
 
-![image-20220912124509701](./01-Why-do-switch-case-statements-need-to-include-breaks.assets/image-20220912124509701.png)
+![image-20220912124509701](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9b/9bb923745f22c3a6c474a4c1b6b6a754dc5bbd4d3c9abf9fe651640c9606ab53.png)
 
 明明只匹配了 case 0，为什么 1 和 2 也执行了？很费解！按照惯用套路，看看字节码能不能给个答案。
 
@@ -147,7 +147,7 @@ tableswitch 和 lookupswitch 都用于 switch 条件跳转。
 - tableswitch：用于 case 值连续，例如上面代码中的 0、1、2；
 - lookupswitch：用于 case 值不连续。
 
-![lookupswitch：用于 case 值不连续](./01-Why-do-switch-case-statements-need-to-include-breaks.assets/image-20220912140001899.png)
+![lookupswitch：用于 case 值不连续](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b6c3101e8475cea9d942ee461bea8e536a4791df129d4f1dff7e03d2b965dcda.png)
 
 从字节码可以看出：switch 中的 case 条件和对应代码块是分开的。
 
@@ -279,7 +279,7 @@ public class switch_test {
 
 那怎么办嘞....
 
-![img](./01-Why-do-switch-case-statements-need-to-include-breaks.assets/20210617133452366.gif)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/7209f41bccead75e53a18ce0bbdb42bbc166f18a045be13e5779083d0834f34e.gif)
 
 ## 关于 goto
 
@@ -429,7 +429,7 @@ case 中的 break 告诉前端编译器：给每个 case 对应代码块的最�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -445,5 +445,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

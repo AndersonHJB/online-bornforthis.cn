@@ -61,19 +61,19 @@ toc: true
 
 百度 HR 在内部发表的帖子
 
-![1572146108631](./README.assets/1572146108631.png)
+![1572146108631](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/24/243251c26b41303e06164192f0878b6dba2620e49508cb45966edcec0553169e.png)
 
 ### 1.3 国企老王的故事
 
 那无独有偶，这个国企老王在单位差不多也混了八年，在回到办公桌的时候，桌子上放有人事发来的函件，我们可以看一下上面写的理由是：PPT 做得太丑，配不上公司形象。
 
-![1572146062584](./README.assets/1572146062584.png)
+![1572146062584](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4b/4bad3f3133723bb14da2c78f093b1e1a339f9ba04adc409b5502768b1a2c7dd3.png)
 
 ### 1.4 解析
 
 其实，我是蛮能理解刘超和老王的点为什么会点这么背阿。刘超作为设计总监，在那样的大会上做出那样的 PPT ，那是不是给我们的百度公司的形象受损呀。那公司形象受损了，那他也自然不好过了。
 
-![1572146497251](./README.assets/1572146497251.png)
+![1572146497251](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/34/34496a224b1908f3b995b3923f1ee9965dadc434b65b4faf40cf046e560026dd.png)
 
 老王我们得到的信息有限，但在国企也是兢兢业业工作了八年。PPT 是一直的丑，那偏偏今年就被开除了呢？
 
@@ -87,7 +87,7 @@ PPT 不重要，但是展示 PPT 的场合非常重要
 
 :::
 
-![1572146958275](./README.assets/1572146958275.png)
+![1572146958275](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a8/a822c7ab020a27bde5e8859f86ad8edd5d4dfd28d943976786143de5a181be74.png)
 
 好，那这时候会有人问老师，老师我知道 PPT 的重要性了，那你告诉我：PPT 学起来到底难还是不难？
 
@@ -101,11 +101,11 @@ PPT 不重要，但是展示 PPT 的场合非常重要
 
 它涉及到 **演说、心理、设计、沟通、逻辑** 五大学科交叉。
 
-![1572147962493](./README.assets/1572147962493.png)
+![1572147962493](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ff/ff2fbbfe36d198b99b619fd7eac30113fb81039c34100d7b31b8b8e4bea2fb3e.png)
 
 其中，五个都是非常磅礴复杂，更何况是组合在一起的呢？
 
-![1572148252088](./README.assets/1572148252088.png)
+![1572148252088](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/95/953acdcc5e87b94ea33c680486f40f6287159d78bc4c95511d5e58d92fa0f508.png)
 
 当然，这些是涉及到专业级的选手。
 
@@ -115,11 +115,11 @@ PPT 不重要，但是展示 PPT 的场合非常重要
 
 我们生活中见到的 PPT 呢，90% 是这样子的：
 
-![1572148871247](./README.assets/1572148871247.png)
+![1572148871247](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/18/1889a5f54f404306c8ca053fd00f9f119c38cbeb8706ca0909b18680f5f81792.png)
 
 那如果在这一堆丑陋的 PPT 当中，突然出现两张漂亮的 PPT。
 
-![1572148983580](./README.assets/1572148983580.png)
+![1572148983580](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ec/eccde9f0aa3007ab4c29ee125962f4f950437a6b960ab9d5182f3dcdb09e3913.png)
 
 这也是说，在工作中其实也是一样的。
 
@@ -129,7 +129,7 @@ PPT 不重要，但是展示 PPT 的场合非常重要
 
 其实，对于你来说我们只要稍微把 PPT 做的稍微好看一些，你的人生其实就跟开了外挂是一样的。
 
-![1572149403015](./README.assets/1572149403015.png)
+![1572149403015](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d3/d3551bd3b7058789da82785357dac2c5d193cdf65c64c8c257879255d6fbccb4.png)
 
 而做得好看，其实是 PPT 里面所有的知识点最简单、最容易的。
 
@@ -145,7 +145,7 @@ PPT 不重要，但是展示 PPT 的场合非常重要
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -161,7 +161,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

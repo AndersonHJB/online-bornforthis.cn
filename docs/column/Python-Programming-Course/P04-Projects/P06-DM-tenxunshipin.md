@@ -35,7 +35,7 @@ toc: true
 
 在腾讯视频网站，打开电视剧 or 动漫，播放任意一集，查看浏览器地址栏中的 url，这个 url 由`电视剧的 id`和`每一集的 id`组成。
 
-![](./P06-DM-tenxunshipin.assets/image-20251026112446005.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d3/d32eef1025900d8fbe096795951d0c0bee7c19dcd5a869cc21c526b88cab35d1.png)
 
 - **电视剧 ID**：`mzc00200of24km2`；
 - **剧集 ID**：`z4101ftrdpp`；
@@ -50,7 +50,7 @@ toc: true
 
     ::: details 图片
 
-    ![](./P06-DM-tenxunshipin.assets/image-20251026113047724.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9a/9ae4bade9aad620e40b74c867bc605a6ed26e6e07436a390955c7bf3fb4866ce.png)
 
     :::
 
@@ -58,13 +58,13 @@ toc: true
 
     ::: details
 
-    ![](./P06-DM-tenxunshipin.assets/image-20251026113242856.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/61/61b184d8d6e69046cf47aa9d31fd9a117d7dc42f76284101000d94f261ff3f59.png)
 
     :::
 
 ### 1.3 分析弹幕 URL
 
-![](./P06-DM-tenxunshipin.assets/image-20251026113650980.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b5/b534b5ae1457a083d3bcea11c6e37c22e93bbfbba3b8e06764a100815703714e.png)
 
 例如如下弹幕链接：
 
@@ -332,11 +332,11 @@ def main():
 
 链接存在则会返回状态码 200：
 
-![链接存在，且请求成功则可以返回状态码 200](./P06-DM-tenxunshipin.assets/image-20251103204406008.png)
+![链接存在，且请求成功则可以返回状态码 200](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/07/078922088881466ccfc7e0d0851e6c432a1edc9e8e2373b610694f1034ce9799.png)
 
 链接不存在，请求失败显示的状态码 404：
 
-![链接不存在，请求失败显示的状态码 404](./P06-DM-tenxunshipin.assets/image-20251103204244990.png)
+![链接不存在，请求失败显示的状态码 404](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/27/271497ee49163f0b9a3b30be1c06b937f04b70f8376363fed9166c471d51e195.png)
 
 #### 2.3.2 分析弹幕链接有数据的前提
 
@@ -344,7 +344,7 @@ def main():
 
 一图胜千言，状态码为 200，但是请求得到的页面是没有弹幕数据。
 
-![状态码 200，但是没有弹幕数据](./P06-DM-tenxunshipin.assets/image-20251103204907046.png)
+![状态码 200，但是没有弹幕数据](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/83/83320808ff1324ef4e451b51a653c96a778e3c7cc3a4ad0dc14a4c9323775a1b.png)
 
 故而，我们可以得出想要链接有弹幕的结论：
 
@@ -617,7 +617,7 @@ def main():
 
 还有什么途径有更直击的情感、情绪数据分析呢？——网易云（网抑云）。网易云上有歌曲评论，是有极大的触动。
 
-![](./P06-DM-tenxunshipin.assets/image-20251110201312602.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6e83ea783e4a5fbdc48d0db5e3bcd2b2be662a2284aaa34cf32340e1346c4745.png)
 
 :::
 
@@ -1155,7 +1155,7 @@ datetime 关注的是“现在的年月日时分秒”，是人类时间。（�
 
     按上面的代码会有什么问题？运行代码看看：
 
-    ![](./P06-DM-tenxunshipin.assets/image-20251116120106418.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/59/59a4b81badf768a21dadb3a0f4d2dad6a4e35bb1e192e8b5aeea65a27f77f730.png)
 
     几次循环就会生成几个不同的文件名，导致一个弹幕一个文件，而我们需要所有弹幕存在同一个文件，该怎么修改呢？
 
@@ -2331,7 +2331,7 @@ episodes_danmu_DataFrame.to_csv(f"腾讯视频弹幕-繁花-{episodes_danmu_Data
 print("弹幕保存完成！")
 ```
 
-![](./P06-DM-tenxunshipin.assets/db3971680ae832a6dc06c4263b34f475.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4c/4c02bf9811c21ff9510ba5191b3b26a41c3ea2fb5c925d255c28c95605066f29.png)
 
 
 
@@ -2379,7 +2379,7 @@ pip install jieba wordcloud matplotlib pillow
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -2395,4 +2395,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

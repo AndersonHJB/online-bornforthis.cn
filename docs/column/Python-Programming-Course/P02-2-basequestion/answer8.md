@@ -191,7 +191,7 @@ D. 定义了一个空字符串
 
 15. 此题无需在线作答，请在纸上作答后查看答案解析
 
-![img](./answer8.assets/625104f63900facfaf9cb69d73d1c94b.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/60/606ca1d8af79e6f2cf2f65e8346892ef3b3249c218fb564aba77271aa630ff71.png)
 
 有程序如上图，则运行这个程序的结果是______。
 
@@ -207,7 +207,7 @@ D. 定义了一个空字符串
 
 16. 执行以下代码后，b的值为_______
 
-![right](./answer8.assets/432b43c5a8b067909c0fc2077ae95573.png)
+![right](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/78/781e3df483d7b6d59a8e834c3dd5da64304e0ee155b3163c2210df859e8697e5.png)
 
 ::: tip 答案解析
 

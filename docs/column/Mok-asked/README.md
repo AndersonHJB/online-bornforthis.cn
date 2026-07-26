@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: home
 title: 墨问西东·笔记
-heroImage: /ColumnImages/Mok-asked/Mok-asked.jpeg
+heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/995ff45ed98050ba3650dd5d2be02a08c143f9caca3cf7bc276007ddf9995ed7.jpeg
 heroText: 墨问西东·笔记
 heroFullScreen: false
 tagline: 在广袤的空间和无限的时间中，能与你共享同一颗行星和同一段时光，是我莫大的荣幸。卡尔·萨根
@@ -54,4 +54,4 @@ footer: 立志降低教育成本，普及编程教育，提供优质资源教程
 
 我也准备开始创业，但是过程中会遇到很多问题，觉得这个知识星球会有所帮助吧，具体如何我过段时间再来更新。——2023-01-11 21:30:09
 
-![](./README.assets/image-20230818212916047.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5c/5c79ecae0893d4f277307b595dfb03bcb450c8384b770b884ca4f4e03890a6e6.png)

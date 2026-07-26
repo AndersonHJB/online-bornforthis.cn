@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](./04-sub-agents-to-multi-agent-engineering-guide.assets/3406d8d635b2255bb9a397010c3d0861.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/06/068c1bb853fc8450f6d6d941cd0796cde286d67366de3f1bef5d754fb0e36f1a.png)
 
 你好，我是悦创。
 
@@ -87,7 +87,7 @@ LangChain 在 [Choosing the Right Multi-Agent Architecture](https://www.blog.lan
 
 Sub-Agents 的核心设计思想是一个 Supervisor Agent 充当老板，**将任务分解后委派给专门的 Sub-Agent**。每个 Sub-Agent 解决一个特定的任务。
 
-![](./04-sub-agents-to-multi-agent-engineering-guide.assets/1ba621fb0243476599a3eb0a82d99145.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5f605980b6a135414c62790cc7825173514225a3f19228339e1a0df9bbff8c25.jpg)
 
 在 Sub-Agent 架构中，上下文隔离能力非常强，每个 Sub-Agent 都拥有独立的上下文窗口，从根本上避免了信息相互污染。Sub-Agent 本身通常设计为无状态组件，专注于完成被委派的单次任务，而整体对话状态与流程控制则由 Supervisor 统一维护。
 
@@ -122,7 +122,7 @@ Anthropic 的 Research 功能采用了经典的 Sub-Agent 模式：
 
 工程评测显示，并行化的 Sub-Agent 执行方式可将复杂查询的整体研究时间最多缩短约 90%，但其代价是相较普通对话约 15 倍的 token 消耗；在高价值研究任务中，这一成本换来了高达 90.2% 的整体性能提升。
 
-![](./04-sub-agents-to-multi-agent-engineering-guide.assets/1f38d4087bf7722db13b24364743a5c6.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0f/0f231178e891ad14717ae0b7b635409afbc1bb36a49d83b83f1d63c836fd3316.jpg)
 
 为了在不同复杂度任务中控制资源消耗，Anthropic 在 Prompt 层引入了明确的“**努力分配规则**（Effort Scaling）”，例如对简单问题仅启用单个 Agent 和有限次数的工具调用，而在复杂研究场景下则调度更多 Sub-Agent 全面并行执行。
 
@@ -142,7 +142,7 @@ LangChain 把 Skills 也视为一种多智能体模式。其实此时仍然是�
 
 这是一种“准多 Agent”方案——用更轻量的 prompt 切换替代完整的 Agent 切换。
 
-![](./04-sub-agents-to-multi-agent-engineering-guide.assets/c6651d3f9a7d2522005054f5375a2b4d.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/06/0683aa99990b700fd5c82531838e2258a19dcb0ddc469ab1aee8fe3269a8215c.jpg)
 
 在 Skills 模式下，系统仍然由单一 Agent 负责全部推理与执行，所有技能共享同一个上下文窗口，因此在上下文隔离能力上相对较弱，但换来的好处是对话状态可以自然连续地保留在同一个 Agent 内部，无需额外的状态协调机制。
 
@@ -191,7 +191,7 @@ Skill：共享的上下文 → 适合需要连贯对话的场景
 
 Handoffs 的核心思想是**活跃的 Agent 根据对话状态动态切换**。Agent A 完成自己的阶段后，通过调用  handoff() 工具将控制权（和上下文）传递给 Agent B。
 
-![](./04-sub-agents-to-multi-agent-engineering-guide.assets/33ee50500cbf7c36cbb12b85e2371413.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6c/6cb775ffc74603d54f768921015dadd06345c810e226b3c6b4c5208b56efbf88.jpg)
 
 在 Handoffs 模式下，不同 Agent 之间通过显式的交接机制完成角色切换，上下文并非整体共享，而是可以根据需要选择性地传递。这样能在保持必要信息连续性的同时，避免无关内容的扩散。系统状态在 Agent 切换过程中被持续保存和传递，使得多阶段流程能够自然推进而不会丢失关键信息。
 
@@ -201,7 +201,7 @@ Handoffs 的核心思想是**活跃的 Agent 根据对话状态动态切换**。
 
 Handoffs 的典型应用是客服工单流程：
 
-![](./04-sub-agents-to-multi-agent-engineering-guide.assets/6d7ff1533244f6bb9253b78745d1fca3.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/21/21efcf8e0b65b269a61065cf19e8950b272a8b11479e4ae8e178d59918b4aab6.jpg)
 
 此处你可能会问：Sub-Agent 和 Skills 这两种模式都是 Claude Code 原生的，很容易理解，但是 Hand-off 如何实现？
 
@@ -255,7 +255,7 @@ Handoffs 模式的严格的顺序执行限制了并行能力，在涉及多个�
 
 Router 模式的核心在于**对输入进行语义拆分与职责分流**。系统首先由 Router 对用户请求进行分类和分解，然后将子查询并行分发给各自负责的专业 Agent，最后再将多个结果统一合成为一个对用户友好的响应。
 
-![](./04-sub-agents-to-multi-agent-engineering-guide.assets/788f2cefef03a2284db65f3b2eef7626.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/27/273164d63d49c0a420aeb308fbb62111524f28d5b39632111a596752a8915507.jpg)
 
 这种架构天然适合处理跨多个知识域或数据源的查询，例如在企业知识库场景中，用户一次提问可能同时涉及政策文档、业务数据和实时指标，Router 可以将“退货政策”交由政策文档 Agent 处理，将“销售数据”交由数据分析 Agent 处理，并在上层完成结果整合后统一返回。
 
@@ -286,15 +286,15 @@ LangChain 对这四种模式做了实际的性能量化测试，分别从单任�
 
 ### 4.1 场景一：单任务请求（如“帮我修改函数支持分页查询”）
 
-![](./04-sub-agents-to-multi-agent-engineering-guide.assets/51732788764ca6cd668b5ee174759260.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/32/32bc63964cc40f0a838a255fe3b50d3a68914edc19d1334f9a53c4b88d81f07d.jpg)
 
 ### 4.2 场景二：重复请求效率（第二轮相同类型的请求）
 
-![](./04-sub-agents-to-multi-agent-engineering-guide.assets/c9980a7bd08987bd0e9d593972fdee38.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/08/085db1d2136071d16e60549f696274b87a0203614c4e5f5c7513f0fb575e182e.jpg)
 
 ### 4.3 场景三：多领域查询（如“对比 Python/JS/Rust 的性能”）
 
-![](./04-sub-agents-to-multi-agent-engineering-guide.assets/07a47c088e4361f761bbabee7d2330bf.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9d/9d55f450aa30896d3cc2864d50fff78636de1519a9d998db722293eba22e99d9.jpg)
 
 比较上面几个表的结论，可以看出，简单任务中，Sub-Agent 模式有额外开销。多轮对话中，有状态模式效率优势明显。而在多领域查询中，上下文隔离的模式（Sub-Agent、Router）在 token 效率上优势显著——**节省 40% 以上的 token 成本**。
 
@@ -341,25 +341,25 @@ Anthropic 在工程博客中公开了他们的[多 Agent 研究系统的完整�
 
 适合大多数初期场景。不要过早引入多 Agent。
 
-![](./04-sub-agents-to-multi-agent-engineering-guide.assets/1ab61b8ea67869b927e082c41438268c.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/40/40977a57cecd8e7dbf2c89b20feb090a2f96e7003626e48c4ba570d28f7b7f6d.jpg)
 
 ### 5.2 第二阶段：单 Agent + Skills
 
 当工具数量增多、prompt 变得臃肿时，用 Skills 实现渐进式加载。
 
-![](./04-sub-agents-to-multi-agent-engineering-guide.assets/ffb46a43a3375c076e3bc350c052554c.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b7/b71a50e722b6d3166ba257371dfb09d0961fd774a77d94287ed2211c32c762b4.jpg)
 
 ### 5.3 第三阶段：Supervisor + Sub-Agents
 
 当不同领域需要独立的上下文空间和专业知识时引入。
 
-![](./04-sub-agents-to-multi-agent-engineering-guide.assets/eb52933d9a0d1a8d8b88ae0f62c8efae.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2f/2f302602db879419c7777eeba91527c69095ca915a8d724f452895f6d7f2ad0b.jpg)
 
 ### 5.4 第四阶段：混合架构
 
 成熟系统中，不同类型的任务流可能采用不同的模式。Router 处理分类，Sub-Agent 处理并行研究，Handoff 处理顺序流程。
 
-![](./04-sub-agents-to-multi-agent-engineering-guide.assets/cf24fff82f9eb95a690ab108a121d692.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d9/d9f7bdc0786bde3d51579c0984afbb3645204742ddd1e7f8a65c092f06b44f4a.jpg)
 
 在佳哥个人的项目实践中，我一般上来先做简单 Demo，不用什么设计模式，SubAgent 和 Skills，到了两三个礼拜后，感觉认知过载了，有点吃不消了，我才开始考虑上面的架构决策树。**这是我个人习惯，你也可以在项目一开始就开始全局性的考量，根据具体项目性质和任务的复杂度而定，对整体架构进行详细的设计和规划。**
 
@@ -369,7 +369,7 @@ Anthropic 在工程博客中公开了他们的[多 Agent 研究系统的完整�
 
 **模式选择速查表**
 
-![](./04-sub-agents-to-multi-agent-engineering-guide.assets/680a58a4d68eefeb20e851c3e4fdb57f-20260712210242469.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/29/299130fbc7c7df17c6bb0be07eececc2f1eac311ed601e4d6ae990c6e3a4b8b0.jpg)
 
 这里也给出从单一 Agent 到复杂智能体系统设计的一系列黄金法则：
 
@@ -391,7 +391,7 @@ Anthropic 多 Agent 研究系统的 90.2% 性能提升证明了这一点——�
 
 如果用我们今天所讲的四种模式去嵌套它的设计理念，我会这样概括。
 
-![](./04-sub-agents-to-multi-agent-engineering-guide.assets/2cc09306360576538e143a09c09f50cf.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/20/20eb01d707c6269b837f07d4c3513158a42e6dc729ae6a3a5b6148ea8bda2738.png)
 
 
 
@@ -460,7 +460,7 @@ Anthropic 多 Agent 研究系统的 90.2% 性能提升证明了这一点——�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -476,4 +476,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

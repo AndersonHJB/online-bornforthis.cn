@@ -31,13 +31,13 @@ watermark: true
 
 #### 1.1.2 举个例子
 
-![](./NoteBook.assets/image-20240803185042557.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/97/97bfcadd12e1e1fcba70493a37cb7128a40c4c078d6ce46cef038251b39888e7.png)
 
 
 
 ### 1.2 如何创建变量——赋值语句
 
-![](./NoteBook.assets/image-20240803185701594.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8f/8f301f9d0f037d4cb2efdb6ec8cfe4396b0dc3c0b61de841b8e821563df62d32.png)
 
 ::: code-tabs
 
@@ -89,7 +89,7 @@ print(x)  # print 打印、输出
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -105,4 +105,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

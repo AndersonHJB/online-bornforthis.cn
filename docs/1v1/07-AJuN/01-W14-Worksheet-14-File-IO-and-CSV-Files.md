@@ -299,9 +299,9 @@ print(r)
 
 ### Question
 
-![image-20221004202943624](./01-W14-Worksheet-14-File-IO-and-CSV-Files.assets/image-20221004202943624.png)
+![image-20221004202943624](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/755bf33cd70528ec04413b43392ea44457f638758973d351f8085aef87babc82.png)
 
-![image-20221004211451572](./01-W14-Worksheet-14-File-IO-and-CSV-Files.assets/image-20221004211451572.png)
+![image-20221004211451572](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/97/971ed0faddb53ed6482cc63a81a75e7228a3d3c06a64cae86e5f3e3b61841bff.png)
 
 
 
@@ -766,7 +766,7 @@ if __name__ == '__main__':
     print(r)
 ```
 
-![image-20221007123301344](./01-W14-Worksheet-14-File-IO-and-CSV-Files.assets/image-20221007123301344.png)
+![image-20221007123301344](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cc/cc3b7239ab6d6c0ba08237001c30c55af064c47fcb5ebdaa8ef681922175bef8.png)
 
 ## Disentangling list comprehensions
 
@@ -811,7 +811,7 @@ print(aha(0, 10))
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -827,4 +827,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

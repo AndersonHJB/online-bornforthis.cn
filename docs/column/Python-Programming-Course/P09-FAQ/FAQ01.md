@@ -29,7 +29,7 @@ toc: true
 
 ## 报错如下
 
-![](./FAQ01.assets/image-20220519194710393.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/78/787cc0d9c928c319448b97a666bd0cd6f5c49d474721f1a829eec8d24807cc55.png)
 
 ::: details 文字
 

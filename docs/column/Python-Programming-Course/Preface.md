@@ -62,7 +62,7 @@ watermark: true
 
 我从某易离职之后，一直在做编程私教。我带过太多学生，学生分布各行各业、各个专业。其中也不乏名校学生，下面是我带过的部分学校学生名单：
 
-![](./Preface.assets/image-20250426210530778.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/33/33ec61edf9909cc4f2673983347a4917c78d98471622da1a3df029360b7ef2eb.png)
 
 
 
@@ -106,9 +106,9 @@ print(result)
 
 （所有聊天记录不涉及隐私，且当事人悉知！）
 
-![真实案例一](./Preface.assets/image-20250427095133901.png)
+![真实案例一](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/22/2237240cd41b660490db05512aa9ecc23afa6607ca8a373ec823a6d0d25fd304.png)
 
-![真实案例二](./Preface.assets/image-20250427095622858.png)
+![真实案例二](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dd/ddde68ba0e4088d3c2246f749fd52152fb0e6523bbb140db950807f9b40ddf44.png)
 
 这种情况，除非学生自己只想过考试。不然但凡是想真正掌握 Python 这个技术的，只能跟着我系统学一下。
 
@@ -127,11 +127,11 @@ print(result)
 
 另外，要额外说的一点是：不仅仅是学生，已经工作的人找到我学习编程。难道是为了转业吗？——不是的，不是工作要求，那就是编程可以极大的辅助工作效率（办公自动化、数据分析、AI 等）。
 
-![例子：职场中的真实需求之一](./Preface.assets/image-20250427091917085.png)
+![例子：职场中的真实需求之一](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3f/3f33bd55e3b1f89f94648099953a36ecbf373aaca3d92188951ec2e45bb1e2ad.png)
 
 还有些学生是早期没学过，等到需要的时候学校不会按你是零基础一点点的去教、工作也不会等你学会，而是会直接招收已经会的学生。
 
-![统计学·必修 CS](./Preface.assets/image-20250427095541693.png)
+![统计学·必修 CS](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0c/0c4d263d0ebecc90ce7bbf05e7f9139d156ebbbe12b94c940493e08cd8850011.png)
 
 上面聊天记录的截图也是案例之一，因为国内高中没学习过，所以无法及时的跟上学校的课程。
 
@@ -167,7 +167,7 @@ print(result)
 
 最后再补一句：教育部发布，各大高校新增 29 个专业。一图胜千言，看下图：
 
-![](./Preface.assets/W020250422491949788160.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1e/1efa76f2c460dd375c0dcbe7490646234a666a730b0cedeb5c93a935ba6b6c31.jpg)
 
 你可以看看虽然类别不同，但是有多少是和技术有关呢？都是哪些大学呢？肯定是好大学优先试点，“新课程也只有好大学才有可能制作教材等学习资料”，你细品，你细细品！觉悟吧～
 
@@ -417,7 +417,7 @@ Tips：**所谓“透”，不是把复杂讲复杂，而是把复杂还原为�
 
 你以为的结束，没准只是开始～——2024 年 06 月 28 日 23:25:14
 
-<img src="./Preface.assets/carbon.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5b/5b37d301effcbf9b37ef71dae05abfa4887a4de29e21cef1e85a11303fce2e50.png" style="zoom:25%;" />
 
 手扎 23：我给你讲解的代码示例，是我认为你掌握这个知识点必不可少的演示。而你在理解这个示例过程中遇到的问题，才是真正值得你深入学习的地方。——2025 年 02 月 28 日 09:06:05 学习思维
 

@@ -51,7 +51,7 @@ git config --global user.email "这里换上你的邮箱"
 ssh-keygen -t rsa -C "这里换上你的邮箱"
 ```
 
-![](./git-ssh.assets/1615118198769-a46e196f-8ed9-41f1-9d34-2ebd36a67b37.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/24/24b5f6bee6cfd1ef6cfe97c1b7232b916d4bdb7502305fa5647fe3ce57b66273.png)
 
 执行上面的命令后需要进行 3 次或 4 次确认：
 
@@ -62,7 +62,7 @@ ssh-keygen -t rsa -C "这里换上你的邮箱"
 
 在指定的保存路径下会生成 2 个名为 `id_rsa` 和 `id_rsa.pub` 的文件：
 
-![](./git-ssh.assets/1615118250921-5c5e6dfc-195d-4675-af60-eaba5936885a.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d5/d54f73477bd2581b05eda38ccdcba3e51822243074ffc18c00d425362be8ed0d.png)
 
 添加公钥到你的远程仓库（Github），再打开你的 Github，进入配置页： `Settings` ——>`SSH and GPG keys`
 
@@ -70,19 +70,19 @@ ssh-keygen -t rsa -C "这里换上你的邮箱"
 
 @tab 旧版界面
 
-![](./git-ssh.assets/1615118338054-1062298e-0c8d-4c23-b244-50d525353194.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/05/05c418c5f571cc02717e2bf1649646bd0fcb122dc6a2ea780a953774541e2e5f.png)
 
-![](./git-ssh.assets/1615118380869-c8119908-6469-40ee-84b8-9d46896c24b7.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8e/8ef61d0b59f3c2d1a255284e4542abd46ed6e02f1a7dea4cdbb8f24b4cd1e31b.png)
 
-![](./git-ssh.assets/1615118426099-1bc609fb-3856-4f1e-b331-2d9bcf20aed6.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/12/126300136344ea91de43e700eda36626759ce55638d8d87cef496e47aeb11865.png)
 
 @tab:active 2026 新版界面
 
-![](./git-ssh.assets/image-20260202074957136.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/64/641ecb80368a23228cafe4cdf48afc1871a96d3baa8b1990f520ac26482e7fec.png)
 
-![](./git-ssh.assets/image-20260202075117049.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/257117d4d5f489c97270573fe04bf1a325e7ca1c851b4ca49b553cb418be6432.png)
 
-![](./git-ssh.assets/image-20260202075212961.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ce/cee6d306b055ab04d3b42524136f13108004957ee542f8460a756aa8e7d0b76c.png)
 
 :::
 
@@ -94,17 +94,17 @@ ssh-keygen -t rsa -C "这里换上你的邮箱"
 
 @tab 旧版界面
 
-![](./git-ssh.assets/1615118626161-d7290424-a9d6-4a37-8e83-e33c3c019311.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fb/fba38ff38286f855c1473ba4d44cfb62b04ed554ca9fb2fd77df7b18e1958031.png)
 
 
 
-![](./git-ssh.assets/1615118699128-204461cc-91d4-4d07-bf0a-08badc83869a.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/74b8f6f6daccee74f3e7e9aa73b4c2dd3d93499deaac59af9712afdd6cd6dfbb.png)
 
 @tab 2026 新版界面
 
-![](./git-ssh.assets/image-20260202080150448.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cc/cc4ecb7a31218d326f654a4c498f03555fba7a25a3d65a49f72abfb8c5622e1b.png)
 
-![](./git-ssh.assets/image-20260202082226283.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3b2eeac14f5b63e83acfeea8c0b14a25e02c7441889407da0994ee5ecf3bad5e.png)
 
 :::
 
@@ -150,7 +150,7 @@ Hi AndersonHJB! You've successfully authenticated, but GitHub does not provide s
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -166,4 +166,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

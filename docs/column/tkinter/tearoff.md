@@ -25,11 +25,11 @@ toc: true
 
 我想你在学习 tkinter 的时候，会出现这个疑问：程序运行的时候菜单之下出现了一个虚线项。如下图：
 
-![image-20220524173907212](./tearoff.assets/image-20220524173907212.png)
+![image-20220524173907212](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5b/5bc1ee96d0e28315eff562e69d3efd7ffe7c4b88a0306ddd7156dd258e3d39e8.png)
 
 点击这个虚线选项后，菜单单独浮于应用之上：
 
-![image-20220524183243382](./tearoff.assets/image-20220524183243382.png)
+![image-20220524183243382](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7a/7a9c48543f9a8e57e6c91083343c9a4f5f1b2a14ef302f2f9371d1576e503d3d.png)
 
 进查询发现了 tearoff 选项，当 `tearoff=1` 的时候该菜单被设置为可以独立出来的菜单，点击虚线就可以将菜单独立出来，当 `tearoff=0` 时就是正常的菜单了，但是默认情况下 `tearoff=1` ，所以在程序中需要设置一下：
 
@@ -64,11 +64,11 @@ root.mainloop()
 
 如图：
 
-![image-20220524184421188](./tearoff.assets/image-20220524184421188.png)
+![image-20220524184421188](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1b/1be38aa0e459bcde4a642127c5aab426260c3b29dcf93dba96305eb630b724f3.png)
 
 ## 设置为 1 的时候
 
-![image-20220524184613533](./tearoff.assets/image-20220524184613533.png)
+![image-20220524184613533](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d4d05505953e70a8572752629162c564725cd8222b0c0c39572fdb4a637d1477.png)
 
 多了一个虚线，如果点击的话就会发现，这个菜单框可以独立出来显示。
 
@@ -117,7 +117,7 @@ if __name__ == "__main__":
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -133,7 +133,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

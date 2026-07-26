@@ -68,7 +68,7 @@ while condition:
 
 接下来，我将使用 Sublime Text3 对代码进行截图展示。因为在全选代码时，Sublime Text3 会直观地显示当前采用的缩进方式——例如，使用空格缩进时，代码前会显示一串点以示区分。使用 Tab 缩进时，代码前会显示直线以示区分。我会尽量为你演示这一效果，如下图所示：
 
-![](./10-python-if.assets/image-20250328160414950.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b2/b26116983fd51e015ea64201918f08eb80538031b008305951fada7f445fd4e4.png)
 
 ~~可以看见上面的代码中 `if a < 6:` 前面和里面代码 `print(f”a:>>>{a}”)` 前的缩进都是以一串点来显示的，表明当前~~
 
@@ -76,13 +76,13 @@ while condition:
 
 接下来，我们代码全部改成 Tab 缩进并运行看看：
 
-![](./10-python-if.assets/image-20250328163104679.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e3/e3b47f1af337b8b23aee85f2c91b6070e8bcc14203daace58191071de57bcb8d.png)
 
 在这张使用 Tab 缩进的截图中，Sublime Text 3 会在代码前方显示一条横线来表示每一级缩进。你可以从 `while condition:` 到 `if a < 6:`、`print(f"a:>>>{a}")`、`else:` 等各处看到这些横线，说明这里的缩进方式是通过 Tab 实现的。代码也是正常运行并输出。
 
 现在，我们来看看因为缩进混用。原本正确的代码，会无法运行报错：
 
-![](./10-python-if.assets/image-20250328164334908.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/46/46fa5a9487e855c73645f06c2e863df7c760b71209e6e895f4c7096b9a29c67b.png)
 
 在上图中，我故意把代码`print(f"a:>>>{a}")` 前面的缩进改成 Tab 键缩进，结果运行时代码直接报错。虽然现在很多代码编辑器会自动统一缩进，但要是在某一时刻实效了呢？所以一定要有缩进相同的意识。
 
@@ -102,13 +102,13 @@ while condition:
 
 **示例图 1**
 
-![](./10-python-if.assets/if-判断.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/72d0ed16b81640f6c19c53b5c8f1405daf65e2f6fa763eeb89793a0c3dd3e2cb.png)
 
 
 
 **示例图 2**
 
-![](./10-python-if.assets/流程图.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/98/98a22139be5b7f56249a2e6b123f1bb37434d960dfbf343ef0aa3a520a7ab42f.png)
 
 从上面的示例图可以看出：
 

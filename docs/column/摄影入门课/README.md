@@ -24,7 +24,7 @@ backToTop: true
 toc: true
 ---
 
-![img](./README.assets/931d3c1dbd056aa39041a209e79fe0b7.jpg)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5b/5b00fa91e3a608b246814c20c36eaae7134a4bb8929e24be3990aa1d7cb3c57d.jpg)
 
 你好，我是小麥，目前是一个靠拍照片糊口的人。在正式上课之前，我想先聊聊我是怎么就开始拍照片了，回顾一下昨天，才能更明白今天发生的很多事。
 
@@ -36,29 +36,29 @@ toc: true
 
 大概高二的时候，我后爸买了一台 NIKON D300，配了一个 18mm-200mm “一镜走天下”的“狗头”，他买完以后自己还没怎么用，就被我抢过来了。当时拿着那台相机，除了对焦和按快门之外我什么都不懂，用 P 档（自动档）一通傻拍，又因为我那时候觉得我已经比较熟悉“记录性”的照片了，所以一开始，我先是走上了一条杀马特的拍摄之路。
 
-![img](./README.assets/53c68cb25374e45d5881b40d830e134d.jpg)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f1/f1e4348f028d2e72eaa8527e96cb66b9f9a2e0460328be7c430518dba39e4f65.jpg)
 
-![img](./README.assets/229a9321066b380b3b6b4c77c137ac8f.jpg)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/80d3f502862c6cb182b9d3de3da9d205b63a9151cdcd117e2c01e6387d25a746.jpg)
 
-![img](./README.assets/c0791fbc681fe63be7771e2dcdf4ef9b.jpg)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c4/c431a391a68ee1128cb05804ab893b0ff015cc4d9a080db1304782fc29927931.jpg)
 
-![img](./README.assets/eb5a74be1261c7817a1d567674608ca8.jpg)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/76/76b49cad987e8e6abbd7eeb6c5595aa710a74a7d388fc2d78d263d4ef6950060.jpg)
 
-![img](./README.assets/56db8cd04139a5e41745db3ac755a352.jpg)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/10/10c25e2278087bfe6280b30dace663f73b71aaf439dc5a310372579d02bb5c37.jpg)
 
 在拍过很多愚蠢的照片之后，我才慢慢地开始拍正常的照片，喜欢拍人，家里人、同学、朋友，包括那种正经的自拍。
 
 我大学肄业后去了迪士尼工作，给孩子们拍了很多照片。其实最开始拍孩子的时候，也不是那么自发的，不完全是因为自己想拍，而是因为拍照片是我那个职位的一项岗位职责。但我一正经拍上，每天持续不断地拍摄，就发现这事超级有意思。他不再是一种生活调味剂了，他变成了生活必需品，我就特喜欢，越拍越喜欢，尤其是在身边的人说我拍得挺好的时候，正反馈满足了我的虚荣心，让我对拍照片有了巨大的热情，即便我那时候依然对摄影的专业知识一无所知。
 
-![img](./README.assets/86e357dd6ccb873dbdc626a539aefb8a.jpg)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bf/bf8e489110db79e8fe40e23e544dca5e45252547f8105181072f0c7382fbaad4.jpg)
 
-![img](./README.assets/a8566c73ec0ee035aff69a774e6fed43.jpg)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/af/afff88e7fdb0c4addcecbefab12167f393702eed017cf34d34406760fd42d913.jpg)
 
 再往后就是买了自己的相机，2016 年的时候，SONY α7RⅡ，加上镜头，小三万块钱，因为是大件儿，所以我就硬着头皮非常仔细地读完了几百页的说明书。另外，那个时候我在锤子科技正好被调岗到影像部门，在从事主观调教和客观测试这部分工作之余，我也开始系统地学一些专业性的知识了。当年的部门老大曦爷送了我一套北京电影学院摄影专业的系列教材，从摄影史，到相机构造，到镜头光学原理，到曝光构图色彩，这时候，我才对拍照片正经地有了一点点认知。
 
 买了相机的我，为了不糟践好东西，就挂着相机，揣着那么一点沾沾自喜的小知识，整天在大马路上溜溜达达地搞“街拍”。
 
-![img](./README.assets/0985e73edc2acfc53c7c8a1a59887dba.jpg)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/58/5863664f875e5bcdb18a30165683ef180280f1eac317a45591a92286cbe83a0f.jpg)
 
 
 
@@ -77,7 +77,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -93,5 +93,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

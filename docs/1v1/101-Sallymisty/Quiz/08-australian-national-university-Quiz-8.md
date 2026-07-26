@@ -20,13 +20,13 @@ toc: true
 
 ## Question 1
 
-![](./08-australian-national-university-Quiz-8.assets/image-20250927200322327.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/76/765cb10c25731eda7bdd8c690a215ec517c7e767b13ff544818f05181126f982.png)
 
 
 
 ## Question 2
 
-![](./08-australian-national-university-Quiz-8.assets/image-20250927200338739.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e7/e7bf2f20727377b6a53504b1b0df58ca1c3abde7cd0ca0545d4c0e9963c22788.png)
 
 
 
@@ -34,33 +34,33 @@ toc: true
 
 ## Question 3
 
-![](./08-australian-national-university-Quiz-8.assets/image-20250927200520676.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/82/8253fa4b450d99f7767722cf06709015977cfc08aaf902acdbcc36281e63a2e6.png)
 
 
 
 ## Question 4
 
-![](./08-australian-national-university-Quiz-8.assets/image-20250927200749648.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a9b7fc69bf335c3b7309ecd374b00e2b1bc098130f88d28c11270561459c9075.png)
 
 
 
 ## Question 5
 
-![](./08-australian-national-university-Quiz-8.assets/image-20250927200818549.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/747393bb83c2611286808845ef8c0501e6243f65b03fb53c77a09baae9483ca4.png)
 
 
 
 ## Question 6
 
-![](./08-australian-national-university-Quiz-8.assets/image-20250927200921351.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/35/35ab2efdc938bd653a562d4dacc335dcc858b94580e2a14fefadf4fdcd7ed1c1.png)
 
 ## Question 7
 
-![](./08-australian-national-university-Quiz-8.assets/image-20250927200954770.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ba/ba93f7b37f991ca947d9f4730aa93e6ef4fcb679686c94c725977df05b886b93.png)
 
 ## Question 8
 
-![](./08-australian-national-university-Quiz-8.assets/image-20250927201017766.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0c/0cfb6d65c4321df32ec6fbee5d1c68be174b43fbe11ccbdf5b9a67b381a2c62f.png)
 
 
 
@@ -80,7 +80,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -96,4 +96,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

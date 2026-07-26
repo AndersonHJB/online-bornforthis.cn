@@ -75,7 +75,7 @@ The data have a large range, and so visualizing a density estimate on the origin
 plot(density(log(populations)))
 ```
 
-![](./02-Statistics2ComputerPractical2.assets/image-20231106172747606.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/26/26c3b8bfff388e74db31584ecc816fc4a45839a893fabb78cb1fd98ef423c73c.png)
 
 ## 4. Model
 
@@ -182,7 +182,7 @@ zs <- seq(-10,10,0.01)
 lines(zs,ddist(exp(zs),theta.mom[1],theta.mom[2])*exp(zs),col="red")
 ```
 
-![](./02-Statistics2ComputerPractical2.assets/image-20231106174058842.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/06/061ef263bc1e429eda638a6460b2ba53ce324c501eaedd313a8d12b9d1feabbc.png)
 
 **Question 2**. [2 marks] Show that for fixed $b$, the log-likelihood is maximized by taking
 $$
@@ -224,7 +224,7 @@ zs <- seq(-10,10,0.01)
 lines(zs,ddist(exp(zs),theta.ml[1],theta.ml[2])*exp(zs),col="red")
 ```
 
-![](./02-Statistics2ComputerPractical2.assets/image-20231106174358469.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0c/0cb6dbb4689da2e28b74813b946f2562b94b2910b362018bc6d732ae5a2117ec.png)
 
 ## 6. Confidence Intervals
 
@@ -525,7 +525,7 @@ $$
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -541,4 +541,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

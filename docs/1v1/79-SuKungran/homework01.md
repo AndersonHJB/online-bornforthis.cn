@@ -297,21 +297,21 @@ Two circles in a plane intersect in zero, one, two, or infinitely many points. T
 - **circleIntersection(xa,ya,ra,xb,yb,rb)** Your task is to write a function `circleIntersection(xa,ya,ra,xb,yb,rb)` that will take six values as input parameters. These values represent the coordinates `(xa,ya)` of the center of circle **A**, and the radius `ra` of **A**, followed by the coordinates `(xb,yb)` of the center of circle **B**, and the radius `rb` of **B**. Your function should return the number of intersection points (only the number, not the points). There are 4 possible cases:
 - The circles do not touch each other. This could be because one is contained in the other circle, or they are too far apart from each other. In these cases your function should return value 0.
 
-![No intersection](./homework01.assets/case_0.png)
+![No intersection](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7c/7c55991bb491a30351e8ef44b7861f50c12185f37c93500bc5161dec9ab80f5a.png)
 
 The circles intersect at a single point: either they touch internally or externally. In these cases your function should return value 1.
 
-![1-point intersection (a)](./homework01.assets/case_1a.png)
+![1-point intersection (a)](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/725299c09cff17581a47d044c44fca6a4ee1620e283611641075d3dc603c5955.png)
 
-![1-point intersection (b)](./homework01.assets/case_1b.png)
+![1-point intersection (b)](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/07/07d81792c69db0937d9923c71ade846625ad6e2522e5df51fbc5634dab6ef2b7.png)
 
 The circles intersect at two points. Your function should return value 2.
 
-![2-point Intersection](./homework01.assets/case_2.png)
+![2-point Intersection](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/66/66d17017dd1654288923a89ce01aa57a3551895fe1512f5314f287ff95e85886.png)
 
 The circles intersect at infinitely many points, i.e., they fully overlap. Your function should return infinity. In Python you can represent positive infinity as `float(''inf'')`
 
-![Overlap](./homework01.assets/case_3.png)
+![Overlap](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/13/134faa078a35379bbea15503580e33320213052673014291421a04dc497f3c55.png)
 
 **Hint:** You should use the `distance` function that you just wrote in the first part to help you solve this problem. Remember to use `almostEqual` or `math.isclose` (instead of ==) when comparing floats!
 
@@ -805,7 +805,7 @@ def isPerfectCube(n):
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -821,4 +821,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

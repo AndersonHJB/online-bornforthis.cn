@@ -1312,13 +1312,13 @@ def add_fp_bin(u, v, signif_bits):
 
 :::
 
-![](./Part0.assets/image-20230919201253646.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/81/8167f2259558945abe5cca7d05ea2cc6b8e274782d7d4f684b50bb2b509a5b8d.png)
 
-![](./Part0.assets/image-20230919201351640.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a96d3c345166ef4beeaf873667d09c56d73fc21a3290ba06e8fc65532e9524d9.png)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1334,4 +1334,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

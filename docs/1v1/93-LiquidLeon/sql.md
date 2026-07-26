@@ -34,7 +34,7 @@ A song is associated with 1 genre and a genre is associated with 0 to many songs
 
 A user can follow 0 to many artists. An artist can be followed by 0 to many users. As you can see this many to many relationship is represented via the table user_follows_artist. When a user follows an artist, they follow the albums and the songs produced by that artist. Here is the logical database design for the database:
 
-![](./sql.assets/image-20241024120806891.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/43/43b06e602ea2d8b3e7fdcb984024ca56e895d0fabcc86fc3ef2c4a6feeb06fdc.png)
 
 **Within your solution file please provide the question number in comments before the solution.**
 
@@ -295,7 +295,7 @@ LIMIT 1;
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -311,5 +311,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

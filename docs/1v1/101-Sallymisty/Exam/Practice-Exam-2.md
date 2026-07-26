@@ -349,7 +349,7 @@ def test_longest_common_prefix():
     assert longest_common_prefix(["hello", "hell", "helium"]) == "hel"
 ```
 
-![](./Practice-Exam-2.assets/image-20251031203800132.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0e/0ec8720bccc11e057cdc6f8dfda4968daf97e1da4cbc42762a1c4b730715771a.png)
 
 ::: code-tabs
 
@@ -423,7 +423,7 @@ def test_boundary_clockwise():
     assert np.all(boundary_clockwise(in_4) == out_4)    
 ```
 
-![](./Practice-Exam-2.assets/image-20251031205103091.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/df3a556bb5640ec38f6caa297f4573ede5f0e520b2f0417ab08e23c3d4f96f3d.png)
 
 ::: code-tabs
 
@@ -590,9 +590,9 @@ def test_flatten_dictionary():
     assert flatten_dictionary({}) == {}
 ```
 
-![](./Practice-Exam-2.assets/image-20251031205722367.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f8/f8143c9d7b6c24a55a55cd0e13d216b819098c308ddac2d14107224c31981247.png)
 
-![](./Practice-Exam-2.assets/image-20251031205959518.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ae/ae37c455fd8873f30213297732d3f61c675b9c7f439444411784c1652ad67671.png)
 
 ::: code-tabs
 
@@ -676,7 +676,7 @@ def test_flatten_dictionary():
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -692,6 +692,6 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://chatgpt.com/c/6904ab24-d154-8328-8181-951b4294e4b7?ref=mini)

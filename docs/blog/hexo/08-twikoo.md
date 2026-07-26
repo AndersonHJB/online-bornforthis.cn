@@ -31,11 +31,11 @@ toc: true
 
 @tab MAIL_TEMPLATE 预览效果
 
-![MAIL_TEMPLATE](./08-twikoo.assets/6512d9aeacaa7.png)
+![MAIL_TEMPLATE](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/61/6188cb1f13d093c9b8b7c98883d530ee51c00debab75607de6e0c7827f6d1246.png)
 
 @tab MAIL_TEMPLATE_ADMIN 模板预览效果
 
-![MAIL_TEMPLATE_ADMIN](./08-twikoo.assets/6512d9ad8bc83.png)
+![MAIL_TEMPLATE_ADMIN](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4e/4e15480ba0a076c96574ed41e61f7a44c124ddd184cbc4d18148957f71712f75.png)
 
 :::
 
@@ -112,7 +112,7 @@ toc: true
 
 对于谷歌邮箱是有问题的，有能力的可以修复评论给我哈～
 
-![](./08-twikoo.assets/image-20240822094339881.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7b/7b9a3249931d9e13de4e848aa474b50c4052cd65ef60994663a4ae53096faf48.png)
 
 ::: tabs
 
@@ -196,7 +196,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -212,7 +212,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

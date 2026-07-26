@@ -28,7 +28,7 @@ toc: true
 
 ## 1. 按照下面路径以此打开
 
-![image-20220520161417800](./skill_pycharm1.assets/image-20220520161417800.png)
+![image-20220520161417800](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b6f901881a004d2e75ef6f2b454a38a81b0da0c5c5432463109fc735f4ab2dbb.png)
 
 ## 2. 设置相关代码
 
@@ -84,7 +84,7 @@ $ {MONTH_NAME_FULL} - 一个月的全名。 示例：1月，2月等
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -100,7 +100,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

@@ -18,13 +18,13 @@ backToTop: true
 toc: true
 ---
 
-![圆周率 π](./18-How-to-calculate-PI-with-a-handful-of-rice.assets/raw-20250420192845247.png)
+![圆周率 π](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/dff99883e9724cb1eaf17c66fb22870a90fcabf3a129dac2063adc275e2be9a2.png)
 
 小时候学数学，有个神秘又可爱的符号经常出现在题目里：π（读作“派”）。它可不是咱们吃的水果派，而是一个连接“圆”世界的大明星——**圆周率**。
 
 简单来说，如果你拿一根线把一个圆的边缘绕一圈，然后和这个圆的直径比一比，这个比值就是 π。不管你画的大圆、小圆、手画的还是印刷的，这个比值神奇地永远差不多等于3.14多点。而这个神秘数字，也让古今中外的数学家们挠破了头。
 
-![祖冲之](./18-How-to-calculate-PI-with-a-handful-of-rice.assets/raw.png)
+![祖冲之](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c1/c11bd9a652898058f2f73e5ffa7b9a125d7f1455e97daaabb4dfd4439c304c99.png)
 
 在中国的历史里，早在1500多年前，就有一位超级数学天才登场——**祖冲之**。他用了特别复杂的方法，算出了 π 的前七位小数，这在当时简直是“数学界的登月”，而他的记录，保持了800年之久！
 
@@ -32,7 +32,7 @@ toc: true
 
 ## 1. 用大米当尺子，听起来是不是很疯狂？
 
-![](./18-How-to-calculate-PI-with-a-handful-of-rice.assets/lon.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/be/bed644a53808a168e7dade6ff4985c12b0b1199410719e7deed9cc184614bbd2.png)
 
 想象一下，你的手机屏幕上有一个龙的图案。你想知道这只可爱的龙占了多少屏幕面积，却发现它身上的曲线太复杂，根本没办法用“小学”学过的“底乘高除以二”那一套来算。（省字版：也就是没有现成的公式来实现计算。）
 
@@ -42,7 +42,7 @@ toc: true
 
 你可能还会觉得一颗一颗数米粒太麻烦了，那还可以用我们前面教的编程思维再做一次转换，不算米粒的数量，而是**算重量**。米粒越多当然就越重。拿个电子秤，称一下屏幕上全部米粒的重量，再称一下龙区域那部分米的重量，两个重量一比较，也能算出来龙的面积。
 
-![](./18-How-to-calculate-PI-with-a-handful-of-rice.assets/sssss.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/89/89bb9ab220ce68f7128f4d819bb7364c360b1df2186444ec738fea1d526d46ec.png)
 
 是不是有点听蒙了？别着急，我再带你看一个更简单的情况。想象一下，如果一张纸上有两个圆圈，一大一小，我们闭上眼睛往纸上撒一把大米，肯定是撒到大圆圈里的比较多对吧？
 
@@ -52,7 +52,7 @@ toc: true
 
 ## 2. 这个魔法方法有个名字
 
-![蒙特卡洛](./18-How-to-calculate-PI-with-a-handful-of-rice.assets/蒙特卡洛.png)
+![蒙特卡洛](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/81/8199035404c2fe6d024e7e4ec7f0741ba81080238aa1bd7e6a6d8b2b9a83e334.png)
 
 前面说的方法，其实有个正式的名字，叫做：**蒙特卡洛法**。
 
@@ -60,7 +60,7 @@ toc: true
 
 20世纪40年代，美国科学家在搞一个超级工程——制造氢弹。但中途遇到了一个天大的数学难题，这个数学难题没有现成的公式可以套用。算不出来这个数学题，氢弹就造不出来了。
 
-![乌拉姆·动漫画像](./18-How-to-calculate-PI-with-a-handful-of-rice.assets/乌拉姆.png)
+![乌拉姆·动漫画像](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/63/63e737fbd29da20d861fbc18ac27cf3521d35f1be4fb2206ece4dfc147ad5f96.png)
 
 这时候，一位叫**乌拉姆**的数学家，想到一个好主意。突然就想：能不能算一下，自己拿到一手特殊的牌面的概率呢。如果要用公式来硬算，肯定会特别特别难。于是他就换了个思路，既然硬算算不出来，我不如用计算机模拟抓牌1万次，然后数一数其中有多少次拿到了这种特殊的牌面，不就行了吗？
 
@@ -70,7 +70,7 @@ toc: true
 
 诶，这个主意很棒啊！
 
-![](./18-How-to-calculate-PI-with-a-handful-of-rice.assets/raw-20250420194044183.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a9ae6014d04cf5809beed155af367712ee0c508d91f28f28ec36252b607b381a.png)
 
 于是，乌拉姆就赶紧跑过去跟另一位数学家**冯·诺依曼**说了他的灵感。冯·诺依曼是当时世界上计算机玩得最溜的人之一，美国第一台电子计算机能制造出来，就离不开冯·诺依曼的研究。
 
@@ -90,7 +90,7 @@ toc: true
 
 好问题！我们回到刚才撒米的实验，再换一个“圆中画方”的套路。
 
-![](./18-How-to-calculate-PI-with-a-handful-of-rice.assets/raw-20250420201012510.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7f/7f29f2705249d15b9ff410d7d47ac9f859959e9c5c63c759d2dc80e6b4c32a75.png)
 
 聪明的你可能已经想到了：你拿一张正方形纸，画个刚好能套在里面的圆。然后撒米粒，随便撒，越多越好。撒完后，分别数一下，落在圆里的有多少，落在整个正方形里的有多少。你就能知道圆的面积大约是多少。
 

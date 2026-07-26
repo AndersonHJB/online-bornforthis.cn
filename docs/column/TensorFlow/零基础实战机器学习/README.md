@@ -27,7 +27,7 @@ backToTop: true
 toc: true
 ---
 
-![首图](./README.assets/38ea18722c985b5610374532e2fc90bc.jpg)
+![首图](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/20/2028f6f22421771cf3e194ad1536e42bda0f8f4eb036a5b097647ccd17177336.jpg)
 
 <VidStack src="/零基础实战机器学习/00.mp3" title="00-开篇词｜开发者为什么要从实战出发学机器学习？" />
 
@@ -54,7 +54,7 @@ toc: true
 
 就比如下面这张机器学习算法图，它还只是机器学习领域的冰山一角。是个人看到这里，都会发出疑问：这怎么学！
 
-![](./README.assets/d7ec5f492d4d1c87eddaf77305281214.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f5529385d4afb5b9530482474d57fb0398a0c4bb5fa2d174894612906a7149a7.jpg)
 
 在行业的“寒冬”，面对机器学习这样的“高山”，我开始转型的时候，也和你一样惶恐、不知如何下手。不过，我凭借自己 20 多年的从业经验，终究还是越过了这座“高山”。我成为了公司的机器学习专家，还写了这本《零基础学机器学习》。而且，在摸索着入了门以后，我只花了几个月的时间，就总结出了一套属于自己的学习秘诀。
 
@@ -117,7 +117,7 @@ toc: true
 
 你可以把这个模块当作一个闯关游戏。闯关结束后，你就能灵活地运用机器学习的 80% 算法了。
 
-![](./README.assets/c9ef72a215ff1141bdc4ecd967911527.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/28/28b85e86e739fadd71011032643c2cca722ef56da3af11f26727da5a52938ca5.jpg)
 
 这五大关卡分别是：
 
@@ -139,7 +139,7 @@ toc: true
 
 你可能会觉得机器学习的发展日新月异，如果这门课里讲的这 9 大算法，以后不流行了怎么办呢？一方面，我会把一些机器学习算法的实用知识和学习技巧放到这个模块中；另一方面，我也会不定期地讲解一些最新的落地的算法，持续为你赋能。
 
-![](./README.assets/92dee0118aa4f9508ca09c2880dacffc.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/eded00cb0322dfe41136e0359e56ca5a0d219189802feb33d480d0cd5955664f.jpg)
 
 最后，我想说的是，诸多优秀的机器学习算法都已经被封装在各个 Python 库中了，只等你来调用了。而我也会把项目代码放在 GitHub 上给你下载。 **真正在工作中最有用的东西，其实没有你想象得那么多。** 我已经帮你把它们摘出来了，你只要肯动手，就能轻松把它拿下。
 
@@ -149,7 +149,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -165,7 +165,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

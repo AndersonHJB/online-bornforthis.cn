@@ -24,7 +24,7 @@ toc: true
 
 比方说**蝙蝠侠**，他的蝙蝠车就有自动驾驶功能。要是在打坏蛋的时候救下了人质，蝙蝠侠就可以让蝙蝠车把人质送到安全的地方去，自己去和坏蛋决一死战。眼看坏蛋就要被打败了，蝙蝠侠又可以先给蝙蝠车下个命令，5分钟后来某某地方接我。这样打完坏蛋蝙蝠侠就可以早早回家吃晚饭了。
 
-![蝙蝠侠战车](./30-Why-havent-self-driving-cars-become-widespread-yet.assets/72c1d0fdbd2ac47ae98910cef5e19d4f.jpg)
+![蝙蝠侠战车](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e4ad0e848a85279a26566b2d6afcae29951ded48f469e768d3396b83e72c7c56.jpg)
 
 听起来是不是很酷？你肯定也想有这样一辆自动驾驶的汽车吧？有了这种汽车，以后你们全家出去玩，爸爸妈妈就不用辛苦地开车了，你们可以在车厢里支一个小火锅，全家人吃着火锅唱着歌，别提多开心了！不过我要告诉你，在短时间里，这样的自动驾驶汽车不太可能出现在咱们的生活中。
 
@@ -32,7 +32,7 @@ toc: true
 
 其实，早在**100年前**，科学家们就开始研究自动驾驶汽车了。可因为当时的技术太落后了，搞来搞去，科学家们只搞出了类似于遥控汽车的东西，跟咱们理解的自动驾驶汽车差太远了。
 
-![有轨电车](./30-Why-havent-self-driving-cars-become-widespread-yet.assets/356ee01c4a110915cd7c689bd96aed5d.jpg)
+![有轨电车](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e47949dc5609a9bfdd8f2983652aeb913e078f02feb5cecab4995aa06773f4e9.jpg)
 
 和咱们说的自动驾驶技术沾边的，是**1939年**科学家们造出的一款车。这是一款有轨电车，可不是说这车上闹鬼啊，轨是轨道的轨，这种车有点像咱们的**公交车**，但它有固定的轨道，只能沿着轨道开。这款**有轨电车**，可以接收到轨道上传来的电信号，判断前方是不是有其他电车，如果靠得太近了，它还可以自动减速。不过这种车只能在轨道上跑，太不方便了。科学家就开始琢磨，能不能让普通汽车也有自动驾驶功能呢？
 
@@ -44,7 +44,7 @@ toc: true
 
 确实，现在很多地方，比如**矿山**、**码头**，甚至是一些机场，都已经用起了自动驾驶汽车。但是在咱们生活的城市里，几乎见不到自动驾驶汽车的影子。这是为什么呢？我带你分析分析。
 
-![](./30-Why-havent-self-driving-cars-become-widespread-yet.assets/1fb7423103b84d5171482a29f170b65d.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0f/0f4e9b850aa1d09c953404459cb1d1ca217c6ce22455c162f510a79fcac5b99e.jpg)
 
 咱们身边的人工智能，甭管是智能音响、扫地机器人还是自动驾驶汽车，都需要掌握3种能力：**感知、分析判断和执行**。咱们先说第一种能力，**感知**。
 
@@ -56,7 +56,7 @@ toc: true
 
 最后，还剩**分析判断**这项能力，这是自动驾驶技术里最难的部分。自动驾驶汽车虽然能360度无死角地搜集信息。但在分析这些信息的时候，可能会出错。
 
-![自动驾驶汽车](./30-Why-havent-self-driving-cars-become-widespread-yet.assets/ac9316851e5dbee3f38b1c802e3c3235.jpg)
+![自动驾驶汽车](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ac/ac3824874ae1357ae869b53e7aec87594ab75f6bad011ce91ea1156547328b7b.jpg)
 
 其实在现实生活中，已经有很多汽车有自动驾驶的系统了，但它们还不能起到完全的自动驾驶功能，只能**辅助**人类驾驶员完成一些简单的操作。
 
@@ -72,7 +72,7 @@ toc: true
 
 另外，如果布朗听到警报声之后老老实实地握着方向盘看着前方，是可以发现大货车的，轻轻松松就能避开它，可惜的是，他看电影实在是太专心了，这才酿成了悲剧。
 
-![](./30-Why-havent-self-driving-cars-become-widespread-yet.assets/cb6a70ee864f1b161f356858ca71d0e5.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9f/9f6c4a1d52796402b485b264a2a4aacdbf4d89ede59c9304cdb570765c993475.jpg)
 
 你看，就算自动驾驶汽车在做判断的时候正确率可以达到99.9%，但还是有0.001的可能会出错。
 
@@ -86,7 +86,7 @@ toc: true
 
 别着急，对于这种短时间里解决不了的复杂问题，人们早就有一种应对方法，那就是**拆解问题**，一小步一小步地完成。
 
-![](./30-Why-havent-self-driving-cars-become-widespread-yet.assets/4346fa0ad5025b0a24d681471a8ba299.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ec/ecc33c2380a3c562d3a03512367800e7cff7d9f86f62c148edeb11dfedc78b51.jpg)
 
 比方说自动驾驶吧，既然咱们不能一步就造出完美的自动驾驶汽车，就先退一步，造出能够应付**大部分情况**的自动驾驶汽车，科学家管这样的汽车叫有条件的自动驾驶汽车。
 
@@ -140,7 +140,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -156,4 +156,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

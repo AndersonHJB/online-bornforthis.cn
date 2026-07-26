@@ -542,13 +542,13 @@ public class Main {
 
 和扫雷的规则比较接近
 
-![img](./15-group-hw.assets/image-20221212113447606.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d5/d59f678fe54aafb41e7770d220aa8b8c92ae7586378e7fe26904fb406363d810.png)
 
 以这个棋盘格为例，我点击的格子是画红的区域，画红区域周围的数字代表周围的格子有几个炸弹。
 
-![img](./15-group-hw.assets/image-20221212114552490.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bb/bb291c164c2ad75a90c040db5bec1c5f422f034bcf3cb23795fad997ab0626c5.png)
 
-![img](./15-group-hw.assets/image-20221212114733238.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1a/1a454fd900d8f75aa37d065c38500a6d063775c3bc050bb601376b3dee311e46.png)
 
 比如 左右下角的 2 代表：在这个格子周围 3x3 的区域内有两个炸弹（这个数字是 2 的方格为 3x3 的区域的的中心）。同样 右下角的1代表以这个1为中心它周围 3x3 的方格里有1个炸弹。
 
@@ -580,7 +580,7 @@ public class Main {
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -596,4 +596,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

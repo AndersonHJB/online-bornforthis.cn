@@ -559,19 +559,19 @@ Trace the KMP algorithm as it operates from then on, and indicate the character 
 
 The offset associated with the third alignment is？
 
-![](./22-Practice-Quiz.assets/image-20231026155631084.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/49/49ef86f62704d6e1b89c8f1ce5562bc4d616b594d26d0b4b53855f0e11284ca1.png)
 
 @tab 2
 
 The offset associated with the fifth alignment is？
 
-![](./22-Practice-Quiz.assets/image-20231026155651820.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2d3a0d47ecd5f13badcc76ee25db300285eea133bafe7b2e9d595a804d589f95.png)
 
 @tab 3
 
 The offset associated with the seventh alignment is？
 
-![](./22-Practice-Quiz.assets/image-20231026155710439.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c8/c874d019235e4cee9fca671866d62aef87889742d516d057345ac8cf9807031c.png)
 
 @tab zh
 
@@ -614,19 +614,19 @@ Consider the seven-character string `"baa#bab"`, and an eight-element suffix arr
 
 The value of S[0] is
 
-![](./22-Practice-Quiz.assets/image-20231026160225402.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/28/28997c2779892e7e961860817d229213dd0a9a780db9944554b24e7ad3f17a59.png)
 
 @tab 2
 
 The value of S[1] is
 
-![](./22-Practice-Quiz.assets/image-20231026160244439.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/52/52f02f18da54cc7762766e478c5e9e67360395558be18fe1df4ef8b0727e3d8b.png)
 
 @tab 3
 
 The value of S[5] is
 
-![](./22-Practice-Quiz.assets/image-20231026160315744.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/10/1032e80b4dddc07bc55d43b1f73ad0e6c6c3175d691c086330ebdba885dacd28.png)
 
 :::
 
@@ -675,19 +675,19 @@ Match the line locations on the left with the correct assignment statements on t
 
 @tab line A
 
-![](./22-Practice-Quiz.assets/image-20231026160452963.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/94/94ccf193de2e99f1fed9e1be8a738506098ea9dd55b9d23870d61d2fd4877aa7.png)
 
 @tab line B
 
-![](./22-Practice-Quiz.assets/image-20231026160516407.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/52/526a33a449361d520b104ac9f4e4b7da29597833cedca0efd34b3a5ca2bfe597.png)
 
 @tab line C
 
-![](./22-Practice-Quiz.assets/image-20231026160539161.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d7/d70112b9fd27633684702275a54a8b0b83c4074ee27b42c7d407adc59179bffe.png)
 
 @tab line D
 
-![](./22-Practice-Quiz.assets/image-20231026160559234.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bf/bf76237adcb1465e4bf68dd1eabeacfe7f9a48961ae418b8acc4ba50e8959083.png)
 
 
 
@@ -711,15 +711,15 @@ Match the initial heap array locations on the left with the elements that they c
 
 @tab A[0] has the value
 
-![](./22-Practice-Quiz.assets/image-20231026160659520.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/99fe092ebc2825022efd896c5d2f80c99dca7ece1507e9292f893da27e95c096.png)
 
 @tab A[1] has the value
 
-![](./22-Practice-Quiz.assets/image-20231026160716824.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/09/09bd4b9c559c44926c50aeaf22e889e44f3e61fa67f0202a4c98365361ff0105.png)
 
 @tab A[6] has the value
 
-![](./22-Practice-Quiz.assets/image-20231026160735310.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d2/d26f794f66fb54a42db26576ca7efc95a85017afd503d15f69cf1b83b7657db6.png)
 
 :::
 
@@ -1233,7 +1233,7 @@ The contents of this box **will NOT be marked**.
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1249,4 +1249,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

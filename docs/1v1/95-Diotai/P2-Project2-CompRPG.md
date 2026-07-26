@@ -24,13 +24,13 @@ watermark: true
 
 This project is inspired by a genre of video game, where players choose the actions that their characters take in a turn-based battle. Some examples include the battle systems in Super Mario RPG, Pokémon, Final Fantasy and table-top games like Dungeons and Dragons.
 
-![Super Mario RPG Battle](./P2-Project2-CompRPG.assets/supermarioRPG.jpg)
+![Super Mario RPG Battle](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/88/8860c53feac20eb9a36bc965e6dd1e8f805f877242ef0a696828054b7af7183a.jpg)
 
 Super Mario RPG Battle
 
 The characters will have various stats, such as health or hp, that will decrease when the opponent's characters successfully attack.
 
-![Pokémon Battle](./P2-Project2-CompRPG.assets/pokemon.webp)
+![Pokémon Battle](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d8/d8d73713c5aa3a5087c70eec4229eb64ce6759b35d6d15e0c37903d6c09d2261.webp)
 
 Pokémon Battle, https://essentialsdocs.fandom.com/wiki/Battles
 
@@ -38,13 +38,13 @@ During the player's turn, they pick actions for their characters. The player nee
 
 
 
-![Final Fantasy Battle System](./P2-Project2-CompRPG.assets/FFIV_Fight.webp)
+![Final Fantasy Battle System](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/792373e218511e225ee065884dfd02e8085b3911cc4059b13c7c6576569317ab.webp)
 
 Final Fantasy Battle System, https://finalfantasy.fandom.com/wiki/Battle_system
 
 Some games have special action types that use magic or some other special resource. Many games have an item system, where the player can choose to use an item that they have obtained that will have some special effects.
 
-![Dungeons and Dragons game tabletop RPG](./P2-Project2-CompRPG.assets/DD_Game_1.jpg)
+![Dungeons and Dragons game tabletop RPG](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/14/14ba918ce0aa06a2d4712049ac35a6c94f94bc5aa08368f95981ec67086e673b.jpg)
 
 
 
@@ -183,7 +183,7 @@ player,attacks,defends,items,swaps,attempted damage,attempted protection,electri
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -199,7 +199,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

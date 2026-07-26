@@ -261,13 +261,13 @@ print()
 
 问题：最后一行的 print 和不同的 statement 对齐会产生什么不同的结果
 
-![](./README.assets/image-20230327010339431.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3b94a06fc94299f2b438d11c1b63d3f70576e68caccad5244d03b462c1876e4b.png)
 
 
 
 ## Question 9
 
-![](./README.assets/image-20230327010737065.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3ba2cd6de0d9af4626769120f9e0654a212171ea5557c699174576e70e5b042d.png)
 
 ::: tip ord
 
@@ -387,7 +387,7 @@ print("Total is:", total)
 
 ## Question 11
 
-![](./README.assets/image-20230327013842702.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c4/c4c3776d2f035d36688321b3a7c512e85eebb6176ba3d8dc127f451158ada85e.png)
 
 
 
@@ -399,7 +399,7 @@ print('The price of: ' + item + ' is ' + str(price))
 
 ## Question 12
 
-![](./README.assets/image-20230327014057728.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4a/4a9394ba95601fae0872e7de2017889400faa80c23ee79bf0a309075446258c0.png)
 
 ```python
 a = "Austin"
@@ -411,15 +411,15 @@ print(a, b, c, d, sep="一拳间隔")
 
 ## Question 13
 
-![](./README.assets/image-20230327014416314.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/10/10de45d0639b855f60b04947671c0ee1f11dbcf40a010f066bad44dd2ed1c784.png)
 
 
 
 ## Question 14
 
-![](./README.assets/image-20230327014441451.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/99cbcc7442fb26d764418df044ed1bfc44eef9dc66bb7456c812ef48e2094d14.png)
 
-![](./README.assets/image-20230327015553174.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5a/5a4d4bba8262eb4eb953460f9330104f9054e0a9d40efcc46d5b9cf3bedd0805.png)
 
 ## How many iterations are there?
 
@@ -430,7 +430,7 @@ print(a, b, c, d, sep="一拳间隔")
 5. for i in range (42, 46, 2)
 6. for i in ‘3de’
 
-![](./README.assets/image-20230327021804370.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2f/2f60225fff8d8744949e038708dbbb9e326473f61e459aba080a1ee4b94c607c.png)
 
 
 
@@ -563,7 +563,7 @@ print(result)  # 输出：2，而不是 2.5
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -579,4 +579,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

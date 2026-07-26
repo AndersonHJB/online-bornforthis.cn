@@ -21,7 +21,7 @@ copy:
     disableSelection: true
 ---
 
-![](./20-data-cognitive-traps-guide.assets/202012161615512765755687.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b1/b1cbd0421262dbcda7001e2fd2a24341ecfcad01b3dfcdeb0bcc4e5102d504be.jpeg)
 
 你好，我是悦创。
 
@@ -568,7 +568,7 @@ copy:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -584,4 +584,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

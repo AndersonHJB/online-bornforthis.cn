@@ -246,7 +246,7 @@ The function prints a picture of an n x n cross. The cross consists of two diago
 
 > 该函数打印出一个$n\times n$的十字形图片。该十字形由两条对角线组成。这两条对角线应该由斜杠‘`/`’和反斜杠‘`\`’组成。当$n$为奇数时，在十字形的中心使用‘`X`’。请参考附带的zip文件中的示例。
 
-![*Drawings for n=1, n=2, n=5, n=6, n=7*](./02-Assignment02.assets/image-20230507221753724.png)
+![*Drawings for n=1, n=2, n=5, n=6, n=7*](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c2/c2f37598359ea4adc03c9d82ecbe32da9ec34fd5bfd453b39169dd1bbd63813f.png)
 
 **Notes:**
 
@@ -352,7 +352,7 @@ def cross(n):
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -368,7 +368,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

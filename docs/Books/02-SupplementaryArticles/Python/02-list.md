@@ -114,7 +114,7 @@ Python 在 `y = x` 赋值时的行为类似于百度网盘的“创建链接”�
 
 
 
-![](./02-list.assets/image-20231231073348868.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/9301e236d9ca01ac6a6810fd83aac13250f2e3b18317add5ec0f28eac0002f74.png)
 
 
 
@@ -252,7 +252,7 @@ After 2:
 1. **子列表 ID 相同**：输出中可见 `x[3]` 和 `y[3]` 的 `id` 完全一致，这说明它们实际上引用的是同一个对象（子列表）。你还可以为上面的代码添加一行代码来更直观的验证：`print(id(x[3]) == id(y[3]))` 。
 2. **可视化关系相同**：若从可视化角度来观察，可以看到 `x` 和 `y` 在最外层各自拥有不同的地址，但它们第三个索引位置（子列表）都指向同一个存储空间。还是使用：[https://pythontutor.bornforthis.cn/visualize.html#mode=edit](https://pythontutor.bornforthis.cn/visualize.html#mode=edit)，图示如下：
 
-![](./02-list.assets/image-20231231075342743.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b61b601313b457111a337b085570dbfd79a38b938183f2b79113a1fe888ec39f.png)
 
 
 
@@ -325,7 +325,7 @@ After 2:
 1. 方法一：子列表的 `id` 值已经不同，说明 `x` 和 `y` 中的子列表各自拥有独立的内存空间。你还可以基于上面的代码，通过添加 `print(id(x[3]) != id(y[3]))` 得到 False 可以验证，它们的 ID 已经不同。id 即代表物理地址，物理地址不同则不是同一个数据。
 2. 可视化层面也可以看出，被拷贝的多层嵌套结构完全分离，互不影响，一图胜千言：
 
-![](./02-list.assets/image-20231231080541835.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cb5f83ac3bae2181112e2f53f79f9fb964eadf6509eb2608eece24d216e225ec.png)
 
 使用的网站依然是：[https://pythontutor.bornforthis.cn/visualize.html#mode=edit](https://pythontutor.bornforthis.cn/visualize.html#mode=edit)
 

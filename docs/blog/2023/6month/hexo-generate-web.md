@@ -64,15 +64,15 @@ GitHub Pages 允许每个账户创建一个名为 **{username}.github.io** 的�
 
 @tab 1
 
-![](./hexo-generate-web.assets/image-20230816102118614.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d8/d8d7d444c62388030568b0090120ce6449626fb5475f91cad5a0e38bf565eb95.png)
 
 @tab 2
 
-![](./hexo-generate-web.assets/image-20230816102239581.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b8/b83e348fd1a7a456c791bbd5a6b20f32505fb428ced4979d77aa0a91818de6b2.png)
 
 @tab 3
 
-![](./hexo-generate-web.assets/image-20230816103845914.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/eb/eb99bbcdbb6aef467649d20acdc6f565b32a2bed520162d29dc97d112cba7d39.png)
 
 :::
 
@@ -121,7 +121,7 @@ git config --global user.email "这里换上你的邮箱"
 ssh-keygen -t rsa -C "这里换上你的邮箱"
 ```
 
-![](./hexo-generate-web.assets/1615118198769-a46e196f-8ed9-41f1-9d34-2ebd36a67b37.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b2/b2b29b47e4cd294d0f3e40514fcf091eac666e109f60b1754fff4838bff4293a.png)
 
 执行上面的命令后需要进行 3 次或 4 次确认：
 
@@ -135,7 +135,7 @@ ssh-keygen -t rsa -C "这里换上你的邮箱"
 
 在指定的保存路径下会生成 2 个名为 `id_rsa` 和 `id_rsa.pub` 的文件：
 
-![](./hexo-generate-web.assets/1615118250921-5c5e6dfc-195d-4675-af60-eaba5936885a.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d0/d095f5cef3d9cad034aafcad539b6bbe26c53a26878ab3c457a3e18c2c146b82.png)
 
 添加公钥到你的远程仓库（github），再打开你的 github，进入配置页： Settings -- SSH and GPG keys
 
@@ -143,19 +143,19 @@ ssh-keygen -t rsa -C "这里换上你的邮箱"
 
 @tab 1
 
-![](./hexo-generate-web.assets/image-20230816111147152.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3f/3f43bcdac47d94a1a326f6d58a6bcf849cf3db34bee47fa677f187a8a0c708c1.png)
 
 @tab 2
 
-![](./hexo-generate-web.assets/image-20230816111208978.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cb96b83ab87136194170e1ef08f1f9daed84252baddb10c29f79199180d2fc29.png)
 
 @tab 3
 
-![](./hexo-generate-web.assets/image-20230816111759611.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/87/87ad38d755d0eb3c0ce516fd5bdc03f9d08dfecd3208691c765823c90044e618.png)
 
 @tab 4
 
-![](./hexo-generate-web.assets/image-20230816112404004.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/16bcabfdab369d5458d1180a2aca9f53a254c42fe924e80619aa41a5aed07351.png)
 
 :::
 
@@ -203,7 +203,7 @@ npm install hexo-cli -g
 
 **PS：** 如果你是苹果电脑，有可能输入上面的命令会出现下图结果：
 
-![](./hexo-generate-web.assets/1615116491333-7e376d36-f6ab-4ca7-85c0-e1d744d8e2f3.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b0/b09634adf5482dd107001f4723783062c427e7261ec0a9271adc86f8f11e7769.png)
 
 把命令前面加个 sudo 即可：
 
@@ -227,7 +227,7 @@ hexo init {name}
 hexo init andersonhjb #初始化博客
 ```
 
-![](./hexo-generate-web.assets/1615116678906-59a9a85b-25a8-45cc-928c-3095465a8752.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/69/6985cc795fc8a4866d22993dda4611892aa9d4249ad05b2ed5f6a8a2566c3b75.png)
 
 这样 andersonhjb 文件夹下就会出现 Hexo 的初始化文件，包括 themes、scaffolds、source 等文件夹，这些内容暂且先不用管是做什么的，我们先知道有什么，然后一步步走下去看看都发生了什么变化。
 
@@ -237,11 +237,11 @@ hexo init andersonhjb #初始化博客
 hexo generate
 ```
 
-![hexo generate](./hexo-generate-web.assets/image-20230816122446877.png)
+![hexo generate](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5ff57d9905f97239fae0c0e2124d504fbf2eeb3e3570c9c928b98f7a3abdf656.png)
 
 可以看到输出结果里面包含了 js、css、font 等内容，并发现他们都处在了项目根目录下的 public 文件夹下面了。
 
-![](./hexo-generate-web.assets/image-20230816123745057.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2e/2eef053af81c61c1780f6e65b1d1890f267fa36fddc6ea5428941829a70e9b72.png)
 
 然后我们利用 Hexo 提供的 server 命令把博客在本地运行起来，命令如下：
 
@@ -258,11 +258,11 @@ INFO  Start processing
 INFO  Hexo is running at http://localhost:4000/ . Press Ctrl+C to stop.
 ```
 
-![](./hexo-generate-web.assets/image-20230816123854685.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f5020fec5172ede04318c29150db85ba0ca407618f669acb0d975ec707ae9b67.png)
 
 它告诉我们在本地 4000 端口上就可以查看博客站点了，如图所示：
 
-![](./hexo-generate-web.assets/image-20230816124046320.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b97f8b7bb81536a842795baab4f588f29a291ba3321dd9076f034af2eb934b15.png)
 
 这样一个博客的架子就出来了，我们只用了三个命令就完成了。
 
@@ -284,7 +284,7 @@ hexo deploy
 
 打开根目录下的 `_config.yml` 文件，找到 Deployment 这个地方：
 
-![](./hexo-generate-web.assets/image-20230816145813035.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/55/55d78f40b3680a063fffe12137408b6a4555e7b0a61a3a93053dc0326937c227.png)
 
 把刚才新建的 Repository 的地址贴过来，然后指定分支为 master 分支，最终修改为如下内容：
 
@@ -308,7 +308,7 @@ deploy:
   branch: master
 ```
 
-![](./hexo-generate-web.assets/image-20230816151345419.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f9/f991bc96ae783a1403aec876c0c34aba99052c4d1cc20bbe1dd40c0a382aece7.png)
 
 你会看到，我上面在 repo 里面填写了：
 
@@ -318,7 +318,7 @@ git@github.com:AndersonHJB/AndersonHJB.github.io.git
 
 那我是如何获得的呢？
 
-![](./hexo-generate-web.assets/image-20230816151719361.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c9/c98c6ccb8980bfbb1220c19c71c3fc44ad3d0a651dd352d5b4361dc6579bf27d.png)
 
 另外我们还需要额外安装一个支持 Git 的部署插件，名字叫做 `hexo-deployer-git`，有了它我们才可以顺利将其部署到 GitHub 上面，如果不安装的话，在执行部署命令时会报如下错误：
 
@@ -334,7 +334,7 @@ npm install hexo-deployer-git --save
 
 这里我多废话一句，有人不知道项目目录指的是啥，这里我还是把我的项目，截图出来：
 
-![](./hexo-generate-web.assets/image-20230816152548967.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5e/5e5739c43763ab5a753a862b79fa791042acb621afc76f956d6465664eb79c6a.png)
 
 出现如下结果，就是安装成功：
 
@@ -400,11 +400,11 @@ INFO  Deploy done: git
 
 如果出现类似上面的内容，就证明我们的博客已经成功部署到 GitHub Pages 上面了，这时候我们访问一下 GitHub Repository 同名的链接，比如我的 andersonhjb 博客的 Repository 名称取的是 `AndersonHJB.github.io`，那我就访问 http://andersonhjb.github.io，这时候我们就可以看到跟本地一模一样的博客内容了。
 
-![](./hexo-generate-web.assets/1615179033231-3236a624-e7ed-4bc3-ade9-7c611637dec6.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77a7e8671779c18376af3e410ce5fac3e5ae10777d55e3c42c410c298c286f6c.png)
 
 这时候我们去 GitHub 上面看看 Hexo 上传了什么内容，打开之后可以看到 master 分支有了这样的内容：
 
-![](./hexo-generate-web.assets/1615179087312-0aa64a0f-bd4d-4826-b66f-ef9f2f17931d.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2d9a0c4ae6db033dad767276c70d4c40ad61259b957784071b5ecb87ace4d620.png)
 
 仔细看看，这实际上是博客文件夹下面的 public 文件夹下的所有内容，Hexo 把编译之后的静态页面内容上传到 GitHub 的 master 分支上面去了。
 
@@ -423,7 +423,7 @@ git remote add origin git@github.com:{username}/{username}.github.io.git
 git push origin source
 ```
 
-![](./hexo-generate-web.assets/1615179340228-c5b40548-3e7f-4985-91b5-a6ae636324f6.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/36/36f08774a735d85d117e7683c8e3d8f4c3452d81ec1a155355d97dcf6d5e9b11.png)
 
 上面操作之后，可以使用如下目录切回原本的的分支「方便后续操作」：
 
@@ -439,11 +439,11 @@ git checkout -b master
 
 @tab settings
 
-![](./hexo-generate-web.assets/image-20230816225830004.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6b/6b227b9f3b1c59a7b2039ef3fdab1ec1eb6172596dc5e4a4114d50986411b3fe.png)
 
 @tab change
 
-![](./hexo-generate-web.assets/image-20230816230012453.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8f/8fba551c62d40dd483877b42d8463b5dd3d8491018a75ed26d63829f2da96efe.png)
 
 :::
 
@@ -457,7 +457,7 @@ git checkout -b master
 
 修改根目录下的 `_config.yml` 文件，找到 Site 区域，这里面可以配置站点标题 title、副标题 subtitle 等内容、关键字 keywords 等内容。
 
-![](./hexo-generate-web.assets/Snipaste_2023-08-16_23-18-49.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b3/b3c9469caf46f29ace2a9ef25ff09c58cba73bd9926145c5f2a2b60e7e6bc221.png)
 
 比如我的就修改为如下内容：
 
@@ -496,7 +496,7 @@ language: zh-CN
 
 这样就完成了站点基本信息的配置，完成之后可以看到一些基本信息就修改过来了，页面效果如下：
 
-![](./hexo-generate-web.assets/image-20230816234205737.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0a/0a28968def932d8e2859ad0d1e52587f972496ff9ad4183c85735be3becfd0f1.png)
 
 ### 4.4 修改主题
 
@@ -530,7 +530,7 @@ git clone git@github.com:theme-next/hexo-theme-next.git themes/next
 
 执行完毕之后 Next 主题的源码就会出现在项目的 `themes/next` 文件夹下。
 
-![](./hexo-generate-web.assets/image-20230816235334277.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/edc3fb37dc8a8fb3780fa8e7a3bffd92594ad2b924b294e0466861662f1cd3f6.png)
 
 然后我们需要修改下博客所用的主题名称，修改项目根目录下的 `_config.yml` 文件，找到 theme 字段，修改为 next 即可，修改如下：
 
@@ -538,11 +538,11 @@ git clone git@github.com:theme-next/hexo-theme-next.git themes/next
 theme: next
 ```
 
-![](./hexo-generate-web.assets/image-20230816235451429.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5b/5bdd5b92c0a8e313e12b1e867634323187d9877060e018b6ef4ac0d3e49cda6a.png)
 
 然后本地重新开启服务，访问刷新下页面，就可以看到 next 主题就切换成功了，预览效果如下：
 
-![](./hexo-generate-web.assets/image-20230816235603250.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c2/c2dfb979ea8fbf1adb733a248d5a2c71a7b02fe546fc11ea2d9e4a89c4eeb685.png)
 
 ##### 4.4.1.1 主题配置
 
@@ -588,7 +588,7 @@ scheme: Pisces
 
 接下来我们重新本地运行服务，如然后访问：
 
-![](./hexo-generate-web.assets/image-20230817000233070.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b4/b40141a80275231bdde1dfb7a505f7d3dbf57014752b0702b7ab89f63f907034.png)
 
 ##### 4.4.1.3 favicon
 
@@ -632,11 +632,11 @@ favicon:
 
 avatar 这个就类似站点的头像，如果设置了这个，会在站点的作者信息旁边额外显示一个头像，比如我这边有一张 `avatar.JPG` 图片：
 
-![](./hexo-generate-web.assets/1615195503088-ff06358d-f5c4-4b41-bf3b-c584318361d5-20230817002730324.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f4/f48ff2c3e68970ab81a43e9a34174b5412ed2764481d1654366b05d13b9e0fb8.jpeg)
 
 将其放置到 `themes/next/source/images/avatar.png` 路径，然后在主题 `_config.yml` 文件下编辑 avatar 的配置，修改为正确的路径即可。
 
-![](./hexo-generate-web.assets/1615195688510-8b86de61-75b6-4ddb-8fcd-a69913e17118-20230817002759513.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/25b1dd01f607af70081853fd0540497a15d2bce1d31b3e72843614e4ec6ee4e4.png)
 
 ::: code-tabs
 
@@ -671,7 +671,7 @@ avatar:
 
 我们可以发现，上面代码中有 rounded 选项是是否显示圆形，rotated 是是否带有旋转效果，大家可以根据喜好选择是否开启。这里我自己就不开了，效果如下：
 
-![](./hexo-generate-web.assets/image-20230817003423504.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6e6c88b1f5451e242be357880e5feeeeaa4d8c981c627f5d79d083aab349204c.png)
 
 可以看见我的头像。
 
@@ -685,7 +685,7 @@ npm install hexo-generator-feed --save
 
 我的实际操作图片：
 
-![](./hexo-generate-web.assets/image-20230817003627411.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/74703f0321254f40ee71f274fee346e330ab93ee18f98f61fc2839af0b42711e.png)
 
 在项目根目录下运行这个命令，安装完成之后不需要其他的配置，以后每次编译生成站点的时候就会自动生成 RSS Feed 文件了。
 
@@ -732,17 +732,17 @@ codeblock:
 
 :::
 
-![](./hexo-generate-web.assets/1615197229282-c2625c4f-10f5-4744-9c57-97c77bcf6814-20230817003941848.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/eaf668b022c7504126ff2559f0b4ba98ee833f3903529a00f9fd594b5df65811.png)
 
 ::: tabs
 
 @tab 修改前
 
-![](./hexo-generate-web.assets/image-20230817004050654.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/17bae8c53852faea8c86f6875d7f8f4733d923c84288fb9b4b3bf2d1de2effe2.png)
 
 @tab 修改后
 
-![](./hexo-generate-web.assets/image-20230817004116769.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/29/29d377eced1ceb6f16f85b5e6028c697369ee90815a2a9aaf1365234049ef8ab.png)
 
 :::
 
@@ -811,11 +811,11 @@ reading_progress:
 
 :::
 
-![](./hexo-generate-web.assets/image-20230817004947965.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2a/2a717cd89dc09a9418135ebb3d24288e030f549d18cd080fff5ffd88bac6e7a1.png)
 
 记得重新启动服务，我们来看看效果：
 
-![](./hexo-generate-web.assets/image-20230817005015611.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/31/31923c01f06aa20f7a68e79823087bf52a79b6e12989d43b0c5d51a1c64f4f87.png)
 
 ##### 4.4.1.9 bookmark
 
@@ -851,7 +851,7 @@ bookmark:
 
 :::
 
-![](./hexo-generate-web.assets/image-20230817005259670.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6f/6ff2a050fd82dc221137d39af12f4b555bb0b3be0c4b6b292ddc076976aa0a8c.png)
 
 ##### 4.4.1.10 github_banner
 
@@ -883,7 +883,7 @@ github_banner:
 
 记得修改下链接 permalink 和标题 title，显示效果如下：
 
-![](./hexo-generate-web.assets/image-20230817005609202.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7d/7d7ff3e094b081af923e7d4bf3c30d60164b0c6ec2da09d201427a749f094d3d.png)
 
 可以看到在页面右上角显示了 GitHub 的图标，点击可以进去到 Repository 页面。
 
@@ -941,27 +941,27 @@ GitHub OAuth application 允许程序来操作你的 github 账户，可以对 g
 
 @tab 1
 
-![](./hexo-generate-web.assets/image-20230817102530989.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f1/f1e99965b02f15c35aabef3fe6d148e97044541edf06fb72b1ff736651518624.png)
 
 @tab 2
 
-![](./hexo-generate-web.assets/image-20230817102605211.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ca/caf53f439a70c65d81e52326f90aed5b841bac7f0c183c48f192330237f136d8.png)
 
 @tab 3
 
-![](./hexo-generate-web.assets/image-20230817102703621.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1e/1ee64da31e9e49175a60f00371354730943c864eeeab26eea7bb374276dadbf8.png)
 
 @tab 4
 
-![](./hexo-generate-web.assets/image-20230817102747030.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/9180e71cb92b4c5b34741943abc088936f17983956d6189f04ac7371e72c2fcd.png)
 
 @tab 5
 
-![](./hexo-generate-web.assets/image-20230817103155485.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bc/bc2cfbd0975b21db867126f28517619f1d2baf6624f01b8fbc85f21ed5cbb2ea.png)
 
 :::
 
-![](./hexo-generate-web.assets/image-20230817110902623.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/25ef6cf66bc74d9f4670aa33ef1f75207a74bba04e65248efdbdd34868559f55.png)
 
 上图虽然写了解析，但我还是要详细的给你讲一遍的。
 
@@ -987,13 +987,13 @@ GitHub OAuth application 允许程序来操作你的 github 账户，可以对 g
 
 @tab 点击生成
 
-![](./hexo-generate-web.assets/image-20230817112809361.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d3/d35c107ff5d1c5e47c4e6b907d2f3b742ba3dcdd745763572db382540f49e3a8.png)
 
 
 
 @tab 生成如下
 
-![](./hexo-generate-web.assets/image-20230817113723562.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d2/d2a5d9f6f3cd2bb34b5f7531decf4fb784352824f307edb0bc9cc3e342d9b421.png)
 
 :::
 
@@ -1111,9 +1111,9 @@ gitalk:
 
 配置完成之后 gitalk 就可以使用了，点击进入文章页面，就会出现如下页面：
 
-![](./hexo-generate-web.assets/1615202984850-8ae220fe-397c-4e2f-bb80-6d71989bfbcd.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/42/4205888212ed7c3d00eb7561749673e53bfe54b94d67f5e26b6bef7162572b6c.png)
 
-![](./hexo-generate-web.assets/image-20230817120003962.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/74c7e86390dad34c59b4ebd260d11e07d632a5390178c9f8bc3b6615b6cbfa99.png)
 
 GitHub 授权登录之后就可以使用了，评论的内容会自动出现在 Issue 里面。
 
@@ -1213,7 +1213,7 @@ $ cd themes/next
 $ git clone https://github.com/theme-next/theme-next-pjax source/lib/pjax
 ```
 
-![](./hexo-generate-web.assets/image-20230817130407476.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7e/7e8ebc73d8db4439313ff871371076b349592fefa365eb961adbb9022f55ff0b.png)
 
 这样 pjax 就开启了，页面就可以实现无刷新加载了。
 
@@ -1243,7 +1243,7 @@ hexo new hello-world2
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1259,7 +1259,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

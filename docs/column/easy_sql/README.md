@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: jiediansql
 title: 轻松玩转 SQL
-heroImage: /ColumnImages/easy_sql/logo.png
+heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a7/a79579379db62ed52d986f99306e69abcaf46ed40500d0a6936793530962ec61.png
 heroText: 轻松玩转 SQL
 heroFullScreen: false
 tagline: Easy Sql Tutorial
@@ -61,7 +61,7 @@ footer: 立志降低教育成本，普及编程教育，提供优质资源教程
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -77,5 +77,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

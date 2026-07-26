@@ -19,7 +19,7 @@ backToTop: true
 toc: true
 ---
 
-![image by the author | digital collage](./16-how-to-write-with-ai-without-sounding-like-ai-chatgpt-canvas.assets/1*lqSf-B-dVQ33p4RjghTVHg.png)
+![image by the author | digital collage](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/47/47d4cf2bbbde4915c59dc984362a6da88f31b81f064a1f454867af51cf3ee75a.png)
 
 This is an experiment. I am writing this article using ChatGPT Canvas. Not because I am lazy, not because I can’t write, or because I want to sell you a truckload of hype. I will be recording the process of how I am using this new way of interacting with generative AI so you can see for yourself what it can do and maybe try it yourself.
 
@@ -29,7 +29,7 @@ At this point, I prompted ChatGPT 4o with canvass and provided the first paragra
 
 > **PROMPT:** I’m a writer reporting on the latest developments in artificial intelligence for Medium.com audience. I’m writing a story about an experiment I’m conducting. Let’s collaborate and write it together. Here is what I’ve got so far, how do you think we should continue? My text so far: [here I provided the opening paragraphs I wrote]
 
-![](./16-how-to-write-with-ai-without-sounding-like-ai-chatgpt-canvas.assets/1*JeVSLdMRIa9pXg3Gut54dQ.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b1/b19f73f59b0f03897f67aade66560e97486f56dded45ed9ce9e6c3e1d88b2d94.png)
 
 Here is how the model initially finished my sentence and how it continued the story [AI generated text is bolded]:
 
@@ -49,11 +49,11 @@ I tweaked the text right in the canvas interface, something I’ve been hoping t
 
 A tiny menu offers various editing options in the bottom right corner; — let’s try the first one: **‘Suggest edits.’**
 
-![](./16-how-to-write-with-ai-without-sounding-like-ai-chatgpt-canvas.assets/1*azMBrLKJOUtxoHPLZTRlUQ.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/75653aa15a03458ab4b4072b85bd4a39f774636e133bf29eb94c087ae03d2906.png)
 
 Engaging this function highlights the text in the center panel, expanding suggestions for the highlighted text in popups to the right, while the left-hand panel provides an overview of the changes:
 
-![](./16-how-to-write-with-ai-without-sounding-like-ai-chatgpt-canvas.assets/1*jI98_6CfYS6joHeP07sknw.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f4/f4e4b969bb309746b8cfa29020f00deccb14a1c2589b0bad11ccdd0b883e4158.png)
 
 Let’s go through the suggestions. I have four options here:
 
@@ -74,25 +74,25 @@ Here are the results of accepting the suggestions made by the model when clickin
 
 All the changes are explained in the left-hand panel, with customized messages appearing each time I click the ‘Apply’ button on the pop-up suggestion tile. Great, but here I wish I could track the passages changed by clicking on the left-hand Edit comment, which would highlight the text it refers to. A ***‘Revert to original’\*** button would be great here to toggle between what was there before and how it was changed now. Yes, this could also be a hover text menu with the same functionality. [BTW: I discovered that later in the test, read on to see where it’s hiding].
 
-![](./16-how-to-write-with-ai-without-sounding-like-ai-chatgpt-canvas.assets/1*00ZQ7DgVYEzkQeLXcraO3A.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c58b0c1f896195b224d3193be659f7711aaf1c9273ad1075e93ec232ac8ec21e.png)
 
-![](./16-how-to-write-with-ai-without-sounding-like-ai-chatgpt-canvas.assets/1*TDex6-j0Ixix4vCpSEZnaQ.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ef/ef7ccb0b04b8c0b25abc7dbb256b850225b93d8d7aee168c290f0b92b2cc8b11.png)
 
 If you double-click the **‘Edited’** explanation in the left-hand menu, a quotation symbol will appear above it. You can click that quotation mark, which brings the text into the prompt window to allow you to respond in a similar way you can respond in a long text chat to comments made earlier. Of course, you can do this immediately after implementing an edit and continue the conversation with the model without bringing the edits down — but that depends on the speed of your work in the middle panel and the style of editing you prefer.
 
-![](./16-how-to-write-with-ai-without-sounding-like-ai-chatgpt-canvas.assets/image-20250213232447897.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/88/88a1fd48ab668bb462a84fea9c1dee1b0f49d6a81c6959fba04e527f28cc1356.png)
 
 I’ve asked the model in left-hand chat window to rever my decision and restore its edit. Then I asked for the word count, as we prepare to test the next feature of the right-hand editing menu **‘Adjust the length.’**
 
-![](./16-how-to-write-with-ai-without-sounding-like-ai-chatgpt-canvas.assets/image-20250213232522798.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9e/9ec5d2d62d54098e9dea24d120ff9f88ee2c87b4aaa351caab227e14c5c36396.png)
 
 A scale appears, allowing gradual adjustments from **‘Longest’** at the very top, to **‘Shortest’** at the very bottom.
 
-![](./16-how-to-write-with-ai-without-sounding-like-ai-chatgpt-canvas.assets/image-20250213232652924.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fe/fe88135cdb724611cb82bf494b3c64768a7b851ead07643d23a1c2b576bd15fc.png)
 
 I made a mistake and engaged the model while adjusting the scale to screen capture the length options. I stopped the model from editing and used the top right corner menu with arrows to go back to **‘Previous version.’** While I was unable to see the previous version live (as claimed by the prompt that appeared on the bottom, ***‘You are viewing a previous version. Restore this version to make edits’)\***, I did click **‘Restore the version’** and was able to go back to where I was earlier. Later, I noticed in the right-hand chat menu that my action to stop the edit while it was being generated was likely why I could not see the previous version, but that is only my guess now.
 
-![](./16-how-to-write-with-ai-without-sounding-like-ai-chatgpt-canvas.assets/image-20250213232713590.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2b/2bd9210524d96139c67d43d27e489df6c01f51a9d10e91cf960012acb13f0e23.png)
 
 This is the text resulting from sliding the ‘Length’ scale to ‘Longest,’ extended by 75% from 546 words to 956 words:
 
@@ -116,7 +116,7 @@ This went a bit too far than I had initially intended. But the results are prett
 
 I am enormously urged to jump into the text and edit to correct the content by hand. But I remind myself that this is an experiment and decide to keep it as is, moving on to test the next feature that promises to help a major struggle every writer must face and why good editors are worth their weight in gold — the **‘Reading level.’** In the menu, the scale offered is from **‘Kindergarten’** on the bottom to **‘Graduate School’** on the top.
 
-![](./16-how-to-write-with-ai-without-sounding-like-ai-chatgpt-canvas.assets/image-20250213232743048.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6ebfa634e530284393225e49cb31c407600b6573ed951116f90381cffed65474.png)
 
 Oooh… I’m tempted to pit the two against each other rather than be moderate in my readability adjustments. Oh, why not? Let’s see how this pans out. Here is the ‘Kindergarten’ level adjustment of the text:
 
@@ -176,7 +176,7 @@ And here is the same text with ‘Graduate School’ adjustment:
 
 Which one do you prefer? I seem to lean towards the ‘Kindergarten’ option, looking at these. But let’s revert to the previous version to test the remaining editing menu features. We’ll skip ahead and start with **‘Add emojis,’** which I think should come before the **‘Add final polish.’**
 
-![](./16-how-to-write-with-ai-without-sounding-like-ai-chatgpt-canvas.assets/image-20250213232811573.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e6/e6a7c4bec37c10feb44b2c58d26adfab5f647b213cfa60551d4016b0fcdb228e.png)
 
 The model keeps track of what it has done in the left-hand menu. And here is the main result 😱😱😱😱😱😱:
 
@@ -208,7 +208,7 @@ The model keeps track of what it has done in the left-hand menu. And here is the
 
 Ok, this pops my eyes more than I want. I’ve reverted to an earlier version (pre-readability level adjustments). But after seeing the various changes, I couldn’t resist tweaking the subtitle (which is a typical writer obsession, I suppose). Now it is: *“Can AI make you a better writer without tricks, few prompts, and no hype?”* I’ve decided not to make any more changes before testing the last editing feature: “Add final polish.” I’m very curious what this feature does. Here we go!
 
-![](./16-how-to-write-with-ai-without-sounding-like-ai-chatgpt-canvas.assets/image-20250213232842841.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4d/4d9f5018895d6542cd1f3fc1dc60e8305ff61c2ec09271a3b85330cd745cca18.png)
 
 And this is what the final polished version looks like straight from ChatGPT 4o Canvas looks like:
 
@@ -266,7 +266,7 @@ Perhaps it is a matter of changing my writing style to incorporate more frequent
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -282,7 +282,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://generativeai.pub/how-to-write-with-ai-without-sounding-like-ai-chatgpt-canvas-1885809cf82e)
 

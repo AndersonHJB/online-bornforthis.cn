@@ -39,11 +39,11 @@ toc: true
 
 ### 代码高亮
 
-![image-20220930113929386](./txk_09.assets/image-20220930113929386.png)
+![image-20220930113929386](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c1/c1cd250f996fdec9931823c0de2db6651c324d2ed346ba3bc2908f8f08bde036.png)
 
 ### 代码提示
 
-![image-20220930114006999](./txk_09.assets/image-20220930114006999.png)
+![image-20220930114006999](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/32/32da533114cd32415dd456e4fdc50693a96589669934a2448085c39ac316b2af.png)
 
 ### 用记事本也是可以打开我们上面编写的代码
 
@@ -72,7 +72,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -88,7 +88,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![艾伦·图灵，计算机科学的奠基者之一，也是破解战争密码的关键人物](./05-How-could-the-Father-of-artificial-Intelligence-end-war.assets/sss.jpg)
+![艾伦·图灵，计算机科学的奠基者之一，也是破解战争密码的关键人物](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/17054f87e5d799a9da2bb2739f659c7023eecdb995bd621ba892d7d3937328ef.jpg)
 
 当我们谈起人工智能或编程的历史，几乎绕不开一个名字：**艾伦·图灵**。虽然他没亲手打造出“图灵机”这种理论装置，但他确实设计出了一台改变世界的真正机器——而这台机器的目的，并不是计算数学题、不是游戏、也不是画画，而是……**破解敌人的密码**！
 
@@ -28,7 +28,7 @@ toc: true
 
 ## 1. 战争不只是枪炮声
 
-![图灵与同事工作的地方——英国布莱切利庄园，表面上是普通宅邸，实则是情报破译的核心](./05-How-could-the-Father-of-artificial-Intelligence-end-war.assets/2880px-Bletchley_Park_Mansion.jpg)
+![图灵与同事工作的地方——英国布莱切利庄园，表面上是普通宅邸，实则是情报破译的核心](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/db/db6b48b49bb28bcb8c253fe9f688a519667ee0565dbc3984e85e7c19011c48ca.jpg)
 
 时间回到1939年，纳粹德国突然入侵波兰，第二次世界大战正式爆发。世界各国陷入动荡，尤其是英国，时刻担心德国的下一个目标会不会就是自己。全国上下紧张备战，而与此同时，在英国乡下的一座庄园里，一群头脑灵活的数学家，正在执行一项高度机密的任务：**破解德军的通讯密码**。
 
@@ -40,7 +40,7 @@ toc: true
 
 额外说一句：有一部电影就是讲这个历史，有兴趣可以看看：《模仿游戏》
 
-![以图灵为原型的电影《模仿游戏》剧照](./05-How-could-the-Father-of-artificial-Intelligence-end-war.assets/adef4c78802cec4574ee0980a8772d2e-20250412185506849.png)
+![以图灵为原型的电影《模仿游戏》剧照](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/ea3bfd8575a2ecdba4b13477f7c668b766eef0bc8b959837eec1afe9b5829920.png)
 
 
 
@@ -52,7 +52,7 @@ toc: true
 
 其实，加密这件事古人早就玩过。早在2000多年前，古罗马的恺撒就用一种很简单的办法来保密军令。——恺撒密码
 
-![古罗马恺撒密码的编码方法示意图，例如：A → D, B → E](./05-How-could-the-Father-of-artificial-Intelligence-end-war.assets/b4566fc52f1b2edd25ad72ae771ec8ac-20250412153216855.png)
+![古罗马恺撒密码的编码方法示意图，例如：A → D, B → E](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/98/9845c5ca4638999c8885da81808f017f99a2ba33bf381d30c1bb3896a38eedc6.png)
 
 不过恺撒的做法很简单，他把单词里头的每个字母，都改写成在它后边第三位的字母。比如：把 A 写成 D，把 B 写成 E。到了 X 呢，就**顺延**下去写成 A，Y 和 Z 就写成 B 和 C。这样，每个字母都被新的密码字母替代了。
 
@@ -64,7 +64,7 @@ toc: true
 
 恺撒加密被人们发现，使用**频率统计法**就能轻松破解：你在写英文单词的时候，肯定已经发现了，有的字母很常用，有的字母却不常用。比如我现在正在给你写这本书的计算机键盘吧，上面 e、a、d、t 这几个键都磨花了，而附近的 z 和 q 却还很新。很明显，前面那几个字母我经常会敲到，而 z 和 q 却很少用。下图是用典型的英语书写的文字样本中各字母出现频率：
 
-![英文中字母使用频率统计。字母 E、A、T 出现频率最高，破解密码常用到这类统计方法](./05-How-could-the-Father-of-artificial-Intelligence-end-war.assets/English-slf.png)
+![英文中字母使用频率统计。字母 E、A、T 出现频率最高，破解密码常用到这类统计方法](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1c/1c77eb1ea11abc4ca593dd2329413310c687e111a87d5ed79dee2e71c0dbfb98.png)
 
 如果咱们截获了很多敌人加密的军令，就可以看看哪些字母出现得最**频繁**。比如说在一段密码里，T 和 Q 出现得最频繁，那它们俩很可能实际上就是 E 和 A 了。把这两个字母带进去，就可以一步步尝试得到答案了！
 
@@ -78,7 +78,7 @@ toc: true
 
 下面我给你一个表格，恺撒加密（偏移量为 3）映射表，你可以自己试一试加密一下：
 
-![恺撒加密（偏移量为 3）映射表](./05-How-could-the-Father-of-artificial-Intelligence-end-war.assets/1197364-20200425154007869-174838035-20250412165338335.png)
+![恺撒加密（偏移量为 3）映射表](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3d/3dae246af61d2fe5a1ce7400ea354934725eee925affd21b7910eafafe13c624.png)
 
 
 
@@ -88,7 +88,7 @@ toc: true
 
 ## 3. 恩尼格码：密码界的“终极大 Boss”
 
-![德国恩尼格码加密机外观。它的加密方式变化多端，复杂程度惊人](./05-How-could-the-Father-of-artificial-Intelligence-end-war.assets/004f0c806dc3df76727e73d22c5740ee-20250412190143438.jpg)
+![德国恩尼格码加密机外观。它的加密方式变化多端，复杂程度惊人](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/98/98a05f9d0fe7e6270705de1e584902a7da1cc6241adf1856af650d486c108f47.jpg)
 
 那时候虽然还没有电脑，但人们已经会**编程**了呀，只要制造一台机器，然后告诉机器，每加密完一个字母，就换一套密码表，再加密下一个字母。这样一来，机器就能完成这件复杂的事情。而破译密码的时候呢，只要把这个过程倒过来就行了。
 
@@ -124,7 +124,7 @@ toc: true
 
 ## 5. 编程思维，在战场上救了无数人
 
-![电影《模仿游戏》剧照](./05-How-could-the-Father-of-artificial-Intelligence-end-war.assets/4f6b476096eace1ed19ba2fa88357e3e-20250412211242067.png)
+![电影《模仿游戏》剧照](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f3/f363521a116dc59e01f21ba87f417a91d5b7643c1d987989c1f266960376877b.png)
 
 图灵和他团队的努力，为同盟国提前知晓了无数军事情报——敌军部队移动、潜艇攻击时间、空袭计划等等。有人统计，正是因为他们的工作，**第二次世界大战至少提前两年结束，数百万生命被挽救**。
 
@@ -238,7 +238,7 @@ toc: true
 
 4. 图灵他们破解恩尼格码，靠的不是蛮力，而是**逻辑推理 + 数学模型 + 机械自动化 + 人类习惯漏洞**，最终战胜了人类历史上最复杂的密码系统之一。
 
-![](./05-How-could-the-Father-of-artificial-Intelligence-end-war.assets/ssss.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5d/5daf096bf9fd09e507dd6a865ee7e27eeb7d5382ab0b7b5d0e694a52e3387747.png)
 
 
 

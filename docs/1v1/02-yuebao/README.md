@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: AdobeFm
 title: FM 星球
-heroImage: /1v1/02-yuebao/logo.png
+heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6f/6f35f0b4a31c650a14de158194bed93142ec36f464ba98c26c945fa97cc0a226.png
 heroText: FM 星球
 heroFullScreen: false
 tagline: 悦兮小栈
@@ -36,7 +36,7 @@ This is a future designer's website, if you want to access immediately, please c
 | ---- | ------------ | ---------------- | -------- | ------------------------------------------------------------ | --------------- | --------- | ------ | ---- |
 | 01   | 域名购买     | findmaterial.top | ✅        | 2022年11月23日                                               | 2022年12月11日  | 125元     | 5年    | 无   |
 | 02   | 服务器购买   | IPxxxxx          | ✅        | 2022年11月23日<br />2022-11-24                               | 2022年11月23日  | 1881.69元 | 5年    | 无   |
-| 03   | 域名备案     | ICP 工信部       | ✅        | ![image-20221214193240369](./README.assets/image-20221214193240369.png =100x100) | 2022年12号14 日 | 时间成本💰 | 永久   | 无   |
+| 03   | 域名备案     | ICP 工信部       | ✅        | ![image-20221214193240369](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a5/a5419f4c055cb970c25a146c6c3796f457177d53ca9701eb55c34f7e0a282d57.png =100x100) | 2022年12号14 日 | 时间成本💰 | 永久   | 无   |
 | 04   | 部署上线网站 | 部署网站         | ✅        | 2022年12月14日                                               | 2022年12月14日  | 时间成本💰 | 永久   | 无   |
 | 05   | 配置网站     | 配置网站         |          | 2022年12月14日                                               |                 | 时间成本💰 | 看情况 |      |
 | 06   | 腾讯云存储   | 腾讯云存储       |          | 2022年12月15日                                               | 2022年12月15日  | 长期费用  | 看情况 | 无   |
@@ -64,7 +64,7 @@ This is a future designer's website, if you want to access immediately, please c
 
 | 序号 | 问题         | 解决方法                                                     | 图片                                                         | 是否解决 | 解决日期       | 说明                                                   | 问题提交链接 |
 | ---- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | -------------- | ------------------------------------------------------ | ------------ |
-| 01   | 图片上传问题 | 请查看此链接：[https://github.com/AndersonHJB/findmaterial.top_img/actions](https://github.com/AndersonHJB/findmaterial.top_img/actions) 中，最后的部署是否成功。<br />如果部署成功，还是失败，请访问此图片链接验证是否正常显示：[1671003706-9b942bbeb6ad687.png](http://github.aiyc.top/findmaterial.top_img/wp-content/uploads/1234/01/1671003706-9b942bbeb6ad687.png)<br />![图片显示失败](http://github.aiyc.top/findmaterial.top_img/wp-content/uploads/1234/01/1671003706-9b942bbeb6ad687.png =50x50) | ![image-20221214233740764](./README.assets/image-20221214233740764.png =100x100) | ✅        | 2022年12月14日 | 如果失败请先思考好语句，和问题。再来提交所遇到的问题。 |              |
+| 01   | 图片上传问题 | 请查看此链接：[https://github.com/AndersonHJB/findmaterial.top_img/actions](https://github.com/AndersonHJB/findmaterial.top_img/actions) 中，最后的部署是否成功。<br />如果部署成功，还是失败，请访问此图片链接验证是否正常显示：[1671003706-9b942bbeb6ad687.png](http://github.aiyc.top/findmaterial.top_img/wp-content/uploads/1234/01/1671003706-9b942bbeb6ad687.png)<br />![图片显示失败](http://github.aiyc.top/findmaterial.top_img/wp-content/uploads/1234/01/1671003706-9b942bbeb6ad687.png =50x50) | ![image-20221214233740764](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/03463221a40fd294e4d18bff302fe7018138e67c2e5e4e866f411b01ff5fccb4.png =100x100) | ✅        | 2022年12月14日 | 如果失败请先思考好语句，和问题。再来提交所遇到的问题。 |              |
 | 02   |              | 视频需求                                                     |                                                              |          |                |                                                        |              |
 
 

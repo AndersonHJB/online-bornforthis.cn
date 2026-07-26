@@ -22,7 +22,7 @@ toc: true
 
 计算机不仅能够识别我们的五官——眼睛、鼻子、嘴巴，它还能够区分各种物体。比如，现在有些应用程序可以通过拍照自动识别植物或动物的种类，甚至能辨认出你拍到的是哪种狗狗。假设你拍到的“狗”看起来像是“拖把”，那么计算机还能准确分辨出来吗？它在识别这些图像时，是如何“思考”的呢？
 
-![狗狗 or 拖把？](./07-How-do-you-teach-a-computer-to-recognize-a-puppy.assets/ss.png)
+![狗狗 or 拖把？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a44466c5d7356e71a9b78ebba25826832cfded65956f95da95ac6161c17aa61a.png)
 
 首先，必须明确的是，尽管我们现在的技术已经非常先进，但计算机并不具备像人类一样的思考能力。我们能做的是让计算机尽可能地模拟人类的思考方式。因此，要理解计算机的“思维”，我们首先需要了解人类是如何思考的。
 
@@ -34,13 +34,13 @@ toc: true
 
 比如，当我们问你“苹果是什么颜色的？”你可能会回答“红色、黄色或绿色”，你是如何知道这些的呢？其实，你不自觉地运用了归纳法。
 
-![三种颜色的苹果](./07-How-do-you-teach-a-computer-to-recognize-a-puppy.assets/raw-20250413144301710.png)
+![三种颜色的苹果](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d0/d025bade4500e2312eae72999c33f06d71bb170b522c558fae4a4d2ef5a7a895.png)
 
 例如，你去市场买苹果，发现大部分苹果都是红色或黄色的，于是你就总结出苹果是红色或黄色的。为了验证这个结论，你去其他水果店看，发现那里的苹果也是有红的和黄的，这个结论就得到了进一步确认。
 
 然而，如果你去的某个商店看到绿色苹果，你的假设就会受到挑战。你可能会开始怀疑，是商店老板在故意将苹果涂成绿色？为了验证，你会去更多的地方查证，一旦发现很多地方的苹果都是绿色的，你就能确定绿色苹果是真的存在。
 
-![](./07-How-do-you-teach-a-computer-to-recognize-a-puppy.assets/sss.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/60/60a1dd20f2da52f512b84254e11573de2fab7be8741dabfc6cb9c06f955bc404.png)
 
 万一哪天你又看见一颗**紫色**的苹果呢？就继续用这个办法去确认，不断完善自己的结论，这就是归纳法。
 
@@ -56,7 +56,7 @@ toc: true
 
 1. **数据的全面性**：如果计算机只看过几张特定品种的狗狗照片，它可能会做出错误判断，比如把其他物种也认作狗。因此，我们需要给计算机提供更多的样本。什么**哈士奇**呀、**金毛**呀、**柯基**呀，都得有。如下图：
 
-    ![](./07-How-do-you-teach-a-computer-to-recognize-a-puppy.assets/狗狗们.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3a/3ab3afd2981afc01650eea29415401c8b88b793da8a36a503af67ad3bc07b2bf.png)
 
 2. **人工验证调整**：光是提供狗的照片还不够，软件在学习过程中需要反馈，不断地调整自己的判断。例如：如果软件认错了，我们要及时告诉它正确答案，以帮助它改进和调整。只有这样，软件才能变得越来越准确。
 
@@ -68,7 +68,7 @@ toc: true
 
 然而，问题也随之而来。例如，如果你给计算机看一只牛的照片，计算机可能会因为牛也有四条腿而将它错误地识别为狗。为了解决这个问题，我们可以给计算机提供更详细的标准，如“狗不仅有四条腿，还通常体重在10到40斤之间，并且头部没有角，喜欢汪汪叫”。通过增加更多的特征信息，计算机的判断就能更加精确。
 
-![短腿柯基](./07-How-do-you-teach-a-computer-to-recognize-a-puppy.assets/raw-20250413211327578.png)
+![短腿柯基](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/18/189d2ca0707c806a7f7c731c5d09b13c705d3c2c682168306bbc220be2d2ad30.png)
 
 然而，狗的种类繁多，计算机可能会因为没有学到某些特征，而将一些狗种误判为其他动物。例如，柯基的腿短，若计算机没有学习到这一点，它可能会误把柯基当成其他动物。
 

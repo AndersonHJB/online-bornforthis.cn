@@ -229,13 +229,13 @@ https://wuzaowan.com/oauth/qq/callback
 吉ICP备2024018364号-1
 ```
 
-![](./Data.assets/image-20240811084335259.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b649e5fd6c0f82b1dd1ef2228f3e99da546c7653ba31cd563fd51a79e4fcbfa1.png)
 
-![](./Data.assets/image-20240811084452768.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/54/54d43fe930de6d394d87d2ef767a1adf1c3cc0dff4a653c8dd4da933f3e86b37.png)
 
 但显示正在申请：
 
-![等查看具体情况吧](./Data.assets/image-20240811084649462.png)
+![等查看具体情况吧](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/04/04b544f1dc37b0778b39e3ffa8691b08e7eec3de5de6ab44d252e9de4d9e3ce7.png)
 
 :::
 

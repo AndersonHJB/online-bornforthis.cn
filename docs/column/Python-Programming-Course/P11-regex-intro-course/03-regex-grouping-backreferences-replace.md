@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](./03-regex-grouping-backreferences-replace.assets/2916a022a1a881c13db8c21fee6be131.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b5/b5516fd6036e3e4585910905ea56f8f1d8b2840f81bb354c7944a1c25363adb0.jpg)
 
 你好，我是悦创。
 
@@ -26,15 +26,15 @@ toc: true
 
 假设我们现在要去查找 15 位或 18 位数字。根据前面学习的知识，使用量词可以表示出现次数，使用管道符号可以表示多个选择，你应该很快就能写出 `\d{15}|\d{18}` 。但经过测试，你会发现，这个正则并不能很好地完成任务，因为 18 位数字也会匹配上前 15 位，具体如下图所示。
 
-![](./03-regex-grouping-backreferences-replace.assets/a72ad4ccc3eb769562c331f230b9c6b2.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/36/362573473d0cd5e1601e85792e074ff1a47e10c0486fafe5f86aa60d1a777018.png)
 
 为了解决这个问题，你灵机一动，很快就想到了办法，就是把 15 和 18 调换顺序，即写成 `\d{18}|\d{15}`。你发现，这回符合要求了。
 
-![](./03-regex-grouping-backreferences-replace.assets/ba18101e2109df87288d935b5767c83c.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2a/2a9b1bd5b6ad4c00ba5db9932fb8b39c57f034b40439c510d5bbe58d504de14f.png)
 
 为什么会出现这种情况呢？因为在大多数正则实现中，多分支选择都是左边的优先。类似地，你可以使用 “`北京市|北京`” 来查找 “`北京`” 和 “`北京市`”。另外我们前面学习过，问号可以表示出现 0 次或 1 次，你发现可以使用“`北京市?`” 来实现来查找 “`北京`” 和 “`北京市`”。
 
-![](./03-regex-grouping-backreferences-replace.assets/fdb97d69e376306e68c4e36d5ddbf830.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/798781d3430453565b95bef9aa82e705df314ca6fcaac0e365ce27bbb5f87d16.png)
 
 同样，针对 15 或 18 位数字这个问题，可以看成是 15 位数字，后面 3 位数据有或者没有，你应该很快写出了 `\d{15}\d{3}?` 。但这样写对不对呢？我们来看一下。
 
@@ -53,7 +53,7 @@ toc: true
 
 这里有个时间格式 2020-05-10 20:23:05。假设我们想要使用正则提取出里面的日期和时间。
 
-![](./03-regex-grouping-backreferences-replace.assets/87d896f423780c43199222e32c4e428a.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b0/b0477984dd2366c4227a85de422f3041f6c42821f506062a90ebedadb517fdbd.png)
 
 我们可以写出如图所示的正则，将日期和时间都括号括起来。这个正则中一共有两个分组，日期是第 1 个，时间是第 2 个。
 
@@ -65,9 +65,9 @@ toc: true
 
 那到底啥是不保存子组呢？我们可以理解成，括号只用于归组，把某个部分当成“单个元素”，不分配编号，后面不会再进行这部分的引用。
 
-![](./03-regex-grouping-backreferences-replace.assets/d6a3d486a8c575bc1961b7db5a153d18.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ae/ae478b9a49b3f120dc678c4eef85b765f57773fa4d0583c9ed323d18c1d1e8c3.png)
 
-![](./03-regex-grouping-backreferences-replace.assets/4b14f91e4307580bb482c58232c3f1fb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/9953174adfe335b4fc8e11758ef9674087d1f37de38a93a592811af8f9bf58e0.png)
 
 ### 1.2 括号嵌套
 
@@ -75,7 +75,7 @@ toc: true
 
 在阿里云简单日志系统中，我们可以使用正则来匹配一行日志的行首。假设时间格式是 2020-05-10 20:23:05 。
 
-![](./03-regex-grouping-backreferences-replace.assets/083b6a8af68f56f3120b7c8875329340.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/94/94d310d1933114391420d10d1f9bd4d3510635849bb3bc0ba58decde09d0db80.png)
 
 日期分组编号是 1，时间分组编号是 5，年月日对应的分组编号分别是 2，3，4，时分秒的分组编号分别是 6，7，8。
 
@@ -99,7 +99,7 @@ url(r'^profile/(?P<username>\w+)/$', view_func)
 
 我给到了你一些在常见的编程语言中，分组查找和替换的引用方式：
 
-![](./03-regex-grouping-backreferences-replace.assets/c4eef43e2ccf55978b949a194a175594.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2c/2cc73e28a01e0b9d51743e137fa2d0b3880f2a588c6538347111bbb56f6b200e.jpg)
 
 这些内容不要求你完全记住，只要有个印象就好，最关键的是要知道正则可以实现这样的功能，需要用到的时候查一下相应的文档，就知道怎么用了。
 
@@ -107,13 +107,13 @@ url(r'^profile/(?P<username>\w+)/$', view_func)
 
 前面介绍了子组和引用的基本知识，现在我们来看下在正则查找时如何使用分组引用。比如我们要找重复出现的单词，我们使用正则可以很方便地使“前面出现的单词再次出现”，具体要怎么操作呢？我们可以使用 `\w+` 来表示一个单词，针对刚刚的问题，我们就可以很容易写出 `(\w+) \1` 这个正则表达式了。
 
-![](./03-regex-grouping-backreferences-replace.assets/3951b939651d32402e9efe63a83e7de6-20250929200255814.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/eb/ebaee9a225aaf703a46be39c9421c3701371c8b9ee1500ff9db790b9c9a8586f.png)
 
 ## 4. 分组引用在替换中使用
 
 和查找类似，我们可以使用反向引用，在得到的结果中，去拼出来我们想要的结果。还是使用刚刚日期时间的例子，我们可以很方便地将它替换成， 2020 年 05 月 10 日这样的格式。
 
-![](./03-regex-grouping-backreferences-replace.assets/b2465f3f8c50432b622ec8704dc8a214.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f6e00162ff2abd73fd1eafbc6f4ca34b05c00a0a5b6acdd78dc6b23a0cce6788.png)
 
 由于这个例子稍微复杂一些，这里我给出一个[示例链接](https://regex101.com/r/2RVPTJ/2)方便你学习，不知道学到这里，你有没有觉得子组和引用非常强大呢？
 
@@ -124,7 +124,7 @@ url(r'^profile/(?P<username>\w+)/$', view_func)
 2020-05-10 20:23:05
 ```
 
-![](./03-regex-grouping-backreferences-replace.assets/image-20250929200430866.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4a/4a0ee6c3cf27dc293ee421554684d4016ef79c1d4e9fa89286b63206941e9a90.png)
 
 :::
 
@@ -151,17 +151,17 @@ url(r'^profile/(?P<username>\w+)/$', view_func)
 
 下面我以文本编辑器 Sublime Text 3 为例，来讲解正则查找和替换的使用方式。首先，我们要使用的“查找”或“替换”功能，在菜单 Find 中可以找到。
 
-![](./03-regex-grouping-backreferences-replace.assets/e54e9cedb2fe132b206c3eb3ba0fae43.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/06/06d75ddc5e0b672061180beaba919f7415f905d138d49a118fe8c01d134ea53b.png)
 
 下面是对编辑器查找 - 替换界面的图标简介，Find 输入栏第一个 `.*` 图标，表示开启或关闭正则支持。
 
-![](./03-regex-grouping-backreferences-replace.assets/588f3618f31cb91dba29264ea0ab6f05-20250929200608830.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b4/b43bb7322309876fcc19340392f78afac19f3ac739e73c6e48ca8543bf2646cf.png)
 
 ### 5.2 编辑器中进行正则查找
 
 接下来，我们来演示用编辑器查找引号引起来的内容，课程中使用到的文本，建议你用 chrome 等浏览器等，打开极客时间网页版本 [https://bornforthis.cn/](https://bornforthis.cn/)，点击右键查看源代码，把看到的代码复制到 Sublime Text 3 中。
 
-![](./03-regex-grouping-backreferences-replace.assets/image-20250929201109235.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4c/4c9f7f2dcdf129b5f91ec2d8ee1591b2749feb33034ac51c7633242618d3a92b.png)
 
 输入相应的正则，我们就可以看到查找的效果了。这里给一个小提示，如果你点击 Find All，然后进行剪切，具体操作可以在菜单中找到 Edit -> Cut，也可以使用快捷键操作。剪切之后，找一个空白的地方，粘贴就可以看到提取出的所有内容了。
 
@@ -175,11 +175,11 @@ the little cat cat is in the hat hat, we like it.
 
 如果我们要尝试从中查找连续重复出现两次的单词，我们可以用 \w+ 代表单词，利用我们刚刚学习的知识，相信你可以很快写出正则 `(\w+) \1`。
 
-![](./03-regex-grouping-backreferences-replace.assets/dbe5ce11d8968387402bb48b733a5146-20250929201233445.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/42/42f71c4db6c3013fb9204c57fcf13b5041545667daba105b5c1b7934e2b2b8ad.png)
 
 接着点击菜单中的 Find -> Replace，在替换栏中输入子组的引用 `\1` ，然后点击 Replace All 就可以完成替换工作了。
 
-![](./03-regex-grouping-backreferences-replace.assets/ccdbb32b1e41ce365fc7a296feba2699.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/91d72bcc629e56b0a4c4ad91071920cf83abaa83a5aba925eaa0ab33402aa17f.png)
 
 这样，通过少量的正则，我们就完成了文本的处理工作了。
 
@@ -193,7 +193,7 @@ the little cat cat is in the hat hat, we like it.
 
 搞懂了分组的内容，我们就可以利用分组引用，来实现将“原文本部分内容”，在查找或替换时进行再次利用，达到实现复杂文本的查找和替换工作。甚至在使用一些文本编辑器的时候，不写代码，我们就可以完成文本的查找替换处理工作，这往往可以节约很多开发时间。
 
-![](./03-regex-grouping-backreferences-replace.assets/dd29e757e0d4352e06eaee3486d73e99-20250929201340322.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/09/09f5eb55d67731225835998e07db6a12432bd2204026bc3fe2ce0e3e0c88a4b9.png)
 
 ## 7. 课后思考
 
@@ -205,11 +205,11 @@ the little cat cat is in the hat hat, we like it.
 
 > the little cat is in the hat, we like it.
 
-![](./03-regex-grouping-backreferences-replace.assets/97ce94dbc562c7a5e9e9eeb9b9cfeb16.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/da/da17957b05da1e42169e76f48736a37f685b423feefe96b3b4294fec752b9a55.png)
 
 这个题目我给出了相应的地址 [https://regex101.com/r/2RVPTJ/3](https://regex101.com/r/2RVPTJ/3)，你可以直接在网页上进行测试，写入相应的 “正则查找部分” 和 “正则替换部分”，让结果符合预期。多动手练习，你才能更好地掌握学习的内容。
 
-![](./03-regex-grouping-backreferences-replace.assets/image-20250929201524328.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ee/eea214ef70339fe8bb51d9ca5390811a7fff56996113904c2d6e89c677c6cb2d.png)
 
 好，今天的课程就结束了，希望可以帮助到你，也希望你在下方的留言区和我参与讨论。也欢迎把这篇文章分享给你的朋友或者同事，一起交流一下。
 
@@ -243,7 +243,7 @@ the little cat cat is in the hat hat, we like it.
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -259,4 +259,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

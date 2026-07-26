@@ -44,14 +44,14 @@ toc: true
 
 > 进入官网：[https://www.python.org](https://www.python.org/)
 
-![](./Crawler-Speed-101.assets/e3a815f0-c639-11e9-b4ad-67c2145611a6.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/20/20c8f13a291d16421b4bd34eda0d99936b7328a9094035ed58ff00ddfeca5e4a.png)
 
 如图：
 
 1. 选择上方 Downloads 选项
 2. 在弹出的选项框中选择自己对应的系统（注：若直接点击右边的灰色按钮，将下载的是 32 位）
 
-![](./Crawler-Speed-101.assets/f94d77b0-c639-11e9-a81a-91f9bfe6443e.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2f/2f95a023421f795e8c67e8499261fc43656f3a852d239494f2913c92d12c444a.png)
 
 进入下载页面，如图：
 
@@ -62,7 +62,7 @@ toc: true
 
 **安装注意事项**
 
-![](./Crawler-Speed-101.assets/05b4f960-c63a-11e9-99c1-c37abd23c4b1.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cf/cf18603139442ae10ff7ff2435b884fba76eb091e1f652090dc4546954c9456a.png)
 
 （图片来源于网络）
 
@@ -80,13 +80,13 @@ R：控制面板—系统与安全—系统—高级系统设置—环境变量�
 
 安装完 Python 后，Win+R 打开运行窗口输入 cmd，进入命令行模式，输入 python。若如下图显示 Python 版本号及其他指令则表示 Python 安装成功。
 
-![](./Crawler-Speed-101.assets/1b54b5d0-c63a-11e9-a81a-91f9bfe6443e.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/34/34a50353e1002dd271bc9d81243113d1a67fa086a7ed2bce256d48f8078efbd8.png)
 
 #### 1.2 Python 编译器 Sublime
 
 > 官网：[http://www.sublimetext.com/](http://www.sublimetext.com/) 
 
-![](./Crawler-Speed-101.assets/3b086700-c63a-11e9-99c1-c37abd23c4b1.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/8053c280f10697c414a36210679e0929e75241de3dc96933b4e931c3880064a8.png)
 
 选择该编辑器的原因：
 
@@ -98,7 +98,7 @@ R：控制面板—系统与安全—系统—高级系统设置—环境变量�
 
 使用快捷键 Ctrl+B 无法运行结果，可以尝试 Ctrl+Shift+P，在弹出的窗口中选择 Bulid With: Python。
 
-![](./Crawler-Speed-101.assets/5d134ea0-c63a-11e9-b4ad-67c2145611a6.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/88/883cc8675e9506a939d0a2d0aac8731675729b61b53527660d4738e8660bdb18.png)
 
 或选择上方的 Tool 选项中的 Build With 选项，在弹出的窗口中选择 Python。
 
@@ -217,7 +217,7 @@ Mac：
 ```
 C:\机器名\用户名>
 ```
-![](./Crawler-Speed-101.assets/1e4d18d0-c63b-11e9-9c30-490508324244.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/af/af48faeb4dd994297b7b8537980d9ce98ec0fa43160c1b3ce93f649f7c9ea1a4.png)
 
 #### 交互式模式
 
@@ -227,7 +227,7 @@ C:\机器名\用户名>
 
 **2. 提示符：**`>>> `
 
-![](./Crawler-Speed-101.assets/28a2f890-c63b-11e9-99c1-c37abd23c4b1.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9a/9a4c66b7ba3c74b9c5d228abd856dcd61183993c10ecfce8b9f651602d8cec7f.png)
 
 ##### **区别**
 
@@ -256,7 +256,7 @@ Python 中主要的数据类型有：整数（int）、浮点数（float）、�
 
 与数学中整数概念一致，共有 4 种进制表示：二进制、八进制、十进制和十六进制。默认情况，整数采用十进制。
 
-![](./Crawler-Speed-101.assets/39b6eb50-c63b-11e9-b4ad-67c2145611a6.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/47/471ac63868268ed252b1a280fd7e4b2b25ee598316b94e5a2bbbd9642f49947e.png)
 
 （图片来源于网络）
 
@@ -563,7 +563,7 @@ a=1+1  #这里a就是一个变量，用来存储 1+1产生的2
 
 #### 拓展
 
-![](./Crawler-Speed-101.assets/e992c170-c63b-11e9-b4ad-67c2145611a6.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4e/4e2f5d1bdaa4c548735db5c0aed260df1bf0aefded421132ae29db403d3db4f9.png)
 
 是不是觉得很奇妙？`b=a` 按理说 a 变了，b 也应该跟着变呀！
 
@@ -692,13 +692,13 @@ words = file.read()
 
 我要了解其中的的**一级域名、二级域名**即可。如下图： 
 
-![](./Crawler-Speed-101.assets/095d4420-c57a-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d42ecc957a4c4a604cb35d97fed73a8bc095a7b5e74b50cb03b79205689fea48.png)
 
 （图片来源于网络）
 
 那网址参数是上面网址的哪一部分呢？**思考一下，再继续往下看。** 
 
-![](./Crawler-Speed-101.assets/1611d460-c57a-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/de/def787a9d518e59c22857363236cc6079135917ed1b07c1aea2173e14bc89c9e.png)
 
 （图片来源于网络）
 
@@ -726,7 +726,7 @@ words = file.read()
 
 #### 前端三个重要方面
 
-![](./Crawler-Speed-101.assets/27f15480-c57a-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/75cab233335bc350dfc2c7206ed98468a0b3eb8ac3de8ac85d7d7598eb4f66c9.png)
 
 （图片来源于网络）
 
@@ -740,7 +740,7 @@ words = file.read()
 
 下图右边的对应的就是 HTML： 
 
-![](./Crawler-Speed-101.assets/4c579140-c57a-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d3/d3fe201329de53233c27479c63edbded1e5e8114db92845b470a032726dd7810.png)
 
 这部分前端，需要你自行敲打体验：
 
@@ -770,7 +770,7 @@ words = file.read()
 
 浏览器打开结果： 
 
-![](./Crawler-Speed-101.assets/5a5fa390-c57a-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2a/2a989b004e1f82a21e344d3090b01c07ac6c9cb921453f5a1ee1dab10680182a.png)
 
 上述示例中的 `<html></html>`、`<title></title>` 等，只要是用 `<>` 包裹住的元素，都可以认为是 HTML 的“标记标签”。需要注意的是，“标题标记” 一般都有开始标记和结束标记，普通的标题标记，一般以 `<标签>内容</标签>` 这样进行使用。接下来我们详细的解释一下上述示例中的“标记标签：[1]
 
@@ -785,17 +785,17 @@ words = file.read()
 
 #### head 和 body
 
-![](./Crawler-Speed-101.assets/6c8a0f60-c57a-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9e/9e10c42f69d588c48a8e712ab89c3f0d0ca4f7e4f0e014d32bce49d11fff3797.png)
 
-![](./Crawler-Speed-101.assets/7569c9e0-c57a-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f2/f2c50f39a2fb97bac0df7a1ea39a7fa820bc407d3537b49a3f795eb5097445a1.png)
 
 ### 4.7 HTML 元素解析
 
-![](./Crawler-Speed-101.assets/b2272ea0-ca1f-11e9-bd50-998f3938aecb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/037cb99c3443729c881922672dbca311f9c5dc9abf8c1b0c684220a8d93ff4d2.png)
 
 #### 常用 HTML 标签
 
-![](./Crawler-Speed-101.assets/328a80a0-ca21-11e9-bd50-998f3938aecb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/45/4553fd4899436b3a3a5a8e5a6a67a25fdacdc93070a266a154087abb65d7e426.png)
 
 #### CSS 简介
 
@@ -818,7 +818,7 @@ CSS 指层叠样式表（Cascading Style Sheets）：它定义了一个网页该
 
 上述的两个段落，经过浏览器的渲染后，显示的结果如下： 
 
-![](./Crawler-Speed-101.assets/bd9a0360-c57a-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0c/0c3dc79210a72741a1896ddc1171cdec6a78157de0fea7da0bd15c5ce7a19924.png)
 
 **内部样式表**
 
@@ -852,14 +852,14 @@ CSS 指层叠样式表（Cascading Style Sheets）：它定义了一个网页该
 
 #### CSS 解析
 
-![](./Crawler-Speed-101.assets/95ea9840-ca1e-11e9-8c9c-71bdf4cf60f5.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2e/2e4ae2b5b501fc8cf45b76921705508db5011ba8762f1c5b86103be238733545.png)
 
 - **id** 在每个 HTML 中只有一个
 - **class** 可以有多个
 
 **盒子模型**
 
-![](./Crawler-Speed-101.assets/d4593990-c57a-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a4b1e3bdbb5452ff1cee0bf76061d892f10442c5e1a0c0835753ecc9214464cf.png)
 
 （图片来源于网络）
 
@@ -873,7 +873,7 @@ CSS 指层叠样式表（Cascading Style Sheets）：它定义了一个网页该
 
 首先，我们先了解一下什么是互联网：
 
-![](./Crawler-Speed-101.assets/df063a00-c57a-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f519cbcbc5587afa4f3dcda3155102999e5a01df5c943e1ad4f5f316c49e996d.png)
 
 **什么是互联网？** 
 
@@ -903,15 +903,15 @@ CSS 指层叠样式表（Cascading Style Sheets）：它定义了一个网页该
 
 为了让你有更好的体验，我把字转换成一张图片给你演示看下图： 
 
-![](./Crawler-Speed-101.assets/ede683e0-c57a-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f7/f768ce51acf7ae61be6620fd1acb818fb5550871df59b0918a59b42f99b25847.png)
 
 #### 什么是 Request 和 Response？
 
-![](./Crawler-Speed-101.assets/f78325c0-c57a-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f63883b3bbc96712993a5f38ebd253f8d28f9e1e3858750ccda34b1147591fe6.png)
 
 #### Request 中包含什么？
 
-![](./Crawler-Speed-101.assets/01b529d0-c57b-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/48/484f773af9148842ef6b0fe61d06cf0a871045284e038caaf639a0ebe524e597.png)
 
 请求方式
 
@@ -926,11 +926,11 @@ GET 与 POST 请求方法有如下区别：
 
 POST：
 
-![](./Crawler-Speed-101.assets/1115a030-c57b-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/69/696f06372c08a01fdb6fe53e5bc57ea8f971fe41f9e2304ecf1977c293c25aab.png)
 
 GET：
 
-![](./Crawler-Speed-101.assets/19dd8cf0-c57b-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e5/e5d2e7aa31c92064a32e995cb569e8ff3fd4fa696d802b4bc3cb48d37151474a.png)
 
 这里以 GitChat 网站（https://gitbook.cn/）来演示操作流程：
 
@@ -938,11 +938,11 @@ GET：
 
 接下来，我们来看一下动图演示：
 
-![](./Crawler-Speed-101.assets/40d941a0-c57b-11e9-8902-0768cce71061.gif)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ff/ffd795b5c4d1debf1c99073070f9d8410e2bc616d96ebe176178a55304d8d0bd.gif)
 
 #### Response 中包含什么？
 
-![](./Crawler-Speed-101.assets/83eff060-c57b-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e8/e8c1e9927af898a16024f8b813f0fff70e589dfce8d28364856fba6b563ae49c.png)
 
 **1.  请求 URL**
 
@@ -1068,7 +1068,7 @@ pip3 install requests
 
 ### 一个简单的例子
 
-![](./Crawler-Speed-101.assets/99453650-c57b-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2b/2b4eb56cadc91457275e5e7c55c43481d4f667612f028b17998abc5e6c6933e5.png)
 
 - status_code：状态码
 - encoding：编码方式
@@ -1076,11 +1076,11 @@ pip3 install requests
 
 输出结果：
 
-![](./Crawler-Speed-101.assets/a387dc30-c57b-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/48/4880d92bfc8ef5a7011d915216138242a0380edfc43cf1c39b3d007e2d45bfd7.png)
 
 ##### **状态码**
 
-![](./Crawler-Speed-101.assets/ac73a4a0-c57b-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/40/4076e3adc557c84be39d21e48737baeee99932097518566818403702a6e01339.png)
 
 #### Cookies
 
@@ -1096,7 +1096,7 @@ pip3 install requests
 
 Requests 库提供 HTTP 的所有基本请求方式：
 
-![](./Crawler-Speed-101.assets/b81b58c0-c57b-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3b3c559aa89c337e1b7abc83d58e17b62a29c07de1cce3fd15d4e7f2d55b3d99.png)
 
 主要讲基础 GET 请求。
 
@@ -1104,21 +1104,21 @@ Requests 库提供 HTTP 的所有基本请求方式：
 
 可利用 params 参数：
 
-![](./Crawler-Speed-101.assets/c68e13c0-c57b-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/21/21a740e91d446cde5b75fb77864c21ba1a30fb15ab8e3c4edb8ff4a0e5418634.png)
 
 输出结果：
 
-![](./Crawler-Speed-101.assets/cf79dc30-c57b-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/50/50b63e428b4bb7d2ac109e675e046be92607e440e99084ca36d9a447c37e4bda.png)
 
 **POST 请求**
 
 利用 data 参数 为 POST 添加参数：
 
-![](./Crawler-Speed-101.assets/d8513240-c57b-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ae/aec70d3fd03ac2cbe019b7e0c9447add71459df41f3fdfc6cd3b782479777625.png)
 
 上传文件： 
 
-![](./Crawler-Speed-101.assets/e4529f20-c57b-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6d/6d07a0d2266e337edd05675ae4921485a4a96a2d699517b561073785e83849bc.png)
 
 **获取/发送 cookies** 
 
@@ -1179,7 +1179,7 @@ requests.get('http://www.baidu.com', timeout=0.001)
 
 * Requests 在互联网上拥有丰富的学习资源。在百度上搜索“Requests 爬虫”关键字，一共有千万多条搜索结果。这意味着 Requests 的相关技术已经比较成熟。特别对于初学者而言，一个具有丰富学习材料的内容，能够减少学习中的“挖坑”次数和“掉坑”次数；
 
-    ![](./Crawler-Speed-101.assets/169c7640-c57c-11e9-a915-7715b604f4bb.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/52/52626e066f58fac9e984cd21d6e28c6f5b83066c928558c40fe3a5d9d0c7e293.png)
 
 *   Requests 官方提供中文文档。这对于新人，尤其是英语能力还不是很好的新人来说，是最好的资源。官网文档提供了详细而且非常准确的函数定义与说明。如果开发过程中出现了问题，百度、Google、Stack Overflow……所有的搜索方法都试过，但是都不能解决问题的时候，翻阅官方文档是最稳妥，而且是最快捷的解决方案。
 
@@ -1215,13 +1215,13 @@ print(web_info)
 
 运行： 
 
-![](./Crawler-Speed-101.assets/23a8c370-c57c-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a8/a823a7f65bb3fecb27b7eadf70775143227388f1f0616b8e936d60ef2abf3784.png)
 
 #### 定制请求头
 
 什么是请求头呢？HTTP 请求头，HTTP 客户程序（例如浏览器）向服务器发送请求的时候必须指明请求类型（一般是 GET 或者 POST）。如有必要，客户程序还可以选择发送其他的请求头。上面我们有提到过，我们一般写爬虫都会写这个，可以理解成你得给你的爬虫穿一件衣服，总不能直接“裸奔”到人家网站吧。 
 
-![](./Crawler-Speed-101.assets/2e596d60-c57c-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c7/c7224b7934216266d968b2c4b1a7cdb702aafea2b9ecf2019e0158ce66fbdc12.png)
 
 上图就是一个典型的请求头。在 Request 中，我们可以很方便地构造自己需要的请求头。代码如下：
 
@@ -1259,19 +1259,19 @@ pip3 install lxml
 pip3 install beautifulsoup4
 ```
 
-![](./Crawler-Speed-101.assets/3b608a70-c57c-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/55/55e9faec7a3d52ba9a9900afb3336eecc72e3293b78f6176f1cfce3b3ff40f61.png)
 
 （图片来源网络）
 
 注意如何导入时的模块名称：
 
-![](./Crawler-Speed-101.assets/578ff6e0-c57c-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c1/c12ae76a5aa1a1dd2bf26f726c1ba787fe461e3c26426a6dea891aa72104d0eb.png)
 
 我们需要的是 bs4 里的 BeautifulSoup 模块。
 
 一个例子：`prettify()` 格式化输出
 
-![](./Crawler-Speed-101.assets/63e417a0-c57c-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/28/28bb1828065e97b9f4def6b69d65a43add4f6ee22d5d78eec055ba657b00936a.png)
 
 #### BeautifulSoup 快速开始
 
@@ -1323,7 +1323,7 @@ title = soup.title
 
 上述代码是获取网站的标题。运行后得到的结果是： 
 
-![](./Crawler-Speed-101.assets/74511c00-c57c-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/67/67cbdd3995530f0ff336413243668db8fc171193802c16d526a1340d1ae7a35a.png)
 
 Bingo！我们可以直接通过 soup.tag 获取对应的 HTML 中的标签信息！
 
@@ -1334,7 +1334,7 @@ Bingo！我们可以直接通过 soup.tag 获取对应的 HTML 中的标签信�
 <meta name="description" content="糗事百科是一个原创的糗事笑话分享社区,糗百网友分享的搞笑段子、搞笑图片大全,都是糗友最珍贵的开心经历,爆笑糗事笑话只在糗事百科！"/>
 ```
 
-![](./Crawler-Speed-101.assets/848499d0-c57c-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/23/23ba40f19d6bd1c58649eaba1acf0ca9f46a13234557426209ade781637a9768.png)
 
 一般来说，description 和 keywords 是一个网页的关键信息之一。具体的，如果你只是想获取这个网页的大概内容，那么我们可以直接获取这两个标签中的信息就可以了。我们可以运行如下代码：
 
@@ -1355,7 +1355,7 @@ print(keywords)
 
 运行结果： 
 
-![](./Crawler-Speed-101.assets/8e826e80-c57c-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d3/d3192fb476e23950732dfd071fa59853a21aa47fdb67e00b62702345b492b4a0.png)
 
 你会发现上面获取到的内容是都带有标签的。 
 
@@ -1363,7 +1363,7 @@ print(keywords)
 
 希望你可以自行敲这些代码感受感受： 
 
-![](./Crawler-Speed-101.assets/98c7fa90-c57c-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e6/e6bc24eda4cbbd9f7b6f14b3c3075ca8bd3301a2c232ba749678f4a69bffa779.png)
 
 - attrs：获取标签的元素属性
 - get() 方法：获取标签的某个属性值
@@ -1381,7 +1381,7 @@ soup.a['title'] = "a new title"
 ```
 NavigableString 获取某个标签里面的内容：
 
-![](./Crawler-Speed-101.assets/aeb9f5b0-c57c-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/70/7003fc5dc40ad984d8d002347a4baec67e570308269df2a01bfa4edc792324de.png)
 
 由上面的代码你可以看到，既然能够获取到标签，那么如何获取标签的内容呢？很简单，细心的小伙伴肯定能发现我上面加了 string 就可以啦！
 
@@ -1389,19 +1389,19 @@ NavigableString 获取某个标签里面的内容：
 
 Comment 对象是一个特殊类型的 NavigableString 对象，但是当它出现在 HTML 文档中时，如果不对 Comment 对象进行处理，那么我们在后续的处理中可能会出现问题。**HTML 中可以用来添加一段暂不通过网页渲染出来的内容**。
 
-![](./Crawler-Speed-101.assets/b6b2ab90-c57c-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d7/d768cea08ff8168bc2292e96be5ae55b31e26ef5be2ab11068a8f3e7ec527854.png)
 
 接下来我们来观察这个 HTML：
 
-![](./Crawler-Speed-101.assets/bf9a0730-c57c-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b8/b89db120a06189ee68d7ca94b08f0d79184baadd1ad6b902406f4f6794cbb757.png)
 
 做出如下操作： 
 
-![](./Crawler-Speed-101.assets/cd160620-c57c-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dd/dd744ac17e1ef4d4c06645748fb4bf8ecc6d58c459cb7c191edc95e57b4e7226.png)
 
 我们来看看输出结果是： 
 
-![](./Crawler-Speed-101.assets/d3a281d0-c57c-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e1/e1147d9121b7a524245e2cd6b93da4740f4a6f23ab7ae8399396acf39f63bbd4.png)
 
 我们会发现其中，有个 comment。
 
@@ -1417,11 +1417,11 @@ print(soup.attrs)
 
 **文档树——直接子节点**
 
-![](./Crawler-Speed-101.assets/33386ab0-c57d-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/92/9240ae5a53e79ea792b981f7582cbff4ba06819d4271a53541f30076465161bb.png)
 
 注意观察 `.contents` 和 `.children` 的区别。
 
-![](./Crawler-Speed-101.assets/ae822760-c57d-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/49/49431dd0727701ac4dd23a296706854241a9755313fe15e44a305174ed59cd84.png)
 
 希望大家认真观看上面的脑图。
 
@@ -1429,7 +1429,7 @@ print(soup.attrs)
 
 `.descendants` 把某个标签内的所有子孙节点都列出来，可以通过 for 循环来进行处理：
 
-![](./Crawler-Speed-101.assets/d17cc630-c57d-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ba/ba2ab77b49a58bfae926a8838bed266b178d8e3d82cc5446b082da4cea27b7eb.png)
 
 **文档树——节点内容**
 
@@ -1443,7 +1443,7 @@ print(soup.attrs)
 
 `.strings` 或者 `.stripped_strings`：
 
-![](./Crawler-Speed-101.assets/dd053280-c57d-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/10/10c6e582d565c59d7679523012212bc9f03747af1b15497bb2b901c541e9b3c5.png)
 
 `.strings` 与 `.stripped\_strings` 区别：`.stripped\_strings` 可以去除多余空白内容。
 
@@ -1466,7 +1466,7 @@ find_all() 里可以直接填的参数：
 
 > find_all (标签内属性名 = 属性值)
 
-![](./Crawler-Speed-101.assets/e98b5fc0-c57d-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b9714a3ea16340be495f10ba5081b4be170a7d7197877c9c3690fdfb1beedc6f.png)
 
 如果要找 class 请注意写成 class_ 因为 class 是 Python 自带的关键词。
 
@@ -1509,9 +1509,9 @@ soup.select() 筛选元素, 返回的是 list
 
 我们要爬取这个网站的文字笑话。
 
-![](./Crawler-Speed-101.assets/6e074740-c57f-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/68/68aa47c7056d9b99a5427c4e1e13b5eea675519ab1ea677bfd09215dc48cf989.png)
 
-![](./Crawler-Speed-101.assets/7a65ef50-c57f-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/20/20051d664e128d255dd5256f46db647a78b108f40dbc8cf342874aca83c40902.png)
 
 这里的一条条笑话，就是我们要爬取的内容。
 
@@ -1527,7 +1527,7 @@ soup.select() 筛选元素, 返回的是 list
 
 一个小知识点： 
 
-![](./Crawler-Speed-101.assets/8bd01860-c57f-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8f/8fbb811eb486ff67f7c6bf8e63a69cfd00becb2cb59532f589c60a3b48326e5f.png)
 
 基础操作运行如下代码：
 
@@ -1548,11 +1548,11 @@ for page in range(1,2):
 
 Sublime Text3 运行代码的快捷键是 Control + B： 
 
-![](./Crawler-Speed-101.assets/98d4c470-c57f-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f9/f9927a6b41bbcd4239ff7a076bd2faaf73c4d284b3758e63c8c19c0f922b600c.png)
 
 **2. 用 select() 函数定位指定的信息** 
 
-![](./Crawler-Speed-101.assets/a97b4f60-c57f-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/af/af341c74888893a87014a515aef24915347a43bd3935732cc5f11ae11ebd417a.png)
 
 如上图所示，我们想要爬取右上角的“这个笑话内容”，该怎么操作呢？
 
@@ -1566,7 +1566,7 @@ laugh_text = soup.select('#qiushi_tag_122135715 > a > div')
 
 使用 `.select()` 方法可以帮我们定位到指定的 Tag。那么，我们该如何确定这个指定的位置呢？让我们看一下 GIF 图片吧！ 
 
-![](./Crawler-Speed-101.assets/c27a1550-c57f-11e9-8902-0768cce71061.gif)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/33/33663e4187883aee5689395718d40fc62df0543b8be60ae4a65bf754b417767f.gif)
 
 具体地，我们首先将鼠标放在所要定位的文字上，接下来，进行如下操作：
 
@@ -1600,7 +1600,7 @@ for page in range(1,2):
 
 我们来运行试一试： 
 
-![](./Crawler-Speed-101.assets/0ab23e10-c580-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c0/c04a05413babba1e15ed4c91941fde1ab0ec38d5d1324754b125e85973e906b3.png)
 
 如果只想得到 Tag 中包含的文本内容，那么可以用 get_text() 方法，这个方法获取到 Tag 中包含的所有文版内容包括子孙 Tag 中的内容。
 
@@ -1626,7 +1626,7 @@ for page in range(1,5):
     # print(title)
 ```
 
-![](./Crawler-Speed-101.assets/547af1e0-c580-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1d/1de6ce190c6734563033501d2880b704d1f4c16553b756b62cb46706b7664556.png)
 
 当然我们还可以直接用 text、strings、stripped_string，都是可以的。
 
@@ -1659,7 +1659,7 @@ for page in range(1,5):
 
 ## 七、爬虫专用库 Scrapy 基础
 
-![](./Crawler-Speed-101.assets/655a6720-c580-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9c/9c6a2a9162954ae3fc5b0b5c618416e33c9ed8fbc3a41181ad96ffa012dec360.png)
 
 （图片来源于网络）
 
@@ -1667,7 +1667,7 @@ for page in range(1,5):
 
 #### Scrapy 原理介绍
 
-![](./Crawler-Speed-101.assets/6faaefb0-c580-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f6101b9b718849f3f32d99630fa89cb824ca28d1a56891fe94d9388a7d52150f.png)
 
 （图片来于网络）
 
@@ -1745,7 +1745,7 @@ pip install lxml
 
 > [https://pypi.org/project/pyOpenSSL/#files](https://pypi.org/project/pyOpenSSL/#files)
 
-![](./Crawler-Speed-101.assets/85a3a190-c580-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bf/bf6e68eaad6878ad16f49422352abc7eb7d7efa08a0247536ae77ab988009fe3.png)
 
 ```cmd
 pip intall 刚刚下载的文件名称
@@ -1755,7 +1755,7 @@ pip intall 刚刚下载的文件名称
 
 > [https://www.lfd.uci.edu/~gohlke/pythonlibs/#Twisted](https://www.lfd.uci.edu/~gohlke/pythonlibs/#Twisted)
 
-![](./Crawler-Speed-101.assets/8fafa710-c580-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bf/bfedcbdce445aa68de8666db38807a8a23502823ec4e8afbd5802332264599c4.png)
 
 该页面的版本会有更新，注意选择适合版本即可！
 
@@ -1785,11 +1785,11 @@ pip install scrapy
 scrapy startproject tutorial
 ```
 
-![](./Crawler-Speed-101.assets/c9210160-c580-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f2/f234307443d8e26196f218739ae53d144f22a7542e2610903ed3e2a966d1196c.png)
 
 #### 目录结构
 
-![](./Crawler-Speed-101.assets/d2759dc0-c580-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/756c2dee60f44de9c94fdbde93f00ad3b508f73df18b5b6014d29241a8a10787.png)
 
 准备工作做完了，咱们该做咱们的正题啦。
 
@@ -1799,7 +1799,7 @@ scrapy startproject tutorial
 
 进入网址查看一下：
 
-![](./Crawler-Speed-101.assets/ddd8a7c0-c580-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/754bc8fcc297378dc462ca2bda1ac5f4c8e89312d1a64bc64f2db9bcde6fea92.png)
 
 首先，咱们当然可以用前面爬取实习僧的方法爬取啦，直接上代码：
 
@@ -1835,7 +1835,7 @@ for index, page in enumerate(range(1,6)):
 
 这个部分留给个小扩展，试一试接到百度翻译 API 把获取的的数据直接翻译！
 
-![](./Crawler-Speed-101.assets/ecafc9e0-c580-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b9e7160c16e939d9985f5b877599b2d40a47ab580a72c49dea7011e5815149a5.png)
 
 接下来我们用 Scrapy 来试一试。
 
@@ -1858,29 +1858,29 @@ scrapy genspider quotes quotes.toscrape.com
 2. 第一个参数是 Spider 的名称，第二个参数是网站域名。
 3. 执行完毕之后，Spider 文件夹中多了一个 quotes.py，它就是刚刚创建的 Spider，内容如下：
 
-![](./Crawler-Speed-101.assets/0262e740-c581-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cf/cf98513972a43eefc2200d339bd38a4a1839874c9004a8d61d1932aecdc1d1e4.png)
 
 点进去看看：
 
-![](./Crawler-Speed-101.assets/0a75dbe0-c581-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/dfdfac8683e3560b74678ecf09a0f51673ca13129eec8fa47489704c19f5619e.png)
 
 咱们来解析一下生成的每一部分内容：
 
-![](./Crawler-Speed-101.assets/14b1cb00-c581-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0d/0df7377a45ce39af71d750a46abafb4bbf18dfd1c40044e2287f0569f8cbbd6a.png)
 
 start_requests 的快捷方式：
 
-![](./Crawler-Speed-101.assets/1e22a1f0-c581-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/07/0780253ab41687cc9c98f09966ba22a2d9244297fd7a6c250683aa5b8ad53343.png)
 
 page：获取页码
 
-![](./Crawler-Speed-101.assets/266ea7f0-c581-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/14/14f4c7b68a03a9c9256285808ef4a9fa281979dc0a03d25ce637fb21c54210c6.png)
 
 数据抓取之后自然会有数据的存储，这里就顺带讲一下数据的存储方式。
 
 #### Python 中的文件储存
 
-![](./Crawler-Speed-101.assets/3df4d7a0-c581-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/49/4908b59552853b5e793a7a909bccaf8abeddc97fc8358168f41575904bd302d2.png)
 
 Python 文件使用“wb”方式打开，写入字符串会报错，因为这种打开方式为：以二进制格式打开一个文件只用于写入，如果该文件已存在则将其覆盖，如果该文件不存在，创建新文件。
 
@@ -1895,7 +1895,7 @@ fh.write("汉字".encode('UTF-8'))
 
 接下来我们来定义一个函数 start_requests 如下： 
 
-![](./Crawler-Speed-101.assets/4d3060e0-c581-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1e/1ee7c434cf8d7a350ccc321d1ab9709d99f8a0e20b04f424ef3a7f2119312955.png)
 
 - 图中的 yield：首先，如果你还没有对 yield 有个初步分认识，那么你先把 yield 看做“return”，这个是直观的，它首先是个 return。普通的 return 是什么意思，就是在程序中返回某个值，返回之后程序就不再往下运行了。看做 return 之后再把它看做一个是生成器（generator）的一部分（带 yield 的函数才是真正的迭代器）。好了，如果你对这些不明白的话，那先把 yield 看做 return。
 - callback ：回调。
@@ -1912,11 +1912,11 @@ fh.write("汉字".encode('UTF-8'))
 scrapy crawl quotes
 ```
 
-![](./Crawler-Speed-101.assets/5a0d87c0-c581-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6d/6d8a4334b2fa1f87ba92200964e32d7ab786664e740c3a5444b1a86261bebbc8.png)
 
 输出的下半部分： 
 
-![](./Crawler-Speed-101.assets/615defb0-c581-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/910de45e7e3fe47d78d22de807389b1ab712cc645b6ab800c80e200542859647.png)
 
 
 
@@ -1924,9 +1924,9 @@ scrapy crawl quotes
 
 观察我们的根目录，发现了两个新文件 HTML：
 
-![](./Crawler-Speed-101.assets/6e25b9d0-c581-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/84/84a966f4ce24cab99642fca27e56de646f48771aad02923a3d6bd36513cb5c25.png)
 
-![](./Crawler-Speed-101.assets/7a2fd940-c581-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5d/5dad80fb09a33a47ef25cc171cab8944200ed37914b358d51c12cf84f2fb80e0.png)
 
 刚刚得到的是整个网页的 body。现在，我们可以用如下代码：
 
@@ -1940,33 +1940,33 @@ scrapy shell "http://quotes.toscrape.com/page/2/"
 - 在根目录下输入
 - 网址必须用双引号括起来，不能用单引号，否则会报错：
 
-![](./Crawler-Speed-101.assets/84023120-c581-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d2/d246699ce6340e4fe6844efb24c21df44bd122b6dc5d38094c5a1f6a975ff84b.png)
 
 正确输入之后的结果：
 
-![](./Crawler-Speed-101.assets/9b39a490-c581-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d6/d692bbc12cccc64820c4db85b85aafa75fb15621c42ffddc30d5ba858a567959.png)
 
 进入交互模式之后，提取数据：
 
-![](./Crawler-Speed-101.assets/a58a0610-c581-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/90/903c446b33209000e90623d8580952040a69023dff7fed6db3178bb354d4e713.png)
 
 response 是通过 Scrapy 直接爬取到的网页内容，response.css(‘title’) 得到一个 CSS 选择器结果。
 
 提取其中的内容：response.css(‘title’).extract() 将 HTML 元素提取出来：
 
-![](./Crawler-Speed-101.assets/ae91e200-c581-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dd/dd7fc2ffcb0258e0a22bbd658f2e3d25754581ba6899d04e385f4550290763cf.png)
 
 .extract() 返回的是一个列表，而只想处理第一个结果：
 
-![](./Crawler-Speed-101.assets/b7759420-c581-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/13/138b23ae87d762cc33e65de4025cc25a9ef0ae78d41c2926cb3ccc3bfa7c8562.png)
 
 > 必知必会：除了 CSS，Scrapy 选择器还支持 Xpath。
 
-![](./Crawler-Speed-101.assets/c08167b0-c581-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/33/33dc7f5f053c597ff3048abaf8ba6ed9e27adae4ca18788943213cd19c7bdc08.png)
 
 ###### **提取数据**
 
-![](./Crawler-Speed-101.assets/ce2ba290-c581-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fb/fbfd3b9b80df06a873462dd7a2d438a58be2b3ede376899ed59b5343525c3f73.png)
 
 我们先提取 `class="quote"` 的，div 可以省略不写。代码如下：
 
@@ -1981,23 +1981,23 @@ response.css("div.quote").extract()
 # extract() 提取实际的内容
 ```
 
-![](./Crawler-Speed-101.assets/d973aa80-c581-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f5dc2056827dbf6118f44e1a176131dd888ff86507e34b54b435ab8e7d72d11b.png)
 
 > 注意：两个冒号 text >>> ::text >>> 作用是把这个元素的文本提取出来。
 
 没有加 `::text`
 
-![](./Crawler-Speed-101.assets/e5d9a590-c581-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/64/64a600c22f13da2d988bf0e9bd02ea0014dca41f9772ba6fc16917dec2517d00.png)
 
 有加 `::text`
 
-![](./Crawler-Speed-101.assets/eec8f070-c581-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/741997fedf37db8de603cb737fb9d3bb764429b4a250143e34ecdd731030dfaa.png)
 
 由以上分析可知，加上 `::text` 可以得到纯文本的内容，而没加 `::text` 得到的是带标签的文本内容。以下操作示例，认真观察并学会自己直接总结。 
 
-![](./Crawler-Speed-101.assets/f8f5c460-c581-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/61/61ddafbda72bcbce4408fb6db5047655b37449c676c9dd02ac0c504343fbc387.png)
 
-![](./Crawler-Speed-101.assets/01bffb10-c582-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a98aca786a73c303bc6f4f092f87c8a43459342d82969a4c194d1348c075be84.png)
 
 #### 提取 Quote 并储存到 TXT 文件
 
@@ -2065,7 +2065,7 @@ class QuotesSpider(scrapy.Spider):
 scrapy shell "Url"  # 这个 Url 就是scrapy爬取的网址 
 ```
 
-![](./Crawler-Speed-101.assets/1026f640-c582-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/37/3740341ae3658b8f497ed1904581435e78f0f071823f59ca66dbf1de7a51bc26.png)
 
 我们来简单分析一下。
 
@@ -2077,7 +2077,7 @@ response.css('.text')
 
 得到数据： 
 
-![](./Crawler-Speed-101.assets/2390e6f0-c582-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e5/e56d2f51dcba13f569c9cfbfcffa95ae9bc8b6210656d1d4c94753d123e5a108.png)
 
 分析：
 
@@ -2093,7 +2093,7 @@ response.css(".text").extract()
 
 输出示例： 
 
-![](./Crawler-Speed-101.assets/2f4d82a0-c582-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f4/f4e138d83c6cdfe4fa10c8a74ab89474af557b6e3db260b1730de906a1841a43.png)
 
 我们只要这个列表的第一个元素有两个方法。
 
@@ -2126,7 +2126,7 @@ response.css(".text").extract()[0]  # 获取列表0号为元素
 
 两种方法的运行过程：
 
-![](./Crawler-Speed-101.assets/3a91ba00-c582-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/96/96d2d539278dbd145757448ee1a6d7c9545b21a164df2c360067cd5ba28f072b.png)
 
 但是，到这一步你会发现不管是方法一还是方法二，通过 `response.css(".text").extract_first()` 或者是 `response.css(".text").extract()[0]` 得到的数据是带有 span 标签的！
 
@@ -2134,7 +2134,7 @@ response.css(".text").extract()[0]  # 获取列表0号为元素
 
  使用 `::text`：
 
-![](./Crawler-Speed-101.assets/42073620-c582-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/33/332fb60655afd6161851b3838bcab0f8f7aca15b59099301042a552b3a595e1a.png)
 
 这时我们发现，列表中得到的是文本了，数据类型当然是列表，里面是字符串组成的每一个元素。
 
@@ -2150,49 +2150,49 @@ response.css(".text").extract()[0]  # 获取列表0号为元素
 
 1\. 让我们一起提取 Quote 和内容
 
-![](./Crawler-Speed-101.assets/4b7219a0-c582-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/56/569b9b10074f13846e031e51d1d0dd74daf0327eed1b9fdbfcf7e7476a0eb154.png)
 
 运行示例： 
 
-![](./Crawler-Speed-101.assets/53253b00-c582-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/30d6ee1fa0b0177107db52011526e98b504a8e02328ba089e982229630d34f01.png)
 
 那我们直接提取 text 文字。
 
 原网页分析： 
 
-![](./Crawler-Speed-101.assets/5c152220-c582-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8e/8eaaa6758fe5f9e7345d925530af6fb18a29394ac5357584182f26269ffca049.png)
 
 > 注意：div 可以省略不写。
 
 运行示例：
 
-![](./Crawler-Speed-101.assets/62825600-c582-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/52/52ad60a96acefc671664e778492f85774fd6121671f74b72ce181a446115b36f.png)
 
 2\. 让我们一起提取作者信息
 
 一样的步骤，先分析网页源码：
 
-![](./Crawler-Speed-101.assets/6b63be30-c582-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ff/ff1c6053a7e628cccfa436a57468d3cdc92963e63e20422bbc32656642348965.png)
 
 运行示例： 
 
-![](./Crawler-Speed-101.assets/72d590d0-c582-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/23/23e17235d68aa04423d17e3f3dfc4e42ef7490766b2a319b183fd9b108e8a292.png)
 
 3\. 提取对应的 tag
 
 也是先分析网页：
 
-![](./Crawler-Speed-101.assets/7b8588c0-c582-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/46/466645ef166c1fb31e5818c1b7137d9e89503315ed165581ab2d6f46c97ac65f.png)
 
 运行过程（当然，可以把 CSS 选择器简写，这里我为了让零基础的更加容易理解）：
 
-![](./Crawler-Speed-101.assets/8e0c4560-c582-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/32/323eba7ea8daed3785f37e01074c690b791d699a580bc2e1e361af9f6e70f9d6.png)
 
 当然，还能这样操作： 
 
-![](./Crawler-Speed-101.assets/b34e6330-c582-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6e361427cf1cad7c15fb19c6d4e6570c14c6aa035bb7bbc88581dba550037e84.png)
 
-![](./Crawler-Speed-101.assets/b9ebced0-c582-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d6/d62662451b87696236ead94315ca992cd2e46499bb10296ac95b3ff676186426.png)
 
 **接下来我们正式开始网易新闻实战！**
 
@@ -2215,7 +2215,7 @@ scrapy startproject news
 
 如下： 
 
-![](./Crawler-Speed-101.assets/c230cff0-c582-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/933b7cc78bc14fb9c61bccb3e6fbffc7388bb897634e72775f236013be335749.png)
 
 ```python
 https://mp.weixin.qq.com/s/yBkXGT6dFgg46WeaZ18rjA
@@ -2245,23 +2245,23 @@ scrapy genspider -t crawl news163 news.163.com
 
 如下： 
 
-![](./Crawler-Speed-101.assets/cfeb1060-c582-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b5/b59cce564e32c4a4df9598e86529827a49df334eea99b842e72c944e90fdc55c.png)
 
 实际文件夹文件图片：
 
 图一
 
-![](./Crawler-Speed-101.assets/d6ec9500-c582-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4d/4da24213e652ac6ee851b2eba25335270f23212154754c825fe51d9880c62f63.png)
 
 图二
 
-![](./Crawler-Speed-101.assets/de7f8430-c582-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1f/1f3478c0816a628a93b66f03f2eb52f6fefc4dcf9f0fd30f807eba7b7214724c.png)
 
 ### 8.3 进入创建的 Spider >>> news163.py
 
 如图：
 
-![](./Crawler-Speed-101.assets/e63c90a0-c582-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0f/0f20b722acfc40d998a54b877af0d35fe1059409cb2fd76dc992afe724140a0e.png)
 
 解析每一部分的内容：
 
@@ -2274,11 +2274,11 @@ scrapy genspider -t crawl news163 news.163.com
 
 这里我觉得还是用图片能让大家更好的理解：
 
-![](./Crawler-Speed-101.assets/ef89da00-c582-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f9/f9be84c7e8bb31e376f116450d28be703d5a47e0e041b483952f148c9e7dab38.png)
 
 ### 8.4 扩展——Xpath
 
-![](./Crawler-Speed-101.assets/f65cfba0-c582-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/1772a2ecbe3f45ef120a07bd1c159dcff5910e2f69c17412a0f6f7295f533093.png)
 
 **XPath 定义：**[4]
 
@@ -2297,13 +2297,13 @@ scrapy genspider -t crawl news163 news.163.com
 
 请记住这部分, 这是我们对于每个网页爬取的信息要获得的属性：
 
-![](./Crawler-Speed-101.assets/152c8e60-c583-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0d/0d03f96b1530dccfb1f48f362548ee1b29a382dbd778629fc24b17419bb6926b.png)
 
 ### 8.6 spiders.py
 
 导入库： 
 
-![](./Crawler-Speed-101.assets/1f68f2b0-c583-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3052438cfe93c94ca822933247a15f36548edf6697435a7f1c686a8100376fb7.png)
 
 解析：
 
@@ -2324,7 +2324,7 @@ scrapy genspider -t crawl news163 news.163.com
 
 ### 8.7 编写 URL 爬取规则
 
-![](./Crawler-Speed-101.assets/28793310-c583-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/95/95816af4574b459ad66e8b82fac3e328e74b7bc66f2390461fec14e2b4a1d084.png)
 
 - Rule：规则
 - LinkExtractor 链接提取，即然这个是提取链接的，那这提取的链接的内容肯定是有要求的！所以就引出第 3 点
@@ -2334,9 +2334,9 @@ scrapy genspider -t crawl news163 news.163.com
 
 ### 8.8 正则表达式简单介绍
 
-![](./Crawler-Speed-101.assets/30e5e070-c583-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/16995c22cd2ab4cdf3ed4debb200d110579c8cac5d0b50caa076a24463e75ae3.png)
 
-![](./Crawler-Speed-101.assets/38362150-c583-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/90/909f24f1ac9ef8f7ca19e75b9800335b746b80eb529033373a809564845021ae.png)
 
 突破理解正则表达式，分析目标网址。
 
@@ -2435,7 +2435,7 @@ print(str.strip( '12' ))  # 字符序列为 12
 
 获取时间，这里我们先通过一张图片直接来体现网页分析的步骤：
 
-![](./Crawler-Speed-101.assets/50b57e10-c583-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a3/a32d58fcf14aa1f3f97459ce54604646365c6a8a1173cf8a713190175cd92a33.png)
 
 那我们就可以写下如下代码了：
 
@@ -2456,7 +2456,7 @@ print(str.strip( '12' ))  # 字符序列为 12
 
 **分析网页** 
 
-![](./Crawler-Speed-101.assets/927687e0-c583-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e6/e6d2320518b52e9f410952092942198e249f39c4f63afe17e39188b40803029d.png)
 
 编写对应代码：
 
@@ -2469,7 +2469,7 @@ def get_time(self, response, item):
 
 运行代码：
 
-![](./Crawler-Speed-101.assets/b16c1930-c583-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/78/786faf334545d46d51fe48aecb4eb21fa6bf71572060361ba16ae2822302499e.png)
 
 我们分析会发现，效果不太好，虽然时间成功爬取，但有多余的部分是我们不需要的。代码如下：
 
@@ -2555,7 +2555,7 @@ self.get_body(response, item)
 
 分析原网页： 
 
-![](./Crawler-Speed-101.assets/c72f1510-c583-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/52/5201db040de6613b87883d5ffe1b7be222eac9736a5a043f9843499a4559bfa0.png)
 
 代码如下：
 
@@ -2598,7 +2598,7 @@ def get_url(self, response, item):
 
 接下来是最重要的一步啦，获取网页的新闻内容：
 
-![](./Crawler-Speed-101.assets/d5fe47f0-c583-11e9-9d70-f58ea827d9ae.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/73/7304f24a09423baf726cbd30f09eec07f6978f3c9b9a1b8758f39f869319db0f.png)
 
 代码如下：
 
@@ -2625,11 +2625,11 @@ def get_url(self, response, item):
 
 > 右键查看源码 >>> control + F >>> 输入 charset
 
-![](./Crawler-Speed-101.assets/e083ea40-c583-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8c/8c79b4b2ea6419739243bacde1207450cdf398423ac7832447b1450a4f0ae05b.png)
 
 然后，我们再来了解一个基本属性： 
 
-![](./Crawler-Speed-101.assets/e8668010-c583-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/19/193894896bcac110618d93269bde624f0205a11bba2a5b7e7e11e1966eb53740.png)
 
 由图片可知，该网页是由 UTF-8 而组成的。编写代码：
 
@@ -2678,7 +2678,7 @@ ITEM_PIPELINES = {
 
 如下图片： 
 
-![](./Crawler-Speed-101.assets/f5b44310-c583-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1a/1a0485d512b94f538f5c5565c3c3302cca6f585c80235fc634ffe9efb3637794.png)
 
 运行代码：
 
@@ -2688,7 +2688,7 @@ ITEM_PIPELINES = {
 scrapy crawl news163
 ```
 
-![](./Crawler-Speed-101.assets/fcbbbb20-c583-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e0/e0b81687629d5f652673a3c1d050ef4114024bf59491b730e601226c5701eb30.png)
 
 扩展技能：快速存储爬取的文件
 
@@ -2710,11 +2710,11 @@ scrapy crawl news163 -o data.csv
 # 建议不要改这个数值，因为你给人家改了，人家容易封你 IP ，毕竟你不能给人家带来流量
 ```
 
-![](./Crawler-Speed-101.assets/0a0167d0-c584-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/19/1975d36b0ae9474d0595857d3dc0094da6ab1c2d25ffa1526293a600b9f53ab5.png)
 
 ### 8.12 加餐：图片爬取
 
-![](./Crawler-Speed-101.assets/1bee7c80-c584-11e9-8902-0768cce71061.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/10/10e410430baee5280695abb41efc843907820d1013ce61711cc218169da8f837.png)
 
 方法一： 代码如下
 
@@ -2734,11 +2734,11 @@ with open('image.jpg', 'wb') as f:
 
 方法二： 
 
-![](./Crawler-Speed-101.assets/233cc190-c584-11e9-a915-7715b604f4bb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7e/7e03aa544b22577d55bbe3d6b3f4365e2c52f737c023536abaec26c841f257c8.png)
 
 #### 8.13 作业
 
-![](./Crawler-Speed-101.assets/2b29deb0-c584-11e9-aec6-21d1db34e100.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e6/e6ee04ef0e761aab6a9b6681adfd9cb0079ec9a9e54e33d91c76a88791d332de.png)
 
 爬取 http://www.animeshow.tv/ 下的 full anime list 的动漫列表，获取动漫信息并存储（存储格式不限，可以 TXT、数据库、JSON 格式等），必须要有的数据（动漫名称、动漫地址、类型、播出时间、状态、流派、摘要）
 
@@ -2789,7 +2789,7 @@ Requests 及 Beautifulsoup 库的操作：
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -2805,4 +2805,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

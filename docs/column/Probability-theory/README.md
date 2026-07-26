@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: home
 title: 悦创·概率论22讲
-heroImage: /ColumnImages/Probability-theory/悦创·概率论22讲.jpeg
+heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/30005bc16f0c3693f5d37cc357c946cdedead7b5571fbf1ec2a105e0f05b67b4.jpeg
 heroText: 悦创·概率论22讲
 heroFullScreen: false
 tagline: 一门让你抓住未来的学问
@@ -33,7 +33,7 @@ footer: 立志降低教育成本，普及编程教育，提供优质资源教程
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -49,4 +49,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

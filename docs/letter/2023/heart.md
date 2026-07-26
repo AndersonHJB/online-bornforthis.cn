@@ -70,7 +70,7 @@ toc: true
     6. 婷婷虽然拿到最小的，我黄某还是需要新年祝福。
     7. 婷婷恭喜拿到最大的包，我还有个要求，再来个小游戏，你们要给我新年祝福，不能重复。从最大的开始，从最大的开始。
 
-![image-20230119222253352](./heart.assets/image-20230119222253352.png)
+![image-20230119222253352](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/933ebac4c942f00cfa4ff8d62c31661e863328135aaa5a50e8ebd462ca755392.png)
 
 大过年的要不要给大家搞件公司制服：上图😂、一人一件
 
@@ -134,11 +134,11 @@ toc: true
 
 ::: center
 
-<img src="./heart.assets/image-20230119222253352-4213843.png" alt="image-20230119222253352" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/933ebac4c942f00cfa4ff8d62c31661e863328135aaa5a50e8ebd462ca755392.png" alt="image-20230119222253352" style="zoom:25%;" />
 
 :::
 
-![image-20230119200357228](./heart.assets/image-20230119200357228.png)
+![image-20230119200357228](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d0/d022ca0717b1438ca9b754f5ffdbf98c2046b6937f13be5aba519915b729d00a.png)
 
 ## 进度条
 

@@ -97,7 +97,7 @@ def for_loop(n: int) -> int:
 
 图 2-1 是该求和函数的流程框图。
 
-![图 2-1  求和函数的流程框图](./00-chapter-computational-complexity.assets/image-20241105100037854.png)
+![图 2-1  求和函数的流程框图](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f2/f28f853c458654030273ba61c0e56cd03880bc8ba59ad4f93da35b092ba5aef0.png)
 
 此求和函数的操作数量与输入数据大小 $n$ 成正比，或者说成“线性关系”。实际上，**时间复杂度描述的就是这个“线性关系”**。相关内容将会在下一节中详细介绍。
 
@@ -157,7 +157,7 @@ def nested_for_loop(n: int) -> str:
 
 图 2-2 是该嵌套循环的流程框图。
 
-![图 2-2  嵌套循环的流程框图](./00-chapter-computational-complexity.assets/image-20241105100540374.png)
+![图 2-2  嵌套循环的流程框图](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/93e48f3ccf65571be6dace697b5c6d996e3587d84126fe51f9457a7ce9d53eb0.png)
 
 在这种情况下，函数的操作数量与 $n^2$ 成正比，或者说算法运行时间和输入数据大小 $n$ 成“平方关系”。
 
@@ -192,7 +192,7 @@ def recur(n: int) -> int:
 
 图 2-3 展示了该函数的递归过程。
 
-![图 2-3  求和函数的递归过程](./00-chapter-computational-complexity.assets/image-20241105100957178.png)
+![图 2-3  求和函数的递归过程](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c8/c826b87c51375305ec12ffc26f5c4860490c5272b611cb1b8dfd39558b2a0364.png)
 
 虽然从计算角度看，迭代与递归可以得到相同的结果，**但它们代表了两种完全不同的思考和解决问题的范式**。
 
@@ -213,7 +213,7 @@ def recur(n: int) -> int:
 
 如图 2-4 所示，在触发终止条件前，同时存在 $n$ 个未返回的递归函数，**递归深度为 $n$** 。
 
-![图 2-4  递归调用深度](./00-chapter-computational-complexity.assets/image-20241105101443877.png)
+![图 2-4  递归调用深度](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c8/c89efb7a93d9ee7863c5cff99b4f8252c0741a311e0d09b5671d0dbb562c8a3f.png)
 
 在实际中，编程语言允许的递归深度通常是有限的，过深的递归可能导致栈溢出错误。
 
@@ -241,7 +241,7 @@ def tail_recur(n, res):
 - **普通递归**：求和操作是在“归”的过程中执行的，每层返回后都要再执行一次求和操作。
 - **尾递归**：求和操作是在“递”的过程中执行的，“归”的过程只需层层返回。
 
-![图 2-5  尾递归过程](./00-chapter-computational-complexity.assets/image-20241105101743237.png)
+![图 2-5  尾递归过程](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0d/0dbbcc9da5ba02d6b0d9c80633a59bf4e2651d47c7ee7d02c939dfb101d189cd.png)
 
 
 
@@ -282,7 +282,7 @@ def fib(n: int) -> int:
 
 观察以上代码，我们在函数内递归调用了两个函数，**这意味着从一个调用产生了两个调用分支**。如图 2-6 所示，这样不断递归调用下去，最终将产生一棵层数为 $n$ 的递归树（recursion tree）。
 
-![图 2-6  斐波那契数列的递归树](./00-chapter-computational-complexity.assets/image-20241105102512640.png)
+![图 2-6  斐波那契数列的递归树](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/97/9757b375935c330dff1fd5ea2565c37610c8ac300d1a692038a97aef4c1c2a12.png)
 
 从本质上看，递归体现了“将问题分解为更小子问题”的思维范式，这种分治策略至关重要。
 
@@ -372,7 +372,7 @@ def for_loop_recur(n: int) -> int:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -388,4 +388,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

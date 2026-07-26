@@ -33,7 +33,7 @@ toc: true
 
 如何做到呢？以下分享了五种制作的方式。
 
-![图示](./02-footer.assets/1*3o532kC83NioATYi2uRhHg.png)
+![图示](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/24/244139025aa57eaafe4c0770f6dc15198d5b11ab1cbe2fa22423510309f24781.png)
 
 网页切版时常会需要考虑 footer 需要保持置底还是随文章高度放置的问题，置底可以保持网页的美观，不需考虑网页内容过短时该如何处理，但若是每一页内容都很长时，则可不需要另外多做这方面的设定。
 
@@ -252,7 +252,7 @@ body {
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -268,4 +268,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

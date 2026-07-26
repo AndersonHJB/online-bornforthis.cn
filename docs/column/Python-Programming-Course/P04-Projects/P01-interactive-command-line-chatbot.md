@@ -128,7 +128,7 @@ ChatBot: I'm not able to fetch real-time data yet, but it looks like a nice day!
 
 接着创建应用，创建应用之后就可以获取到密钥。详细教程参考：[https://lbs.amap.com/api/webservice/guide/api/weatherinfo](https://lbs.amap.com/api/webservice/guide/api/weatherinfo)
 
-![](./P01-interactive-command-line-chatbot.assets/image-20240524195536179.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b0/b086be16fa32ce1ea38d9e218df56053ac1c7702a6c9dfab67568a6e891914fd.png)
 
 按照官方操作文档来最终得到下面的链接：[https://restapi.amap.com/v3/weather/weatherInfo?city=110101&key=ca24c25049bc8299bfc8add6f921672b](https://restapi.amap.com/v3/weather/weatherInfo?city=110101&key=ca24c25049bc8299bfc8add6f921672b)
 
@@ -352,7 +352,7 @@ if __name__ == '__main__':
 
 ## 4. 添加花样字体回复
 
-![](./P01-interactive-command-line-chatbot.assets/68747470733a2f2f6769746875622e636f6d2f736570616e6468616768696768692f6172742f7261772f6d61737465722f6f7468657266696c652f4152542e676966.gif)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/40/40431349f2d160a1fc0ece3c5aec78cbf21a29902c00fedefe98616fc4bb6f33.gif)
 
 安装这个 art 库，使用如下命令：
 
@@ -461,7 +461,7 @@ def chatbot_response(message):
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -477,5 +477,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

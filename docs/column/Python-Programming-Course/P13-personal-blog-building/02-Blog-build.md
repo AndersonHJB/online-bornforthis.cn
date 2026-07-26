@@ -58,7 +58,7 @@ toc: true
 
 自己按照流程，一步步注册即可！
 
-![](./02-Blog-build.assets/image-20260201101724116.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8a/8a3dc5a724fe37c1baa2dc02819711ed4dd60f60cdbdd0127018a087c1cb46b8.png)
 
 ::::
 
@@ -70,17 +70,17 @@ toc: true
 
 - **Step 3**：🔍搜索你想要的域名，看是否🉑买；
 
-    ![](./02-Blog-build.assets/image-20260131144904677.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c5806e69b6dbd8393f7509a67dc8ecc116fe0ba71de7cb169f13c1a20da57073.png)
 
 - **Step 4**：购买时会提示需要“**创建信息模版**”，按指引创建即可：
 
-    ![](./02-Blog-build.assets/image-20260131145440312.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/13/138edf77f041be6b47f0b7ac91a3a04a996fba6efb54f4ae191282297e757aca.png)
 
 - **Step 5**：选择立即实名认证即可，按指引操作即可：
 
-    ![](./02-Blog-build.assets/image-20260131145550902.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2dc531d3b3c3b88da787697b706cac0dbd621268f1d71424b977a1d98f6ab725.png)
 
-    ![](./02-Blog-build.assets/image-20260131145637221.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b8/b865eff2e2e1df73ea7b6d753ad341965b78d3020388375d7d0cc8c819a8716a.png)
 
 - **Step 6**：等待审核通过即可；
 
@@ -98,11 +98,11 @@ toc: true
 
 1. 假设放在电脑的桌面，我们可以在电脑桌面上创建一个新文件夹叫做：WebSite。（不要包含空格，因为很多编程项目对带有空格的名称处理，容易出问题。）
 
-    ![](./02-Blog-build.assets/image-20260131150801525.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1c/1cf613717c6ba3d6829e9f8f793aac97d0867b9ff543357e9cd288296a51f182.png)
 
 2. 鼠标选中新创建的文件夹（WebSite），**鼠标右键**——>最底部的“**服务**”——>选择“**新建位于文件夹位置的终端窗口**”：
 
-    ![](./02-Blog-build.assets/image-20260131151838905.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a2/a20f89ff359ceadafc9e22eb5b0774e758a0d6c3d1e5e85dbcf9f40587b1daa2.png)
 
 :::
 
@@ -114,31 +114,31 @@ toc: true
 
 - 点击：快速上手
 
-    ![](./02-Blog-build.assets/image-20260131152239741.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/98/985fb8c9aa3bc83199daffa5440f0e2d446d4ac1b24f0ee6824b8ab8035e0265.png)
 
 - 点击：[创建项目](https://theme-hope.vuejs.press/zh/get-started/create.html)
 
-    ![](./02-Blog-build.assets/image-20260131152332021.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2f/2f93b073acf7b76e23bb8cb005ab83256105b72e327e648ce3e4603ec71b67eb.png)
 
     
 
 - 在终端输入主题文档提供的命令进行初始化网站：`pnpm create vuepress-theme-hope my-docs`
 
-    ![](./02-Blog-build.assets/image-20260131152456725.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/fa0ac57de8d6ff4e6ccb53089306be065c24dd96901d269b50e892f0e792a522.png)
 
 - 终端界面（上一步启动的终端），把命令改成：`pnpm create vuepress-theme-hope .`：
 
     键盘上下键选择“简体中文”，随后回车↩︎键：
 
-    ![](./02-Blog-build.assets/image-20260131154621373.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a3/a319ba2761b14b3199fd2f2a5819ba43d79f68f7b680b2adfb44d384e2800c4c.png)
 
     选择 pnpm：
 
-    ![](./02-Blog-build.assets/image-20260131154840434.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dc/dcb5377472e5ea779cfc4f2285dfbdea5b04d6cb96e9210041837a28185dfb74.png)
 
     选择 vite：
 
-    ![](./02-Blog-build.assets/image-20260131154901698.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/53/53909ef741710e88b0aa48fbd261c5b90d953b747ea9f61e548a6b28c8efcf8d.png)
 
     按下图进行设置即可：
 
@@ -146,19 +146,19 @@ toc: true
     - **设置应用描述**：自己的网站信息介绍，自己编写；
     - 其它按图片编写即可；
 
-    ![](./02-Blog-build.assets/image-20260131155112369.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/ed29ed23bcc39a64d86c6ed1fa6e12a3de351b11db48e36cba8da6328b0a6db4.png)
 
 - 按照下面继续设置即可：
 
-    ![](./02-Blog-build.assets/image-20260131155405948.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/726f8a2e1a3af2885b85a1f38423225861cb7d77f836331b1013b69eb1601dc4.png)
 
 - 自己选择是否查看 demo 示例：
 
-    ![](./02-Blog-build.assets/image-20260131155517847.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/26/26a412eb3a2ab66c3e45a1ce42d39df37a8f95bcec4a37acdb7afb16013f7b92.png)
 
 - 如何停止：使用 `Ctrl + C` 进行停止🤚
 
-    ![](./02-Blog-build.assets/image-20260131155741866.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/39/393b063a7fa7230a7a1212469d405ab7d46edff6c0cfdfd7c88f74769a7a8d34.png)
 
 
 
@@ -170,7 +170,7 @@ toc: true
 
 鼠标选中新创建的文件夹（WebSite），**鼠标右键**——>最底部的“**服务**”——>选择“**新建位于文件夹位置的终端窗口**”：
 
-![](./02-Blog-build.assets/image-20260131151838905.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a2/a20f89ff359ceadafc9e22eb5b0774e758a0d6c3d1e5e85dbcf9f40587b1daa2.png)
 
 :::
 
@@ -178,7 +178,7 @@ toc: true
 
 已经成功使用 VScode 启动网站项目：
 
-![](./02-Blog-build.assets/image-20260201102211450.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/97/97022ac375be90cbbcb2a898f4732fdfa74959dfc83112e224da658494f2e1dd.png)
 
 ### 3.4 网站启动本地预览（网站本地启动）
 
@@ -188,7 +188,7 @@ toc: true
 
 启动终端，并保证终端路径在网站目录下，输入以下命令 `pnpm run docs:dev` 进行运行：
 
-![](./02-Blog-build.assets/image-20260201104212586.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7e/7eb6a490b3731a942519a60c0d160022e7b93b6832956786eb71e4a163260a62.png)
 
 执行使用浏览器访问：
 
@@ -210,11 +210,11 @@ toc: true
 
 直接在 VScode 做成“资源管理器”的空白位置，鼠标右键选择：**在集成终端中打开**
 
-![](./02-Blog-build.assets/image-20260201104906817.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7a/7a3f0fba2945441f044d0604c13f269d8027518e43dc95af50b2ba6da6c39599.png)
 
 要学会总结，接下来的步骤就如法炮制了。输入启动命令：`pnpm run docs:dev`，故而方法二的本质就是“**使用的还是终端，只不过是借助 VScode 去调用（启动）终端**”。
 
-![](./02-Blog-build.assets/image-20260201105346466.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0f/0f47a2cf674fb03defbeaf485271aacbdc545311e28c0e095a997dbb49aa4eb5.png)
 
 ::: tip **提问**：现在我为什么使用的端口是：`8082`（你如果按教程走，应该是 `8081`）？
 
@@ -241,7 +241,7 @@ toc: true
 
 **Step 1**：新建仓库
 
-![](./02-Blog-build.assets/image-20260201111422367.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/7464caa724bb0b76cafecbded5e018bbcc504dd5c8b33ecc8ec4c8cf6dba65a4.png)
 
 - 输入仓库名称：`huangjiarongbao.github.io`；
 
@@ -255,11 +255,11 @@ toc: true
 
 - 随后点击： Create repository 即可；
 
-![](./02-Blog-build.assets/image-20260201111714605.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d6/d664dd446eb1cbfb40e08f1f73556325ad817a83d25e76c982ce20db5eac3f26.png)
 
 切换到 SSH：
 
-![](./02-Blog-build.assets/image-20260201114220893.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dc/dc2eeb03e6cb05d0c8b87bf61978a95d8f2e6da3523db4d599b76d865d091c83.png)
 
 
 
@@ -318,7 +318,7 @@ jobs:
 
 :::
 
-![](./02-Blog-build.assets/image-20260202081025048.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d4a3fa99664a1799ca5b281b9cd63065d726bc55c4fda96e7f6808676a0cf566.png)
 
 打开网站终端（终端所在路径需要在网站当中），输入如下命令：
 
@@ -410,23 +410,23 @@ branch 'main' set up to track 'origin/main'.
 
 #### 4.3.1 第一步：点击 Setting
 
-![](./02-Blog-build.assets/image-20260206112001499.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/25b9ab6cda8b4c73472170e3931f55f4990c257282c60e957b56f53ddfcd6cc9.png)
 
 #### 4.3.2 第二步：点击 Pages
 
-![](./02-Blog-build.assets/image-20260206112323952.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/09/09e4c7336eb3ceca5419acd3fb728d41bdd5191c57d39309e322a3231e1f6fd5.png)
 
 #### 4.3.3 第三步：选择 gh-pages 并 Save
 
-![](./02-Blog-build.assets/image-20260206112450849.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/94/9463519e9a8b4ab490c8c0e543866ce3304630ac76f906dbad2a7f99ad840dff.png)
 
 #### 4.3.4 尝试访问部署网站
 
 域名已经给出：[https://huangjiarongbao.github.io/](https://huangjiarongbao.github.io/)
 
-![](./02-Blog-build.assets/image-20260206112636887.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/55/55f488577c458f1fde0cd0f266a3ee9f2c322ba86baca38adcab98a92d929c45.png)
 
-![](./02-Blog-build.assets/image-20260206112739501.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b1/b18f587bedab5cc8f79999e0b0f04b87b5a7e2aa0f47eb31a8e0c56f5f3a42f3.png)
 
 
 
@@ -438,11 +438,11 @@ branch 'main' set up to track 'origin/main'.
 
 使用 VScode 进行提交即可，点击 VScode 左侧的 git 管理按钮：
 
-![](./02-Blog-build.assets/image-20260202085815275.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b0/b0109bc2ab5fdecff64cca3a522bb507d37ccfb4174c3228ef7841747865dd24.png)
 
-![首次使用会弹出提示，选择：始终](./02-Blog-build.assets/image-20260408201430213.png)
+![首次使用会弹出提示，选择：始终](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b6c784e8c6ee54c40f1faf599a7daab017b098a361642547d80464fefd6e282d.png)
 
-![](./02-Blog-build.assets/image-20260408201502850.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2c/2c771cd93b974c5653912ec01d4a24b70e371f9913c6e2adee571831b8ab6f40.png)
 
 
 
@@ -464,7 +464,7 @@ git push -u origin main
 
 先进到自己的 GitHub 仓库，点击 Action：
 
-![](./02-Blog-build.assets/image-20260206113216330.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2f/2f3a0031524062744362723cb67acd369902286ed2f4f6c211d9daf9bcca805b.png)
 
 
 
@@ -478,19 +478,19 @@ git push -u origin main
 
 **Step 1**：访问阿里云域名解析网站：[https://dnsnext.console.aliyun.com/authoritative](https://dnsnext.console.aliyun.com/authoritative)
 
-![](./02-Blog-build.assets/image-20260206113609518.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/23/23522e4300bc58c947412b3061fab72e3e056ab08dc0acda09b791bd65531494.png)
 
 **Step 2**：点击：添加记录
 
-![image-20260206113932437](./02-Blog-build.assets/image-20260206113932437.png)
+![image-20260206113932437](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/52/5240f74bf0cbc1bab8b030457e73451dcb7e853955df8b560ac07963be027706.png)
 
 **Step 3**：添加解析 1
 
-![](./02-Blog-build.assets/image-20260206114521400.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d6/d6318a2ff8abce13684e5d1d72cf574e3122b3387825dc79cbb28354bd361161.png)
 
 **Step 4**：添加解析 2
 
-![](./02-Blog-build.assets/image-20260206114611816.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e3/e32d619eb03fde586be91c4da63e0998fb80c6198fe7107f4456b063dbd9aae3.png)
 
 上面完成了阿里云域名要做的，现在我们来完成 GitHub 要做的。
 
@@ -500,19 +500,19 @@ git push -u origin main
 
 在**路径**：`src/.vuepress/public` 下创建 `CNAME` 。
 
-![](./02-Blog-build.assets/image-20260202092143336.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a9b4855b3837e8b47cfbcb9f8d9d0ca8468fd3aee2c23ce09e9a900d88039d3d.png)
 
-![写入你自己的域名](./02-Blog-build.assets/image-20260202092244716.png)
+![写入你自己的域名](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/59/592c8053889c16e86d48b869f3bb7fdf77ad0aeec7cd930b59576d4095b30576.png)
 
 保存后，推送到 GitHub 仓库。
 
 推送到 GitHub 后，会自动执行更新部署。
 
-![](./02-Blog-build.assets/image-20260206115038399.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a4711523f2a294d8ffbddfb3e9a5fca849d4b0db23d3960d718ec94c5d47693b.png)
 
 等待检测完成后，点击：
 
-![](./02-Blog-build.assets/image-20260206115136234.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7d/7dcaa59bae3e5c2605618203cf083f86e7e9c0d6880abbce964ce5da2424f6da.png)
 
 ## 5. 网站更多配置
 
@@ -520,11 +520,11 @@ git push -u origin main
 
 可以借助 AI 设计生成属于自己的网站 logo，并把 logo 放入 `src/.vuepress/public`。MacOS 记得使用快捷键：`Command + Shift + 。` 即可显示隐藏文件、文件夹。
 
-![](./02-Blog-build.assets/image-20260206120451554.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/29/2965fa3ccdf5e957374a595c2f914977e1903fffd288b1d69ed97e95c4cd96ab.png)
 
 接着我们需要在 VScode 中进行配置 logo，配置文件路径：`src/.vuepress/theme.ts`。
 
-![](./02-Blog-build.assets/image-20260206121220772.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b7/b7d022c81977f6579ff6caf70911f9e35b2195597421b01a644789b2f5d55106.png)
 
 ::: warning 注意：在我们的网站当中，所有 `/` 代表从 `public` 开始。
 
@@ -565,7 +565,7 @@ git push -u origin main
 
     **实际演示**：我在服务器中创建一个新站点，域名为：`1v1.bornforthis.cn`，如果在这个域名对应的文件夹下放入一个 html 的页面文件，命名 `index.html` ：
 
-    ![](./02-Blog-build.assets/image-20260410200533721.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2b/2bd581a4539f85baa2ec852186e4c206589ea61375c7d42d6a3e67f01fc97d94.png)
 
     实际访问链接：[https://1v1.bornforthis.cn/](https://1v1.bornforthis.cn/) 等价 [https://1v1.bornforthis.cn/index.html](https://1v1.bornforthis.cn/index.html)
 
@@ -575,7 +575,7 @@ git push -u origin main
 
     如果不叫 `index.html` 呢？
 
-    ![](./02-Blog-build.assets/image-20260410201045933.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e1/e170de18fe6d5651c6d4214e3e1ec86d351836193977c1cb898c3afa5c4ae7e1.png)
 
     实际访问链接：[https://1v1.bornforthis.cn/code1v1.html](https://1v1.bornforthis.cn/code1v1.html) 等价 [https://1v1.bornforthis.cn/code1v1.html](https://1v1.bornforthis.cn/code1v1.html)
 
@@ -1045,7 +1045,7 @@ export default function App() {
 
 文件路径：`src/.vuepress/config.ts`
 
-![](./02-Blog-build.assets/image-20260201102929313.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/37/3729740304a9166f94cf519b5f2fd12302f655ac15f8ccc2417e8c0dcedbac86.png)
 
 ::: code-tabs
 
@@ -1093,9 +1093,9 @@ export default defineUserConfig({
 
 :::
 
-![修改之前](./02-Blog-build.assets/image-20260201110219125.png)
+![修改之前](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/45/4564a926994cf5b2561b1b95bb65361e4ef5013f8c9bc8a742df54b5db50be6b.png)
 
-![修改之后](./02-Blog-build.assets/image-20260201110317836.png)
+![修改之后](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/39/39ee04e26e3941a9717c4b6541a63747dc09ca18e4b875e96f97ae00d17aab35.png)
 
 
 
@@ -1196,17 +1196,17 @@ bgImage: /img_home/079A23792.jpg
 
 - **Path**：`src/README.md`
 
-![](./02-Blog-build.assets/image-20260410193428908.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/00/0006851a516965e52d313a168be3d21cb87197187ae3b1cd08ba7cf81c6ff3c9.png)
 
-![这些可以自己设置，也可以删除](./02-Blog-build.assets/image-20260410193527423.png)
+![这些可以自己设置，也可以删除](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ca/ca46cc8ce68f53549ed7bb2ebb85081fe0163ba6b72b92f46fd913c292e0acd8.png)
 
-![可以删除也可以选择修改](./02-Blog-build.assets/image-20260412190717695.png)
+![可以删除也可以选择修改](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a3/a33a8e4333de64397f357afb49228101f88f5636f0dbd8cfe499ab0a3980b575.png)
 
 ### 5.8 设置主页页脚
 
 - **Path**：`src/README.md`
 
-![](./02-Blog-build.assets/image-20260410193712090.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/44/441d205c858470b10e27956ccc36ae11aa080704eb6d9ff292a63ca627eff3bd.png)
 
 ### 5.9 设置网站图标
 
@@ -1218,43 +1218,43 @@ bgImage: /img_home/079A23792.jpg
 
 @tab 1. 创建项目
 
-![](./02-Blog-build.assets/image-20260412201637655.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/66/66d99d26fe2665ae676f1ce4cede106a4d43dbdb24ecf8fb0e5201a769b3572e.png)
 
-![](./02-Blog-build.assets/image-20260412201721277.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/be/be50b2474db0a336ae758dec1f031075f94785a12290d4261216008e16b1f950.png)
 
-![](./02-Blog-build.assets/image-20260412201934821.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f5ee5bed944c4839b528cc8a990bf3cccc6f130427ebd62a551fc015782596f3.png)
 
 @tab 2. 搜集自己想要的图标
 
 注意：本主题仅支持单色图标，有些彩色图标支持，但也只是显示单色。主要还是需要自行测试，图标是否可用。
 
-![](./02-Blog-build.assets/image-20260412202031547.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a7/a722a9682c9bc6ec3276e2ecdbe8e39fcba4b4d0e3c5f4f4c3f853a7486d393f.png)
 
-![](./02-Blog-build.assets/image-20260412202135545.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6c/6c5cf866e75b9fe7ba8100412d75c0e9f0abecd053b77facf382b83f5fba6a71.png)
 
-![](./02-Blog-build.assets/image-20260412202215557.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d4cca73f73c297fc3e6d9c734923ebf3e9db98f92370f69a045d5d754a368993.png)
 
-![](./02-Blog-build.assets/image-20260412202257791.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/27/27d6bf988c70cd72dec28726ffd6049cd1e88f83cf23976e51435791f2d0b54b.png)
 
 @tab 3. 点击生成
 
-![](./02-Blog-build.assets/image-20260412202424785.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/86/86c81ba00626b8cb864bd7dabb72526a39efcefa53c6c46be253d1052f35e6c8.png)
 
-![](./02-Blog-build.assets/image-20260412202446277.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e2/e24a7d45c09bc3944a4f4ad015f2588a6755fe74b6e621687016323b7c7de5f5.png)
 
-![](./02-Blog-build.assets/image-20260412202504036.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f4/f477177ef26346dc4335163f3d30b8d4fffe00e7c1600e315dc0a98d1ddafae0.png)
 
-![](./02-Blog-build.assets/image-20260412202530668.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d0/d0d0568c6e82932ae3663bf9b84029d5ac1d627045dc467365f8a1d4e520612a.png)
 
 :::
 
 #### 5.9.2 添加链接
 
-![](./02-Blog-build.assets/image-20260412202734884.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0a/0abf1c2e2163ea28cdbfc28c43345e474959ab0fb5d783c25e13a25d7184c3ff.png)
 
 改成：
 
-![](./02-Blog-build.assets/image-20260412202927604.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5a/5a70ddcdec720cd3705a8c191d08b5e5ed09982f8728cc2d0122512d644e05c4.png)
 
 ```typescript
 con: {
@@ -1269,13 +1269,13 @@ con: {
 
 @tab 选择并复制图标
 
-![](./02-Blog-build.assets/image-20260412203359596.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a3/a3e6a6a7490bcdbe1ebc9241bcc9dc7bd59932cfa2647861b9060529d85cb956.png)
 
 @tab 放到使用的地方
 
 - 例如：菜单栏
 
-    ![记得把前缀 icon- 删除](./02-Blog-build.assets/image-20260412203954815.png)
+    ![记得把前缀 icon- 删除](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2b/2b22808e4750944c5fb539a65ef6f1f8f1c214bec8a3b54ea7e1eb4d1a46dcc4.png)
 
     ```typescript {3}
     {
@@ -1289,7 +1289,7 @@ con: {
     }
     ```
 
-    ![查看效果](./02-Blog-build.assets/image-20260412204200965.png)
+    ![查看效果](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/20/209d85c84151ec8bf8e09921011d2920ade56f5cebd0efeb7609a4d77634e49d.png)
 
 - 例如：侧边栏、文章，只要有 `icon:` 的地方；
 
@@ -1301,7 +1301,7 @@ con: {
 
 - 更新在线链接：
 
-    ![](./02-Blog-build.assets/image-20260412204433117.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/36/36e6bbd7f5a99d26caa3e8374c38743152ff873686bf4fe88324efc53143ebc3.png)
 
 - 更新到网站配置当中；
 
@@ -1432,9 +1432,9 @@ export default sidebar({
 
 :::
 
-![](./02-Blog-build.assets/image-20260412193643360.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c9/c9445288b53b293d593ddba0d1520da086530aadbec2213da2d5ff83969644f5.png)
 
-![侧边栏示例·长的样子](./02-Blog-build.assets/image-20260412191217674.png)
+![侧边栏示例·长的样子](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a2/a217ab19713ddfd6f2e4c84f8c820a22b4b7173a886e69522f23a3bb6e29c432.png)
 
 后期文章多了，进行分类。
 
@@ -1533,7 +1533,7 @@ export default sidebar({
 
 ### 5.12 设置 github 图标链接
 
-![](./02-Blog-build.assets/image-20260412200550887.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ba/ba0164045034eefdbaea21bf1f4a525d3d47ec5eb76cddff409f7e79f351714f.png)
 
 - **Path**：`src/.vuepress/theme.ts`
 
@@ -1765,7 +1765,7 @@ export default defineUserConfig({
 
 要取消时，弹出的优惠
 
-![](./02-Blog-build.assets/image-20260202185253455.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d6/d6385ab9a34bc58e2fe1a24fa4811c49e0bb1c33715bd2f66140626bd935b576.png)
 
 
 
@@ -1775,7 +1775,7 @@ export default defineUserConfig({
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1791,4 +1791,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

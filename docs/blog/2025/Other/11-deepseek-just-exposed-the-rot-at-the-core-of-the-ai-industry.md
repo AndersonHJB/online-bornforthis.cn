@@ -19,7 +19,7 @@ backToTop: true
 toc: true
 ---
 
-![](./11-deepseek-just-exposed-the-rot-at-the-core-of-the-ai-industry.assets/0*uvywHZ7niYgIFFM4.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/1534f4220f1094af912c6039aa9eb360e4a4c50b718ed91afa3c70bb69c0ff04.jpeg)
 
 Every few decades, something comes along that obliterates the status quo. In the ’50s, it was Sputnik. In the ’90s, it was the internet. And in the modern ’20s, it appears to be DeepSeek, a Chinese AI aimed squarely at challenging OpenAI. So what makes DeepSeek so damn special? Well, it’s cheaper, more efficient, and generally higher quality than anything produced in the West. This model only cost \$6 million to build, in comparison to OpenAI, which spent well over \$3 billion on AI training last year alone and has required \$13 billion in investment from Microsoft just to stay afloat. And it wasn’t just cheaper to build. The cost of actually running DeepSeek is over 96% cheaper than OpenAI’s o1 model! Unlike any OpenAI model, you can actually use DeepSeek for free. Yet, in third-party bench tests, DeepSeek outperformed every OpenAI model by some margin. Unsurprisingly, upon launch, DeepSeek became the top-rated free app on the App Store, and when news of this product broke, \$1 trillion was wiped off the American tech stock market. In doing so, it has exposed the rotten ideology at the core of the AI industry. So, how has DeepSeek achieved this? What does it mean for the future of AI and the American tech industry? And, more importantly, what does this mean for you?
 
@@ -63,7 +63,7 @@ Sources: [Sky](https://news.sky.com/story/what-is-deepseek-the-low-cost-chinese-
 
 ::: details
 
-![](./11-deepseek-just-exposed-the-rot-at-the-core-of-the-ai-industry.assets/0*uvywHZ7niYgIFFM4.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/1534f4220f1094af912c6039aa9eb360e4a4c50b718ed91afa3c70bb69c0ff04.jpeg)
 
 每隔几十年，总会有一些颠覆现状的事件发生。50年代，是斯普特尼克；90年代，是互联网；而在现代的20年代，似乎轮到了 DeepSeek——一款直面挑战 OpenAI 的中国人工智能。那么，DeepSeek 究竟有何过人之处？首先，它的成本更低、效率更高，而且整体质量远超西方任何同类产品。该模型的构建成本仅为 600 万美元，而相比之下，OpenAI 去年在 AI 训练上的投入就超过 30 亿美元，仅为了维持运营，还从微软获得了 130 亿美元的投资。而且，不仅构建成本低，DeepSeek 的实际运行成本比 OpenAI 的 o1 模型低了 96% 以上！与所有 OpenAI 模型不同，你甚至可以免费使用 DeepSeek。更为关键的是，在第三方的基准测试中，DeepSeek 明显超越了所有 OpenAI 模型。毫不奇怪，DeepSeek 一经推出便成为 App Store 上评价最高的免费应用，而这一消息一出，便使美国科技股市蒸发了 1 万亿美元。这一切揭露了 AI 行业核心深处的腐朽意识形态。那么，DeepSeek 是如何做到这一点的？这对 AI 以及美国科技产业的未来意味着什么？更重要的是，这对你又意味着什么？
 
@@ -123,7 +123,7 @@ Sources: [Sky](https://news.sky.com/story/what-is-deepseek-the-low-cost-chinese-
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -139,7 +139,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://medium.com/predict/deepseek-just-exposed-the-rot-at-the-core-of-the-ai-industry-f7c2ace249e8)
 

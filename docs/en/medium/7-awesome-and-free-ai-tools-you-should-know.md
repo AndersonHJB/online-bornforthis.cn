@@ -19,7 +19,7 @@ backToTop: true
 toc: true
 ---
 
-![](./7-awesome-and-free-ai-tools-you-should-know.assets/1*rj79f_dSrD0A5ENkkQAxJQ.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/86/868bc8000a06d325034d59b3f661159b7a01f8a6d6581d5edd8388067ac30efb.png)
 
 The world of Artificial Intelligence continues to fascinate us. We collected **7 free artificial intelligence(AI) tools**, most of them easy to use, and some more sophisticated… like building ML models. We did try to be unique and avoid many of the AI platforms you’ll find in most posts of *Best AI Tools*. Additionally we wanted them to be free for testing, without caveats like adding your credit card number. Some of these we use ourselves (eg. Lumen, JADBio) so it was important for us to include them as we truly value what they have to offer.
 
@@ -27,7 +27,7 @@ The list is not extensive but we plan to come back to the topic often. Consider 
 
 ## GFP-GAN — Photo Restoration
 
-![GFP-GAN](./7-awesome-and-free-ai-tools-you-should-know.assets/GFP-GAN-copy-1024x373.webp)
+![GFP-GAN](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/43/4331fd923ce17c1f9c40c520b178a593fae6af51c49999b1fb34642a03351db0.webp)
 
 **GFP-GAN** is a new Free AI tool that can fix most old photos instantly. GFP-GAN (Generative Facial Prior-Generative Adversarial Network) was developed by Tencent researchers, by merging info from two AI models to fill in a photo’s missing details with realistic detail in a few seconds, all the while maintaining high accuracy and quality. In this [video](https://youtu.be/nLDVtzcSeqM?t=146) (2:26) Louis Bouchard enthusiastically describes how well the project worked at photo restoration with details on how to use it for free. The results are very impressive and works well even with very low quality images.
 
@@ -38,7 +38,7 @@ You can try a demo of GFP-GAN for free. The creators have also posted their code
 
 ## Copy.ai — Copy Writer
 
-![Free AI Tools - Copy.ai](./7-awesome-and-free-ai-tools-you-should-know.assets/DG-Copy-ai-1024x496.webp)
+![Free AI Tools - Copy.ai](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e7/e7a66cf26612e0e898a4fd72fc6d7e227001c6bdda67a8da2605f6bdc372d658.webp)
 
 With this one, you literally just have to “copy”. This AI-based copywriting tool generates unique content that you can post on your blog, social media or even for a video by simply providing a short description of the topic you want content on.
 
@@ -71,7 +71,7 @@ plus Notion.AI that just arrived and we’ve given it a whole paragraph below.
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -87,6 +87,6 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://grantpiperwriting.medium.com/why-cant-robots-click-the-i-m-not-a-robot-box-on-websites-370f239ba7f4)

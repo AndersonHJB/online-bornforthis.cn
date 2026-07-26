@@ -77,7 +77,7 @@ Figure 1 shows an example of the Battleship game on a 10x10 grid.
 
 > 图1显示了《战舰》游戏在10x10网格上的例子。
 
-![image-20221129213724491](./12-Assignment3-Battleship.assets/image-20221129213724491.png)
+![image-20221129213724491](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c591ea8677d3e9734860bc8140ec44a31129e6fa0f5f869c826c926e3e146219.png)
 
 Figure 1: Example output after the start of the game and after multiple turns with 3 hits at D8, E8, F8
 
@@ -1165,7 +1165,7 @@ public class Ship {
 
 :::
 
-![知识库](./12-Assignment3-Battleship.assets/20200318125116.jpg)
+![知识库](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c0/c0e19778c164b04245051f03138570e7fda6b73352c1c838395ed12bf2b5368f.jpg)
 
 
 
@@ -1174,7 +1174,7 @@ public class Ship {
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1190,4 +1190,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

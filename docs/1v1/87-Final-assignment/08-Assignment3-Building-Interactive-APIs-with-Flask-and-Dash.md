@@ -31,7 +31,7 @@ toc: true
 
 @tab image-1
 
-![](./08-Assignment3-Building-Interactive-APIs-with-Flask-and-Dash.assets/image-20240707193822973.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a7/a71a5866ab47e727d5a3d1641475b94bac0d4c53b43b6baad0be6b259eb0b9d7.png)
 
 `![](./08-Assignment3-Building-Interactive-APIs-with-Flask-and-Dash.assets/image-20240707193857061.png)`
 
@@ -370,7 +370,7 @@ print(response.json())
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -386,5 +386,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

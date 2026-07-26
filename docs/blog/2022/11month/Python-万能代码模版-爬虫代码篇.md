@@ -46,11 +46,11 @@ toc: true
 
 因为：
 
-![](./Python-万能代码模版-爬虫代码篇.assets/c14f6977d6974f58af65b6040640685e.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/31/3105871a38b62ac918b2ad61d1ae36b9ae102dcd5d1ce2579143fff859af8cd6.png)
 
-![](./Python-万能代码模版-爬虫代码篇.assets/58e9a48031974c11b4d83f298ddba5d8.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/59/59de224645e055367e4d5b155c504ad11d44f14f4932364e859c166e49be2445.png)
 
-![](./Python-万能代码模版-爬虫代码篇.assets/412e7b2650e243b5a11576463f2e3161.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/85/851bcc117becd0982e4a1f93fb5c7ed4d6a8880013085a9e2003a7db15b42bce.png)
 
 
 
@@ -66,9 +66,9 @@ toc: true
 ## 1.1 爬取文档、学习资料
 首先，你得先确定你要爬的网站是什么？你要获取的目的是什么？比如，小悦想爬青岩帮网站中的**报考指南**，所以他想搜集目前该网页的所有文章的标题和超链接，以方便后续浏览。
 
-![image.png](./Python-万能代码模版-爬虫代码篇.assets/874529a42d3d0560e5965a49faefeb1b.png)
+![image.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f50b27aad109403f8f057b074c77e6277ecf854734aabdd80988deee5047dc8c.png)
 
-![image.png](./Python-万能代码模版-爬虫代码篇.assets/e1cee1a571fbbd19f9e84dd396a88301.png)
+![image.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/39/399d73f70e6a86ca15936e09a17aceabced6410446731760d4c1ab3da477cf88.png)
 
 > 爬取网站的链接：[https://zkaoy.com/sions/exam](https://zkaoy.com/sions/exam)
 > 目的：收集目前该网页的所有文章的标题和超链接
@@ -314,9 +314,9 @@ if __name__ == '__main__':
 
 那如果你想爬取其他网页如何替换呢？你只需替换几处即可，如下图所示。
 
-![image.png](./Python-万能代码模版-爬虫代码篇.assets/0ece9ddffbc51e2f4ba97ed8a40334ea.png)
+![image.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/79a8650551f7a75872d650565d3140c3c8d95222e40476cd20a2f65fb2faca0f.png)
 
-![image.png](./Python-万能代码模版-爬虫代码篇.assets/03b70ec0aba50839a0d4f94a1ac01f43.png)
+![image.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f690d9170634d48543d4f75212bf5423030c41980df01a5e74eb6245aeffb3ba.png)
 
 1. 替换为想要下载的网页地址
 1. 替换为网页保存的文件名
@@ -331,7 +331,7 @@ pip install urllib3 pandas
 ```
 以招行外汇页面为例：
 
-![image.png](./Python-万能代码模版-爬虫代码篇.assets/c768ab06672d2b09227329e2b8eb84ac.png)
+![image.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dc/dcbcbf33a2b9dbe42b3b6cb356a14adffa65d97317a5eff607884a6affd186d1.png)
 
 Python 代码如下：
 
@@ -409,19 +409,19 @@ if __name__ == '__main__':
 
 下图为了辅助理解：
 
-![image.png](./Python-万能代码模版-爬虫代码篇.assets/5d42c267664961f6dd31b45fcdeed47a.png)
+![image.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/22/229211e051436804cde2cf705edde7daf6b3d4ed5274751587095b624e27bb00.png)
 
-![image.png](./Python-万能代码模版-爬虫代码篇.assets/041af86fd475fe50f5d66889ffbec0cf.png)
+![image.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2a/2a411d03fe07e6a8ac8a0b1432f33d8b8e15cd87802463125a28b01ba2aa8c2f.png)
 
 
 
 执行之后，会在代码文件所在的目录生成 `tips2.xlsx` 的 excel 文件，打开之后如下图所示。
 
-![image.png](./Python-万能代码模版-爬虫代码篇.assets/f9c98665cf0620a17e3e2d8ad1cb29b7.png)
+![image.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77d541c2bb907414e5c2da8af8fb69d59357409304246a4e5cd362a295f1ca56.png)
 
 当你希望抓取自己的表格时，替换下面 3 个部分即可。
 
-![image.png](./Python-万能代码模版-爬虫代码篇.assets/c86cbec6a689367db7d95c616c9a4f7d.png)
+![image.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cf/cf0b148fa50782823b8281c8b63328b1c53521cd2a3459381c7f8f6a824705e0.png)
 
 1. 修改你要保存的 excel 文件名称；
 1. 替换为想要抓取表格所在网页的网址；
@@ -434,7 +434,7 @@ if __name__ == '__main__':
 
 通过 Python 我们也可以实现快速的图片下载。以堆糖网为例，我们看到了这个网页。
 
-![image.png](./Python-万能代码模版-爬虫代码篇.assets/cd9ac482fb77bb9c6a9150dff05adea3.png)
+![image.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/56/56f7cdc85b4afbc9a78c3f40c440b788b0229b4d87a569dfa7d56b469ac66565.png)
 
 感觉很好看，希望能够把所有图片下载下来，方案大体和 1 是一样的。
 ​
@@ -495,11 +495,11 @@ for i in images:
 ```
 执行完毕后打开 `tips_3 `目录，可以看到图片都被下载下来了。
 
-![image.png](./Python-万能代码模版-爬虫代码篇.assets/d7ab476eba1a0e6b21653e33d3e6bb40.png)
+![image.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/01/01b3cc3402c26aed48640510f2d26d4182f8e6780a364a71d465f6fa7c97f2c1.png)
 
 替换说明如下。
 
-![image.png](./Python-万能代码模版-爬虫代码篇.assets/730e859afee98d70e720362197b52c6c.png)
+![image.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/41/41632cd1a462d07724029ad9c55f6d9c56a5d077840c6d446b79d4a5b2d12f65.png)
 
 1. 替换为想要保存的文件名（网页文件）；
 1. 替换为想要下载网页的网址；
@@ -513,7 +513,7 @@ for i in images:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -529,4 +529,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: home
 title: Python真题演练
-heroImage: /ColumnImages/Python-practice/python_qKk0Tqp.jpg
+heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d2/d2209b0690a41ea80350cc0ac98146e7ffb6d1b849b8ef95bc1f719b9ff7fdc2.jpg
 heroText: Python真题演练
 heroFullScreen: false
 tagline: Python试卷·开启你的编程之旅
@@ -26,7 +26,7 @@ Python 专项真题演练！
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -42,5 +42,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

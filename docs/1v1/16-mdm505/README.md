@@ -89,7 +89,7 @@ Markdown 代码：
 ###### 标题6
 ```
 
-![](./README.assets/116cd59794f14d43bd3c2bd273b8cfbc.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/12/12b55856374d0749811e2218a5b1e2e38bd22d650e7b23fdffcadd5f61be99df.png)
 > 这是一段小注解
 
 链接：[https://bornforthis.cn/](https://bornforthis.cn/)
@@ -102,7 +102,7 @@ Markdown 代码：
 
 ### 理解变量——生活中的例子
 
-![理解变量](./README.assets/image-20230103140859909.png)
+![理解变量](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b7/b7e6c8b7a108dfdf5c476a8c7029ccde239d1b647c24b95da5c730c7a1adde73.png)
 
 定义：变量，就是在计算机的内存当中，开辟空间。
 
@@ -110,14 +110,14 @@ Markdown 代码：
 
 ### 如何创建变量——赋值语句
 
-![如何创建变量——赋值语句](./README.assets/image-20230103141225997.png)
+![如何创建变量——赋值语句](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7f/7fca5fe9566b2629ef3ee2fece13630feb515ffb20b838ed8efce98f07263b56.png)
 
 - 代码运行逻辑：从上到下，从右到左
 - **最后一步才是赋值**
 
 ### 变量的赋值过程
 
-![变量的赋值过程](./README.assets/image-20230103141733613.png)
+![变量的赋值过程](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/26/26f4f3f5d00ea55c43d54f6e0754e3b47b3c7a6647eb3f3e852b5ce82db704d3.png)
 
 ```python
 x = 1
@@ -253,11 +253,11 @@ print(b)
 print(c)
 ```
 
-![image-20230105141334003](./README.assets/image-20230105141334003.png)
+![image-20230105141334003](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/29/293c86b031c804a020e7e0e2f5e379ea8d137e20f6a13e8c94feb9cb670fa38d.png)
 
 ## 交换果汁
 
-![image-20230105141417294](./README.assets/image-20230105141417294.png)
+![image-20230105141417294](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/09/096df8990fc83a034f8fdb9ad46302fd2246ea8794171cefde36e20d7f176767.png)
 
 ### 代码
 
@@ -340,7 +340,7 @@ print(name)
 
 2. 数字不能开头；
 
-![image-20230105144604047](./README.assets/image-20230105144604047.png)
+![image-20230105144604047](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cbf68c52c40bf94cfd66d1cd41f7108b31d07618ee087b376487059e0d0aa357.png)
 
 ```python
 n1a2me = "aiyc"
@@ -350,7 +350,7 @@ n1a2me = "aiyc"
 
 3. 变量不能有空格；
 
-![image-20230105144819950](./README.assets/image-20230105144819950.png)
+![image-20230105144819950](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/89/893bc6c1f5148f609051423aa788f1081388f5953f9d606f09d6fdfb2d052bea.png)
 
 ```python
 user_name = "aiyc"
@@ -358,7 +358,7 @@ user_name = "aiyc"
 
 4. 系统关键词不能当作变量名；
 
-![image-20230105145020366](./README.assets/image-20230105145020366.png)
+![image-20230105145020366](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f2/f299e33f6c2594325295b693ec3b80f7a4c2d5eae72b2ca1c618c43110ed59d9.png)
 
 ```python
 Class = "aiyc"
@@ -373,19 +373,19 @@ Class = "aiyc"
 help("keywords")
 ```
 
-![image-20230105145352449](./README.assets/image-20230105145352449.png)
+![image-20230105145352449](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/62/62fc77cbc06ce4c6fd7965d72c3ef615baf64127cac388ee94791d66389518af.png)
 
 6. 不要使用 Python 的内置函数名做变量名；
 
-![image-20230105145652577](./README.assets/image-20230105145652577.png)
+![image-20230105145652577](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b5/b5eeb6cbd5e7609fd569e3f2c8b8319cc1a11269b78f4f49f8373e46c8f03c11.png)
 
-![image-20230105150041214](./README.assets/image-20230105150041214.png)
+![image-20230105150041214](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/47/47912d6520b0e34a18efb9cb74096a41a363494bada2949aeab4c8af257a6754.png)
 
 
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -401,4 +401,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -45,7 +45,7 @@ This graphic illustrates the algorithm in action:
 
 https://course.ccs.neu.edu/cs5001f20-sea/images/Sieve_of_Eratosthenes_animation.gif
 
-![img](./Homework8.assets/Sieve_of_Eratosthenes_animation.gif)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2f/2fd857423f78527d0c88c39d6d675551b171b23988b3b33ba582271d957f6c0a.gif)
 
 By [SKoppLinks to an external site.](https://en.wikipedia.org/wiki/de:User:SKopp) at [German WikipediaLinks to an external site.](https://en.wikipedia.org/wiki/de:) - Own work, Original image at [Image:Animation_Sieve_of_Eratosth.gifLinks to an external site.](https://commons.wikimedia.org/wiki/File:Animation_Sieve_of_Eratosth.gif), [CC BY-SA 3.0Links to an external site.](http://creativecommons.org/licenses/by-sa/3.0/), [LinkLinks to an external site.](https://commons.wikimedia.org/w/index.php?curid=2810935)
 
@@ -185,7 +185,7 @@ Upload `eratosthenes.zip` and `ngrams.zip` to Canvas.
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -201,5 +201,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

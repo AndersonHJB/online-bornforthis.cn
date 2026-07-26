@@ -20,7 +20,7 @@ toc: true
 footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备19021486号-6</a>
 ---
 
-![](./04-本地部署：如何本地化部署开源大模型ChatGLM3-6B？.assets/6f3d04388927e08b66ff484cb9ee6c24.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a6/a6f2a6b1714f16c313e6b11dd6ea16d2e9cfa900da460abb07a64d641d30f558.jpg)
 
 你好，我是悦创。
 
@@ -32,7 +32,7 @@ footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https:/
 
 当前环境下，大模型百花齐放。我筛选出了一些核心玩家，你可以看一下表格。非核心的其实还有很多，这里我就不一一列举了。厂商虽然很多，但真正在研究技术的没多少，毕竟前面我们讲过，玩大模型投入非常大，光看得见的成本，包括人才、训练和硬件费用，一年就得投入几个亿，不是一般玩家能玩得起的。
 
-![](./04-本地部署：如何本地化部署开源大模型ChatGLM3-6B？.assets/image-20250212233524077.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/28/286ec2655e77212f4ba078a1dc2e22136ac770a9d2dda2fda16ac8e88f1bad35.png)
 
 当然，也有不少厂商是基于 LLaMA 爆改的，或者叫套壳，不是真正意义上的自研大模型。
 
@@ -42,11 +42,11 @@ ChatGLM-6B 和 LLaMA2 是目前开源项目比较热的两个，早在 2023 年�
 
 还有一点需要考虑，就是 6B 参数规模为 62 亿，单张 3090 显卡就可以进行微调（P-Turing）和推理，对于中小企业而言，简直就是福音。
 
-![](./04-本地部署：如何本地化部署开源大模型ChatGLM3-6B？.assets/image-20250212233954123.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f1/f18f60b8917e81e6171ab405121d4211e77885854ccc2e4cfa6a64628ac0c429.png)
 
 当然，如果企业预算充足（百万以上），可以尝试 6B 的老大哥 GLM-130B，简称 130B，千亿参数规模，推理能力更强，使用 130B 的话除了 GPU 资源费用，还需要进行商业授权，这个要注意。
 
-![](./04-本地部署：如何本地化部署开源大模型ChatGLM3-6B？.assets/a53215243f9b534bdbyy5dd038d0779a.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/76/76f52fa7f988e07aece38b095095f3187dc9b46eca4c356f1f6a32214cf239cf.png)
 
 下面我们讲讲预算不足的情况下，怎么搞定显卡资源？
 
@@ -67,7 +67,7 @@ ChatGLM-6B 目前已经发展到第 3 代 ChatGLM3-6B，除了中英文推理，
 
 操作系统推荐 Linux 环境，如 Ubuntu 或者 CentOS。
 
-![](./04-本地部署：如何本地化部署开源大模型ChatGLM3-6B？.assets/444.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/48/486ae4f89a89494b846031eb4318fbf5561289df5d37c9bdcaa0222d46d5d096.png)
 
 
 
@@ -81,7 +81,7 @@ ChatGLM-6B 目前已经发展到第 3 代 ChatGLM3-6B，除了中英文推理，
 git clone https://github.com/THUDM/ChatGLM3
 ```
 
-![](./04-本地部署：如何本地化部署开源大模型ChatGLM3-6B？.assets/e53bcfdc761101b5a5e55b4f58dd6dbc.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ca/cab675ff5976bdef289e5ec5ce4865a88be3b723b0fd15a4fac81e0de23022d4.png)
 
 ### 3.3 创建虚拟环境并激活
 
@@ -104,7 +104,7 @@ pip install -r requirements.txt
 
 显示以下内容表明依赖安装成功。
 
-![](./04-本地部署：如何本地化部署开源大模型ChatGLM3-6B？.assets/e8b4f77dff6dd93ab9554e2853cc564b.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/60/60f9e7485feac0fa3489e3c1a2327f0e27dbaf09f00de3dbd2487310f6165015.png)
 
 #### 3.4.1 Windows 配置问题
 
@@ -164,7 +164,7 @@ python3.11 -m venv .venv
 
     > 如果 nvcc 命令找不到，说明 CUDA 可能没有正确配置。
 
-    <img src="./04-本地部署：如何本地化部署开源大模型ChatGLM3-6B？.assets/image-20250215203848991.png" style="zoom:25%;" />
+    <img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/70/708d31d0c4c12e1bdcdf5faeeec29166229f0f562e82be407027bf3f791e2c79.png" style="zoom:25%;" />
 
 10. 配置请求源：
 
@@ -236,7 +236,7 @@ MODEL_PATH = os.environ.get('MODEL_PATH', '../model')
 
 执行 `python cli_demo.py`。
 
-![](./04-本地部署：如何本地化部署开源大模型ChatGLM3-6B？.assets/b9c920372yy65521df248f8efb66b01b.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e0/e0f888d4a67f68ebf1f893eaf2b6b5e76a4ed1f2e798e8a1c24247640fc62ce2.png)
 
 ### 3.7 Web 控制台模式启动
 
@@ -264,7 +264,7 @@ demo.launch(server_name="127.0.0.1", server_port=7870, inbrowser=True, share=Fal
 
 执行 `python web_demo_gradio.py`。
 
-![](./04-本地部署：如何本地化部署开源大模型ChatGLM3-6B？.assets/70cbbe44362d1548094f77a959e7c1fa.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e4a9d71735aafb26878c1612995a94755548810efb1a202f46a504a6598a70ed.png)
 
 默认情况下，模型以 FP16 精度加载，大概需要 13GB 显存。如果你的电脑没有 GPU，只能通过 CPU 启动，6B 也是支持的，需要大概 32G 的内存。我们修改一下模型加载脚本。
 
@@ -289,7 +289,7 @@ streamlit run main.py 或者 python -m streamlit run main.py
 
 页面确实上了一个档次。
 
-![](./04-本地部署：如何本地化部署开源大模型ChatGLM3-6B？.assets/284f2c42be5dd945ee495163602aff06.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/ea7d2f20bf3229d5a0c984fea4d10c1dfb3e2ff88200adbca320145a810ccb8c.png)
 
 接下来我简单总结一下部署过程：
 
@@ -312,7 +312,7 @@ ChatGLM3-6B 有 3 个参数可以设置。
 
 对于以下场景，官方推荐使用这样的参数进行设置：
 
-![](./04-本地部署：如何本地化部署开源大模型ChatGLM3-6B？.assets/image-20250212235238866.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/516c14f2ec8ee825ed1f4da7f14b888d9f230b4b6027bac1f400ef61b36b203d.png)
 
 系统设置好，我们基本就可以开始进行问答了，ChatGLM3-6B 采用了一种新的 Prompt 格式，看上去应该是模仿的 ChatGPT。下面我们介绍下这种提问格式。
 
@@ -374,7 +374,7 @@ tool_call(location="beijing", unit="celsius")
 
 这节课我们学习了如何部署 6B。从模型的选择到环境配置再到模型启动、推理，整体来说已经比较全面了，如果你在实际操作的过程中遇到环境问题，可以自己 Google 一下尝试去解决。毕竟每个人的环境不一样，可能会遇到各种各样的问题，主要还是 Python 相关的多一些。如果这一节课有些内容你没有看懂也不用急，先把模型部署及推理这一块熟悉一下，后面我们会逐渐深入地讲解。
 
-![](./04-本地部署：如何本地化部署开源大模型ChatGLM3-6B？.assets/image-20250212235511207.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/18/183b0d08f7ebfa5020a40227d75d39b913fc259f205818957044fa212299943f.png)
 
 
 
@@ -416,7 +416,7 @@ tool_call(location="beijing", unit="celsius")
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -432,4 +432,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

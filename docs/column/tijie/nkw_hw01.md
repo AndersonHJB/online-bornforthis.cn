@@ -75,7 +75,7 @@ if len(s) <= 5000:
 
 ## 图解
 
-![img](./nkw_hw01.assets/WX20211014-193743@2x.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a962b8b00c23317dda126bb2af4210b141b55a82f802222384f15c9b00af0dbf.png)
 
 ```python
 input_str = input() 
@@ -89,7 +89,7 @@ print(last_word_len)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -105,7 +105,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

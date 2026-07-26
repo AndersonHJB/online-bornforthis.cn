@@ -52,15 +52,15 @@ Examples:
 
 *Output if fakestudent executes your code:*
 
-![](./06-Assignment6.assets/image-20230609142247575.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/43/438c6cbc0743fa5b0251d332e0065885d0547722c0b1a69ff72244203d8d57b0.png)
 
 *Output if samo executes your code:*
 
-![image-20230609142254770](./06-Assignment6.assets/image-20230609142254770.png)
+![image-20230609142254770](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/35/357d1f509ab662c540e9d367f53336fb413f6fec8d4714ee933419323b785199.png)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -76,5 +76,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

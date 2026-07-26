@@ -40,7 +40,7 @@ toc: true
 
 ## Travelling salesman problem
 
-![](./NP-Hard-Problems.assets/image-20241108094050414.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9a/9aacefd1c261158ed8554222da9b33cbfbb05da790807f5421491b736354e1ff.png)
 
 - n cities
 
@@ -352,47 +352,47 @@ TSP_get_dists(['A','B','C','D'],dists)              # 执行函数并输出每�
 
 @tab img1
 
-![](./NP-Hard-Problems.assets/image-20241108112027012.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/931d8218cb18bda29a755bae4eed47b5b17f7fd1aa8c93d8fc5ffa2e7e1a1b0f.png)
 
 @tab img2
 
-![](./NP-Hard-Problems.assets/image-20241108112046183.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3a/3a669dd7b4dab118e0b00c2af5fe3eaf9142761a39f395b4f06bc2fb0edafda3.png)
 
 @tab img3
 
-![](./NP-Hard-Problems.assets/image-20241108112106368.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e8/e80bc2425993f5afbe66b0e36c7959acc7f7276a3f2f7e6f5b8de107baa6eaaa.png)
 
 @tab img4
 
-![](./NP-Hard-Problems.assets/image-20241108112120349.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e0/e0e51ca4269d925da3780e7b0b15bb2202fcdf5578434d04b9dab3d45411ef9b.png)
 
 @tab img5
 
-![](./NP-Hard-Problems.assets/image-20241108112133524.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a9223f53106281c324e10d12ee243b918a3d343f97c8308ebc0e5238983edb4e.png)
 
 @tab img6
 
-![](./NP-Hard-Problems.assets/image-20241108112145482.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/58/58cbb0e26d8ba100e8a6b69973ecd1b654a96c5d840ec6294acc8ac92fdcff2c.png)
 
 @tab img7
 
-![](./NP-Hard-Problems.assets/image-20241108112208983.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/21/21387830aa9eefb3a20aac597a09dfbd7c62d0ecaa90b340f2acaef6b3c58d8c.png)
 
 @tab img8
 
-![](./NP-Hard-Problems.assets/image-20241108112221309.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6e645c5f716cf081fbf0f1b1c511060cfa7af012efa9abc1636e973759dc175d.png)
 
 @tab img9
 
-![](./NP-Hard-Problems.assets/image-20241108112231314.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/78/78bd630cfb6dac683bdba2a492e0445398b32bf4bf99a9f1c29ae6c50d0b8389.png)
 
 @tab img10
 
-![](./NP-Hard-Problems.assets/image-20241108112247078.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/ea6c76888f92267b7634eb5b2cfc17962cc51afd9ae2d69bb2a0efb9149a58b0.png)
 
 @tab img11
 
-![](./NP-Hard-Problems.assets/image-20241108112304462.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/756e47575f20ce94356dbec730e2f355888b0db3ac7f4a0594ced889f33ea3ba.png)
 
 :::
 
@@ -543,7 +543,7 @@ print("构建的最小生成树连接:", connections)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 C:::
 
@@ -559,4 +559,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

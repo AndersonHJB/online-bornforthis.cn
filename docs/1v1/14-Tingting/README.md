@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: taozi1
 title: 桃夭
-heroImage: /1v1/14-Tingting/logo.PNG
+heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e5/e506cf1f468d627064a4fd50a3015870482d4e58a35f840ad47187d67694f489.png
 heroText: 桃夭
 heroFullScreen: false
 tagline: 别碰我的镜头盖
@@ -68,9 +68,9 @@ This is a future designer's website, if you want to access immediately, please c
 
 | 序号 | 内容        | 格式                 | 推荐格式 | 位置「点击放大」                                             | 尺寸「参考」 | 完成日期 | 完成情况 | 参考链接                                                     |
 | ---- | ----------- | -------------------- | -------- | ------------------------------------------------------------ | ------------ | -------- | -------- | ------------------------------------------------------------ |
-| 01   | Logo        | png/jpge             | png      | ![image-20221213002829042](./README.assets/image-20221213002829042.png) | 487x128      |          |          |                                                              |
-| 02   | favicon.ico | ico/png/gif/jpge/svg | ico/svg  | ![image-20221213002610527](./README.assets/image-20221213002610527.png) | 32*32像素    |          |          |                                                              |
-| 03   | Banner      | png/mp4/jpge         | png/jpge | ![image-20221213124640837](./README.assets/image-20221213124640837.png) | 1920x60      |          |          | [https://yunsheji.cc/wp-content/themes/riplus/assets/img/bg.jpg](https://yunsheji.cc/wp-content/themes/riplus/assets/img/bg.jpg)<br />[https://ripro.rizhuti.com/wp-content/uploads/2022/01/1642923665-7b0d6f7dc161eaf.mp4](https://ripro.rizhuti.com/wp-content/uploads/2022/01/1642923665-7b0d6f7dc161eaf.mp4) |
+| 01   | Logo        | png/jpge             | png      | ![image-20221213002829042](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/95/954432e8b6dcf7f1d87f0c45d4cf1d1194d08e26d4479d83c1fc750f6ef6a1e3.png) | 487x128      |          |          |                                                              |
+| 02   | favicon.ico | ico/png/gif/jpge/svg | ico/svg  | ![image-20221213002610527](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ab/ab36c3da2d094a9979df686f7914558719fe2f0b269c85038ffc7d4c555ef15e.png) | 32*32像素    |          |          |                                                              |
+| 03   | Banner      | png/mp4/jpge         | png/jpge | ![image-20221213124640837](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a2/a2007b22dc2796053123ded2c9de67c79b9e190aa2484ad3625b03f6ed6b0c4f.png) | 1920x60      |          |          | [https://yunsheji.cc/wp-content/themes/riplus/assets/img/bg.jpg](https://yunsheji.cc/wp-content/themes/riplus/assets/img/bg.jpg)<br />[https://ripro.rizhuti.com/wp-content/uploads/2022/01/1642923665-7b0d6f7dc161eaf.mp4](https://ripro.rizhuti.com/wp-content/uploads/2022/01/1642923665-7b0d6f7dc161eaf.mp4) |
 
 ::: tip 提示
 
@@ -104,7 +104,7 @@ This is a future designer's website, if you want to access immediately, please c
 
 | 序号 | 网站名称                                                     | 链接                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 01   | [![iLoveIMG](./README.assets/iloveimg.svg)](https://www.iloveimg.com/zh-cn) | [https://www.iloveimg.com/zh-cn](https://www.iloveimg.com/zh-cn) |
+| 01   | [![iLoveIMG](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ee/ee9e8d994e36ba8fc15196930d7538d5d9870e1ff9bcb1ac93007fc7a81c99e8.svg)](https://www.iloveimg.com/zh-cn) | [https://www.iloveimg.com/zh-cn](https://www.iloveimg.com/zh-cn) |
 |      |                                                              |                                                              |
 |      |                                                              |                                                              |
 |      |                                                              |                                                              |
@@ -130,7 +130,7 @@ This is a future designer's website, if you want to access immediately, please c
 
 我个人其实挺想把实名制、备案给咱们婷婷的，因为这算是一种归属吧和拥有吧。不要因为钱💰而做出违背内心的选择，钱我来负责[呲牙]你负责理想。想好了跟我说哦
 
-![回复·really](./README.assets/image-20221214184915756.png)
+![回复·really](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/63/63e73dd11b45385bd7704031d2764f3aa406a9a9a37df62a0b5361abe446391b.png)
 
 @tab .
 

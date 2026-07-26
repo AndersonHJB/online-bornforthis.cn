@@ -104,7 +104,7 @@ xwb.save('虚假用户数据.xls')
 
 最后使用 Excel 软件打开这个 xls 文件，查看数据有多少行，如下代码：
 
-![image-20220712135438520](./README.assets/image-20220712135438520.png)
+![image-20220712135438520](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/68/684278c0e9c4ffcf99912202995fd6e1411a172dda5a4f1834ed22a038c90b63.png)
 
 总共 150 行，原有数据 100 行，加上新写入的 50 行，数据没问题。
 
@@ -116,7 +116,7 @@ xlutils 是 `xlrd+xlwt` 的操作合集，但又不等于他们相加。库不�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -132,7 +132,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

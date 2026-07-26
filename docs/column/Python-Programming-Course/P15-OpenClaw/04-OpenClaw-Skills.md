@@ -32,7 +32,7 @@ toc: true
 
 Windows 最新部署教程已经发布，欢迎去观看～[**【电影级/1小时+】全网最强 OpenClaw Windows 部署终极指南**](https://www.bilibili.com/video/BV1YVwkzhExP/)
 
-![](./04-OpenClaw-Skills.assets/Gemini_Generated_Image_x3h24tx3h24tx3h2.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c9/c99acdb11183ad6edbc1f99f7fc7750fcefc3051afeab8d57d5eb8a29facb67c.png)
 
 ## 1. 我发布的
 
@@ -82,7 +82,7 @@ npx clawhub@latest install 插件名称
 
 你最应该安装的第一个 Skill，它会帮助你监测后续安装的所有 Skill，检查是否有危险行为。
 
-![](./04-OpenClaw-Skills.assets/image-20260322220752961.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1c/1ca8ea560c7f1f6e1e27c4f6d861672c1887e47cd45702cf427426c18641c7ae.png)
 
 :::: tip 我本人是不安装的，没多大“价值”。有些没什么危险的也会显示危险，那如果检测出危险，插件能做什么处理吗？不安装？
 
@@ -94,7 +94,7 @@ npx clawhub@latest install 插件名称
 
 ::: details 比如：我自己写的一个飞书技能，没有任何恶意。但是 ClawHub 就会显示【可疑】
 
-![](./04-OpenClaw-Skills.assets/image-20260322214007932.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/934a9a8159eb6de39ea3655dc396fa8868656efab448d4432042b391a2f99f86.png)
 
 :::
 
@@ -130,7 +130,7 @@ npx clawhub@latest install skill-vetter
 
 ::: details 图示
 
-![](./04-OpenClaw-Skills.assets/image-20260322224306349.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e0/e01fdca6db1d9a9ff5d655daa327238f9d7b88e77fd35afd6a2ce4d99be1333c.png)
 
 :::
 
@@ -160,7 +160,7 @@ npx clawhub@latest install skill-vetter
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -176,4 +176,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

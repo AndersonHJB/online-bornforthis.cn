@@ -21,7 +21,7 @@ copy:
     disableSelection: true
 ---
 
-![](./21-data-thinking-three-basic-beliefs.assets/202012161622180896498051.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5d/5d5870914272ceee2c3f0e374950760e12611aa75eae014ee4d87d4a3ab01ce9.jpeg)
 
 你好，我是悦创。
 
@@ -145,7 +145,7 @@ copy:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -161,4 +161,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

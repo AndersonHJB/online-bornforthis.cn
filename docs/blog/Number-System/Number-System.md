@@ -151,7 +151,7 @@ Write (14)10 as a binary number.
 
 **Solution:**
 
-![Base 2 Number System Example](./Number-System.assets/Number-System.png)
+![Base 2 Number System Example](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/07/07e43ad5bcb45aaee64e946e9fad0490b58101d1ace7e6e9f4cb89381cf221ec.png)
 
 ::: center
 
@@ -203,7 +203,7 @@ In the number system chart, the base values and the digits of different number s
 
 > 在编号系统图表中，可以找到不同编号系统的基值和数字。下面是数字系统的图表。
 
-![Number System Chart](./Number-System.assets/Base-10-number-system-02.jpg)
+![Number System Chart](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b8/b804d14716bd4ad15e3334502ffedbea6f7edd084c3637c167cad15822fe1b55.jpg)
 
 ::: center
 
@@ -359,7 +359,7 @@ Now convert 001011002 into a decimal number.
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -375,5 +375,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

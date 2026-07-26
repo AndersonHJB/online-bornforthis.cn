@@ -58,7 +58,7 @@ Two concentric wheels (shown below) are marked with sequential English letters a
 
 > 两个同心轮（如下所示）上标有顺序的英文字母和字母数字。在外部轮中，字母A标有一个点指针。最初，两个轮子处于以下相同的位置。
 
-![img](./README.assets/clip_image002-1285137.jpg)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/171cd44ad6133339a1d069d54f497c0668c94e4bc24c49fa9f7988b175069c7b.jpg)
 
 
 
@@ -66,7 +66,7 @@ Rotate the outer wheel (keeping the inner wheel stationary) and (randomly) make 
 
 > 旋转外轮（保持内轮不动），并（随机）使其停在某个位置，以便指针恰好指向内轮中的相应字母数字槽。所指的数字称为该算法的私钥。在下面的图中，我们可以看到密钥是“8”。
 
-![img](./README.assets/clip_image002-1285168.jpg)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1a/1abcca02e31f4ba6686044efe3c2e7631c3e2e3c0c515dfc5c3b5f1acde0d5e6.jpg)
 
 
 
@@ -461,7 +461,7 @@ print("Brute force result:", brute_force_result[0])
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -477,4 +477,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

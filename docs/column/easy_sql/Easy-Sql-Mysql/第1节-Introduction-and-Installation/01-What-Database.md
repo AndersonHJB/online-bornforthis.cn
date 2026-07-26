@@ -46,7 +46,7 @@ backToTop: true
 
 下图是公司员工的通讯录：
 
-![](./01-What-Database.assets/image-20230113105632842.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e7/e70b5ae6cf060c82d2f5c4819d7566c19a360728306a65f42befdc68997ad234.png)
 
 上面的表，某种程度就是数据库的 collection 集合。
 
@@ -66,7 +66,7 @@ backToTop: true
 
 我们可以从软件的角度来看我们的数据库。
 
-![image-20230113110645690](./01-What-Database.assets/image-20230113110645690.png)
+![image-20230113110645690](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b9c040a232876a717588b8cdec69439e71d56698dd5a0a275acf9a0d7f7c0bac.png)
 
 - Database：其实是纯粹的数据存储方式
 - DBMS：数据库管理系统，对数据的访问接口
@@ -76,7 +76,7 @@ backToTop: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -92,4 +92,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

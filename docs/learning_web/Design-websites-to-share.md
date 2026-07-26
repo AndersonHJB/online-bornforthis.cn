@@ -27,7 +27,7 @@ toc: true
 
 | 序号 | 名称                                                         | 链接                                                         | 说明                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 01   | ![BrandCrowd](./Design-websites-to-share.assets/brandcrowd-logo-5d59400c52.svg) | [https://www.brandcrowd.com/](https://www.brandcrowd.com/)   | logo 生成器网站                                              |
+| 01   | ![BrandCrowd](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cc/cce041c7a7e3ff791f2abbf7bf072734edbb64e931c40004aaa15e961a22d553.svg) | [https://www.brandcrowd.com/](https://www.brandcrowd.com/)   | logo 生成器网站                                              |
 | 02   | **Unicode**                                                  | [https://unicode-table.com/cn/](https://unicode-table.com/cn/) | HTML Unicode 编码                                            |
 | 03   | **Favicon**                                                  | [https://www.logosc.cn/](https://www.logosc.cn/)             | Favicon                                                      |
 | 04   | **iloveimg**                                                 | [https://www.iloveimg.com/zh-cn](https://www.iloveimg.com/zh-cn) | 图片在线编辑                                                 |
@@ -95,7 +95,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -111,5 +111,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

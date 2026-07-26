@@ -28,7 +28,7 @@ toc: true
 
 如果你跟着我们的步骤并动手尝试一下，这只萨摩耶“猎豹”就能拥有它的第一篇成长日记了！
 
-![美图秀 (1)](./base_02.assets/1563518038368123.jpg)
+![美图秀 (1)](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6b/6bbdfd0dddf5aa06ef8f53faf06cc7423235cffe5b96e8e7b9c2017c9d8b9a95.jpg)
 
 ## 第1步 构思
 
@@ -37,7 +37,7 @@ toc: true
 - **一个编译器**
 - **两款浏览器**
 
-![准备](./base_02.assets/image-20220712223312668.png)
+![准备](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/41/414c0f5f2805af78210f569ce0a9236f5d04345c855fcd9caecc1256c250cadc.png)
 
 接下来，请思考以下问题：
 
@@ -57,7 +57,7 @@ toc: true
 
 如果你不会使用软件制作草图，不妨拿出纸和笔亲手绘制。以下作为参考：
 
-<img src="./base_02.assets/Snipaste_2022-07-11_08-46-40.png" alt="Snipaste_2022-07-11_08-46-40" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/80dd6dca187c1a016c63ef3b574a645835a3e532a2f57b047b2658f0a70eec38.png" alt="Snipaste_2022-07-11_08-46-40" style="zoom:25%;" />
 
 - **标题：** 在 html 的元素中，标题用 `<h>` 表示。`<h1>` 至 `<h6>` 分别表示 1 级至 6 级标题，1 至 6 级的标题字体逐渐变小。
 - **段落：** 在 html 的元素中，段落用 `<p>` 表示。段落是文本。它可以是：词、句子、一段或几段的段落。
@@ -73,11 +73,11 @@ toc: true
 
 **首先，** 在桌面新建一个文件夹并用英文小写字母命名，如：`my_first_page`。它将用来存放你第一张网页所需的所有资源。接下来，在这个文件夹下新建一个文件夹并使用英文小写字母命名，如：img。这个文件夹将专门用于存放网页中的图片。
 
-<img src="./base_02.assets/image-20220712230545519.png" alt="image-20220712230545519" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1a/1a79f39d9170dcc6ca65ca6ff79a55f8ac81120973a3336d9c6b2d8f319ecdf4.png" alt="image-20220712230545519" style="zoom:50%;" />
 
 **下一步，** 为萨摩耶“猎豹”的图片命名。如：`dog.png` 。将其放入 img 文件夹中。
 
-![image-20220712231419077](./base_02.assets/image-20220712231419077.png)
+![image-20220712231419077](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c9/c98947602484ff539e44c6e8db790d7b4ae57869d7c64384b9f0edd0a59bd89e.png)
 
 **最后，** 打开编译器。将下列代码块复制到你的编译器中。
 
@@ -106,15 +106,15 @@ toc: true
 
 - **`<h1>` 元素：** 在代码中找到 `<h1>` 元素。在 `<h1></h1>` 之间写入1 级标题的内容。如: 猎豹的成长日记。
 
-![image-20220712232750469](./base_02.assets/image-20220712232750469.png)
+![image-20220712232750469](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/05/0543f9c7dc41303173ae69dc685f24db2a1cee2d3d398d6573dd897f849429ee.png)
 
 - **`<p>` 元素：**在 `<h1>` 元素下找到 `<p>` 元素。在 `<p></p>` 元素之间写入段落内容。如：一句话介绍“猎豹”——我叫猎豹。我是一只萨摩耶。
 
-![image-20220712233102373](./base_02.assets/image-20220712233102373.png)
+![image-20220712233102373](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d0/d03a895749b44fde333797cd45f7df8a6b62ee8b634d8933e1c702e93bdfa537.png)
 
 - **`<h2>` 元素：** 在代码中找到 `<h2>` 元素。在 `<h2></h2>` 之间写入2级标题内容。如：将日记的时间作为 2 级标题——2022年7月13日。
 
-![image-20220712233722866](./base_02.assets/image-20220712233722866.png)
+![image-20220712233722866](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a5/a552d1a7119f45b89f4f49d6b6efcd6982b171f458d2ec8e8915d5352274acc4.png)
 
 目前代码：
 
@@ -152,11 +152,11 @@ toc: true
 
 4. 在代码中找到 `<img>` 元素。在 `<img>` 中的 `src=""` 的双引号之间输入图片路径：`img/dog.jpg`
 
-![image-20220712234128191](./base_02.assets/image-20220712234128191.png)
+![image-20220712234128191](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/03d9cb1efdf9a1546721f68dd658471ae25465a2bc6583826a728fc8bb3ffaf6.png)
 
 - **`<p>` 元素：** 在 `<img>` 元素下找到 `<p>` 元素，在 `<p>` 和 `</p>` 之间写入你想表达的段落内容。如，为“猎豹”的满月照片添加描述——我今天满月啦！主人带我到公园散步。我好喜欢这里的草地。
 
-![image-20220712234330618](./base_02.assets/image-20220712234330618.png)
+![image-20220712234330618](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6b/6b3ff2e36169a0f7b2484ada726d87e3a652fd677c1edf6c88777e76209468f6.png)
 
 现在的代码：
 
@@ -187,7 +187,7 @@ toc: true
 
 保存的路径选择和 img 同路径即可。如下图片：
 
-![image-20220712234831298](./base_02.assets/image-20220712234831298.png)
+![image-20220712234831298](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1d/1d5b0f8067de2510b1ddf95cbc595b01dcc501c79dff34134aab01a4b2b88ee2.png)
 
 ## 第6步 测试运行
 
@@ -195,7 +195,7 @@ toc: true
 
 > 也可以直接双击，一般未修改的情况，html 文件默认使用浏览器打开。
 
-![image-20220712235256551](./base_02.assets/image-20220712235256551.png)
+![image-20220712235256551](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bf/bf1fb63071a07fd722c58fb99bcdfc699a8c80db2d819d5f4a3931ebf376e288.png)
 
 如果你一直跟着我们的步骤操作。相信你已：
 
@@ -214,7 +214,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -230,7 +230,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

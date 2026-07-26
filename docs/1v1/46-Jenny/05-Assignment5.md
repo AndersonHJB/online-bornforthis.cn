@@ -86,7 +86,7 @@ Position yourself in /home. Print only the file/directory name, followed by a co
 
 Example: the output of the command executed by msamorani is this:
 
-![](./05-Assignment5.assets/image-20230608140155182.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f64c97f84b9ef5d3f617c83e7a0bc3110a96337f94d91a382b41991af4416b54.png)
 
 
 
@@ -152,7 +152,7 @@ If the solution you provide is incorrect, you will still receive full marks. But
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -168,5 +168,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

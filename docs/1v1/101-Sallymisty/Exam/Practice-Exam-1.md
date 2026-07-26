@@ -471,7 +471,7 @@ def test_count_isograms():
     assert count_isograms(["abaCCb","abaCCb"])==2
 ```
 
-![](./Practice-Exam-1.assets/image-20251029220015332.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/da/daf30082c0a8c5501db63594ee432c8ef70a98b84ba6678fed4ee7b551bcfe00.png)
 
 ::: code-tabs
 
@@ -516,7 +516,7 @@ $$
 $$
 The main diagonal is `[1, 6, 11, 16]`. More generally, we define the $k$-th diagonal of a square matrix,where $−n < k < n$, is a list of those elements in a diagonal parallel to the main diagonal at a distance $k$ to the main diagonal.$k > 0$ means that the *k*-th diagonal is located to the right of the main diagonal, and $k < 0$ means that it is located at the left.For *k* = 0, the $k$-th diagonal is the same as the main diagonal. Figure below illustrates this:
 
-![](./Practice-Exam-1.assets/TNRRw9HwF9WnV59ubhQY2Nfq.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/10/1067640b2aaa9d1b5bf1534d7583c33376361bfe564662f4eb93a5b882a9805f.png)
 
 In this example, for $k = 1$ the 1st diagonal is $[2, 7, 12]$, and for $k = -2$ the (-2)th diagonal is $[9, 14]$.
 
@@ -551,7 +551,7 @@ def test_kth_diagonal():
     assert kth_diagonal([[1,2,[1,2,3]],[4,5,6],[7,8,"comp7130"]],0)==[1,5,"comp7130"]    
 ```
 
-![](./Practice-Exam-1.assets/image-20251029220058602.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2da3c12c6e772626e3247ca22713bf66da1c4c30a920ba7b6ed482fd03349940.png)
 
 ::: code-tabs
 
@@ -611,7 +611,7 @@ def test_twin_primes():
     assert twin_primes(20) == 5
 ```
 
-![](./Practice-Exam-1.assets/image-20251029221052579.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/75517976f6bee533e98220d2bbe124004fd77f8843c2767b875c7f3b42ee9754.png)
 
 ::: code-tabs
 
@@ -824,7 +824,7 @@ def test_twin_primes():
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)  
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)  
 
 :::
 
@@ -840,7 +840,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://chatgpt.com/g/g-p-675fd5661620819195b2cc64724e6db8-si-jiao-xue-sheng-shang-ke/shared/c/69021be9-0c68-832c-ad94-0fdb6d02b2ec?owner_user_id=user-bHrTM2QL76fKDxPar35Yq951)
 

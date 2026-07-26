@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![欢迎赞助·服务器费用时不时欠费停机～](./07-openclaw-lark-tools.assets/img_1.png)
+![欢迎赞助·服务器费用时不时欠费停机～](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5fa847423f8ea5b09c3b90c14825228367fed37d0c3b33ec6873c2cb85ae20e3.png)
 
 你好，我是悦创。
 
@@ -34,7 +34,7 @@ toc: true
 
 ::: details Image
 
-<img src="./07-openclaw-lark-tools.assets/image-20260324104815427.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/33/33bc6b629b7ea0324415a5e299198d407d204eca03938f767a968235a638c127.png" style="zoom:25%;" />
 
 :::
 
@@ -56,7 +56,7 @@ toc: true
 
     ::: details 崩塌
 
-    ![](./07-openclaw-lark-tools.assets/image-20260324110249801.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c0/c075f8b7eadfc08d809d6e4343afacfac5555f971192af1cf5a972d91cf9f580.png)
 
     :::
     
@@ -107,19 +107,19 @@ npx -y @larksuite/openclaw-lark-tools install
 
 ### 1.1 关联已有机器人
 
-![](./07-openclaw-lark-tools.assets/95d0b3cb-510f-4571-8e26-292acf0d5a18.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/91bc02d8a5254ea4d1fd735ee2136a35d4ae01dd53d365f3f4486e50110742ae.png)
 
 选择关联已有机器人时，若提示无效的 App ID 或 App Secret，可手动输入正确的应用凭证信息。
 
 这个部分不会的话，查看教程：[**🦞立省 500！30 分钟把 OpenClaw 本地部署并在飞书上配到可用**](./03-OpenClaw-step-up.html) 中飞书机器人创建部分。
 
-![](./07-openclaw-lark-tools.assets/55c1af47-0983-4c78-b794-d1992fe58a11.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f6aa3c45d6793ab2878d4597cd55a2a3d24686b28461956b1419897ad4d1da73.png)
 
 ### 1.2 创建新机器人
 
 若选择新建机器人，可通过飞书客户端扫描二维码，选择 **一键创建飞书机器人**。
 
-![](./07-openclaw-lark-tools.assets/d648953f-c94f-4309-829d-48d9d75800ce.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d3/d36e6bed80e47cf889f117b59337aa62edf6ffcfdd76427b862470cf75bcb219.png)
 
 如果 Windows 设备中无法扫码成功，可能是因为终端的分辨率问题导致，建议更换终端使用 [Cmder](https://cmder.app/) 或 [https://conemu.github.io/](https://conemu.github.io/)（我个人使用 ConEmu 比较多）。
 
@@ -135,7 +135,7 @@ npx -y @larksuite/openclaw-lark-tools install
 /feishu start
 ```
 
-![](./07-openclaw-lark-tools.assets/image-20260315174910553.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8d/8db6fad71ad950e17f736063cf62b804322dca5c5da0099bd08ba8a20e3e5375.png)
 
 ### 2.2 快速批量授权
 
@@ -145,7 +145,7 @@ npx -y @larksuite/openclaw-lark-tools install
 /feishu auth
 ```
 
-![](./07-openclaw-lark-tools.assets/image-20260315175824045.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ef/efd434998f3b890d911ac141975a67414159a674fb4382ae6b9943a6d54fc847.png)
 
 ### 2.3 快速学习飞书插件
 
@@ -155,7 +155,7 @@ npx -y @larksuite/openclaw-lark-tools install
 学习一下我安装的新飞书插件，列出有哪些能力
 ```
 
-![](./07-openclaw-lark-tools.assets/image-20260315211712212.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a6/a66c41a2a7eba2cc7ebac16b2f3a421778a6f64313073a325f0ee5656c0edb33.png)
 
 
 
@@ -204,7 +204,7 @@ npx -y @larksuite/openclaw-lark-tools install
 
     :::
 
-    ![](./07-openclaw-lark-tools.assets/82fad43e-e582-423a-9825-fe52995fc7fa.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f2/f2c73b8f3df0228f6b3022bc7a356e3f6e67cb484d2af274d7f34ba117309576.png)
 
 ## 4. 高级配置指令
 
@@ -288,7 +288,7 @@ openclaw config set channels.feishu.footer.status true  # 开启状态展示
 
 流式输出效果如图：
 
-![](./07-openclaw-lark-tools.assets/20260311142301_rec_.gif)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/71/7159fbaf768997d665f737892c60b75fc1dcf5f743ca4480cb22430db4f44d43.gif)
 
 不用流式输出，可运行指令：
 
@@ -347,7 +347,7 @@ openclaw config set channels.feishu.threadSession false
 
 ::: details 点击看图示
 
-![](./07-openclaw-lark-tools.assets/image-20260321212245835.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/87/871e8544484b0e9818cb3273975ef9697e8cddd6bd67f7e0869e9c2d4b7074f4.png)
 
 :::
 
@@ -357,7 +357,7 @@ openclaw config set channels.feishu.threadSession false
 
 ::: details 点击看图示
 
-![](./07-openclaw-lark-tools.assets/Snipaste_2026-03-21_21-28-49.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8b/8bb84d41a901397e0170a29c19169d6dabd9340c61e835b917af7632f3f4173f.png)
 
 :::
 
@@ -440,7 +440,7 @@ openclaw gateway restart  # 重启生效
 
     ::: details 图片
 
-    ![](./07-openclaw-lark-tools.assets/image-20260315230640612.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7e/7eac8b1ae7084057a917ae510fbc5679e2cfb6d9728c09ec0b98ac8ad4e807f2.png)
 
     :::
 
@@ -448,7 +448,7 @@ openclaw gateway restart  # 重启生效
 
     ::: details 图片
 
-    ![](./07-openclaw-lark-tools.assets/image-20260315230742189.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c0/c0ed26936efd9768ce246560870b89fec123fd91f2f0f6147728b882e198273e.png)
 
     :::
 
@@ -500,7 +500,7 @@ openclaw gateway restart  # 重启生效
 
     ::: details image
 
-    <img src="./07-openclaw-lark-tools.assets/f74e334d-c2ef-4a4a-9967-491ba3715899.png" style="zoom:25%;" />
+    <img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bd/bd64a8c10530da5307b0a9272ae8023342e106a732c3f70becef15eee0677d13.png" style="zoom:25%;" />
 
     工具配置检查异常，可根据提示的命令在命令行中运行并配置
 
@@ -533,7 +533,7 @@ npx @larksuite/openclaw-lark-tools doctor
 
 :::
 
-![](./07-openclaw-lark-tools.assets/8565692c-95ab-4b89-957a-5d47ea2e7307.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6c/6c4cd3bdcda40777da3b9ac0435977188047068d5819c73c21423d93dc27c6b2.png)
 
 运行 `fix` 尝试自动修复：
 
@@ -553,7 +553,7 @@ npx @larksuite/openclaw-lark-tools doctor --fix
 
 :::
 
-![](./07-openclaw-lark-tools.assets/938c41b0-2910-4420-b71b-e39ba7b54abc.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2a/2a9f70fd4b03d7f143df922b3759081e3b90d55f3940d42a2a1802079e8310df.png)
 
 如果仍然无法修复，可在评论区反馈信息。
 
@@ -575,7 +575,7 @@ npx @larksuite/openclaw-lark-tools doctor --fix
 
     :::
 
-    ![](./07-openclaw-lark-tools.assets/88bc6b42-981f-4e15-bf33-f15fcfc6918c.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/89/8909fa781231c117c40aa1fd09e51631c366b3706907d4ac5e782b03ee10d8d5.png)
 
 - `--all ` 查看详细配置信息：
 
@@ -603,7 +603,7 @@ npx @larksuite/openclaw-lark-tools doctor --fix
 
     ::: details image
 
-    <img src="./07-openclaw-lark-tools.assets/dde3c4c8-ff2e-4518-9e95-d4672538a8bf.png" style="zoom:50%;" />
+    <img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/53/534e44decbbb00a9dbc96117d5d909fd49e5bf07da22aca0efae94a795f0130b.png" style="zoom:50%;" />
 
     :::
 
@@ -1615,15 +1615,15 @@ npx @larksuite/openclaw-lark-tools doctor --fix
     }
     ```
 
-    ![](./07-openclaw-lark-tools.assets/7bbdec19-be14-4634-8752-525f5658b27f.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/7911408c43c19df210cc5b47c770239c7bdbf14b8bdd27750f95428c5f490332.png)
 
 3. 确认导入权限无误后，点击 **申请开通** 按钮。
 
-    ![](./07-openclaw-lark-tools.assets/e8d4b3eb-b0fc-43d2-987f-6580bcf015c0.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ff/ff1fb45cb7a903859cf2ba9685adb031d99e313094beee0ab1ea6c586bd46380.png)
 
 4. “应用身份权限”可访问的数据范围的设置保持默认 "**与应用的可用范围一致**" ，点击 **确认** 完成操作。
 
-    ![](./07-openclaw-lark-tools.assets/66fefbec-4dbc-4ac7-a132-ce284f9ad381.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/28/288020f6ee5d4740826d9ab466f330143fb99713c1f6c0c4bf8e54b10c8ad896.png)
 
 ### 6.2 插件安装完毕运行后，报 cannot find module xxx
 
@@ -1631,7 +1631,7 @@ npx @larksuite/openclaw-lark-tools doctor --fix
 
 - **解决方法**：进入插件安装目录，运行 `npm install`。
 
-![](./07-openclaw-lark-tools.assets/b3166fdf-f72b-48e4-a6a7-5e567b5798ff.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/62/62b821dc3b3059ecb81b73d8c5e952c6f4633724eac41b47f8956b4f1a95cee3.png)
 
 ### 6.3 升级到 OpenClaw 3.2 版本上无法正常调用工具
 
@@ -1652,7 +1652,7 @@ npx @larksuite/openclaw-lark-tools doctor --fix
 
 飞书官方插件，能以用户身份读写消息、文档等，体验更丝滑；以下对比由 AI 整理，供参考。
 
-![](./07-openclaw-lark-tools.assets/80d02d28-18f8-4da6-915e-ddfae9fefbcc.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/32/3287bba12c29bb46b8f1e6b92bb5cc83f3e95e9743b6fcfd453e86e0602cc59f.jpeg)
 
 ### 6.5 升级到 openclaw 2026.3.22 有问题
 
@@ -1932,7 +1932,7 @@ openclaw logs --follow
 
 ## 9. 插件问题
 
-![](./07-openclaw-lark-tools.assets/image-20260324105451751.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c9/c93e71d23af7e952bc3ddad6fa8cf63906fe48c0d072592f1b39069f7e963069.png)
 
 
 
@@ -1940,7 +1940,7 @@ openclaw logs --follow
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1956,4 +1956,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

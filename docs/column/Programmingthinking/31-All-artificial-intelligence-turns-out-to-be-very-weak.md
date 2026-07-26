@@ -28,7 +28,7 @@ toc: true
 
 **加州大学洛杉矶分校**的科学家把人工智能分成了两类，一类叫**鹦鹉智能**，一类叫**乌鸦智能**。
 
-![鹦鹉](./31-All-artificial-intelligence-turns-out-to-be-very-weak.assets/3a188d28d0d1375d75e525ed570481f8.jpg)
+![鹦鹉](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f5fe50953ffa4189520b65399e42194babad38867564da58cf00727cc367cfa4.jpg)
 
 什么意思呢？我先来给你说说这两种动物。
 
@@ -40,7 +40,7 @@ toc: true
 
 你可能已经学习过乌鸦喝水的故事了。实际上，乌鸦的智慧可能远远超过你的想象。在**日本**有一种**乌鸦**，甚至能把咱们人类当工具使。
 
-![乌鸦](./31-All-artificial-intelligence-turns-out-to-be-very-weak.assets/700d056cea136091ec6f6c6f12c83b48.jpg)
+![乌鸦](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/98/989f677bd443ac40c17ade404f199d40d69fb9de18c053b31ba95babcc5eb01c.jpg)
 
 这种乌鸦喜欢吃**核桃**。但核桃壳多硬呀，乌鸦自己啄不开。于是，聪明的乌鸦就把核桃扔到马路上，等汽车把核桃压碎了，就飞过去捡核桃仁吃。
 
@@ -50,7 +50,7 @@ toc: true
 
 你看，乌鸦就不是简单地模仿了，它们跟咱们人类思考问题的方式有点像。
 
-![](./31-All-artificial-intelligence-turns-out-to-be-very-weak.assets/4777c3381ace41d608a3e7a3dcaf44bd.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d3/d3c1c8f95fa9f24892cff973b224746cfedf1da2dac33b0c396a1e87f8c42dd5.jpg)
 
 人工智能专家认为，咱们今天的**人工智能技术**，比如前面课程里说的**Alpha Go**、**推荐算法**、**语音识别系统**，都只能是**鹦鹉智能**。它们只是在模仿人类的思考过程，并不理解自己为什么要这么做，不能自主思考。
 
@@ -74,7 +74,7 @@ toc: true
 
 规则设计好了之后，科学家就让计算机自己玩捉迷藏游戏了。
 
-![](./31-All-artificial-intelligence-turns-out-to-be-very-weak.assets/e2111ebbce50f6aab7b244d677591e51.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/02/02212636e4b0f60e009a6b097dc1b5691ff002792bf3c1c89a57b9ea492dab28.jpg)
 
 一开始，小红人和小蓝人的智慧还在意料之中，无非就是躲在房间的角落里。后来经过**几百万**次训练，小蓝人学会了用方块把门堵上，不让小红人进来。小红人呢，也渐渐学会了用木板搭一个梯子，闯进房间里。
 
@@ -92,7 +92,7 @@ toc: true
 
 就拿刚刚说过的进化路线来说吧，很多人做类似的实验就完全失败了。
 
-![狼](./31-All-artificial-intelligence-turns-out-to-be-very-weak.assets/855cb9aed03149c5c12eef72ecddd478.jpg)
+![狼](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ac/acb0996b0d53c479864aada9802fb711cfef18599860c782f1bd351a2924e774.jpg)
 
 我也给你举个好玩的例子吧，有一位研究者做了一个**狼捉羊**的模拟实验。本质上跟前边说的捉迷藏游戏差不了多少，只是把小红和小蓝换成了狼和羊。不过，他在制定游戏规则的时候，为了督促狼更快地捕捉到羊，每过一秒种就给狼扣掉0.01分，而狼捕捉到羊可以得到10分。
 
@@ -102,7 +102,7 @@ toc: true
 
 你看，在相似的实验中，人工智能的行为完全不一样，有的学会了聪明的策略，有的却崩溃到自杀。要想通过这种方法，获得非常高级的人工智能，真的是很难的一条路呀。
 
-![](./31-All-artificial-intelligence-turns-out-to-be-very-weak.assets/be2b5f4b8e4306c742ec6dabc30ef07e.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b7/b79a4857eda8cf5e2f0a9d91b5c002949ae65d3fc72531146ff8d9b0d861085b.jpg)
 
 或许，我们需要在**生物**、**数学**、**物理**、**化学**等等，学科上都作出更大的突破，才有可能造出强人工智能，这件事，很可能将来就要靠你完成了。所以现在，你压根就不用担心人工智能会站起来反抗人类。
 
@@ -148,7 +148,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -164,4 +164,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

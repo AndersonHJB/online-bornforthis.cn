@@ -39,23 +39,23 @@ toc: true
 
 @tab img-1
 
-![](./01-Python-development-and-finance-applications.assets/image-20240612192403821.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ee/eed6a4daafb82593e8bcbe226d896de4fb58ee92bcb5a842dd89bd72a379ea91.png)
 
 @tab img-2
 
-![](./01-Python-development-and-finance-applications.assets/image-20240612192425225.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a6/a64204d608c72466b7e55466db511d89395168889f9361339b414505bf535631.png)
 
 @tab img-3
 
-![](./01-Python-development-and-finance-applications.assets/image-20240612192443816.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/9355bad8cc35c780de7861803d88be8d16707cf0c53e442e4066c280cb7badee.png)
 
 @tab img-4
 
-![](./01-Python-development-and-finance-applications.assets/image-20240612192532874.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b7/b77df9da5ed9f29c69158bb6d1177a7f3c8a9b80aea011e25824aa3f63f891ef.png)
 
 @tab img-5
 
-![](./01-Python-development-and-finance-applications.assets/image-20240612192556921.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/05/05b962d6a2e3d1993655afc1fd2eae59c2f2a97930b3ed7b17fdb2cadfcc76e0.png)
 
 :::
 
@@ -85,19 +85,19 @@ toc: true
 
 1. pandas 引入规则
 
-![](./01-Python-development-and-finance-applications.assets/612420573716557824.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6a/6ab25b60d4ea13838aa465ffb25325f806934a0fd95cdb306c33624cd6f84430.png)
 
 2. DataFrame 的定义规则
 
-![](./01-Python-development-and-finance-applications.assets/617765303421775872.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ab/ab08ddfbad8393ebdd69c9218ad52b0c114343fcc888e310c9fbc5054ce1720d.png)
 
 3. DataFrame 的属性
 
-![](./01-Python-development-and-finance-applications.assets/612419150190751744.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bd/bd6db4038d49708e4702ece086fd8f6de706af0ab8b34309b3637e0c530720f4.png)
 
 4. Series 的定义规则
 
-![](./01-Python-development-and-finance-applications.assets/617767085904506880.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/47/47bf38c359c9fe6ae0f8f327ffdde4a25524ed869d5db485c09df94020a4fd25.png)
 
 #### 1.1.3 常见问题
 
@@ -395,7 +395,7 @@ print(area)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -411,7 +411,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

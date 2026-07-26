@@ -346,7 +346,7 @@ For this program you'll be creating a basic chat room that will  support multipl
 
 > 对于这个程序，你将创建一个支持多个参与者的基本聊天室。这里有一个快速的视频展示网站的基本功能应该如何工作（视频展示了运行同一程序的两个不同浏览器窗口）：
 
-![](./35-Assignment09-Lets-Chat.assets/assignment09-2778527.gif)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c2/c2eeacd09f46395869ae18a667aec65e67f103a7ba16798c2f3bff0a13a37437.gif)
 
 
 
@@ -584,7 +584,7 @@ For this program you'll be creating a basic chat room that will  support multipl
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -600,4 +600,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

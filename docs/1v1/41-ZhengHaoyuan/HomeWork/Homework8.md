@@ -40,7 +40,7 @@ Given the following binary search tree bst:
    1     5
 ```
 
-![](./Homework8.assets/image-20231208084715471.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a0/a03ee1fd38e57a38c91c681e055ecc4281d941c4a86641aec168b82ec89a469a.png)
 
 We are executing the following sequence of operations (one after the other):
 
@@ -72,7 +72,7 @@ This function gets a positive integer $n$, and returns a binary search tree with
 
 For example, the call `create_chain_bst(4)` should create a tree of the following structure (with the values *1, 2, 3, 4* inside its nodes in a valid order):
 
-![](./Homework8.assets/image-20231210231157923.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3c/3ce47b8a74abfcc01b403f9ce64f59aa2031b04a7021a9e8c722a174cb51fbd8.png)
 
 
 
@@ -92,7 +92,7 @@ Note: The number of nodes in a complete binary tree is $2^k-1$, for some non- ne
 
 For example, the call `create_complete_bst(7)` should create a tree of the following structure (with the values *1, 2, 3, 4, 5, 6, 7* inside its nodes in a valid order):
 
-![](./Homework8.assets/image-20231210232127010.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ad/ad50c57b50df66f4bc2be24664771c0eb0af8215c83eb0cf4ee585b66f8fad64.png)
 
 You are given the implementation of `create_complete_bst`:
 
@@ -310,7 +310,7 @@ When called, it creates and returns the binary search tree that when scanned in 
 
 For example, the call `restore_bst([9, 7, 3, 1, 5, 13, 11, 15])`,should create and return the following tree:
 
-![](./Homework8.assets/image-20231210235114908.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/305a2f6a855dbec32ac803219877ec49b0e7c54f953ccd320b3d690d697951b6.png)
 
 Notes:
 
@@ -377,7 +377,7 @@ When called, it returns the **minimum absolute difference** between keys of any 
 
 For example, if bst is the following tree:
 
-![](./Homework8.assets/image-20231214085547139.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ce/ceb670a81b4f33e71d4f2c3188e52ef81eb233e9f46915f56c537cf1f9f51638.png)
 
 
 
@@ -752,7 +752,7 @@ class BinarySearchTreeMap:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -768,4 +768,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

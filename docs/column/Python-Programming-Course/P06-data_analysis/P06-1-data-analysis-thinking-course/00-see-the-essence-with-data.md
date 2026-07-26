@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](./00-see-the-essence-with-data.assets/5c4c3352001d7bba6354458572e49186.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f7/f751a6d55434e9d3d6cdac6159c871503fbc1f713f245fb1a16b0d4d88ef734a.jpg)
 
 你好，我是悦创。
 
@@ -76,7 +76,7 @@ toc: true
 
 数据分析非常复杂，它融汇了数学、统计学、计算机科学、管理学等一系列的学科。
 
-![](./00-see-the-essence-with-data.assets/8d7e78dae9a1130166811550d59c20de.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ba/ba658018611c0f157e35a72640c382fa537816a66749f4e0617686552f06f11f.jpg)
 
 这门课只是一个入门，无论你是文科生还是理科生，无论你是程序员还是产品经理，无论你是高管还是普通的初出茅庐的学生，通过这门课，**我都希望能让你对数据分析产生兴趣，让你具有数据思维，以后不管是面对生活还是工作，都可以有一双通过数据看透事物本质的眼睛。**
 
@@ -112,7 +112,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -128,4 +128,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

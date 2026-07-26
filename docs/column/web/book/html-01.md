@@ -28,7 +28,7 @@ toc: true
 
 各位 AI悦创的小伙伴们，大家好，从今天开始，我们一起来学习 HTML。如果我们要编写网页，那么我们肯定离不开 [HTML教程](./html-01.md)。HTML 组成了每个网页的基本结构，不管是我们的企业门户网站，还是例如淘宝，京东这种复杂的电商网站，要完成网页的搭建，第一步都是 HTML ，那么 HTML 到底是什么呢？让我们一起探索吧。
 
-![HTML](./html-01.assets/5f8fc9d909a139e909250515.jpg)
+![HTML](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6e6a5e9bdfa9ecbe9d333e0b8a9f7d6f66abbf9f476f3b7d8b15c76a78758737.jpg)
 
 ## 1. 什么是 HTML
 

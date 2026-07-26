@@ -57,7 +57,7 @@ print(c)
 
 两个杯子实现：
 
-![image-20220821093010404](./02-Cocos.assets/image-20220821093010404.png)
+![image-20220821093010404](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d5/d5f0560439695b7f82c71812243038cd53669c74ce42920d9b6e7b28c1371236.png)
 
 那能否一个杯子实现呢？
 
@@ -121,7 +121,7 @@ brew install git
 
 ## 7. 注册 GitHub
 
-![Snipaste_2022-08-21_10-39-38](./02-Cocos.assets/Snipaste_2022-08-21_10-39-38.png)
+![Snipaste_2022-08-21_10-39-38](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bf/bf6a5ec7334474a9357ceaa031f0042c1cc3663b39ad0c3d04406cdf43d49162.png)
 
 ## 课后反馈
 
@@ -138,7 +138,7 @@ brew install git
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -154,7 +154,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

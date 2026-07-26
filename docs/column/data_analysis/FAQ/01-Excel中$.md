@@ -27,7 +27,7 @@ toc: true
 
 ## 问题
 
-![image-20220823101333152](./01-Excel中$.assets/image-20220823101333152.png)
+![image-20220823101333152](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c8/c839e9dd00db104b47c20c2b3786da281c05f99885a82e7998f2c524a3cd2c3d.png)
 
 ## Excel 里 $是什么意思
 
@@ -55,7 +55,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -71,4 +71,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

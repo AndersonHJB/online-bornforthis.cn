@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: web1
 title: Python Flask Web开发入门与实战
-heroImage: /ColumnImages/Python-Flask/intro-to-cloud.d49bc5f7.jpeg
+heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d7/d79a8b8c79513eca7210a09910e1e66ba14f39dc05fc56f199075a5ea3fc065c.jpeg
 heroText: Python Flask Web
 heroFullScreen: false
 tagline: Python Flask Web开发入门与实战
@@ -82,7 +82,7 @@ Flask 也被称为 “microframework” ，因为它使用简单的核心，用 
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -98,4 +98,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

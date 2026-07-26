@@ -21,7 +21,7 @@ copy:
     disableSelection: true
 ---
 
-![](./17-cause-effect-counterfactual-dilemma.assets/202012111613596961257787.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c506ba3215c21f1b08d8b1c28c847c7fad6b39886dd28fcdc638f4e2bde5da44.jpeg)
 
 你好，我是悦创。
 
@@ -171,17 +171,17 @@ copy:
 
 > 蒙太奇手法：
 >
-> ![](./17-cause-effect-counterfactual-dilemma.assets/img.jpg)
+> ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a442f2b7248be2103b2005e0cb0732646a2fe873669122dcaffc72f84101095e.jpg)
 >
 > 另外一个实验：库里肖夫拍摄了三个镜头，一个演员微笑的特写，一个左轮手枪的特写
 >
 > 以及一个演员看起来很害怕的特写正常顺序连接，便是一场很正常的戏份：
 >
-> ![](./17-cause-effect-counterfactual-dilemma.assets/qss.jpg)
+> ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d412c6d899202101ca1fa92982a04b8795728e3d97f95207ddd7305e3d3032bb.jpg)
 >
 > 但是如果颠倒两个表情镜头，人物性格在观众这里便会变成了勇敢。
 >
-> ![](./17-cause-effect-counterfactual-dilemma.assets/spsp.jpg)
+> ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6b/6b5ba567cda3cab5627c92d760478d78f2290f6c297aa831f93b0f6bf845d357.jpg)
 >
 > [https://qzcut.com/2023/11/filmtheory/830/](https://qzcut.com/2023/11/filmtheory/830/)
 
@@ -1489,7 +1489,7 @@ if __name__ == "__main__":
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1505,4 +1505,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

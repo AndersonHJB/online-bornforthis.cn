@@ -49,7 +49,7 @@ def min_and_max(bin_tree)
 
 When called on a `LinkedBinaryTree`, containing numerical data in all its nodes,it will **return a tuple**, containing the maximum and minimum values in the tree.For example, given the following tree:
 
-<img src="./Homework7.assets/image-20231126232706659.png" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b5/b5b02702af431a446f8f79fd9f5beff2131ee246f484cafc0ab1234d76e9182a.png" style="zoom:33%;" />
 
 Calling `min_and_max` on the tree above, should return (1, 9).
 
@@ -431,7 +431,7 @@ We say that a binary tree *T* satisfies the **Height-Balance Property** if for e
 
 For example, consider the following two trees. Note that in these figures we showed the height of each subtree to the right of each such root, in a (small) red font:
 
-![](./Homework7.assets/image-20231128102508223.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/47/47ae1084b092bc6d5c30c1e2706b62ebe2138fbef3f459f484696254d67ec358.png)
 
 The tree on the left satisfies the height-balance property, while the tree on the right does not (since the subtree rooted by the node containing 2 has one child with height 2 and the second child with height 0).
 
@@ -748,7 +748,7 @@ When called, it creates and returns a `LinkedBinaryTree` object, that is the exp
 
 For example, the call: `create_expression_tree('* 2 + - 15 6 4')` will create and return the following tree:
 
-![](./Homework7.assets/image-20231129085154864.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f5f1a09087c759f5ff68fd5ab53de5c425a8cd2b833ea14e3d2c4e485b6cb321.png)
 
 
 
@@ -1104,7 +1104,7 @@ print(postfix_expression)  # 应该打印出: '2 15 6 - 4 + *'
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1120,4 +1120,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

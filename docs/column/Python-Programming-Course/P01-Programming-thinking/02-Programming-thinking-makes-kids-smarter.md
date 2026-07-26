@@ -20,7 +20,7 @@ toc: true
 
 当我们提到“编程”，很多人脑海里浮现的第一画面，可能就是程序员对着电脑飞快敲打键盘的样子。确实，写代码是编程的一部分。但如果你以为这就是全部，那就太小看它了。实际上，编程的精髓远不只是写出一行行代码，而更在于培养一种独特的思维方式——也就是“编程思维”。
 
-![](./02-Programming-thinking-makes-kids-smarter.assets/IMG_4161.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9c/9c276f85c31d25806f053025a54932354794f3a7ea77b88e4b582e22f2236d4a.jpg)
 
 ## 1. 什么是编程思维？
 
@@ -28,7 +28,7 @@ toc: true
 
 还记得在数学课上学过的各种面积公式吗？你可以轻松算出长方形或圆形的面积。但如果我现在在纸上画了一只憨态可掬的大熊猫，让你来计算它到底占了多少面积，你会怎么办呢？
 
-![](./02-Programming-thinking-makes-kids-smarter.assets/raw.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/38/383e151a23c71bd44465d5dc5fddd39297c0f2cc9eccecbbed4e95b58e81458d.png)
 
 这时候，编程思维就派上用场了。
 

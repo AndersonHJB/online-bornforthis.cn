@@ -136,7 +136,7 @@ source .venv\bin\activate
 
 我们先进入到 `finetune_demo` 文件夹，使用的虚拟环境还是前面一篇的虚拟环境。接着执行 `pip3 install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple`，过程中报了一个错。
 
-![](./04-Model-Fine-tuning-How-to-Build-a-Large-Model-of-Basic-Legal-Knowledge-Based-on-ChatGLM3-6B-Lora.assets/329d37d53d4894b70461yy7d4ac1b306.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b684a7c2725a72bdc5e7f6b13af5565acf5396f5bc6bd180dfe39dc91ff62e6f.png)
 
 原因是缺少 libopenmpi-dev 库，我们使用下面的命令安装：
 
@@ -223,13 +223,13 @@ python3 finetune_hf.py data ../model configs/lora.yaml
 
 如果控制台输出下面这些内容，则说明微调开始了。
 
-![](./04-Model-Fine-tuning-How-to-Build-a-Large-Model-of-Basic-Legal-Knowledge-Based-on-ChatGLM3-6B-Lora.assets/image-20250430131453611.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f6b0c186575c26af4c64386bcee5d1178f691d581768bb24aa631d13174553d7.png)
 
 trainable params 指的是在模型训练过程中可以被优化或更新的参数数量。在深度学习模型中，这些参数通常是网络的权重和偏置。它们是可训练的，因为在训练过程中，通过反向传播算法这些参数会根据损失函数的梯度不断更新，以减小模型输出与真实标签之间的差异。通过调整 `lora.yaml` 配置文件里 `peft_config` 下面的参数 r 来改变可训练参数的数量，r 值越大，trainable params 越大。
 
 我们这次微调 trainable params 为 1.9M（190 万），整个参数量是 6B（62 亿），训练比为 3%。
 
-![](./04-Model-Fine-tuning-How-to-Build-a-Large-Model-of-Basic-Legal-Knowledge-Based-on-ChatGLM3-6B-Lora.assets/image-20250430133947263.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ca/ca82e974e4b96deed1a58b311be7d99c221ee27a67bec97b4eeb4afbd2dea1f3.png)
 
 这里有几个参数我来简单讲解下：
 

@@ -44,13 +44,13 @@ toc: true
 
 ### 1.3 网络爬虫的原理
 
-![](./stage1_spider1.assets/1596514058635-e2da370b-e4e0-4f38-a522-c08e471f16f4.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e8/e8412fe8f64a62ed040df28aa64e448905bddbc60424eb45552f227dd45e6cac.png)
 
 如果正确返回了网页response，就构成了了一次爬虫行为，接下来我们要做的就是解析页面，获取我们需要的信息了。
 
 一般流程如图所示：
 
-![](./stage1_spider1.assets/1596514058626-0ce8cc04-4533-4ffb-b390-2777edd9c428.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/79d48f49b88adb7b78eb606f24b977eb2b2d9d8ad4468c055229e2bb1d5735c4.png)
 
 1）从基础URL开始爬行
 
@@ -102,7 +102,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -118,4 +118,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

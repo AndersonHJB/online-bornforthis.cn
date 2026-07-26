@@ -70,7 +70,7 @@ else:
 
 但问题来了，如果用户又输入错了怎么办？如果用户连续输错三次、五次甚至更多次呢？显然这种嵌套的写法是不现实的，程序不仅会变得非常复杂、难以维护。并且代码就像楼梯一样，越来越多。并且在不知道用户会输入错几次情况下，你这个楼梯要做多少级台阶呢？一图胜千言，看下图体会：
 
-![](./11-python-while.assets/嵌套if.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/31/314081851192f16f2af02cadfffcab85e4c5e11588bf34460d3cc60a2d7e6c6d.png)
 
 
 

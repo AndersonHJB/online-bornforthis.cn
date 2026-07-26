@@ -30,21 +30,21 @@ MacOS 基于 Unix，自带 Python2.7 工具。
 
 （1）先去下载 Anaconda 软件，推荐官网或者清华镜像站，如下图：
 
-![1](./auto_base04.assets/1576566333903203.png)
+![1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/13/135d6acc3646ac07a3a2656bfaf3af7cfc266762b7154b54f1e783cd9d0a6495.png)
 
 推荐的版本是 Anaconda3-4.4.0，MaxOS 有两种格式，一个是 pkg 安装程序，另一个是 sh 代码文件。推荐 pkg 文件，这个是 MacOS 的安装程序格式。
 
 （2）下载好之后，双击安装，会弹出安装提示窗口：
 
-![2](./auto_base04.assets/1576566339640101.png)
+![2](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/32/3222adfb031e435db4377b6d1ed6e8f1179bb023586c368acec96396e08caf28.png)
 
 （3）点击继续，跟着提示，同意协议、选择路径、同意安装、安装中、VSCode 选择【可以不要】、安装完成，如下图：
 
-![3](./auto_base04.assets/1576566346116874.png)
+![3](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/10/109aaa4eb8614042d2475d6757d04481446b69469b8426f9ab258a8b434a488b.png)
 
 （4）点击关闭，然后在 MacOS 系统中搜索下，就可以看到已经安装好的 Anaconda 程序了，如下图：
 
-![4](./auto_base04.assets/1576566352422819.png)
+![4](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/eb/ebd26709b4e574107d5f3d5212657a3f40cbfee31304e3e1a34c44bfc9377d99.png)
 
 （5）安装好之后，打开三个 Terminal 终端，分别输入 conda、python、pip 并回车，这三者应该都有对应的输出，并且 python 的版本你是 3.6。
 
@@ -54,7 +54,7 @@ MacOS 基于 Unix，自带 Python2.7 工具。
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -70,7 +70,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

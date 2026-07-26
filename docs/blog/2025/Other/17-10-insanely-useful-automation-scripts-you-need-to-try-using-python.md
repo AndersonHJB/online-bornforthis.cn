@@ -19,7 +19,7 @@ backToTop: true
 toc: true
 ---
 
-![](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/1*phOUoMPqmB3h67HUtD7Esg.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/70/7037abd509674afc2214f5d144a4e9c204289ff812593916037fc1e05f93b6b2.png)
 
 ### Python’s Second Name is Automation
 
@@ -126,11 +126,11 @@ if __name__ == "__main__":
     create_gui()
 ```
 
-![TaskTock Output — A MultiTask Reminder App — GIF Created By Author](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/0*XbhtG84BTjei65B4.gif)
+![TaskTock Output — A MultiTask Reminder App — GIF Created By Author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b8/b8897f9be5e47d093b4fb87c9e6271a95079ef54623c5caadce8332fcc407218.gif)
 
-![TaskTock Notification — Screenshot By Author](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/0*-7IxpI0q6wHwlIMC.png)
+![TaskTock Notification — Screenshot By Author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4f/4fc51989c1e838b96672c12fd2c801a3753dac1f7368901024f2e68c82c33394.png)
 
-![Generated Reminder Logs — Screenshot By Author](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/0*fUcjsJWLGn9QPELh.png)
+![Generated Reminder Logs — Screenshot By Author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a2/a2063477edea2ebe39f004080379b72845359b949fda362fc7e973da69eb0882.png)
 
 ### Script Applications —
 
@@ -141,7 +141,7 @@ if __name__ == "__main__":
 
 Writing clean, efficient code isn’t just a good practice — it’s essential for building scalable, maintainable projects. Yet, ensuring code quality can feel like an uphill battle, especially when you’re working with large codebases or tight deadlines. The process of spotting vulnerabilities, linting issues, or logical inconsistencies can quickly become overwhelming without the right tools.
 
-![Looking for coding errors — TenorGIF](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/0*M2rdoFOs4dSPnuc-.gif)
+![Looking for coding errors — TenorGIF](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/79c3bccf12a5736e1549aa763e5fe1d21dbfe79ed40d38da5a8b675cc0cd85da.gif)
 
 This automation script makes use of Black, Flake8, and Bandit libraries to scan your code directories for any logical or linting errors by comparing your code against well-defined coding standards. It not only scans your code but also generates logs which you can refer to later and improve your codebase standards.
 
@@ -190,11 +190,11 @@ if __name__ == "__main__":
     analyze_code(directory)
 ```
 
-![Output for a code quality review on one of my old directories containing multiple automation scripts that were used in part 7 of this automation series — GIF created by Author](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/0*fcmgb91YNY7ionCg.gif)
+![Output for a code quality review on one of my old directories containing multiple automation scripts that were used in part 7 of this automation series — GIF created by Author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/14/147e5a5ec494f30349abcc8bd017b4cb4af23e8bb4e6e0231f136e39628209c2.gif)
 
-![Generated Code Quality Review Log Files — Screenshot By Author](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/1*RvqaMl2jHtRNpMxXdzm9uA.png)
+![Generated Code Quality Review Log Files — Screenshot By Author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1e/1e115475a2f6fdb73cb1f68da04fa81af01cc95c7acbc485198d507781e229ae.png)
 
-![Generated Logs for one of my old script that cartoonize an given image — Bandit vs Flake8 — Screenshot By Author](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/image-20250218234639028.png)
+![Generated Logs for one of my old script that cartoonize an given image — Bandit vs Flake8 — Screenshot By Author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3e/3e161113248151dcb574ec8143a09205e8caea8c4237f2644a933a07f27f7197.png)
 
 ## 3. DNSFetcher
 
@@ -268,7 +268,7 @@ if __name__ == "__main__":
     display_results(domain, results)
 ```
 
-![DNSFetcher Script Output — Screenshot By Author](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/0*IKghte29cFBu6f2H.png)
+![DNSFetcher Script Output — Screenshot By Author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/75325bd6eeb885ba73173285f2adb55c9f7a227b393dfdfd4b795b3d4766a38d.png)
 
 ## 4. Clipboard Manager 2.0 📋
 
@@ -332,7 +332,7 @@ listbox.bind("<Double-Button-1>", copy_to_clipboard)
 root.mainloop()
 ```
 
-![Clipboard 2.0 Output — GIF Created By Author](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/0*zL4OswO9PoucgVJM.gif)
+![Clipboard 2.0 Output — GIF Created By Author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ef/eff16df2b03fa62d5d7776c24617be8d6f76024a25e40f11c8edbaab4190ee4d.gif)
 
 ### Script Applications —
 
@@ -345,7 +345,7 @@ root.mainloop()
 
 In our fast-paced world, capturing fleeting ideas, reminders, or thoughts often feels like a race against time. Voicenotes have become an indispensable tool for people juggling busy schedules, creative brainstorming sessions, or personal reflections. Whether it’s a flash of inspiration during your commute or a to-do list for the day, Voicenotes offers a quick, hands-free way to record and revisit important moments without the hassle of writing things down.
 
-![Even Joe the Monkey uses VoiceNotes… What’s Stopping You ??](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/0*pZAFe75_vPrEc9Xs.gif)
+![Even Joe the Monkey uses VoiceNotes… What’s Stopping You ??](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/21/21bc63babb8e6f1fc5364783f9d116ef9368c76a2a2a36bd31b82515ed156f75.gif)
 
 However, managing Voicenotes can be tricky. Manually creating and organizing them often leads to cluttered storage, lost files, or missed insights. The process can feel frustrating when you’re already pressed for time. It’s easy to forget to save those notes securely or structure them in a way that makes finding them later simple and efficient.
 
@@ -463,7 +463,7 @@ footer_label.pack()
 root.mainloop()
 ```
 
-![Memoir GUI — Screenshot By Author](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/0*07QA5fkMbTO9ue7j.png)
+![Memoir GUI — Screenshot By Author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/07/07e92faf0b4be8e176ea779ff8dd863d1a56fe977dc79999bcafddfea3e4176a.png)
 
 Whether you’re a student, a professional, or just someone who loves to capture ideas on the go, Memoir makes recording your thoughts effortless and stress-free.
 
@@ -578,7 +578,7 @@ else:
             st.error("Please enter text to process.")
 ```
 
-![Automation Script Output GIF — GIF Created By Author](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/0*K0I57HfqQpohrMgY.gif)
+![Automation Script Output GIF — GIF Created By Author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/24/2493ceabae3a17478f9914abe12d64e2ce5edba3997649764910e6d3489a8267.gif)
 
 ### Script Applications-
 
@@ -626,7 +626,7 @@ if __name__ == "__main__":
     organize_files_by_date(directory_to_organize)
 ```
 
-![Before vs After Automation Script Run — Screenshots By Author](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/image-20250222192550790.png)
+![Before vs After Automation Script Run — Screenshots By Author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3bbab4e25bd27d3dd5114c03a94c4d38931f44bdbfc697d015192fe32e871e6b.png)
 
 ## 8. WorkWatch 👀
 
@@ -752,11 +752,11 @@ if __name__ == "__main__":
     app = TaskTrackerApp(root)
 ```
 
-![WorkWatch Output — GIF Created By Author](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/0*5k2OPFq5QoXhSh7l.gif)
+![WorkWatch Output — GIF Created By Author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5f6ce1fb94abf662af2b84c18233ae7e00e6ae0ed1d8767b96dbfdd2b9fc0d49.gif)
 
-![WorkWatch GUI — Screenshot By Author](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/0*OR9PSgm3oGIBhiSi.png)
+![WorkWatch GUI — Screenshot By Author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/9302553d7333ae2e92d17fbfc3fdca3947e51be0d3886c22c0bd2ef179b61cfa.png)
 
-![Sample Generate WorkWatch Time Logs — Screenshot By Author](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/0*3xCKsP3A_T37csVr.png)
+![Sample Generate WorkWatch Time Logs — Screenshot By Author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/69/69fa573e1e8464bc3c552761b4c23864fee4b9ad3b10e3de948f9f4db006f13f.png)
 
 ## 9. WordTracker
 
@@ -869,7 +869,7 @@ if __name__ == "__main__":
     root.mainloop()
 ```
 
-![WordTracker Script Output — 50 Word Milestone limit — GIF By Author](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/0*NStf1SR9SwsKldur.gif)
+![WordTracker Script Output — 50 Word Milestone limit — GIF By Author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fe/fef43bef0cf6e0998e5161bc12e02fb4d9d0b9b39472bacdd38ae369bacd2ba6.gif)
 
 “Don’t forget to Clap 👋 If you liked the Article.”
 
@@ -879,7 +879,7 @@ if __name__ == "__main__":
 
 Have you ever heard of the Pomodoro Technique? The Pomodoro Technique is a productivity method developed by Francesco Cirillo in the late 1980s. It’s based on the idea of breaking work into intervals, traditionally 25 minutes in length, separated by short breaks. These intervals are known as “pomodoros” (Italian for “tomato,” named after the tomato-shaped timer Cirillo used).
 
-![You can be productive tooo….. Just use PomodoroPro 😎- TenorGIF](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/0*iGtTehQ3xtcA5mFc.gif)
+![You can be productive tooo….. Just use PomodoroPro 😎- TenorGIF](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4e/4eafcc03c1676cf6b36a4a4b9b96a1353e689f4bb1dfb7db06243473f2a19a7c.gif)
 
 I’ve personally used this technique for a while by setting up an alarm or timer for 25 minutes while working on long projects. However, I often found myself skipping the break, as nothing was forcing me to step away from my work. So, I decided to create a solution to this problem: an automation script that not only keeps track of the Pomodoro timer but also locks my device when the timer runs out, ensuring that I’m forced to take a break.
 
@@ -960,7 +960,7 @@ if __name__ == "__main__":
     root.mainloop()
 ```
 
-![A Sample Script Run using 5 Sec Pomodoro Timer — GIF Created By Author](./17-10-insanely-useful-automation-scripts-you-need-to-try-using-python.assets/0*Ta3k6Jc3mgyz-Gxu.gif)
+![A Sample Script Run using 5 Sec Pomodoro Timer — GIF Created By Author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/db/db2431af1eb1fa181852a3055dbbd20016bfffc4c99b818fd9829e6c8813a8ae.gif)
 
 
 
@@ -972,7 +972,7 @@ if __name__ == "__main__":
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -988,7 +988,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://medium.com/pythoneers/10-insanely-useful-automation-scripts-you-need-to-try-using-python-4fa538a9152b)
 

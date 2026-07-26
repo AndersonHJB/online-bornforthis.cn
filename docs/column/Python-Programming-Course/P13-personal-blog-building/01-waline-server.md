@@ -193,7 +193,7 @@ chmod 600 /www/wwwroot/waline/.env
 
 ### 7.1 宝塔部署
 
-![](./01-waline-server.assets/image-20260122195153248.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2b/2ba99f3926b20b609830a9d165b12f981492033efb6b34bec23144d7d0dc5718.png)
 
 ```bash
 项目目录:/www/wwwroot/waline
@@ -753,7 +753,7 @@ chmod +x /www/wwwroot/waline/start.sh
 
 ::: details 宝塔参考
 
-![](./01-waline-server.assets/image-20260123183051804.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e0/e051d2aac7cfb46acee047dba256be7decd7a4ef8f435c0a58625de98379cac0.png)
 
 :::
 
@@ -866,21 +866,21 @@ export JWT_TOKEN=35e4f130dc01530e4fc4ce8e2a8cd7ec02a67336ad5ac037af2e18a5b72cb1a
 
 ### 10.1 报错 1：`500: SQLITE_ERROR: unrecognized token: "'user:794118636@qq.com"`
 
-![](./01-waline-server.assets/image-20260213220924896.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5f6e414983e83579da4ba8620f165b4b07f75982a95c5fe9d2279a8b5eac3580.png)
 
 使用文本编辑器，进行查找此邮箱：
 
-![](./01-waline-server.assets/image-20260213221329462.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/63/63efe7de6f32fb5262f035b83d0f9e2470a7c889ec175737452c097080980f37.png)
 
 再次导入，即可正常。
 
 ### 10.2 报错 2：`500: SQLITE_CONSTRAINT: NOT NULL constraint failed: wl_Users.display_name`
 
-![](./01-waline-server.assets/image-20260213224308346.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/73/73a139db693d4876cd852c8357ac8de3eb750398c9adaa772322b6d4fd62276b.png)
 
 排查问题：
 
-![leancloud 马上倒闭了～](./01-waline-server.assets/image-20260213225526159.png)
+![leancloud 马上倒闭了～](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a46e49881c22a7f142642a76f8d108d5e99cef6e20bb0692bdb948275b318067.png)
 
 leancloud 中数据确实有一条没有**用户名称**所以，需要自己利用对应的 `objectId` 来进行定位，可以选择：删除此数据或者添加 `display_name` 。
 
@@ -892,7 +892,7 @@ leancloud 中数据确实有一条没有**用户名称**所以，需要自己利
 
 链接：[https://chatgpt.com/share/698f3c35-f248-8001-98bb-8602ccaf00e5](https://chatgpt.com/share/698f3c35-f248-8001-98bb-8602ccaf00e5)
 
-![](./01-waline-server.assets/image-20260213225931859.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/45/4558b7c8bfe7bdb0a9c16a29a3e34160e1140dfe2a70b5adbc3c0c428fbee9eb.png)
 
 
 
@@ -916,7 +916,7 @@ leancloud 中数据确实有一条没有**用户名称**所以，需要自己利
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -932,4 +932,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

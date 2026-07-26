@@ -20,7 +20,7 @@ toc: true
 
 ## 1. 基于对象的编程？
 
-![](./25-How-to-build-cars-with-the-idea-of-establishing-archives.assets/lllll.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/54/54b984fc9b1aa4e664523c02896ff6e6c9b0b3195f3ff7da717d2b891615915e.png)
 
 想象一下，你是一个班主任老师，新学期刚开始，学校让你做点小统计：全班的平均身高是多少？你于是让大家报一下身高，快速一算，搞定。
 
@@ -34,7 +34,7 @@ toc: true
 
 无论身高也好，成绩也好，这些信息都是和学生有关的。我们可以在电脑里给每一位学生**建立一个档案**，把他们的身高、体重、年龄、各科的考试成绩、甚至是家庭住址和家长联系方式全都输进去。
 
-![](./25-How-to-build-cars-with-the-idea-of-establishing-archives.assets/raw-20250424190706506.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4f/4fce7f9cf62024e1f3b7fbd9016f0290263262aa992c8e46d03689f27a32cee8.png)
 
 这样一来，想查啥信息，直接翻档案就行，不用一遍遍地收集。比如查数学成绩，只需要看每个人档案里的“数学”字段就行了。是不是很省事？具体在计算机里面操作则是：在需要查看的时候，只需要在计算机输入指令，比如：
 
@@ -86,7 +86,7 @@ toc: true
 
 工程师们最关注的不是这一堆堆数据，而是汽车的各个部件能顺利运行。
 
-![](./25-How-to-build-cars-with-the-idea-of-establishing-archives.assets/raw-20250424151323349.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f1/f1b068c6de971909a852ac40be8e0ff1b8b7b2352af787c90d1d2149971000d8.png)
 
 所以他们来说，**把发动机、车轮等等部件看成一个个对象**更合适。每个对象拥有自己的一份“档案”，接着就可以像建立学生档案一样，把和发动机、车轮有关的信息都打包好，塞进对应的档案里。
 
@@ -100,9 +100,9 @@ toc: true
 
 下面我提供了两张图示，尽可能让你理解上面我所描述的内容：
 
-![](./25-How-to-build-cars-with-the-idea-of-establishing-archives.assets/raw-20250424154438412.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a9cb29fd29fbcc4cc9ef3280d1374999d31d0fcd76b1c421b512dc87e6e0c5cf.png)
 
-![](./25-How-to-build-cars-with-the-idea-of-establishing-archives.assets/101010.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4f/4f6f6c0b9a509b8babc5e97258f7fb93f2255d1085ec7fb7907258299e7d39a1.png)
 
 这样一来，不但每个部件的数据井然有序，还能做到以下几点好处。
 
@@ -140,7 +140,7 @@ toc: true
 
 ## 4. 用对象思维做饭，也挺香！
 
-![西红柿炒鸡蛋](./25-How-to-build-cars-with-the-idea-of-establishing-archives.assets/raw-20250424165636538.png)
+![西红柿炒鸡蛋](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/13/131f355ee34ade6a8a9b0a2aa7e4a468aac3ae135ddec752e558dac327e67deb.png)
 
  这种编程思想对生活也特别有用，不信你试试做西红柿炒鸡蛋。
 
@@ -150,7 +150,7 @@ toc: true
 
 但如果你用基于对象的编程思维来看待这事，就不容易出错了。
 
-![](./25-How-to-build-cars-with-the-idea-of-establishing-archives.assets/raw-20250424170548623.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3b7bcb2064beebca4d7025489d97acb38119a38898cdd10994cf54b0b5e3b4a7.png)
 
 你想，不管炒鸡蛋一共有几步，你需要操作的对象只有3个：**鸡蛋、西红柿、还有调料**。
 

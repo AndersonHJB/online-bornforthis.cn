@@ -42,13 +42,13 @@ Find in Path的使用：
 
 如下图所示，在Text to find输入要查找的内容，可以说某个字符串，或者某个变量，再点击Find按钮，查找结果会显示在下方。
 
-![](./How-does-pycharm-find-a-keyword-globally.assets/image-20230221234709064.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/ea7e8de3eeec63ad72b1a981ff25ef7b6915b0c2df343d5175586f682aa0c2b2.png)
 
 匹配关键字结果如下图所示：
 
-![](./How-does-pycharm-find-a-keyword-globally.assets/image-20230221234751518.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ff/ffe43b43fcc35f1d562ba8e5106451b80c6e2b2140c2bbfae60e1de1a3fe6876.png)
 
-![](./How-does-pycharm-find-a-keyword-globally.assets/1364097-20181224131506872-458257116.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5d/5d65e29787dfd00b013dd7b89ce19a447489ff5e5cbe47c177e44a6ec2f9538c.png)
 
 
 
@@ -56,7 +56,7 @@ Find in Path的使用：
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -72,4 +72,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

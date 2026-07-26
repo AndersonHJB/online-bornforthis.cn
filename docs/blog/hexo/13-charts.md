@@ -24,7 +24,7 @@ toc: true
 - [https://blog.bornforthis.cn/charts/](https://blog.bornforthis.cn/charts/)
 - 代码修改参考：[https://github.com/AndersonHJB/AndersonHJB.github.io/commit/a42feb4cde392db0f082945fe14badf7191a7336](https://github.com/AndersonHJB/AndersonHJB.github.io/commit/a42feb4cde392db0f082945fe14badf7191a7336)
 
-![](./13-charts.assets/image-20240830235046385.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/725f44ef872bd0fb19a1e9698b43600bc1c0f4a896e0d693aa4c25c0bf71b350.png)
 
 ## 2. 代码实现
 
@@ -495,7 +495,7 @@ aside: false
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -511,7 +511,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

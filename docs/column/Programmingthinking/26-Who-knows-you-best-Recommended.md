@@ -26,7 +26,7 @@ toc: true
 
 诶，是不是哪里有一双眼睛一直在看着我们，偷窥我们内心的小秘密？这双眼睛，就是推荐算法。今天，咱们就来给你看看推荐算法是怎么发挥作用的。
 
-![亚马逊网](./26-Who-knows-you-best-Recommended.assets/7d0beeefc948cf5e3c6010dd927a8dd6.jpg)
+![亚马逊网](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/62/620732922fde950ac3bc256af7ae5f8394e250b6723a3fc9e9218fc7a065f820.jpg)
 
 要说推荐算法，就得从最早的购物网站——**亚马逊**讲起了。亚马逊网站，最开始是卖书的。而且一开始的时候，亚马逊很老实，只会把各种各样的书摆在那里，任你挑选。
 
@@ -48,7 +48,7 @@ toc: true
 
 大约在**20年前**，亚马逊用的就是这种推荐算法。它虽然看着很简单，但是却很有效。不过跟今天的推荐算法相比，它还只能算是一道小菜。今天的推荐算法非常庞大且精准，可以为每一个用户建立一个兴趣档案。
 
-![](./26-Who-knows-you-best-Recommended.assets/3002c4955f6790bfb99ff85559847de6.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8d/8d96597763917d8bcc8609ebcee2f28a3c7f0d87a2f1e5885bf6ee66275beded.jpg)
 
 你在网站上的每一次搜索，你在每个页面停留的时间，你看完这个视频又看了哪个视频，这些信息全都会记录在案。然后，网站就会根据你的记录给你贴上标签，为你推荐你可能感兴趣的东西。
 
@@ -60,7 +60,7 @@ toc: true
 
 我给你说个好玩的例子吧。
 
-![](./26-Who-knows-you-best-Recommended.assets/362ce7df1525faf916d1583ccde32c21.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3d/3d0fe07d7aebe8521300ccce8421450fe30a32427aeec5159e02a9618747759b.jpg)
 
 你肯定知道，咱们的地球是个大圆球对吧？但有些人相信“地平说”，就是认为地球不是个球，而是扁扁的、平平的。注意啊，我说的这些人可不是古人啊，而是生活在21世纪的实打实的现代人。
 
@@ -74,7 +74,7 @@ toc: true
 
 这个现象，被人们叫作“**信息茧房**”，茧就是毛毛虫吐丝做的那个茧。也就是说，如果你只关注自己感兴趣的人和事，那你最后就会像一只毛毛虫一样，用吐出的丝完全把自己包围起来，眼界就完全封闭住了，这就是推荐算法的危险之处。
 
-![](./26-Who-knows-you-best-Recommended.assets/0dc96542a6d3b91738b46eee972fcb96.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/10/102025651dbc1730655ccbab53523764de22796d07907c627d89554af935d48a.jpg)
 
 那么，你如何该像蝴蝶一样打破茧房，重新获得自由呢？其实呀，很多互联网公司都考虑过这个问题。
 
@@ -120,7 +120,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -136,4 +136,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

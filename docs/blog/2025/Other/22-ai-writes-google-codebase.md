@@ -22,13 +22,13 @@ toc: true
 
 @tab EN
 
-![](./22-ai-writes-google-codebase.assets/sssss.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/59/59f40d769115d871a54783bbd6ac99ff31dc402e09e9ab15fc32bca6e9bfb9f0.png)
 
 AI is slowly taking over coding but many programmers are still sticking their head in the sand about what’s coming…
 
 Now Google’s Chief Scientist just made a telling revelation: AI now generates at least 25% of their code.
 
-![AI 现在已经生成了谷歌 25% 的代码](./22-ai-writes-google-codebase.assets/llll.png)
+![AI 现在已经生成了谷歌 25% 的代码](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/76/76db66a11d3f7516ead26d491e31896f8b2e95a051f29866883a611b6637a15f.png)
 
 Can you see — it’s happening now at top software companies with billions of active lines of code.
 
@@ -74,7 +74,7 @@ It’s been so useful and this is just at the lower line-by-line level — predi
 
 Now we are having tools like Supercomplete predicting your intent across entire files, making things even easier.
 
-![](./22-ai-writes-google-codebase.assets/jjjj.gif)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d1/d1132005f91cabd4d72cd7eab7dd45eebdea8bc6e3e855b21d31c217cfe751bb.gif)
 
 Cursor Compose and Windsurf Cascade bringing your thoughts to life across several files in your codebase.
 
@@ -98,13 +98,13 @@ But if you’re one of those who keep pretending that AI tools aren’t totally 
 
 @tab ZH
 
-![](./22-ai-writes-google-codebase.assets/sssss.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/59/59f40d769115d871a54783bbd6ac99ff31dc402e09e9ab15fc32bca6e9bfb9f0.png)
 
 AI 正在悄悄接管编程工作，但许多程序员仍然对即将到来的变化视而不见……
 
 现在，谷歌的首席科学家透露了一个令人深思的事实：**AI 现在已经生成了他们至少 25% 的代码**。
 
-![AI 现在已经生成了谷歌 25% 的代码](./22-ai-writes-google-codebase.assets/llll.png)
+![AI 现在已经生成了谷歌 25% 的代码](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/76/76db66a11d3f7516ead26d491e31896f8b2e95a051f29866883a611b6637a15f.png)
 
 你能看见吗？这正在全球最顶尖的软件公司中发生，而这些公司拥有数十亿行活跃代码。
 
@@ -153,7 +153,7 @@ AI 正在悄悄接管编程工作，但许多程序员仍然对即将到来的�
 
 而现在我们有了更先进的工具，比如 **Supercomplete**，能预测你对**整个文件**的意图，开发体验再次跃升。
 
-![](./22-ai-writes-google-codebase.assets/jjjj.gif)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d1/d1132005f91cabd4d72cd7eab7dd45eebdea8bc6e3e855b21d31c217cfe751bb.gif)
 
 还有像 **Cursor Compose** 和 **Windsurf Cascade** 这样的工具，能将你的想法扩展到**多个文件**中自动实现。
 
@@ -181,7 +181,7 @@ AI 正在悄悄接管编程工作，但许多程序员仍然对即将到来的�
 
 现在，谷歌的首席科学家透露了一个令人深思的事实：**AI 现在已经生成了他们至少 25% 的代码**。
 
-![AI 现在已经生成了谷歌 25% 的代码](./22-ai-writes-google-codebase.assets/llll.png)
+![AI 现在已经生成了谷歌 25% 的代码](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/76/76db66a11d3f7516ead26d491e31896f8b2e95a051f29866883a611b6637a15f.png)
 
 你能看见吗？这正在全球最顶尖的软件公司中发生，而这些公司拥有数十亿行活跃代码。
 
@@ -247,7 +247,7 @@ AI 正在悄悄接管编程工作，但许多程序员仍然对即将到来的�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -263,7 +263,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 ::: details
 

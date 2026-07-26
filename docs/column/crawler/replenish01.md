@@ -27,9 +27,9 @@ toc: true
 
 直接访问：
 
-![1.gif](./s2_0201.assets/1631254472457-4f32ec1e-8e11-45eb-93f9-2c5e39f4eb02.gif)
+![1.gif](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8b/8b966f12d2dc86c3c02b8596c2654e576f63b08fbd3014b509af9d68b109a1aa.gif)
 
-![2.gif](./s2_0201.assets/1631254783984-f7761f77-c990-4be3-9f63-c835eccc46c3.gif)
+![2.gif](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/06/06353ceec4834dc4ce378daa5179d126a409ff0f4824434efec9bb04c3d75c88.gif)
 
 不加 headers：
 
@@ -42,7 +42,7 @@ html = requests.get(url).content
 with open("image.png", mode="wb") as f:
     f.write(html)
 ```
-![image.png](./s2_0201.assets/1631255449109-7ef6cbfd-4f13-4c38-a38f-ef59d9f4a65b.png)
+![image.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cd/cdfddf335dffdb8bea122376c977b474307b858ef100b9aeb55782094234a7dc.png)
 
 加上 headers：
 
@@ -59,13 +59,13 @@ html = requests.get(url, headers=headers).content
 with open("image.png", mode="wb") as f:
     f.write(html)
 ```
-![image.png](./s2_0201.assets/1631255506705-2da7842d-7a72-4267-a82b-31b3583c1000.png)
+![image.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ac/ac97533556b9db60d024b96e41f311b5937b686fdc47e923fd3e26d3e139519f.png)
 
 欢迎关注我公众号：AI悦创，有更多更好玩的等你发现！
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -81,5 +81,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

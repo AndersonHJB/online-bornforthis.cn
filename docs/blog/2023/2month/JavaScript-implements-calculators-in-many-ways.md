@@ -32,7 +32,7 @@ head:
 
 ## 1. 界面一
 
-![界面一](./JavaScript-implements-calculators-in-many-ways.assets/image-20230225093540974.png)
+![界面一](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6f/6f12d3bdece26f36c039e9827b56ec4c7255b2819631ea11695115d28395208e.png)
 
 ::: code-tabs#html
 
@@ -121,7 +121,7 @@ function calculate() {
 
 ## 2. 界面二
 
-![界面二](./JavaScript-implements-calculators-in-many-ways.assets/image-20230225095601968.png)
+![界面二](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/27/273c30a3caae6d6cee1034cb41cd07b040c44e12b58a19f18a0843253459b3a0.png)
 
 ::: code-tabs#html
 
@@ -202,7 +202,7 @@ function calculate() {
 
 ## 3. 界面三
 
-![界面三](./JavaScript-implements-calculators-in-many-ways.assets/image-20230225110529796.png)
+![界面三](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/84/84edd8e45cfd853f77c14d26b73314e6779743bbcf872f8d816a8a2ec291f6a7.png)
 
 ::: code-tabs#html
 
@@ -303,7 +303,7 @@ function calculate() {
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -319,4 +319,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

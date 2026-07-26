@@ -22,23 +22,23 @@ toc: true
 
 ### 1.1 什么是数据可视化工具
 
-![就是对数据进行图表化](./Week4.assets/image-20231027122809466.png)
+![就是对数据进行图表化](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/63/6393082666aff43a1b80668b0a1074db9c457ed7aee2fce1788657734b59ce42.png)
 
 那么，可以进行可视化的应用软件、程序、编程语言。
 
 那么，在数据分析中它属于哪个环节呢？
 
-![](./Week4.assets/image-20231027123038872.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6ee38bbdcfef7c602fd89a4070d919518a08240ee13b7c91b2bbbea9aadda901.png)
 
 而可视化，在数据探索和数据展示都有应用。
 
-![](./Week4.assets/image-20231027123119194.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/1617d918f1f4e3e312a480f8cf8e9bbdebb825af7b81709fe9f7ccfde3228875.png)
 
 我们通过创建图表，更好的理解数据，以此发现规律。也会将合适的图表作为展示和讲解的依据。
 
 ### 1.2 数据可视化工具有哪些
 
-![](./Week4.assets/image-20240925085803250.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e5/e5cec60a4bb3354958a7cee4589b2fa1d47829b2a2b01b2196943fe458090a9b.png)
 
 ```html
 <table>
@@ -75,13 +75,13 @@ toc: true
 | Tableau    | 导入、整合多个数据源，进行增删改查、计算、报表设计、可视化、交互操作 |
 | Matplotlib | Python 的 2D 绘图库                                          |
 
-![](./Week4.assets/image-20231027123544671.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/85/85ef3d8989f89bfc1d7f08d6fed4157706edc64696cd3eba8de1a366530ba094.png)
 
 
 
 :::
 
-![](./Week4.assets/image-20231027183239362.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1c/1c6099b403efe0a3b0a146eaf8a67490ff81d3a86720db0644049b74f479514c.png)
 
 那么，PowerBI 和 Tableau 有什么区别呢？
 
@@ -90,11 +90,11 @@ toc: true
 
 **那，什么是交互呢？**
 
-![](./Week4.assets/image-20231028121009861.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/ea133bf229f207905ff64d47503509e08cb458ab38bbb27b3dffe2f4ec6f920f.png)
 
 ——以百度地图为例，我们可以使用鼠标进行放大缩小整张地图。我们也可以使用拖拉拽来查看地图的不同区域。可以去百度地图网站去感受一下。「这个就是和数据完成交互的过程」
 
-![](./Week4.assets/image-20231028121430183.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/40/40268c8db0ef558d9f105ede39dde70ece2bc25e06f21aa6a494ddca051ad9ba.png)
 
 对于 Excel 和 PowerBI 来说，它们更侧重于展示。
 
@@ -114,7 +114,7 @@ Tableau 交互性更强，很多时候，也就是我们刚刚获取到数据的
 
 ——我们可以使用 Tableau 进行各种拖拉拽，各种可视化。
 
-![](./Week4.assets/image-20231028142927010.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a3/a3b4184b606225e30273b5109caf0274a2d50648e6a243dc0ff65745d7255d12.png)
 
 - 比如，使用地图工具，去看工作地点的分布。
 - 统计职位的数量或者是看看薪酬和工作地点的相关性。
@@ -159,7 +159,7 @@ Tableau 交互性更强，很多时候，也就是我们刚刚获取到数据的
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -175,7 +175,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

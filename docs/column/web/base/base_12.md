@@ -30,7 +30,7 @@ toc: true
 
 我很想和朋友们互动，你能帮我在我的网页日记上添加一些互动效果，使它对用户更加友好吗？
 
-![JS实战](./base_12.assets/1564991359624001.jpg)
+![JS实战](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5a/5aadc01f111cca18cc5070ef8c12b3b295dbb50ff4ddcaa6d84bb850357d1af1.jpg)
 
 ## 第1步 修改标题
 
@@ -38,11 +38,11 @@ toc: true
 
 首先得为存放 JS 文件新建一个文件夹，它将专门用于存放项目中的 script（脚本）文件：
 
-![image-20220804233322279](./base_12.assets/image-20220804233322279.png)
+![image-20220804233322279](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1d/1d99df9c4e568c12f351d324648d88bd1e4fddc1011d326b414ac185a960125b.png)
 
 新建一个 js 文件：
 
-![image-20220804233403297](./base_12.assets/image-20220804233403297.png)
+![image-20220804233403297](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/94/94f737b7bf7a005e8496bbce10def5b516faa441d226be68f15a6590f1180d78.png)
 
 
 
@@ -55,7 +55,7 @@ window.onload = function () {
 };
 ```
 
-![image-20220804233457133](./base_12.assets/image-20220804233457133.png)
+![image-20220804233457133](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/08/0860d4cb3172f2f839389fede2cc437621b9fd9d10b50b8b6ae47a21f79fe65d.png)
 
 再将以下代码，复制到 `index.html` 文件中的 `<head>` 和 `</head>` 之间：
 
@@ -63,17 +63,17 @@ window.onload = function () {
 <script src="script/first_js.js"></script>
 ```
 
-![image-20220804233637478](./base_12.assets/image-20220804233637478.png)
+![image-20220804233637478](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ae/aebee8ffcb0a121726336e6816a2f9606e5f94521d27b76d6000c1d50e6dd16c.png)
 
 接着，保存 html 文件，将 `index.html` 拖入浏览器，看看变化;
 
 ### Before
 
-![image-20220804233808070](./base_12.assets/image-20220804233808070.png)
+![image-20220804233808070](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/10/108f6435f9840397bee599a148ae6c736dc75aa12738b45b077148db2adc8c68.png)
 
 ### After
 
-![image-20220804233730539](./base_12.assets/image-20220804233730539.png)
+![image-20220804233730539](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/796f9df1432799cc085e338a255ecda583a376b0c6bc56d859f61de73d30c0d9.png)
 
 使用 JS 使标题内容发生了改变。
 
@@ -87,7 +87,7 @@ window.onload = function () {
 
 为此我们向 Lisa 索要了猎豹的新照片，并把这张照片命名为 pic3 保存在 img 文件夹中。
 
-![pic3](./base_12.assets/1564912856214029.jpg)
+![pic3](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/92/92d434538af018555faaabfc708891efb8e8a9c89e73f3fbbacf245b05b20f82.jpg)
 
 请在你的编译器中，打开 `first_js.js` 文件，首先删除在第 1 步中更改标题所用的"Hello, myfriends!"的那段代码。
 
@@ -109,7 +109,7 @@ window.onload = function () {
 };
 ```
 
-![image-20220804234715312](./base_12.assets/image-20220804234715312.png)
+![image-20220804234715312](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e3/e38f03f24a30bade401f0e7f7c41b67d46cea813faaf4210cd9ffa610e841456.png)
 
 保存当前文件。
 
@@ -139,7 +139,7 @@ window.onload = function () {
 
 如图操作，我们将其置于 `<h1>` 下面：
 
-![image-20220804235438471](./base_12.assets/image-20220804235438471.png)
+![image-20220804235438471](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a1/a1c144c8233ed6f0b17711d2f0761e3d18a9f88a73a2c0c67f732c9238a33acb.png)
 
 将以下代码复制到 `first_js.js` 的文件中，并保存当前文件及 html 文件。
 
@@ -179,11 +179,11 @@ window.onload = function () {
 
 如果你跟着我们的步骤，你会得到一个个性化欢迎界面：
 
-![image-20220804235853730](./base_12.assets/image-20220804235853730.png)
+![image-20220804235853730](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f4/f42c75e5b31eacd27106ff48287f6e49db96d38a955d6c41d115ce23eb956935.png)
 
-![image-20220804235910941](./base_12.assets/image-20220804235910941.png)
+![image-20220804235910941](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a92d084e1b29dfa49a8afa08a684869bb90cfd15f6b3de95e736d466408672e9.png)
 
-![image-20220804235928828](./base_12.assets/image-20220804235928828.png)
+![image-20220804235928828](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4e/4eb5658486225208e2153ecb3c2d4d1b52d8e0662ce60b9956d2e22011974cb4.png)
 
 <button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_13/01/base_13-2.html" target="_blank">尝试一下</a></button>
 
@@ -195,7 +195,7 @@ window.onload = function () {
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -211,7 +211,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

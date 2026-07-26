@@ -234,13 +234,13 @@ print(student1)
 print(student2)
 ```
 
-![](./lecture01.assets/image-20231219205418443-pvjT_cwY-20240620132932852.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/84/84a8f8381f84b887e3569b73ab48385117ff5e37be413fbcfb461ca323988e0e.png)
 
-![](./lecture01.assets/image-20231226164411486-z8-8EzSK.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/dfc036cdfda1ac8ba0bc32727735d27cfe175ab20ea55e11cbb22b469f93ebd8.png)
 
 
 
-![](./lecture01.assets/image-20231226164728514-DFk1saXx.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c6/c6c5a7bc70dae8fb3a5fc0d12f66ece2d13693ca42b24925895c6503e344586a.png)
 
 ### 5.2 切片赋值
 
@@ -264,9 +264,9 @@ In [7]: lst
 Out[7]: ['P', 'y', 'a', 'b', 'c']
 ```
 
-![](./lecture01.assets/image-20231226165558902-CgStuezh.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a0/a0bea3305a11bf96659bc74f265d0885030bb63d638eeafdb908adfe9ea337be.png)
 
-![img](./lecture01.assets/image-20231224135657042-Bk1BRGw7.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f0/f0c2b7675562b54a4f3cc50e71734dadfe0b1038783346c4fd678b2adc44c513.png)
 
 ```python
 In [8]: numbers = [1, 5]
@@ -295,7 +295,7 @@ Out[13]: [1, 5]
 
 ### 5.3 小试牛刀
 
-![](./lecture01.assets/image-20240620135100082.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2d2585dc6f3ff5f1a9cc75c58a50e4d4c2c839e0378dc2eda005c34774baadbd.png)
 
 ```python
 numbers = [1, 2, 3, 5, 6]
@@ -421,7 +421,7 @@ print(numbers)  # [9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
 # 排序
 ```
 
-![](./lecture01.assets/image-20240620143307485.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a7/a780fb86760a4e4ce9e45d88b32ef3c89bda4ba87a05ef9c97c26704317fe131.png)
 
 ```python
 str_to_list = list('132569874')
@@ -479,7 +479,7 @@ print(lst)
 
 ## 6. 比较运算符
 
-![](./lecture01.assets/image-20240620132429861.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5d/5dbadb1580b804e4db089768f4aee4cc9f3235f17d417736940086e2ee3383b0.png)
 
 ## 7. input & print
 
@@ -489,7 +489,7 @@ print(lst)
 
 ### 8.1 语法
 
-![](./lecture01.assets/image-20240627120958047.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2e/2eb4cc5571440b173fdecd6c7842731d3223d0bdb4cee651838866020e7183cb.png)
 
 ```python
 def HelloUser(username):
@@ -624,9 +624,9 @@ def is_subsequence(s, t):
 
 ### 8.2 变量作用域
 
-![](./lecture01.assets/image-20240630112129186.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fd/fd617190c9eada96e6310324940552628dabb852e93274980bdff8cd291ef5fd.png)
 
-![](./lecture01.assets/image-20240630112227806.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/50/500802732173d99c672fbfb4a231992b2bff50d27cc8c41763878c9fbea0f6a2.png)
 
 
 
@@ -636,7 +636,7 @@ def is_subsequence(s, t):
 
 ### 9.1 如何创建一个电话簿
 
-![](./lecture01.assets/image-20240629112333412.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c9/c92440ca1be1af75cfe787d6e3e9433faa1ef41efa98181d217507102589af84.png)
 
 ### 9.2 电话本
 
@@ -650,22 +650,22 @@ print(d[check])
 
 ### 9.3 字典结构
 
-![](./lecture01.assets/image-20240628235018313.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/da/da9d434fb1043d1e462fddac8c8d986725912486f18880f6761b1351eea4e478.png)
 
 ### 9.4 字典结构 key & value
 
-![](./lecture01.assets/image-20240628235220102.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/44/44276545aa9066aa862939d92381859569f322612fd295ac3b180057a02f7cbe.png)
 
 ### 9.5 用字典 dict 函数创建字典
 
 - 不可变的数据类型才能当作字典的 key
 - value 是任意数据类型
 
-![](./lecture01.assets/image-20240629121924415.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/81/8108728a8ff8d9232ba4c84d479942cfb4f6dadf1636b1d01f1f6af4ae440baf.png)
 
 ### 9.6 提取数据
 
-![](./lecture01.assets/image-20240629123144186.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1f/1f6cb291e03159aa659ef2cf84d2aa7dac3a9128ee82024504c711be84f5c269.png)
 
 - 上面的提取方法存在问题，在提取不存在的 key 的时候，会报错：
 
@@ -682,7 +682,7 @@ KeyError: '马冬梅'
 
 就像我们查询电话簿的时候，没找到会返回：未找到。
 
-![](./lecture01.assets/image-20240103194907771-C-GEaGry.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/dfa3df502ae74edbb965ed6183b1afde0d66ce4e2beaa7e757282f0f52674427.png)
 
 ### 9.7 使用 .get() 解决
 
@@ -715,13 +715,13 @@ print(my_dict.get('gender', 'Not Specified'))  # 输出: Not Specified
 
 ### 9.8 字典更新数据
 
-![](./lecture01.assets/image-20240103084218923-C5dpZdbb.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/57/571495ffd6ff2d4a20806be5d4b26a2a8a6cab7449a7b40ac0afe52e7a05d26e.png)
 
 
 
 ### 9.9 字典删除
 
-![](./lecture01.assets/image-20240103084956419-By55pFkf.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a6/a64decd172484a57e13de6b84c73f3fe9d573ef3e4f91cd99cde70b17b857daa.png)
 
 ### 9.10 字典的编程题
 
@@ -778,31 +778,31 @@ print(my_dict.get('gender', 'Not Specified'))  # 输出: Not Specified
 
 ### 10.1 for 循环基本语句
 
-![](./lecture01.assets/image-20240629225136738.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/22/2208fdfcb29a7f03b5337b41c4e95502ed8affd1ea34f69c07e618f93d0a5715.png)
 
 ### 10.2 range
 
-![](./lecture01.assets/image-20240629225201056.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e7/e7ef69a3d3e6ca20e4917a5d14cded7290a66cc92305cf07bf6fec433175960f.png)
 
-![](./lecture01.assets/image-20240629225218215.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c2/c2dd6995b81384d7f461b16248e9625fe30dc2c973b94c0e90f997da8eaafdce.png)
 
 ### 10.3 for 循环通过索引遍历序列元素
 
-![](./lecture01.assets/image-20240629225232657.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/85/85a517309308a002d9785934026c3650881abd3729906f70472566d77c7fd17f.png)
 
 ### 10.4 break 跳出循环
 
-![](./lecture01.assets/image-20240629230429361.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7d/7da885f0997796d842b21593e7ef254ec9e17d731745627ee3c29a2f0cdfff19.png)
 
 
 
-![](./lecture01.assets/image-20240629231037479.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c1/c1bfe688875cd5721a6e11a3b20fa738168769d05a4b79a492c80babb217e632.png)
 
 
 
 ### 10.5 pass 啥都不干，占位语句
 
-![](./lecture01.assets/image-20240629231117383.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2e/2ed663b98a1eef264ba70f36c9e97536b3b6aa8be3897827aac2115a7d4e43d1.png)
 
 
 
@@ -1077,7 +1077,7 @@ print(total_odd)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1093,7 +1093,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

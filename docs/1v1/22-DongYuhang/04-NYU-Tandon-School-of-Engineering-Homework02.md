@@ -146,7 +146,7 @@ The problem with natural sound waves is that it is pretty much impossible to rep
 
 > 自然声波的问题在于，使用编程方法几乎不可能精确地复制它们所有细微的波峰和波谷。通常情况下，工程师会把复杂的波形转换成更简单的波形:
 
-![](./04-NYU-Tandon-School-of-Engineering-Homework02.assets/image-20230214232935825.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b642847b7ae2443389e29ffc86ba8f201eb8a8ca88099caaa1bb2da878bdffcd.png)
 
 Figure 1: A "natural" waveform, such as the one on the right, can be simplified into a very simple pulse, or square, wave which, as you can imagine, is a lot easier to model using data.
 
@@ -156,7 +156,7 @@ This process is known as a reverse Fourier Transform, and it may be one of the m
 
 > 这个过程被称为傅里叶反变换，就适用性而言，它可能是现代数学中最重要的发展之一。不管怎样，图一中的傅里叶变换的解实际上是相对简单的
 
-![](./04-NYU-Tandon-School-of-Engineering-Homework02.assets/image-20230214233059996.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/af/afce3d704c7e94cf9a9992423cf32b96ba78176b0b9d0245e186107911c3a0f4.png)
 
 Figure 2: A Fourier Transform solution, where F(w) is the referred to as the amplitude spectrum (i.e. how "loud" the square wave will be), w is referred to as the real frequency variable (which you can think of as the frequency of the natural sound wave), and Trepresents the duration of the soundwave. This is not strictly true but we're simplifying a lot here to make the problem easier. 
 
@@ -208,7 +208,7 @@ In the video game series Pokémon™, the probability of catching a Pokémon wit
 
 > 在视频游戏系列Pokémon™中，用常规PokéBall捕获Pokémon的概率由以下公式确定:
 
-![](./04-NYU-Tandon-School-of-Engineering-Homework02.assets/image-20230214233628168.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fc/fc0d1388e68affaec7d2a13cbc18c16cd66d5b8fd482f04ba8388f12746f6393.png)
 
 Figure 3: Where HPmax represents the maximum amount of health points the Pokémon could have, HPcurrent represents the amount of health points the Pokémon currently has, and Ball represents a randomly-generated value between 0 and 255. Notice that the result of this division is always rounded down (because of those ⌊ ⌋ braces)
 
@@ -405,7 +405,7 @@ NOTE: When testing this program, you may want to keep in mind that procedures th
 
 Let's say that we are developing a video-game where the user's level is determined by their current experience points (XP). For this problem, the user will enter their current XP as input and the program will output their current level. 
 
-![](./04-NYU-Tandon-School-of-Engineering-Homework02.assets/image-20230215000041778.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/33/337633f23c8a216dd045896b6b857fd29b35ec9e4d7df60c16c22484c2fab5a2.png)
 
 Figure 1: Player levels with their respective XP range equivalents. Note that experience points can be any number between and including 0.0 and 60.0. 
 
@@ -535,7 +535,7 @@ This call will cost $7.7
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -551,4 +551,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

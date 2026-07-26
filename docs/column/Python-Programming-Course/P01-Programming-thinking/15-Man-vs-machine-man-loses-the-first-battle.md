@@ -28,7 +28,7 @@ toc: true
 
 特别值得一提的是棋类游戏。
 
-![中国象棋](./15-Man-vs-machine-man-loses-the-first-battle.assets/image-20250417070411598.png)
+![中国象棋](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3b819714f898aa9a46f3ef7e1ddb19cca7d8a2f574c08be99057290740a3ce57.png)
 
 任何一局棋局，都充满了极其丰富的变化可能性。以中国象棋为例，其变化种类之多，甚至超过了 10 的 100 次方。正因如此，不论是人类还是机器，每一步决策都承载着巨大的挑战，成为智力和算法较量的绝佳试金石。
 
@@ -36,11 +36,11 @@ toc: true
 
 ## 2. 英国跳棋的启示
 
-![英国跳棋](./15-Man-vs-machine-man-loses-the-first-battle.assets/raw.png)
+![英国跳棋](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ca/ca8590a9837e04728b5c02df07efe081397f962a11211af6fa20c8b4e1876234.png)
 
 在众多对弈项目中，英国跳棋无疑为这一领域提供了一段极富传奇色彩的历史。不同于我们平常所见的跳棋，英国跳棋的棋盘设计颇似国际象棋，其走法也带有独特规则——棋子不仅可以前进，还能跳跃对方棋子以完成“吃子”。
 
-![数学家·马里恩·汀斯雷｜英国跳棋王](./15-Man-vs-machine-man-loses-the-first-battle.assets/raw-20250417073106274.png)
+![数学家·马里恩·汀斯雷｜英国跳棋王](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/61/618a1d593a95e068c9fd9b2c4792f20f1c38b43112e8d569fe635ca8db141c7c.png)
 
 在这个领域中，有一位名震一时的棋手——数学家**马里恩·汀斯雷**。他不仅在英国跳棋界久占鳌头，整整四十年鲜有对手问鼎，还被尊称为“英国跳棋王”。然而，他的霸主地位最终被一款名为**奇诺克**的计算机程序所打破。
 
@@ -72,11 +72,11 @@ toc: true
 
 而使用结构化思考，就可以这样：可以先把任务拆成“演员及节目准备（表演任务）”和“会场布置（班会会场布置）”两大块，在每块之下再细分——比如分成服装道具、主持人训练、教室布置、小零食采购、音响调试等等。像这样逐层细分，就更不容易出现遗漏或混乱。
 
-![结构化思考](./15-Man-vs-machine-man-loses-the-first-battle.assets/raw-20250416203808059.png)
+![结构化思考](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cc/ccc798a06b4ce23002abb27fce7a48191fcf43d07766f38a2932468ca663320e.png)
 
-~~![结构化思考](./15-Man-vs-machine-man-loses-the-first-battle.assets/raw-20250416205646642.png)~~
+~~![结构化思考](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/79b70ddb32604b3939b49a7fa665d3e81d457c2e26916cf55c8819c512df69fa.png)~~
 
-![结构化思考](./15-Man-vs-machine-man-loses-the-first-battle.assets/Gemini_Generated_Image_ym5omvym5omvym5o.png)
+![结构化思考](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/95/95406a1d37539d851eb5bdaa1f870427b92404339089a31673fe8f09da39a1d8.png)
 
 **省字版**：
 
@@ -105,7 +105,7 @@ toc: true
 
 ## 4. 迈向全球棋战的新时代
 
-![国际象棋](./15-Man-vs-machine-man-loses-the-first-battle.assets/国际象棋.png)
+![国际象棋](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dc/dc957c4c5686b7a914598ab408f643c4f8a9687299c4ea6d6306aff2b37802ac.png)
 
 **棋盘换了，但战火未熄！**
 

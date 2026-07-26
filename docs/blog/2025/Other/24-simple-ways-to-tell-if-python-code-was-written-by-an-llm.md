@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](./24-simple-ways-to-tell-if-python-code-was-written-by-an-llm.assets/ssssss.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8e/8ed4101a443a5e7e7b89bd5b9f4ae6fdd658f2fd965cf0199372ffc8ed7b7a58.jpg)
 
 As a data science and math instructor, I actually don’t mind if my students use LLMs like ChatGPT, as long as it’s supplementing their learning process and not detracting from it. The [Caltech admissions essay guidelines](https://www.admissions.caltech.edu/apply/first-year-applicants/supplemental-application-essays/ethical-use-of-ai-guidelines-for-fall-2025-applicants) inspired my AI policy for my programming and machine learning classes:
 
@@ -172,7 +172,7 @@ What are some LLM red flags you’ve noticed?
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -188,6 +188,6 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://medium.com/science-spectrum/simple-ways-to-tell-if-python-code-was-written-by-an-llm-ce51f16a78cd)

@@ -19,7 +19,7 @@ backToTop: true
 toc: true
 ---
 
-![](./Apple-Siri-AI.assets/202406102208208441947829.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/30f4bca96dee56ab717d6394c177747d1a6b5ef212e3407e66d2182b2d541da6.jpeg)
 
 你好，我是悦创。
 
@@ -35,7 +35,7 @@ toc: true
 
 第一条，苹果 AI 的五大优势关键词，“强大，直观，集成，个性化和隐私保护”。这是苹果软件工程高级副总裁克雷格·费德里吉在发布会中反复强调的，他也是整场发布会出镜率最高的人。
 
-![](./Apple-Siri-AI.assets/resize,w_2560,m_lfit.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/35/35834a73dc942e9d944cd3705e05ad7fc20ec3590b89357a1de5202730a0f493.jpeg)
 
 这五大关键词听起来很抽象，我来根据我的理解一个个词给你拆解一下。
 
@@ -51,7 +51,7 @@ toc: true
 
 讲完苹果 AI 五大优势关键词，我记下的第二条笔记，就是 Siri 的重生了。
 
-![](./Apple-Siri-AI.assets/resize,w_2560,m_lfit.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7c/7c6c6fc02448f5631a8e9779652c4b3d8dce92111b6aad966f6098dd7ad23e93.png)
 
 从这次发布会展示出来的 Siri 功能来说，称其为“重生”毫不夸张。Siri 虽然之前号称是人工智能助手，但是直到 2023 年，它能做的事情其实跟 2013 年也差不多。所以在很多地方，Siri 前面经常会被羞辱性地加上一个形容词，叫“智障的 Siri”，但是今天发布会所展示的 Siri 使用场景，还是让人非常动心的。
 
@@ -73,7 +73,7 @@ toc: true
 
 第五条笔记是关于 ChatGPT 的。在本次大会前，很多现场参加会议的人，都纷纷秀出他们拍到的 OpenAI CEO 奥尔特曼的照片，大家都预测苹果和 OpenAI 会有重磅合作。果然在发布会最后，苹果直接放出了大招，就是当本地模型解决不了问题的情况下，Siri 会询问用户，要不要去问问 ChatGPT。这个调用不需要用户注册 OpenAI，而且完全免费。当然，如果你之前已经是 ChatGPT 的用户，可以绑定自己的账户，方便保存一些个性化设置。
 
-![](./Apple-Siri-AI.assets/resize,w_2560,m_lfit-20240611154147521.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5fe478ec5b09fadd5cd71952c157c67231a78fa2d218f875902bf814afb343a4.jpeg)
 
 这个功能，如果我们用简单粗暴一点儿的方式理解，那就是苹果用 Siri 给 ChatGPT 套了一个壳，可以以非常方便顺滑的方式开启和 ChatGPT 的对话。对于用户来说，这当然是好消息，因为可以使用现阶段最强大的 AI 模型。
 
@@ -83,9 +83,9 @@ toc: true
 
 这次苹果发布会的 AI 亮点内容我就介绍到这里。其实就发布会本身而言，也能学到很多。例如整个发布会的场景非常干净，特别是苹果 CEO 库克的两次出场，一次是自己站在办公楼顶楼，旁边是一片一片的太阳能板；一次是自己走在园区的小路上，并且都是用 iPhone 手机拍摄，用 Mac 剪辑。整个发布会的科技感远不如我参加的任何一场线下大会，但却能让人更加聚焦内容本身。我特意截了两张图放在文稿里，你看一下，是不是我们很多短视频的拍摄背景都比这个要复杂很多？
 
-![](./Apple-Siri-AI.assets/resize,w_2560,m_lfit-20240611154335341.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1a/1ac84fd05b77a6431cf39c5383f7f9d4727552e7b3674016d0d6a5c1f61ef034.jpeg)
 
-![](./Apple-Siri-AI.assets/resize,w_2560,m_lfit-20240611154342857.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a6/a653c65c3a3d325c54c575dc07eba90dfc22b0fad5b7f7230011cdd848d34c31.jpeg)
 
 好，这就是我熬夜看完苹果发布会写下的五条笔记，希望对你有帮助。如果里面有某个场景触动你了，你也可以留言跟我聊聊，你最希望苹果 AI 帮你解决什么问题？
 

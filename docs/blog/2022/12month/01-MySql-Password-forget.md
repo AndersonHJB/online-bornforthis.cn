@@ -25,7 +25,7 @@ toc: true
 
 #### 此文章成功率极低，和网络大部分文章一样，最终我想起了密码，所有修改 mysql 密码的指令在非安全模式下都不能使用。如果你有好的方法欢迎留言。
 
-![知识库](./01-MySql-Password-forget.assets/20200318125116-20221203131542018.jpg)
+![知识库](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c0/c0e19778c164b04245051f03138570e7fda6b73352c1c838395ed12bf2b5368f.jpg)
 
 ## 0. 概述
 
@@ -71,7 +71,7 @@ Shutting down MySQL
 mysql -u root -p
 ```
 
-![image-20221203144503089](./01-MySql-Password-forget.assets/image-20221203144503089.png)
+![image-20221203144503089](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/48/48ecf5761b3ad7edd5cef9f557b54c245d4a230b2fc07b9d1281fe1dc7670948.png)
 
 这里也和 `mysqld_safe` 一样。如果你是 OS X 上新装的 MySQL ，那么很有可能并不能直接使用 mysql 这个命令。而是要使用它的绝对路径：` /usr/local/mysql/bin/mysql -u root -p`
 
@@ -120,7 +120,7 @@ UPDATE mysql.user SET authentication_string=PASSWORD('123456') where User='root'
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -136,4 +136,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

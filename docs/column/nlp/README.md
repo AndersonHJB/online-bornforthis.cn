@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: home
 title: 中文自然语言处理入门
-heroImage: /ColumnImages/nlp/nlp.jpg.webp
+heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/38/3815c0fda92b479e1e0a69e618fee45e71c7587122b8d0b5be27913bbf0d8e10.webp
 heroText: 中文自然语言处理入门
 heroFullScreen: false
 tagline: 边学边实战，快速入门 NLP
@@ -70,7 +70,7 @@ footer: 立志降低教育成本，普及编程教育，提供优质资源教程
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -86,4 +86,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -21,7 +21,7 @@ toc: true
 
 > with Ollama, LangChain, LangGraph (No GPU, No APIKEY)
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/0*hTbbl06T9qQisioL.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/66/668b74a71cd6c3d6ec84af9d107f9d8d4c3400755b952cd48fd676f74e629da9.jpeg)
 
 ## Intro
 
@@ -71,7 +71,7 @@ I shall use the former as it’s more flexible. By installing *LangChain* (`pip 
 
 Additionally, I’m going to install *LangGraph* (`pip install langgraph`) for building Agents using a node-edges style of workflow.
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*2Ot3Z-9-iBtDKlfFZO1INA.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9e/9e5f252b16a10742f419aa866feada629590486329e83859c28e9e50a86e4500.png)
 
 
 
@@ -89,7 +89,7 @@ res = ollama.chat(model=llm,
 res
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*NHvLvdBpuzLUCVcHb4VDGw.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/033033e2d24b26fe57461b0c4b468fbd823be58babb07e5569a4edad83a3b342.png)
 
 As expected, the LLM knowledge is limited to the date of its last training. Please note that there are **3 roles** in the interaction with a LLM chatbot:
 
@@ -116,7 +116,7 @@ def tool_browser(q: str) -> str:
 print( tool_browser(q) )
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*PE8aX04A4wvy08NByM0lrA.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/63/63b05f06d26283f953b90deaf95146cc7dd803a8a1c5d9bd46f7c0620a814946.png)
 
 Second, by creating a normal function and turning it into an *Ollama* schema with [*Semantic Router*](https://github.com/aurelio-labs/semantic-router) (`pip install semantic-router`), a library to simplify tool-making.
 
@@ -131,7 +131,7 @@ tool_browser = FunctionSchema(browser).to_ollama()
 tool_browser
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*-hLAE8_Q5QTndfMrgqqr7A.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0c/0ce6b7ca1b89ba1b68cab41dce12714ff36abd2c5ae0bb1c2aa9940717347de0.png)
 
 Among the tools, we shall also include the **final answer**: after every question from the user, the Agent must decide whether to use a tool or give the final answer. Please note that the more specific you describe the answer structure, the better it works.
 
@@ -181,7 +181,7 @@ prompt_tools = f"You can use the following tools:\n{str_tools}"
 print(prompt_tools)
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*K_0VmEcldbN2oJPrMG9-xA.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6a/6adc5e717ed1fd18188917ed360eb9858bab624e35b108a059e986537b1dc8d9.png)
 
 The prompt and the tools, combined with the LLM, define the core of the Agent. At this point, our AI should be able to decide what to do. For instance, if I don’t ask any question, it should go directly for the final answer.
 
@@ -198,7 +198,7 @@ llm_res = ollama.chat(
 pprint(llm_res)
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*bX48N_8OwBOycb6sMXkL3w.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/31/31a1bf417d2c15547fee6a3ca09892f9eb42636f862c24f1ac6a178bde25f5ec.png)
 
 Inversely, when I ask something specific, the Agent should use the web-search tool and generate the input query for it, based on my request.
 
@@ -213,7 +213,7 @@ llm_res = ollama.chat(
 llm_res["message"]["content"]
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*tVtMYyi0xsX25AX3TzKa6A.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fb/fbe12682084f083d2a8ebdd52cb391db3e596a1cb835c3d84db39a8035eddde7.png)
 
 We can check how the Agent processes the result of the query, by passing it as the context for the LLM.
 
@@ -235,7 +235,7 @@ llm_output = ollama.chat(
 print("\nllm output:\n", llm_output["message"]["content"])
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*E2XjrAY9yncyqVEw9zXXlA.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/74cba0d75f79d8e139d52d9319d900243d0b62e6b263feda66ffcb84dec5d756.png)
 
 
 
@@ -247,7 +247,7 @@ Generally, LLMs work with API calls, so both input and output must follow a spec
 
 Basically, the goal is to transform the LLM response, which is not “stable”, into an Agent response, a structured and validated object.
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*nQuogTWs1Y6T66tBfyvwmg.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/eb/eb0407a7117a7f4337cd3084012f6cf6e38b947268e2ab37ab2c26db74979292.png)
 
 To start, you create a class that describes the data you want, including its type and any rules it must follow. *Pydantic* checks if the data is correct, and if not, it gives you a clear error message. That is particularly useful because responses from the LLM can vary after each run.
 
@@ -279,7 +279,7 @@ print("from\n", llm_res["message"]["content"], "\nto")
 agent_res
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*VmAOoE1AOhmJZkrnnGjwBA.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8f/8f4013e5245ed1eb3891119be51ebb4f9d10536ee6750f354906761e3faa2027.png)
 
 
 
@@ -292,7 +292,7 @@ AgentRes(tool_name = "tool_browser",
          tool_output = str( tool_browser({'q':'September 9 2024 deaths'})) )
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*uqkPtNeO1pPd1BaGHXXCUg.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9e/9e61441566deba3ee111593337e2f261547daf6724f6ad17d349035e94a320a9.png)
 
 The model can already understand if and when to use the tool, but we can make it even smarter by adding a **Memory System**. That shall include relevant information from the chat history and a reminder of the original request from the user.
 
@@ -363,7 +363,7 @@ agent_res = run_agent(user_q=q, chat_history=chat_history, lst_res=[], lst_tools
 print("\nagent_res:", agent_res)
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*yriOpOgJDV59H-FqJuVVKQ.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/9992648933f03f45ef803de9f40e83ddd43d720b0fb95db4df7b5aa5c23d0dc4.png)
 
 As you can see, our Agent is started up with the prompt + the available tools + the chat history.
 
@@ -387,7 +387,7 @@ state = State({"user_q":q, "chat_history":chat_history, "lst_res":[agent_res], "
 state
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*Z1BhEfOrEGm3chp-iWHUBw.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a9ce49ae8e78407c189fdf27f113772d59c8a36d310b0a53c6c0500715e7c65b.png)
 
 For each node (Agent and Tools) and each edge (action), we need to write a function to define the model behavior. Let’s start with the **Agent node** (for now just one):
 
@@ -407,7 +407,7 @@ def node_agent(state):
 node_agent(state)
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*bmfe323_nwqbzH8OnGgW6w.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b1/b122f713f48d78c70d50190ec76308568ba2670d86c8268366e65df6d683ede2.png)
 
 
 
@@ -429,7 +429,7 @@ def node_tool(state):
 node_tool(state)
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*q5weE_JnKZx68cuK1hD-UA.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0d/0db63728de51834aba55b191ce70a5bc3d46305b8931c6e33328a953dc26fbf5.png)
 
 
 
@@ -450,7 +450,7 @@ def conditional_edges(state):
 conditional_edges(state)
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*S4VTGQhnOTicFQNy4veIrA.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/04/0446ec024169be28ece7a0589e9404c0458f332d7b67ccaeb3204a3f210e3270.png)
 
 
 
@@ -491,7 +491,7 @@ display(Image(
 ))
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*y0JupgD0r3ORIPF3iu-lmA.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/34/34ce1d845124d7825033c130294667fe5495a2661242317804d793fda7ff65c0.png)
 
 When we switch on the workflow, the initial state must be passed as input. You can **run the Agent** in two different ways:
 
@@ -512,7 +512,7 @@ for n,step in enumerate(steps):
     print(step)
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*xUhyDC8pC-YJ8UYpchdOrA.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4d/4dcdc4d1936880596340677834a1bdd0cbc50ce7c124517e37ac4ef6ecc231d3.png)
 
 That completes the warm-up. Now, the real game can start.
 
@@ -528,7 +528,7 @@ This is the workflow I want:
 2. after the final answer, the system asks the user whether the returned information is sufficient or not (human-in-the-loop)
 3. if not, a second Agent activates to use its tool and enrich the final answer (multi-Agent collaboration)
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*mJpNTSw3msQIHKBJR2mpNA.gif)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/64/643611ff489353bb6375e1df2a30386ae0fab2b8b3bd2a45f1eeed0acb515e2a.gif)
 
 The **second Agent** shall have a new tool: *Wikipedia*.
 
@@ -551,7 +551,7 @@ dic_tools = {"tool_browser":tool_browser,
              "tool_wikipedia":tool_wikipedia}
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*3jP8n5v-HbdMqjW4RWuvmA.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7a/7ac964c4e3aa386619d8bd25fab32f0f54c706fa66e8d2925972ade7c2801eb5.png)
 
 Just like before, the node for the new Agent requires a function to run where the prompt and tools are specified.
 
@@ -597,7 +597,7 @@ human_edges(state)
 
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*fQsdVcHgi7RrWd2MAZ01ng.gif)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6b/6b4657dcbfc52e730acc50925b02b46fb7af38e7a3a1b117cdf70272a82235ac.gif)
 
 Finally, we shall build the **new graph**.
 
@@ -650,7 +650,7 @@ display(Image(
 ))
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*4nrMDM7mU6hUv3B9R8LxVw.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e2/e29bfa39268ff14f5d9d6251cf350a6691ddaabddbb5755f490fb8efa3e5314f.png)
 
 
 
@@ -660,7 +660,7 @@ As usual, you can run the workflow by passing an input state.
 g2.invoke(input=state) #<--passing the same input state as before
 ```
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*YcLa803VyVFfIs7WbukMKA.gif)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1c/1c5c3bd3465e6ad86fda817b372d76f29853c8d598d9f5c651ee3cb170a742c6.gif)
 
 
 
@@ -682,7 +682,7 @@ I hope you enjoyed it! Feel free to contact me for questions and feedback or jus
 
 > 使用 Ollama、LangChain、LangGraph （无 GPU，无 APIKEY）
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/0*hTbbl06T9qQisioL.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/66/668b74a71cd6c3d6ec84af9d107f9d8d4c3400755b952cd48fd676f74e629da9.jpeg)
 
 ## 简介
 
@@ -732,7 +732,7 @@ I hope you enjoyed it! Feel free to contact me for questions and feedback or jus
 
 另外，我还会安装 *LangGraph*（`pip install langgraph`）来构建基于节点—边工作流的代理。
 
-![](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*2Ot3Z-9-iBtDKlfFZO1INA.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9e/9e5f252b16a10742f419aa866feada629590486329e83859c28e9e50a86e4500.png)
 
 我将使用 [**Ollama**](https://ollama.com/) 在本地运行 LLM（`pip install ollama`），并选择 Meta 的 [*Llama 3.1*](https://ollama.com/library/llama3.1)，因为这是在无 GPU 条件下可运行的最智能 LLM。
 
@@ -748,7 +748,7 @@ res = ollama.chat(model=llm,
 res
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*NHvLvdBpuzLUCVcHb4VDGw.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/033033e2d24b26fe57461b0c4b468fbd823be58babb07e5569a4edad83a3b342.png)
 
 正如预期，LLM 的知识仅限于其最近一次训练的日期。请注意，与 LLM 聊天机器人的交互包含以下 **3 种角色**：
 
@@ -775,7 +775,7 @@ def tool_browser(q: str) -> str:
 print( tool_browser(q) )
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*PE8aX04A4wvy08NByM0lrA.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/63/63b05f06d26283f953b90deaf95146cc7dd803a8a1c5d9bd46f7c0620a814946.png)
 
 第二种方式是创建一个普通函数，并通过 [*Semantic Router*](https://github.com/aurelio-labs/semantic-router)（`pip install semantic-router`）将其转换为 Ollama 模式下的 schema，这个库简化了工具的制作过程。
 
@@ -790,7 +790,7 @@ tool_browser = FunctionSchema(browser).to_ollama()
 tool_browser
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*-hLAE8_Q5QTndfMrgqqr7A.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0c/0ce6b7ca1b89ba1b68cab41dce12714ff36abd2c5ae0bb1c2aa9940717347de0.png)
 
 在众多工具中，我们还将包含 **最终答案** 工具：在每次用户提问后，代理必须决定是使用工具还是直接给出最终答案。请注意，描述答案结构越具体，效果越好。
 
@@ -840,7 +840,7 @@ prompt_tools = f"你可以使用以下工具：\n{str_tools}"
 print(prompt_tools)
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*K_0VmEcldbN2oJPrMG9-xA.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6a/6adc5e717ed1fd18188917ed360eb9858bab624e35b108a059e986537b1dc8d9.png)
 
 提示、工具和 LLM 共同构成了代理的核心。此时，如果我没有提出具体问题，AI 应该直接使用 `final_answer` 工具给出回答。
 
@@ -857,7 +857,7 @@ llm_res = ollama.chat(
 pprint(llm_res)
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*bX48N_8OwBOycb6sMXkL3w.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/31/31a1bf417d2c15547fee6a3ca09892f9eb42636f862c24f1ac6a178bde25f5ec.png)
 
 相反，当我提出具体问题时，代理应使用网络搜索工具，并基于我的请求生成查询输入。
 
@@ -872,7 +872,7 @@ llm_res = ollama.chat(
 llm_res["message"]["content"]
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*tVtMYyi0xsX25AX3TzKa6A.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fb/fbe12682084f083d2a8ebdd52cb391db3e596a1cb835c3d84db39a8035eddde7.png)
 
 我们可以测试代理如何处理查询结果，将其作为上下文传递给 LLM。
 
@@ -894,7 +894,7 @@ llm_output = ollama.chat(
 print("\nLLM 输出:\n", llm_output["message"]["content"])
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*E2XjrAY9yncyqVEw9zXXlA.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/74cba0d75f79d8e139d52d9319d900243d0b62e6b263feda66ffcb84dec5d756.png)
 
 可以看到，核心模型运作正常。但有时 LLM 会生成错误或不一致的信息（所谓“幻觉”），因此通常需要指定模型必须遵循的数据结构。
 
@@ -904,7 +904,7 @@ print("\nLLM 输出:\n", llm_output["message"]["content"])
 
 基本上，目标是将 LLM 的响应（不稳定的）转换成结构化且经过验证的代理响应对象。
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*nQuogTWs1Y6T66tBfyvwmg.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/eb/eb0407a7117a7f4337cd3084012f6cf6e38b947268e2ab37ab2c26db74979292.png)
 
 首先，你需要创建一个类来描述你所期望的数据，包括数据类型和必须遵循的规则。*Pydantic* 会检查数据是否正确，如果不正确，会提供明确的错误信息。这对于应对 LLM 每次运行时响应的变化非常有用。
 
@@ -936,7 +936,7 @@ print("从\n", llm_res["message"]["content"], "\n转换为")
 agent_res
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*VmAOoE1AOhmJZkrnnGjwBA.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8f/8f4013e5245ed1eb3891119be51ebb4f9d10536ee6750f354906761e3faa2027.png)
 
 工具输出可以这样添加：
 
@@ -947,7 +947,7 @@ AgentRes(tool_name = "tool_browser",
          tool_output = str( tool_browser({'q':'September 9 2024 deaths'})) )
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*uqkPtNeO1pPd1BaGHXXCUg.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9e/9e61441566deba3ee111593337e2f261547daf6724f6ad17d349035e94a320a9.png)
 
 模型已经能够判断何时使用工具，但我们可以通过加入 **记忆系统** 让它变得更智能。记忆系统会包含聊天历史中与用户问题相关的信息以及原始请求的提醒。
 
@@ -1017,7 +1017,7 @@ agent_res = run_agent(user_q=q, chat_history=chat_history, lst_res=[], lst_tools
 print("\nagent_res:", agent_res)
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*yriOpOgJDV59H-FqJuVVKQ.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/9992648933f03f45ef803de9f40e83ddd43d720b0fb95db4df7b5aa5c23d0dc4.png)
 
 如你所见，我们的代理已通过 prompt、可用工具以及聊天历史启动。
 
@@ -1041,7 +1041,7 @@ state = State({"user_q":q, "chat_history":chat_history, "lst_res":[agent_res], "
 state
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*Z1BhEfOrEGm3chp-iWHUBw.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a9ce49ae8e78407c189fdf27f113772d59c8a36d310b0a53c6c0500715e7c65b.png)
 
 对于每个节点（代理和工具）以及每条边（动作），我们需要编写一个函数来定义模型的行为。让我们从 **代理节点** 开始（目前只有一个）：
 
@@ -1061,7 +1061,7 @@ def node_agent(state):
 node_agent(state)
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*bmfe323_nwqbzH8OnGgW6w.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b1/b122f713f48d78c70d50190ec76308568ba2670d86c8268366e65df6d683ede2.png)
 
 接下来，我们为 **工具节点** 编写类似的函数：
 
@@ -1081,7 +1081,7 @@ def node_tool(state):
 node_tool(state)
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*q5weE_JnKZx68cuK1hD-UA.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0d/0db63728de51834aba55b191ce70a5bc3d46305b8931c6e33328a953dc26fbf5.png)
 
 这里有两种边类型：
 
@@ -1100,7 +1100,7 @@ def conditional_edges(state):
 conditional_edges(state)
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*S4VTGQhnOTicFQNy4veIrA.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/04/0446ec024169be28ece7a0589e9404c0458f332d7b67ccaeb3204a3f210e3270.png)
 
 最后，我们可以创建工作流并可视化图形。
 
@@ -1139,7 +1139,7 @@ display(Image(
 ))
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*y0JupgD0r3ORIPF3iu-lmA.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/34/34ce1d845124d7825033c130294667fe5495a2661242317804d793fda7ff65c0.png)
 
 启动工作流时，必须传入初始状态。你可以通过两种方式 **运行代理**：
 
@@ -1160,7 +1160,7 @@ for n,step in enumerate(steps):
     print(step)
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*xUhyDC8pC-YJ8UYpchdOrA.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4d/4dcdc4d1936880596340677834a1bdd0cbc50ce7c124517e37ac4ef6ecc231d3.png)
 
 以上便是热身阶段。现在，真正的游戏开始了。
 
@@ -1176,7 +1176,7 @@ for n,step in enumerate(steps):
 2. 在给出最终答案后，系统询问用户返回的信息是否足够（人工参与）。
 3. 如果不足，第二代理激活，使用其工具进一步丰富最终答案（多代理协作）。
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*mJpNTSw3msQIHKBJR2mpNA.gif)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/64/643611ff489353bb6375e1df2a30386ae0fab2b8b3bd2a45f1eeed0acb515e2a.gif)
 
 第二个代理将引入一个新工具：*Wikipedia*。
 
@@ -1200,7 +1200,7 @@ dic_tools = {"tool_browser":tool_browser,
              "tool_wikipedia":tool_wikipedia}
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*3jP8n5v-HbdMqjW4RWuvmA.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7a/7ac964c4e3aa386619d8bd25fab32f0f54c706fa66e8d2925972ade7c2801eb5.png)
 
 与之前类似，新代理节点需要一个函数来运行，其中指定了新的提示和工具。
 
@@ -1245,7 +1245,7 @@ def human_edges(state):
 human_edges(state)
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*fQsdVcHgi7RrWd2MAZ01ng.gif)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6b/6b4657dcbfc52e730acc50925b02b46fb7af38e7a3a1b117cdf70272a82235ac.gif)
 
 最后，我们构建 **新图形工作流**。
 
@@ -1298,7 +1298,7 @@ display(Image(
 ))
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*4nrMDM7mU6hUv3B9R8LxVw.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e2/e29bfa39268ff14f5d9d6251cf350a6691ddaabddbb5755f490fb8efa3e5314f.png)
 
 如常，你可以通过传入初始状态来运行工作流。
 
@@ -1306,7 +1306,7 @@ display(Image(
 g2.invoke(input=state) # <-- 传入之前相同的初始状态
 ```
 
-![img](./20-genai-with-python-build-agents-from-scratch-complete-tutorial.assets/1*YcLa803VyVFfIs7WbukMKA.gif)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1c/1c5c3bd3465e6ad86fda817b372d76f29853c8d598d9f5c651ee3cb170a742c6.gif)
 
 ## 结论
 
@@ -1324,7 +1324,7 @@ g2.invoke(input=state) # <-- 传入之前相同的初始状态
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1340,7 +1340,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://medium.com/towards-data-science/genai-with-python-build-agents-from-scratch-complete-tutorial-4fc1e084e2ec)
 

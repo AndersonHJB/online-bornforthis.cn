@@ -70,19 +70,19 @@ You will likely need to design at least one, and possibly three, interfaces for 
 
 Your view should give as much information as the screenshots below, but the physical appearance is up to you. Consider the following screenshot which shows the start of the game. Notice we can see the board and the pawns on each, row-scores, and the hand of the Red player.
 
-![](./Assignment6-Pawns-on-the-World-Stage-Pawns-Board-part2.assets/start-game.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dd/dd8fac73088d8a91d9965382d7ef612f0d086cce144a4df4e10afc58c0bd7d6b.png)
 
 Here is a view of the game mid-game, also on Red’s turn:
 
-![](./Assignment6-Pawns-on-the-World-Stage-Pawns-Board-part2.assets/mid-game-red.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a49b61db3297db60d606c77cc25054bb1879401327870f267769964fcc01fc3b.png)
 
 Here is a view of the same game mid-game, but on Blue’s turn. Notice that Blue’s cards have their influence grid already mirrored.
 
-![](./Assignment6-Pawns-on-the-World-Stage-Pawns-Board-part2.assets/mid-game-blue.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5d/5d19cb67d417f3c9173cdc6c273ac819c7cf8f0ee32c616bbf6ca397845afac1.png)
 
 And reminder that the game can be more than 3 rows with 5 columns. Here is an example with 7 rows and 11 columns with a starting hand size of 10 cards, totaling 77 cells PLUS the 11 cards that must be displayed at once (remember the red player draws one card at the start of their turn).
 
-![](./Assignment6-Pawns-on-the-World-Stage-Pawns-Board-part2.assets/large-game-red.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ca/ca60bb7ecafeb7b7986f66e54f2008e92642f712fa0cae60b528db6b6879d8ce.png)
 
 You may decorate the image if you wish, or adjust the color palette, or even change the font, or change how the cards themselves are displayed, but it should still contain the same information as the above. That means a user can easily identify the following:
 
@@ -96,7 +96,7 @@ You may decorate the image if you wish, or adjust the color palette, or even cha
 
 Here is an example of an alternative view that shows the same information without the same level of polish as the above.
 
-![](./Assignment6-Pawns-on-the-World-Stage-Pawns-Board-part2.assets/simple-gui.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/42/4258a1e0df7231424b3e63dc13617c5cd228856ccb99a39af4de9e100ed3f14b.png)
 
 You will notice the following
 
@@ -121,13 +121,13 @@ In preparation for the next assignment (where you will build a controller that d
 
 - a user should be able to click on a card in the hand, and it should highlight that card somehow. In the image below, the highlight is indicated by changing the card to cyan. You may choose another way of highlighting if you wish so long as it is obvious it is selected.
 
-    ![](./Assignment6-Pawns-on-the-World-Stage-Pawns-Board-part2.assets/card-highlight.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9e/9ea75ca0ef26d97bb9b74c0bdb73784c474827b6c4367d2e314c3be1ab864336.png)
 
     - Additionally, your stub controller should print a message (using `System.out`) containing the index of the card that was clicked on as well as which player owns that hand.
 
 - a user should be able to click on a cell in the grid, and it should highlight that cell somehow. In the image below, the highlight is indicated by changing the cell background to cyan. You may choose another way of highlighting if you wish so long as it is obvious it is selected.
 
-    ![](./Assignment6-Pawns-on-the-World-Stage-Pawns-Board-part2.assets/cell-highlight.png)
+    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/40/409ef5ecd54def2f0c01db2d185de2a7ce9587fd81569416b11beb5c69064e48.png)
 
     - Additionally, the stub controller should print a message (using `System.out`) containing the coordinates of the cell that was clicked on, in whatever coordinate system you used in your model. **Note:** this is not the same thing as the physical *mouse* coordinates of the mouse event!
 
@@ -273,7 +273,7 @@ In class we discussed *mocks*, that are stub implementations of interfaces that 
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -289,4 +289,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

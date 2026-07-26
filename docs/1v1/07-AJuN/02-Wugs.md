@@ -30,7 +30,7 @@ toc: true
 footer: 长期招收编程一对一学员!微信:Jiabcdefh, <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备19021486号-6</a>
 ---
 
-![image-20221020131355774](./02-Wugs.assets/image-20221020131355774.png)
+![image-20221020131355774](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6b/6b0867ec2f1fc9f706ad3603e374a297eb2fafe83837100bd3de9a4f6e3063c7.png)
 
 
 
@@ -90,7 +90,7 @@ A sample genome:
 
 >   基因组样本:
 
-![image-20221020132231671](./02-Wugs.assets/image-20221020132231671.png)
+![image-20221020132231671](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3d/3d9f5bbdfd85b90cb31751963291965ed84bad99742e6e1fc4c757ef058441d1.png)
 
 
 
@@ -124,7 +124,7 @@ The genome zoning is the same across the wugs. It's also the same across questio
 
 >   整个wugs的基因组分区是一样的。在所有问题中也是一样的(但与当前示例中提供的不同)。
 
-![image-20221020132907867](./02-Wugs.assets/image-20221020132907867.png)
+![image-20221020132907867](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/fab1505db906a3e03135595ed0a948d3af1d7bf1a7045a313a294d65920d26f3.png)
 
 ## SuperWug
 
@@ -148,7 +148,7 @@ There is a target ``super wug genome’’. Once a wug has that genome, it would
 
 >   速度:1010
 
-![image-20221020133136142](./02-Wugs.assets/image-20221020133136142.png)
+![image-20221020133136142](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/992ad7e79f6f6aed03b76a5c22e7c0acbe2c2ed15256e79c4d00719f71fe4a93.png)
 
 ## Normal vs. Superior
 
@@ -156,9 +156,9 @@ If at least one gene within a genome zone doesn't coincide with that found in th
 
 >   如果基因组区中至少有一个基因与“超级wug基因组”中的基因不一致，则单个wug在各自的特征中显示正常水平。否则，如果一个区域的所有基因都与黄金基因重合，则会发展出各自属性的突出水平。
 
-![image-20221020133317255](./02-Wugs.assets/image-20221020133317255.png)
+![image-20221020133317255](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/47/47a83385bd992ff633491c42863f70ec4bd4bbaf8aef72629515cccfe533c35a.png)
 
-![image-20221020133330593](./02-Wugs.assets/image-20221020133330593.png)
+![image-20221020133330593](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/37/3781fc39b9776526107dca9543d0ef0f080122407721abcba969159708924c47.png)
 
 
 
@@ -867,7 +867,7 @@ if __name__ == '__main__':
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -883,4 +883,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

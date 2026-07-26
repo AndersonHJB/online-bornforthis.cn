@@ -19,7 +19,7 @@ backToTop: true
 toc: true
 ---
 
-![Image from iWeaver](./07-why-researchers-should-rethink-data-handling-with-offline-ai-tools.assets/1*Ap-ao8Mh45ytS513RAGGUw.jpeg)
+![Image from iWeaver](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4a/4a10e35e488b572a6cfa52c41d3ad0e071c802f2583cb855b3055992084c93bf.jpeg)
 
 when it comes to working with AI, data privacy should be your number one concern. There are plenty of AI tools out there claiming to make your life easier, but the reality is that most of them don’t give you full control over your data. That’s a problem, especially if you’re a researcher or someone handling sensitive information.
 
@@ -45,7 +45,7 @@ Once information is collected, iWeaver securely stores it, ensuring that users c
 
 You might be wondering what makes iWeaver so special compared to other chatbots like Gemini and ChatGPT, or Claude AI.
 
-![iWeaver AI behaves like a typical chatbot where you type your queries and the AI will respond to you in a matter of seconds. But what makes it different is its specific focus on personal knowledge management and its unique features designed for efficient information processing and retrieval.](./07-why-researchers-should-rethink-data-handling-with-offline-ai-tools.assets/1*LAXr7dUY4NXR-5_yRaf69A.png)
+![iWeaver AI behaves like a typical chatbot where you type your queries and the AI will respond to you in a matter of seconds. But what makes it different is its specific focus on personal knowledge management and its unique features designed for efficient information processing and retrieval.](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7e/7e10da411b4810e4bce1a921497728f96a5940f8c72213849e3d071c6b9a62d9.png)
 
 Right, it behaves like a typical chatbot where you type your queries and the AI will respond to you in a matter of seconds. But what makes it different is its specific focus on personal knowledge management and its unique features designed for efficient information processing and retrieval.
 
@@ -55,7 +55,7 @@ This feature gives you the confidence that your data stays safe on your local st
 
 The platform is also equipped with tons of features that may not be available in other chatbots.
 
-![iWeaver is also equipped with tons of features that may not be available in other chatbots. You can upload various kinds of files, including .png, .jpg, .jpeg, .mp3, .mp4, .pdf, .doc, .docx, .pptx or a link to a website you want to analyze. You can also generate mind maps from a document or transcribe audio and video.](./07-why-researchers-should-rethink-data-handling-with-offline-ai-tools.assets/1*bhm8CJZpeuz9iBi3yNYC6w.png)
+![iWeaver is also equipped with tons of features that may not be available in other chatbots. You can upload various kinds of files, including .png, .jpg, .jpeg, .mp3, .mp4, .pdf, .doc, .docx, .pptx or a link to a website you want to analyze. You can also generate mind maps from a document or transcribe audio and video.](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ac/ac05d63f926dd3c1dcf4dd2065854e6b762762d8c838d89da1c2b81331c5c2ce.png)
 
 You can upload various kinds of files, including `.png, .jpg, .jpeg, .mp3, .mp4, .pdf, .doc, .docx, .pptx` or a link to a website you want to analyze.
 
@@ -67,7 +67,7 @@ When users choose to use the web interface of iWeaver, their documents are store
 
 The “layered and decoupled” data security capability model consists of three layers: data security service, data security management center, and data security protection capability.
 
-![Tencent Cloud. The “layered and decoupled” data security capability model consists of three layers: data security service, data security management center, and data security protection capability.](./07-why-researchers-should-rethink-data-handling-with-offline-ai-tools.assets/1*jCubT2v1dFSaQdXqjwDFdw.png)
+![Tencent Cloud. The “layered and decoupled” data security capability model consists of three layers: data security service, data security management center, and data security protection capability.](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ec/ec6ef49a4f8d726051ddd42cde367aaee1beebaabfc3f030bd5df81bd572f97c.png)
 
 Here are the key points regarding storage and security:
 
@@ -100,11 +100,11 @@ If you want to install iWeaver on your Windows PC, make sure you meet the follow
 
 Head over to the [PC client page](https://www.iweaver.ai/) and click on the “Download for Windows” button.
 
-![Using iWeaver Offline with Windows App If you want to install iWeaver on your PC, make sure you meet the following recommended hardware and software requirements: OS: Windows 10 or higher Processor: Intel® Core™ Ultra Processors GPU: Intel® Arc™ GPUs Memory: 32 GB RAM Storage: 10 GB available space](./07-why-researchers-should-rethink-data-handling-with-offline-ai-tools.assets/0*Jq8c0hNM6uxxLDRK.png)
+![Using iWeaver Offline with Windows App If you want to install iWeaver on your PC, make sure you meet the following recommended hardware and software requirements: OS: Windows 10 or higher Processor: Intel® Core™ Ultra Processors GPU: Intel® Arc™ GPUs Memory: 32 GB RAM Storage: 10 GB available space](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/63/63fc20b96b556d8b7d3412349a100eb06a976c8ea095d642cccbd4239be57e70.png)
 
 After downloading, install the app on your machine. This is what you’ll see after installation.
 
-![](./07-why-researchers-should-rethink-data-handling-with-offline-ai-tools.assets/0*AeWZZ9nYowbRDMiT.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/97/979de1943e7c9921576ce1d932136a895ebaeb277f41a6878fa95a1fb682c925.png)
 
 Make sure to download all the necessary AI models before starting to use iWeaver offline.
 
@@ -114,7 +114,7 @@ The downloading and unzipping process might take a while since some of the model
 
 iWeaver is available in monthly, quarterly, or yearly subscriptions. It offers three pricing tiers designed for different user needs.
 
-![](./07-why-researchers-should-rethink-data-handling-with-offline-ai-tools.assets/1*9XAoNaWhGDW_qiagcA0SpA.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/34/3483147c088093b1d40ef3f1b68e0007b5acf076da2401b66728fdd351f2c630.png)
 
 - The **Free Plan** is perfect for beginners, offering five AI queries per day and access to essential features like AI summaries, knowledge chat, mind maps, and multimedia processing. Storage is limited to 1,000 items per month, but it’s ideal for light use.
 - The **Professional Plan**, starting at $9.90 per month, is suited for more frequent users. It provides 1,500 AI queries monthly, permanent storage, and access to the full range of iWeaver’s tools, making it a great option for professionals managing larger data sets.
@@ -148,7 +148,7 @@ For researchers, professionals, or even everyday users who value security, it’
 
 
 
-![https://techcrunch.com/2023/05/02/samsung-bans-use-of-generative-ai-tools-like-chatgpt-after-april-internal-data-leak/](./07-why-researchers-should-rethink-data-handling-with-offline-ai-tools.assets/1eda6274-26e0-4e65-bee1-84bda3c828fc.jpg)
+![https://techcrunch.com/2023/05/02/samsung-bans-use-of-generative-ai-tools-like-chatgpt-after-april-internal-data-leak/](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/97/97bd1a4b31155adde13c785a5e44bbb8a8424f3e23d0128210f06d0ce7cdd723.jpg)
 
 
 > In early April 2023, a significant incident occurred involving Samsung employees inadvertently leaking proprietary code into ChatGPT. This leak involved multiple employees from Samsung’s semiconductor division, who entered confidential information while seeking assistance with coding issues. One employee copied buggy source code from a semiconductor database into the chatbot, asking for a fix, while another sought code optimization for different equipment. A third employee used ChatGPT to summarize meeting notes, further compounding the issue.
@@ -219,7 +219,7 @@ For researchers, professionals, or even everyday users who value security, it’
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -235,7 +235,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://generativeai.pub/why-researchers-should-rethink-data-handling-with-offline-ai-tools-6f47bb1c52a3)
 

@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: python
 title: unique Python辅导答疑
-heroImage: /1v1/haibao/1v1.png
+heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d0/d0dd11f772dc0d6d914bfa1775d241772524d91a7a3c7312ba08b00ed3d48884.png
 heroText: unique
 heroFullScreen: false
 tagline: Python编程一对一辅导
@@ -60,7 +60,7 @@ greet_user()
 
 ::: details 图片
 
-![image-20230104152758254](./README.assets/image-20230104152758254.png)
+![image-20230104152758254](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b9395549048b2ca249bd63e43cdaa2acbb83a0128ba00f96e2e3b6b894ed8ea9.png)
 
 :::
 
@@ -128,7 +128,7 @@ json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -144,4 +144,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

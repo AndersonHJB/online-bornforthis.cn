@@ -396,7 +396,7 @@ Serv00.com free hosting administration
 
 订单发票： [下载发票](https://url7549.payproglobal.com/ls/click?upn=k8P3Q-2FJIwCoWZs0lZ3Y0z5PGeYcboYWxhmAxaSx5vDEQhzdQY2uJq3lQoLgQ9hJCHv9zBPdD62qmE-2BNbWCQtvb7EA2-2F4ZU-2Bbxvu-2F3pB0R7hQayynwRDEdQMab945LUM3h7k7662J8v4LDn3pIKjofg-3D-3DnZXr_gmWuwZbN5gvjVqa7G7Se0tlNd7qA4SpqR7cDZTG85MEfJiRVigM3cSmOsUJ2WE2m-2Bibi1J0d89bA79WhKhqh6ypHbF8qkzs9CpVZZwrueVVl5fN5-2FZI812D5xOvw6utpUU5Ya9Oc92evNY9aAwcGIsZdOzDjLPMjiPy7dYJSBcQIdejUPF1X3JzJNI3c-2BytrBF6-2BOolDIOWMCL8P-2B8WOMlzPkc7NnRiZfZVWrQDkzYh-2FfyN-2BG-2Fjtd9CT1ImNzz-2Bl-2BuImWt8RAc5WvCRXQf2PrqoXCv5L4rpWJv16HQjomGk-3D)
 
-![](./password.assets/image-20240608114946317.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/06/063614364ef11e8f25a4a0c534f69ae4ac0fb9eacd24b95c7bad5f94deb1dc8b.png)
 
 您可以使用下面列出的直接下载链接立即开始使用您的产品：
 
@@ -568,11 +568,11 @@ xiydrvpxphng
 
 @tab 1
 
-![](./password.assets/image-20241029162022842.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/71/713b886804cad7315a1dd3cb6f8990adfe6e129517edbfc7d7b176196c2057eb.png)
 
 @tab 2
 
-![](./password.assets/image-20241029162503620.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/df78de5a1b32f6576852e19498e2f7f6659a5509d4969084234927c68fe4d79b.png)
 
 :::
 

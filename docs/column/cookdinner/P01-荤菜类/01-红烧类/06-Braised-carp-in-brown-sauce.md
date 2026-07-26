@@ -46,7 +46,7 @@ toc: true
 
 ::: center
 
-<img src="./06-Braised-carp-in-brown-sauce.assets/03-红烧鲤鱼_0001.jpg" alt="03-红烧鲤鱼_0001" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4d/4d1ad2fe99ce5825e8413c6df4777a45a62b64ef71ba08d54609fc1d7d70a4cc.jpg" alt="03-红烧鲤鱼_0001" style="zoom:25%;" />
 
 :::
 
@@ -56,7 +56,7 @@ toc: true
 
 ::: center
 
-<img src="./06-Braised-carp-in-brown-sauce.assets/03-红烧鲤鱼_0002.jpg" alt="03-红烧鲤鱼_0002" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c7/c72f63b7db649b2785a75030ea4e3fc7ed3521c10e3a3b76b9c5d911620fe73e.jpg" alt="03-红烧鲤鱼_0002" style="zoom:25%;" />
 
 :::
 
@@ -68,7 +68,7 @@ toc: true
 
 ::: center
 
-<img src="./06-Braised-carp-in-brown-sauce.assets/03-红烧鲤鱼_0003.jpg" alt="03-红烧鲤鱼_0003" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e0/e076943834b14c98f643525cdf6c0e33a288d2f6b44b7f446f8a061b2f91dd5e.jpg" alt="03-红烧鲤鱼_0003" style="zoom:25%;" />
 
 :::
 
@@ -80,7 +80,7 @@ toc: true
 
 ::: center
 
-<img src="./06-Braised-carp-in-brown-sauce.assets/03-红烧鲤鱼_0004.jpg" alt="03-红烧鲤鱼_0004" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4e/4eef64cf21a762f3163dbc1c1f1cfbd52955bf6f28cf85ccf5d92086125b7b19.jpg" alt="03-红烧鲤鱼_0004" style="zoom:25%;" />
 
 :::
 
@@ -92,7 +92,7 @@ toc: true
 
 ::: center
 
-<img src="./06-Braised-carp-in-brown-sauce.assets/03-红烧鲤鱼_0005.jpg" alt="03-红烧鲤鱼_0005" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3e/3e896ffc3e0a2e2c08eaeba8ce2edfe684c2b99dc27c18f7c6ad33bdbaac1427.jpg" alt="03-红烧鲤鱼_0005" style="zoom:25%;" />
 
 :::
 
@@ -102,7 +102,7 @@ toc: true
 
 ::: center
 
-<img src="./06-Braised-carp-in-brown-sauce.assets/03-红烧鲤鱼_0006.jpg" alt="03-红烧鲤鱼_0006" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/11/112f6160c4979ee08868cb81f5899779f4a57744c60bcbb41acb3e821ec2d7fe.jpg" alt="03-红烧鲤鱼_0006" style="zoom:25%;" />
 
 :::
 
@@ -112,7 +112,7 @@ toc: true
 
 ::: center
 
-<img src="./06-Braised-carp-in-brown-sauce.assets/03-红烧鲤鱼_0007.jpg" alt="03-红烧鲤鱼_0007" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e7/e737d41fa6beb5ad990963c104e02e7a3c80367a896e40d70a9af3d82b7dc4b2.jpg" alt="03-红烧鲤鱼_0007" style="zoom:25%;" />
 
 :::
 
@@ -120,7 +120,7 @@ toc: true
 
 油温冒烟的状态，6～7成热直接下鱼，刚下锅的时候别动鱼🐟让鱼定型定型
 
-<img src="./06-Braised-carp-in-brown-sauce.assets/03-红烧鲤鱼_0001-0831142.jpg" alt="03-红烧鲤鱼_0001" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2b/2b2836c85c1593d5abd297be8ce67f153bc8de90da524ba731f0f920b2bff1dc.jpg" alt="03-红烧鲤鱼_0001" style="zoom:25%;" />
 
 ::::
 
@@ -132,7 +132,7 @@ toc: true
 
 ::: center
 
-<img src="./06-Braised-carp-in-brown-sauce.assets/03-红烧鲤鱼_0002-0831214.jpg" alt="03-红烧鲤鱼_0002" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0f/0fb9c119f6687532358e121f257a7b2cc4649a5e880492de2c179dc1f49646c0.jpg" alt="03-红烧鲤鱼_0002" style="zoom:25%;" />
 
 :::
 
@@ -146,7 +146,7 @@ toc: true
 
 肉片把它煸香
 
-<img src="./06-Braised-carp-in-brown-sauce.assets/03-红烧鲤鱼_0003-0831484.jpg" alt="03-红烧鲤鱼_0003" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/13/139ba12ff44e6d0a70a5c038bfa06b2aa87e9f9f6dca1fbea0b1670d27b2a6e3.jpg" alt="03-红烧鲤鱼_0003" style="zoom:25%;" />
 
 
 
@@ -156,9 +156,9 @@ toc: true
 
 ::: center
 
-<img src="./06-Braised-carp-in-brown-sauce.assets/03-红烧鲤鱼_0004-1071220.jpg" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/9170a6378a0711b0b114196b2f1354451597d42bd977fc0c6ae7fbaa3b23948f.jpg" style="zoom:25%;" />
 
-<img src="./06-Braised-carp-in-brown-sauce.assets/03-红烧鲤鱼_0005-1071294.jpg" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d5/d5098f86ed0d26d6c1f687f48ab2e11970663d6ed620a79156c9f327360123f4.jpg" style="zoom:25%;" />
 
 :::
 
@@ -168,7 +168,7 @@ toc: true
 
 ::: center
 
-<img src="./06-Braised-carp-in-brown-sauce.assets/03-红烧鲤鱼_0006-1071335.jpg" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b7/b71a135f43e044f71d6fd563bad399ba6f59877166f0880e9e21151a792f8d51.jpg" style="zoom:25%;" />
 
 :::
 
@@ -178,7 +178,7 @@ toc: true
 
 ::: center
 
-<img src="./06-Braised-carp-in-brown-sauce.assets/03-红烧鲤鱼_0007-1071449.jpg" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/fae050c5ee6c50618bbfa21717b457a61db6608aa319f42e90259e6d1b02fc90.jpg" style="zoom:25%;" />
 
 :::
 
@@ -230,7 +230,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -246,5 +246,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

@@ -28,17 +28,17 @@ toc: true
 
 那你可能会问了，计算机程序里的错误跟虫子有什么关系呢？这事，和一位女程序员有关，她叫**格蕾丝·赫柏**。
 
-![](./20-Will-the-world-come-to-an-end-in-2038.assets/b7acbb0d3c9882d55e78876d448cec4f.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ec/ec45079bce14086d4ac04bf635c143def4471c5212b213ffecd9c4c6b773c466.jpg)
 
 格蕾丝是一个真正的**天才程序员**。她设计了世界上第一个商用的编程语言，而且因为在计算机领域的工作，成了美国历史上第一位女将军。此外，她还参加了世界上第一台通用计算机“**马克一号**”的研发工作，是马克一号的第一个专职程序员。
 
-![图片来源：维基百科](./20-Will-the-world-come-to-an-end-in-2038.assets/649fd3c781222b6fea34f80109e2963a.jpg)
+![图片来源：维基百科](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6d/6d83573dd2c54978329f1ff8d40ebdb448058cd5565a50d904c512cc774f88e4.jpg)
 
 后来，她又参与了马克一号的弟弟“**马克二号**”的研发工作。有一天，“马克二号”计算机突然就不工作了。格蕾丝就去找原因，找来找去，最后发现，原来是有一只**蛾子**飞进了计算机，造成了短路。格蕾丝把蛾子拿出来，问题很快就解决了。
 
 解决问题之后，格蕾丝就在自己的**工作记录**里写上，我发现了一只虫子——诶，也就是“我发现了一个 bug”。有意思的是，她还把这只蛾子贴到了自己的工作记录里。现在，这一页工作记录被送进**博物馆**保存了起来。现在屏幕上显示的，就是这一页记录，你还能看到当年的那个 bug 呢。
 
-![](./20-Will-the-world-come-to-an-end-in-2038.assets/f34327d07299c2c935edc2141ca1b960.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d428ab484016ea19522f5d7504bfa3fb60b6101def69530a514a6579f64ccc39.jpg)
 
 
 
@@ -64,7 +64,7 @@ toc: true
 
 这要是发生在我们自己家里的计算机上倒还好，最严重的后果，无非就是报废一台计算机嘛。但在其他地方可就不一样了。比如军队吧，现代军队是特别依赖计算机的。**战斗机**保持飞机平衡、搜索和锁定敌人都要靠计算机帮助。**坦克**瞄准敌人开火，干扰敌人的导弹让它们打不准，靠的也是计算机。
 
-![](./20-Will-the-world-come-to-an-end-in-2038.assets/881b02ab6e821501aa45721bec7a2989.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/eb/eb967d69e1cd0a3d3df862a2fed864291e1a781c2fdcc9b3a93ca4f2d2357734.jpg)
 
 你可以想象一下，假如一架战斗机在1999年的12月31日晚上出去执行任务。飞着飞着，时间一过0点，战斗机上的电脑突然就不工作了，战斗机一下子失去了控制，搞不好会载着武器一头就撞向了城市。这可太糟了吧。
 
@@ -84,7 +84,7 @@ toc: true
 
 你肯定知道，在除法里，**0是不能做除数**的。所以，如果有人在除数这一栏输入了0，那么程序就可能会出错。这就是一个极端情况，是要提前做好应对准备的。比如，如果有人在除数一栏输入了0，那程序就不会进行运算，而是直接弹出一句提示：“0不能作为除数”。
 
-![](./20-Will-the-world-come-to-an-end-in-2038.assets/dedd66067d69827727e93db4615922a9.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/97/97b66a1d200ca86e1a5f8b752f6ac77f3b6f83a702cad3d713a03d5b22f120de.jpg)
 
 
 
@@ -152,7 +152,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -168,4 +168,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

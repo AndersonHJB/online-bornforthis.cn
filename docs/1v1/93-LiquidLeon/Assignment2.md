@@ -54,7 +54,7 @@ In the next three assignments, you will implement a solitaire variation of the p
 
 **A video showing the solitaire game of Solo Red is coming shortly!** In the meantime, here is an image of the game being played.
 
-![](./Assignment2.assets/solored.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b0/b070e4267f7530dcd5ba54a479c00014b73a902dc6b6f13f60078049d4a3d331.jpg)
 
 Note that our version will have some differences to the real version of the game. **Furthermore, a future assignment might involve adding more features to this game.** Keep the above in mind when thinking about your representation in this assignment. However, read this assignment *carefully and from beginning to the end* for what features you are required to implement in this assignment.
 
@@ -460,7 +460,7 @@ To make sure that your packages are in the correct layout, you should tell Intel
 
 When you create a new project, you should see something like this:
 
-![](./Assignment2.assets/new-project.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/37/3709a621417031419d0d6cc70745c8487c9971df05b9ce63c19938d8d21e82b5.png)
 
 Notice that the `src` directory is marked blue, which means IntelliJ believes that this directory contains the source files of your project. *If it isn’t marked blue,* you need to tell IntelliJ that it should be: right-click on the `src` folder and select *Mark Directory As -> Sources root*. To create a new package, right-click on the `src` directory, select *New -> Package*. In the dialog box that pops up, enter the new package name
 
@@ -1581,7 +1581,7 @@ public class Main {
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1597,5 +1597,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

@@ -52,7 +52,7 @@ MongoDB 支持多种平台，包括 Windows、Linux、Mac OS、Solaris 等，在
 
 MongoDB 安装包含两部分：一个是 MongoDB 安装。一个是可视化软件安装（Studio 3T）。如果你使用命令行操作 MongoDB，可以不安装 Studio 3T，但是本人建议你安装 Studio 3T，因为不需要在命令行输入繁琐的命令，直接在 Studio 3T 上操作即可，用起来很方便。
 
-![image-20230103185154980](./mongodb-install.assets/image-20230103185154980.png)
+![image-20230103185154980](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5b/5b0cbc54333582ae39e6808a111a122303e56d1f0730d601a4db5b39f37e6207.png)
 
 本节中，我们来看下它的安装过程。
 
@@ -67,7 +67,7 @@ MongoDB 安装包含两部分：一个是 MongoDB 安装。一个是可视化软
 
 这里直接在官网（如图 1 所示）点击 DOWNLOAD 按钮下载 msi 安装包即可。
 
-![图 1](./mongodb-install.assets/image-20230103091313795.png)
+![图 1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/69/699e2c48d1731c12fa9220355934e42ab0218fa68773c780e9ce90cb8999c98c.png)
 
 下载 `.msi` 文件，下载后双击该文件，按操作提示安装即可。
 
@@ -75,39 +75,39 @@ MongoDB 安装包含两部分：一个是 MongoDB 安装。一个是可视化软
 
 ::: details 长图
 
-![步骤1](./mongodb-install.assets/image-20230103092348702.png)
+![步骤1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/29/29a5151d3eba915646ac8efa81f2ef75416bb1663243fc9160b211a0ea73c48e.png)
 
-![步骤2](./mongodb-install.assets/image-20230103092621521.png)
+![步骤2](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/38/38e9b4c6d67b7b52bc2000aae2bc16c4ebb6b060e950601c0a3a25ad098661d4.png)
 
-![步骤3](./mongodb-install.assets/image-20230103092657630.png)
+![步骤3](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/86/86e267044c884ec8b448450f9f338011de549f417c32ca3c46226efca2afc98b.png)
 
-![步骤4](./mongodb-install.assets/image-20230103092730123.png)
+![步骤4](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1a/1a7ef28d3c0458d7235a3e3ef57faa3dfb0f45a0186e53902f56f4548feeb763.png)
 
-![步骤5](./mongodb-install.assets/image-20230103092832975.png)
+![步骤5](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ae/aebabb583bd2433d9ceccaef6ba733c1ac27fa722d45ec95ea20d2e3de3b2333.png)
 
 默认安装是在 C 盘，点击 **Browse…** 选择你要安装的盘，选择好安装的盘后在点击 Next。**注意：记住你安装在某盘的路径，后面配置环境变量要用到。**
 
-![步骤5](./mongodb-install.assets/image-20230103092914087.png)
+![步骤5](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/14/146ba48efb40b9636f0c02baad473d87eca21e32a377c4ac5633429dfe3f372d.png)
 
-![步骤6](./mongodb-install.assets/image-20230103093415325.png)
+![步骤6](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/1614287237377eb3595238d4d542c5a952fee2a11d0d7283825da949249dacbd.png)
 
 默认是勾选上的，选择不勾选(Install MongoDB Compass)，点击 Next。
 
-![步骤7](./mongodb-install.assets/image-20230103092958027.png)
+![步骤7](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ac/acd0346b8a868d5f8a8466887ea9a53fd165924a16049647d516cfbe38902475.png)
 
 弹出**图一**点击OK，继续操作。如果弹出**图二**请看：**3、安装MongoDB提示权限不足的解决方法**。
 
 **图一：**
 
-![image-20230103221507947](./mongodb-install.assets/image-20230103221507947.png)
+![image-20230103221507947](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/23/23a16a2b3020d9023ce79fbb270969c660e457d90eec3485c59dacb41b51220b.png)
 
 **图二：**
 
-![image-20230103221532425](./mongodb-install.assets/image-20230103221532425.png)
+![image-20230103221532425](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/73/73023aa2869a7dc82bb8057c051912d638a3ae014d1fe2501d40e522d9aaa5c9.png)
 
-![步骤8](./mongodb-install.assets/image-20230103093018256.png)
+![步骤8](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/21/213f4a42f96710bb0bd38a18f7e7642c2bd65138c35245fdba4512e976cc6337.png)
 
-![Finish](./mongodb-install.assets/image-20230103093153618.png)
+![Finish](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/30b0914b021dec128af1745526b260e705c2817d3e57b25eb53da77d5c2d31bc.png)
 
 你也可以选择重启电脑一下，以免部分电脑无法 update 环境变量。
 
@@ -117,37 +117,37 @@ MongoDB 安装包含两部分：一个是 MongoDB 安装。一个是可视化软
 
 1. 重启电脑后，找到并打开你安装 MongoDB 的位置，一直打开到 bin 文件夹。在键盘上按 `Window + R`  打开运行窗口，输入 cmd，弹出命令提示符窗口，在命令提示符窗口输入 mongo。如下图：
 
-![image-20230104000324113](./mongodb-install.assets/image-20230104000324113.png)
+![image-20230104000324113](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3c/3cebd8477120f95e337aa5d17d6e39999b5815efd208013a706d44229949fbb2.png)
 
 2. 电脑桌面找到此电脑图标，右击此电脑图标，点击属性，找到高级系统设置并点击（打开后如下图）。
 
-![打开此电脑，桌面显示](./mongodb-install.assets/image-20230104000603985.png)
+![打开此电脑，桌面显示](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a8/a8a9794c492879ef3f99cdc55905befb2d6e26d5af50279fa811e903ec687a33.png)
 
 **注意：下图的步骤是你自己的安装路径（就是前面记住的路径，再加上\bin）输入后依次点击确定**。
 
-![设置环境变量](./mongodb-install.assets/image-20230104072321539.png)
+![设置环境变量](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0a/0a84fff9bc1854c286f00d07d04d43782c4be28fd0818e583e09bb5df1c11a04.png)
 
 3. 进入 MongoDB 官网下载[MongoDB Shell](https://www.mongodb.com/try/download/shell)：https://www.mongodb.com/try/download/shell
 
-![MongoDB Shell](./mongodb-install.assets/image-20230104072929652.png)
+![MongoDB Shell](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/67/67e8f34a346385854d728294c7192b81be5e6ea2b96b2fc7be06b11568b69a2e.png)
 
 4. 找到下载的文件解压，解压后找到 bin 文件打开，bin 文件下有 2 个文件， **mongosh** 文件和 **mongosh_crypt_v1** 文件，复制这 2 个文件到刚刚安装 MongoDB 路径下的 bin 文件里面。
 
-![1](./mongodb-install.assets/image-20230104075530707.png)
+![1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5f7a5a9c0f22bc61919fa57d8c1dc30104386b3003a2a06439ae0070e321ff52.png)
 
 
 
-![2](./mongodb-install.assets/image-20230104075606451.png)
+![2](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/83/83981c8a76c69b1a64a71705f112eb8950159df12b53af6ae39ccc6bfc28be4c.png)
 
 找到 bin 拷贝到我们的安装路径/bin 下：
 
-![3](./mongodb-install.assets/image-20230104075656992.png)
+![3](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2d01247cf171d04570f5ba71311cfc8fc781c1709c600abc099ee2161bec4cc4.png)
 
 5. 复制后，在键盘上按 `Window + R` 打开运行窗口，输入 cmd，弹出命令提示符窗口，在命令提示符窗口输入 **mongod**，弹出以下内容后继续输入 **mongosh** ，弹出以下内容后继续输入 **show dbs**。如下图：
 
-![mongod](./mongodb-install.assets/image-20230104075808963.png)
+![mongod](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e464c47f307f8bf850063227e32b250bb88040efa2c61fb2557338c373bef0dd.png)
 
-![mongosh](./mongodb-install.assets/image-20230104075840376.png)
+![mongosh](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ce/ce1fb108a5533132b9cb918b8b146881cf3543ae445b5500695fdeb2409d5b61.png)
 
 ```sql
 test> show dbs
@@ -163,23 +163,23 @@ test>
 
 1. 进入 Studio 3T 官网下载 [Studio 3T](https://studio3t.com/download/)：https://studio3t.com/download/
 
-![Studio 3T](./mongodb-install.assets/image-20230104083559797.png)
+![Studio 3T](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f9/f9b1526072cea4170f1fac58e86fc9694a817b55d88096cb7be6f1f8d3fb9f6b.png)
 
 下载后的文件：
 
-![下载后的文件](./mongodb-install.assets/image-20230104090229530.png)
+![下载后的文件](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/49/49b2e41f2c6ae23de1957b45a3bb6df899a0fd2b66499576bd06774c15fdef6b.png)
 
 2. 解压后双击安装文件进行安装，点击 Next。
 
-![1](./mongodb-install.assets/image-20230104090656150.png)
+![1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dc/dc6d58659190695760e02ba32e70b4fb861456532fb2e3930708cc80138ca07a.png)
 
 3. 继续点击 Next。
 
-![2](./mongodb-install.assets/image-20230104090756624.png)
+![2](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4c/4c98ccb92c54587df17468b29164d13094927684f774b19382927353a2e52815.png)
 
 4. 设置安装路径（默认为 C 盘），点击 Next。
 
-![3](./mongodb-install.assets/image-20230104090835393.png)
+![3](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2a/2aedb2e49fd81e6be79bf6393c9d06ebec1cf9185835a14b45dc4236f1b36739.png)
 
 5. 点击 Finish。
 
@@ -191,27 +191,27 @@ test>
 
 1. 弹出提示权限不足的时候，先不要点击任何框内的内容。
 
-![image-20230104091204080](./mongodb-install.assets/image-20230104091204080.png)
+![image-20230104091204080](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e7/e78c6962251461a9fca3c3344e390462e6fd6cea20869a254fa2747f2ee5a7d5.png)
 
 2. 在键盘上按 window + R 打开运行窗口，输入 **services.msc** 命令。
 
-![image-20230104091253378](./mongodb-install.assets/image-20230104091253378.png)
+![image-20230104091253378](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3f/3f05f8b76a0869ab71acbe8fe4a2972ca1a473f00f7e17225ad4f9cb3fd9b757.png)
 
 3. 弹出以下服务框后找到 **MongoDB Server (MongoDB)** 双击打开。
 
-![image-20230104091339570](./mongodb-install.assets/image-20230104091339570.png)
+![image-20230104091339570](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1b/1b849c5aa9e1f19b46cd809a475b65af874862c2c4a81171c4ec08481373c9de.png)
 
 4. 点击**登录**选项，更改**登陆身份**后点击确定按钮，如下图：
 
-![image-20230104091508060](./mongodb-install.assets/image-20230104091508060.png)
+![image-20230104091508060](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/39/39d07dde50cb9afb0b5a696a384650829c6defba1e9e916d28c13363914b743d.png)
 
-![image-20230104091551103](./mongodb-install.assets/image-20230104091551103.png)
+![image-20230104091551103](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/91ce95990f605bbd86ac2277676dd15d6c72e5d2a3cb2204266838930e8aeb5c.png)
 
-![image-20230104091603116](./mongodb-install.assets/image-20230104091603116.png)
+![image-20230104091603116](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/1615fa1e50f738c83adf8e50286f3a38900b52fd00fdd84615e53cafcd1b4f3b.png)
 
 5. 再次双击 **MongoDB Server (MongoDB)** 打开，**常规**选项中，点击**启动**。（灰色是因为我的已点击过）
 
-![image-20230104091628608](./mongodb-install.assets/image-20230104091628608.png)
+![image-20230104091628608](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/163567b085219d36ec713afc223dc2d9896d9cec94c6571341e11d02a71fc74e.png)
 
 6. 回到弹出提示权限不足的时候，点击**Retry**（重试）。继续执行就可以了。
 
@@ -223,23 +223,23 @@ test>
 
 1. 点击官网[下载地址](https://www.mongodb.com/try/download/community)
 
-![image-20230104092158894](./mongodb-install.assets/image-20230104092158894.png)
+![image-20230104092158894](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/df308ae1ba52889b5675d001b6e76549e24a5bd847f4c7f5c1578baf02f04021.png)
 
 如图，点击 **Download** 下载按钮即可，其配置选项会根据用户笔记本系统自行选择，默认就行。
 
 2. 将下载好的 MongoDB 安装包解压缩，并将文件夹名改为 mongodb（可改成自己想要的任何名字）。
 
-![image-20230104092305170](./mongodb-install.assets/image-20230104092305170.png)
+![image-20230104092305170](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/fa1d6deea361461b9f3932e4fdd950cc828fc2b70f51d3afc8ab446f31a5e256.png)
 
-![image-20230104092436331](./mongodb-install.assets/image-20230104092436331.png)
+![image-20230104092436331](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/09/093ddff12a2bc1cc826b55f2bc2828639c3d56497743087a54b7de7d33fbafe8.png)
 
 3. 按快捷键 `Command + Shift + G` 打开前往文件夹弹窗，然后输入路径：` /usr/local`，并点击前往按钮。
 
-![image-20230104092610123](./mongodb-install.assets/image-20230104092610123.png)
+![image-20230104092610123](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/50/5094a92c79e21f93ac4baf4fffe81bac5c0de5b0e260156667d8d31d64b06ad9.png)
 
 4. 将 mongodb 文件夹拖入 local 文件夹中，自此安装完成。
 
-![image-20230104092643232](./mongodb-install.assets/image-20230104092643232.png)
+![image-20230104092643232](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0b/0b1a138205aafb8278636c6a601aea3a922df78e938587a6057eaccca864664c.png)
 
 #### 2. 在终端使用 curl 命令来下载安装
 
@@ -358,7 +358,7 @@ export PATH=/usr/local/mongodb/bin:$PATH
 
 将变量添加到文件中：
 
-![image-20230104094235855](./mongodb-install.assets/image-20230104094235855.png)
+![image-20230104094235855](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/00/00dc8c88dad8e24d4f1d3eee2e2577d44e04dc4cda9f23a5cef4ac5e686cd90c.png)
 
 4. 使用命令 `source ~/.zshrc` 使配置生效。
 
@@ -425,7 +425,7 @@ vim /usr/local/etc/mongod.conf
 
 写入如下配置：
 
-![image-20230104102111517](./mongodb-install.assets/image-20230104102111517.png)
+![image-20230104102111517](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7c/7ce3493443572f964249e5c131f41fa6ac8d6b3c4df751918a6c7de2b86d4d54.png)
 
 配置完成，以后再也不用输入一大串命令了。
 
@@ -433,7 +433,7 @@ vim /usr/local/etc/mongod.conf
 
 在终端输入命令：`mongo`，出现如下图字样，即说明连接服务成功。
 
-![image-20230104102213496](./mongodb-install.assets/image-20230104102213496.png)
+![image-20230104102213496](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9c/9c72a55112b136e011d2e1062db3f34fcd8a05c32dee89dfdfc84a6cd9cc436c.png)
 
 ## 补充
 
@@ -449,7 +449,7 @@ MongoDB 的安装过程是很简单的，但是配置就比较麻烦了，可能
 
 安装成功之后，进入 MongoDB 的安装目录，此处是 `C:\Program Files\MongoDB\Server\6.0\`，在 bin 目录下新建同级目录 data，如图 2 所示。
 
-![图 2](./mongodb-install.assets/image-20230103093615375.png)
+![图 2](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/da/da73a3502780f70eb7125265fef8287148bfa46353261ee6e1c2ceefaf5c1c02.png)
 
 ::: tip 提示
 
@@ -459,7 +459,7 @@ MongoDB 的安装过程是很简单的，但是配置就比较麻烦了，可能
 
 然后进入 data 文件夹，新建子文件夹 db 来存储数据目录，如图 3 所示。
 
-![图 3](./mongodb-install.assets/image-20230103093753654.png)
+![图 3](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d2/d2c8caa6b00e4e93ba03c63f310a6dd2b502d824f15a5f2b815b7949a827307b.png)
 
 之后打开命令行，进入 MongoDB 安装目录的 bin 目录下，运行 MongoDB 服务：
 
@@ -471,7 +471,7 @@ mongod --dbpath "C:\Program Files\MongoDB\Server\6.0\data\db"
 
 运行之后，会出现一些输出信息，如图 4 所示。
 
-![图 4](./mongodb-install.assets/image-20230103094036437.png)
+![图 4](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f0/f0c40ebef6d44aed2e1a23e8d9113a9611093cdb7a17afb90d75f2db0b539713.png)
 
 这样我们就启动 MongoDB 服务了。
 
@@ -487,7 +487,7 @@ mongod --dbpath "C:\Program Files\MongoDB\Server\6.0\data\db"
 
 首先，以管理员模式运行命令行。注意，此处一定要以管理员身份运行，否则可能配置失败，如图 5 所示。
 
-![图 5](./mongodb-install.assets/image-20230103094332755.png)
+![图 5](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/52/52fa2e3d9f35007e50f02d5b71213efe8a0672f3540083f01a73f88cb0c788ce.png)
 
 在 “开始” 菜单中搜索 cmd，找到命令行，然后右击它以管理员身份运行即可。
 
@@ -495,9 +495,9 @@ mongod --dbpath "C:\Program Files\MongoDB\Server\6.0\data\db"
 
 新版本已经自动创建 log。
 
-![log](./mongodb-install.assets/image-20230103094709373.png)
+![log](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c6/c6455a52c25ed22395345cdc6401647f78a04fe6057ca104e0187e700481bff5.png)
 
-![log1](./mongodb-install.assets/image-20230103094729180.png)
+![log1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b621af5f07b07880db6bc4ebb6e9018b63f5d7d45f30699304dda0e508596815.png)
 
 
 
@@ -509,13 +509,13 @@ mongod --bind_ip 0.0.0.0 --logpath "C:\Program Files\MongoDB\Server\6.0\log\mong
 
 这里的意思是绑定 IP 为 `0.0.0.0`（即任意 IP 均可访问），指定日志路径、数据库路径和端口，指定服务名称。需要注意的是，这里依然需要把路径替换成你的 MongoDB 安装路径，运行此命令后即可安装服务，运行结果如图 6 所示。
 
-![图 6](./mongodb-install.assets/image-20230103100032539.png)
+![图 6](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/803d0bb3abc0fd0247fc1c85868abcee6012dab1165b821642a8aef4727444cd.png)
 
 如果没有出现错误提示，则证明 MongoDB 服务已经安装成功。
 
 可以在服务管理页面查看到系统服务，如图 7 所示。
 
-![图 7](./mongodb-install.assets/image-20230103100227749.png)
+![图 7](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/43/43aaa7ac8edf575f6104b0df5ce4f01e29b4c3a8c0e74b16e6466fd63435fa34.png)
 
 然后就可以设置它的开机启动方式了，如自动启动或手动启动等，这样我们就可以非常方便地管理 MongoDB 服务了。
 
@@ -535,7 +535,7 @@ net stop MongoDB
 
 ~~### 2.3 添加环境变量~~
 
-![image-20230103100724368](./mongodb-install.assets/image-20230103100724368.png)
+![image-20230103100724368](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cc/cca284d451e38a41d7b3501fd5cee1ac4cbefd7f84a2297a8317debb03c508fc.png)
 
 启动服务后，在命令行下就可以利用 `mongo` 命令进入 MongoDB 命令交互环境了，如图 8 所示。
 
@@ -547,7 +547,7 @@ net stop MongoDB
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -563,4 +563,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

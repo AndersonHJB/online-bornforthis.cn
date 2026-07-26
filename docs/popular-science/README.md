@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: kepu
 title: AI悦创·科普
-heroImage: /ColumnImages/popular-science/kepu.png
+heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d5/d56d12415f909c3eda9801e3f7ea64adf9d8801117bb864f80c844a410a09f9b.png
 heroText: AI悦创·科普
 heroFullScreen: false
 tagline: 广大时代小白的福音～
@@ -28,7 +28,7 @@ footer: 立志降低教育成本，普及编程教育，提供优质资源教程
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -44,4 +44,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

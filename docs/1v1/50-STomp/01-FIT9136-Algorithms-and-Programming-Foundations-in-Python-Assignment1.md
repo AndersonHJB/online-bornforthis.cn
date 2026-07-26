@@ -69,7 +69,7 @@ This game involves a rectangle board with different board settings. An example 9
 
 > 这个游戏涉及一个带有不同棋盘设置的矩形棋盘。下面是一个示例，显示了一个 9 * 9 的棋盘：
 
-![](./01-FIT9136-Algorithms-and-Programming-Foundations-in-Python-Assignment1.assets/image-20230823183646065.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e4c49f0c7f5b5804e0a15c103e4123bdc63bbfcc86540e2956b0a869ea7dd95f.png)
 
 We will use the same coordinate system as indicated in the above example:
 
@@ -95,7 +95,7 @@ Players take turns dropping a coloured stone (i.e., black/white) onto one of the
 
 > 玩家轮流将一颗彩色石子（即黑色/白色）放在如下所示的交叉点上：
 
-![](./01-FIT9136-Algorithms-and-Programming-Foundations-in-Python-Assignment1.assets/image-20230823184410709.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/97/9707ece70c70e6be882c41116ca134b84587e3d8ae5aff8e6545d422d2201cb4.png)
 
 
 
@@ -129,19 +129,19 @@ Some examples of winning states:
 
 玩家1(黑色)在E列，第0行-第4行(即，这些位置上的所有石头都是黑色的)垂直获胜。
 
-![Player 1 (black) has a vertical win in column E, row 0 - row 4 (i.e., all stones in these spots are black)](./01-FIT9136-Algorithms-and-Programming-Foundations-in-Python-Assignment1.assets/image-20230823184640452.png)
+![Player 1 (black) has a vertical win in column E, row 0 - row 4 (i.e., all stones in these spots are black)](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/61/61edfcbd37f7b15c8d73dceeb62c5634741abf219f4751e5c8167def9633b41f.png)
 
 @tab 2
 
 玩家2(白棋)在第2行H列、第3行G列、第4行F列、第5行E列和第6行D列中对角线获胜(即，这些位置上的所有棋子都是白棋)。
 
-![Player 2 (white) has a diagonal win in row 2 column H, row 3 column G, row 4 column F, row 5 column E and row 6 column D (i.e., all stones in these spots are white)](./01-FIT9136-Algorithms-and-Programming-Foundations-in-Python-Assignment1.assets/image-20230823184735775.png)
+![Player 2 (white) has a diagonal win in row 2 column H, row 3 column G, row 4 column F, row 5 column E and row 6 column D (i.e., all stones in these spots are white)](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/91fc85d047ad4e9f3e00b11a74a616f9e4bba977e6300b058341dcce93b20619.png)
 
 @tab 3
 
 玩家1(黑色)在第2行，D-H列(即，这些点上的所有石头都是黑色的)中水平获胜。
 
-![Player 1 (black) has a horizontal win in row 2, columns D-H (i.e., all stones in these spots are black)](./01-FIT9136-Algorithms-and-Programming-Foundations-in-Python-Assignment1.assets/image-20230823184815418.png)
+![Player 1 (black) has a horizontal win in row 2, columns D-H (i.e., all stones in these spots are black)](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c7/c77fdc9da00a4e40aeffa12de51a9c120823b67c80542bcfbf4424939bf91106.png)
 
 :::
 
@@ -341,7 +341,7 @@ In order for players to know the states of the current boards, there needs to be
      -- -- -- -- -- -- -- --   8
     ```
 
-![An empty 9 * 9 board printed by this function](./01-FIT9136-Algorithms-and-Programming-Foundations-in-Python-Assignment1.assets/image-20230823220949380.png)
+![An empty 9 * 9 board printed by this function](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/21/214f21c229c3d3a6dbd5de3f7731052ccbc2e6d0406986dfb645169645e00bf1.png)
 
 ```python
 A 9 * 9 board with both players placing two stones printed by this function
@@ -367,7 +367,7 @@ A  B  C  D  E  F  G  H  I
 
 
 
-![A 9 * 9 board with both players placing two stones printed by this function](./01-FIT9136-Algorithms-and-Programming-Foundations-in-Python-Assignment1.assets/image-20230823221040719.png)
+![A 9 * 9 board with both players placing two stones printed by this function](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5f945cfb54545db8e158e09e29f6161810f22c0aaf8a3b61f83645883d519e99.png)
 
 
 
@@ -423,7 +423,7 @@ The purpose of this function is to implement a computer opponent. The computer o
 
 > 这个函数的目的是实现一个电脑对手。电脑对手将会通过在玩家先前的移动周围随机选择一个可用的移动来对抗玩家。例如：
 
-![](./01-FIT9136-Algorithms-and-Programming-Foundations-in-Python-Assignment1.assets/image-20230823230243922.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/76/76df3becb62284e37407a03e2f9540d9b3037f7507c652927630ad87ef499f7f.png)
 
 
 
@@ -431,7 +431,7 @@ When the player places the stone at (“4”, “E”), the green spots surround
 
 > 当玩家将石子放置在("4", "E")位置时，围绕玩家石子的绿色区域提示了电脑玩家可以选择的移动方式。从这些绿色区域中，电脑玩家只能选择其中一个尚未被占据的位置。
 
-![](./01-FIT9136-Algorithms-and-Programming-Foundations-in-Python-Assignment1.assets/image-20230823233318131.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/05/057407c5758decaab7edb21bfd3ce6c6604e918b7dba3f7342bd3c21ae861239.png)
 
 
 
@@ -441,7 +441,7 @@ When the player places the stone at (“0”, “A”), the green spots surround
 
 > 当玩家将石子放置在（“0”，“A”）位置时，围绕玩家石子的绿色点表示计算机玩家可以选择的可用移动位置。需要注意的是，与前面提到的情况相同，计算机玩家只能选择那些未被占据的绿色点之一。
 
-![](./01-FIT9136-Algorithms-and-Programming-Foundations-in-Python-Assignment1.assets/image-20230823235835206.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/06/06de97acfee8ffee863a79fb3fccb7f67ab0cfd413d75384cead2254c888bc64.png)
 
 
 
@@ -571,7 +571,7 @@ For this function, you will need to validate the inputs from the users and provi
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -587,7 +587,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

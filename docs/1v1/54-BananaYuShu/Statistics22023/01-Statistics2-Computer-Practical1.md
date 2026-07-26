@@ -54,7 +54,7 @@ incubation.days <- covid.incubation$incubation.days
 plot(table(incubation.days), ylab="counts")
 ```
 
-![incubation.days](./01-Statistics2-Computer-Practical1.assets/incubation.days.png)
+![incubation.days](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c6/c6feb2a00ff20bfd5cbe220d0b6d7872b646e64cb43eedfa942d47f43fb0ecfb.png)
 
 ## 3. Log-normal incubation period model
 
@@ -98,7 +98,7 @@ vs <- seq(0,30,0.1)
 lines(vs,dlnorm(vs,meanlog=theta.ml[1],sdlog=sqrt(theta.ml[2])),col="red")
 ```
 
-![incubation2.days](./01-Statistics2-Computer-Practical1.assets/incubation2.png)
+![incubation2.days](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2df832c6589c7e6ca17d07297f0ef751f8ddf160fcafa24c73b28fb14c0d037a.png)
 
 ---
 
@@ -130,7 +130,7 @@ vs <- seq(0,30,0.1)
 lines(vs,dlnorm(vs,meanlog=theta.mom[1],sdlog=sqrt(theta.mom[2])),col="red")
 ```
 
-![incubation3.days](./01-Statistics2-Computer-Practical1.assets/incubation3.days.png)
+![incubation3.days](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/01/018c9da7b292c843cd812f3eadaf21017039680a237565a2adae73e32fd9be20.png)
 
 **Question 3**. [2 marks] Using simulations, compare empirically the mean-squared errors of the maximum likelihood estimators and the method of moments estimators when $\theta = (1.8, 0.2)$ and $n = 25$.
 
@@ -195,7 +195,7 @@ Obviously, this means that the data used here are to some extent “fake”. But
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -211,4 +211,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

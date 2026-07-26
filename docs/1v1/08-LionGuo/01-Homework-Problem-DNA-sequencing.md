@@ -47,7 +47,7 @@ Each nucleotide consists of a nucleobase (guanine, adenine, thymine, or cytosine
 
 > 每个核苷酸由附在糖上的一个碱基(鸟嘌呤、腺嘌呤、胸腺嘧啶或胞嘧啶)组成，这些碱基又由磷酸基彼此分离:
 
-![DNA_Structure+Key+Labelled.pn_NoBB](./01-Homework-Problem-DNA-sequencing.assets/DNA_Structure+Key+Labelled.pn_NoBB.png)
+![DNA_Structure+Key+Labelled.pn_NoBB](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ab/abc945c9f80d4262dc0ebf81d47482455c568e5fe83c16f81a3a3801196c3bf3.png)
 
 The nucleobases are commonly referred to with the letters:
 
@@ -326,7 +326,7 @@ def read_fasta():
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -342,4 +342,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

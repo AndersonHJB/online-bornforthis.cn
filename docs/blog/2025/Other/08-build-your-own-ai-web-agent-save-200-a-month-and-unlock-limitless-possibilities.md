@@ -31,7 +31,7 @@ By the end of this guide, you’ll have an AI agent capable of:
 
 Let’s dive into it step by step, ensuring even beginners can confidently build and use this system.
 
-![img](./08-build-your-own-ai-web-agent-save-200-a-month-and-unlock-limitless-possibilities.assets/1*tyLFksE_1ILFD6rzy0rZ3g.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0d/0dee24756d4278b68b8108b1446aa5652db829f2f347cf65965648f2ad059076.png)
 
 
 
@@ -292,7 +292,7 @@ Unleash your AI agent and redefine what’s possible! 🚀
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -308,7 +308,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://medium.com/@datasciencenexus/build-your-own-ai-web-agent-save-200-a-month-and-unlock-limitless-possibilities-ebee9eae58a5)
 

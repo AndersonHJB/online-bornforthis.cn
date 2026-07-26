@@ -472,7 +472,7 @@ print(column_sums)  # 输出：12 15 18
 
 下面是我们的程序实现的目标结果：
 
-![](./06-for-loop.assets/carbon1.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/36/3658814411f8a7259816114ce188ebaee1a28983d415b822d6cf239d6b896ff2.png)
 
 #### 3.1 示例：生成乘法表
 
@@ -506,7 +506,7 @@ for i in range(1, 10):  # 行，从1到9
 
 运行前面的代码，我们一起来看看有没有什么问题：
 
-![](./06-for-loop.assets/carbon2.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4a/4a0cae0eebd2e32b7f10d70d3de8206963ff346e2cab64de26b46de8219491ea.png)
 
 我们可以看见很明显的两个问题：
 
@@ -519,7 +519,7 @@ for i in range(1, 10):  # 行，从1到9
 
 一图胜千言，看下图。“上”、“下”两个部分，哪个部分是我们需要的部分？——“下”是我们需要的部分。
 
-![](./06-for-loop.assets/image-20250401205517965.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b630701516549ac947c3e6aec30dc18cdf40477f1312e97c4da1d8871394de84.png)
 
 那么“下”部分有什么问题？——位置反了。一起看看特点：
 
@@ -566,13 +566,13 @@ for i in range(1, 10):  # 行，从1到9
 
 第二个问题比较简单，去掉多余的输出即可。我们看看下面的图：
 
-![](./06-for-loop.assets/image-20250401231259930.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f641b9bfe5eae889969ceea32a64792023fb3c8d1f2abd88247a8e996907ba53.png)
 
 观察上图输出可知，我们需要的下半部分的三角形输出。并且观察上下部分特点可知：下班部分的输出结构需要满足 `j <= i`。
 
 为什么是：`j <= i`，因为原本代码是：`f"{j} * {i} = {i * j}"`，前面的数字代表 j，后面的数字代表 i。而且从规律可知：`j <= i`。规律用文字不好描述，还是看下图：
 
-![](./06-for-loop.assets/for.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4d/4dcb44b1fce19e601311a5fb49eb8f036494ed9349b01666a3764d682622fb76.png)
 
 所以，我们只要添加一个 if 判断即可筛选我们想要的下半部分三角形：
 
@@ -608,7 +608,7 @@ for i in range(1, 10):
 
 运行后输出如下：
 
-![](./06-for-loop.assets/carbon3.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3f/3f38c4682c30fa0918a365841630e3b8823e74ecaa33eb33acca4f243bc28eed.png)
 
 #### 3.8 另一种实现：用内层循环控制范围
 

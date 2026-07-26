@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](./30-How-did-hackers-steal-your-lucky-money.assets/image-20250425224347986.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4f/4f55f637e30dd09af6c68ec0c1e188dd34826845d66c2a26206d7db5bce0b480.png)
 
 在电影里，黑客往往神秘莫测：黑进银行账户转走别人的钱、入侵路边、家用摄像头监控某人、甚至闯入军事系统获取军事机密，一副“我无所不能”的样子。
 
@@ -30,11 +30,11 @@ toc: true
 
 ## 1. 第一招：密码不止要长，还要难猜！
 
-![](./30-How-did-hackers-steal-your-lucky-money.assets/image-20250425225223227.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/dffed1edcf5923aa955969fb0efca303a568ba9fcf5eda2658bdde3a2945814f.png)
 
 你肯定知道，无论是银行、QQ、微信还是各种游戏、外卖软件，都有账号密码，这个账号就相当于是你的房间，密码就是你房间的钥匙。
 
-![偷钱的黑客](./30-How-did-hackers-steal-your-lucky-money.assets/image-20250425225400309.png)
+![偷钱的黑客](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1d/1d2c473c915de4f777b43a4847bd55f65b47e3e0461d05445cfaf08937c76116.png)
 
 坏蛋黑客们最常干的一类事，就是登录你的账号，盗取你的信息。如果登录的是你银行账号，说不定会把你的存款全都偷走，是不是很可恶？
 
@@ -42,7 +42,7 @@ toc: true
 
 你有没有想过，自己的密码有多安全吗？
 
-![](./30-How-did-hackers-steal-your-lucky-money.assets/image-20250425225618346.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2f/2f67b6985dca60ccce98f7bb7ab328c7a76b0857fdb3a7fb8c17b29b2abc60fa.png)
 
 现代计算机可以每秒钟尝试数百万组密码，如果你用的是简单的6位纯数字，比如“123456”，那对计算机来说就像是玩游戏一样轻松破解。**几乎在你眨眼的一瞬间**，你的密码就已经“破防”了。
 
@@ -52,15 +52,15 @@ toc: true
 
 另外，黑客破解密码的时候，还有一个密码库，里面记录着特别常见的密码，什么123456789，abcd1234，这一类的密码虽然也比较长，但黑客破解的时候会优先尝试这些密码，破解它们也用不了1秒钟时间，所以这样的密码最好也不要用。
 
-![](./30-How-did-hackers-steal-your-lucky-money.assets/image-20250425232223227.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dc/dc156238ce124495b3fe347581d72e3b2950ea7573ab3df6d3d254b951a198b2.png)
 
-![](./30-How-did-hackers-steal-your-lucky-money.assets/image-20250425231814661.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0c/0c8d34d6e3d6984c5f8ab70bcb73e0b2ca0c9cd363dec6b49c7160183c3d45d3.png)
 
 当然了，对于暴力破解，很多公司都有应对措施。比如说银行吧，虽然银行卡密码只有6位数，黑客眨眼间就能破解，但只要你的账号**连续输错3次或者5次**密码，银行就会发现异常，把你的账户锁住，必须你本人去才可以解锁。
 
 还有苹果手机的开机密码，如果总是输错，手机就会**锁定**一段时间。要是再输错，这个锁定时间就会增加时间，这样一来，黑客就没法通过暴力破解的方式入侵了。
 
-![](./30-How-did-hackers-steal-your-lucky-money.assets/image-20250425232414262.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/86/8607042cd6b1a8e544b70a3441ae970137ddb2368de4f3fab2fae64fcba0ca49.png)
 
 所以，第一个保护你的秘诀就是：
 
@@ -78,7 +78,7 @@ toc: true
 
 为什么是小网站？因为：一些小公司因为技术有限，系统安全等级很低，黑客可以轻松入侵他们的数据库，直接盗取你的账号密码。
 
-![](./30-How-did-hackers-steal-your-lucky-money.assets/image-20250425234446512.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f1/f190a91fa5b10c4d3c3c3d096bf153e152352311cc6a0466d3dc997627b7e4d2.png)
 
 所以，第二个守护秘籍是：
 
@@ -103,7 +103,7 @@ toc: true
 
 ## 3. 第三招：链接再诱人，也要长个心眼
 
-![](./30-How-did-hackers-steal-your-lucky-money.assets/image-20250425234729464.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0c/0cfc31ecff13c2dd69b63f6c0e0520265fda40ac42238394253d1322264185e2.png)
 
 有些黑客不会直接攻击系统，而是通过“钓鱼”让你自己把信息乖乖交出去。
 
@@ -123,11 +123,11 @@ toc: true
 
 举个例子：
 
-![](./30-How-did-hackers-steal-your-lucky-money.assets/image-20250425235034299.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6a/6abf917064f2966584578c3c236f5c306b552175a3071c1f9ea6fbe2c310923c.png)
 
 有黑客发现，只要在一张图片上加入人眼看不出来的“扰动图案”，就能让图像识别系统“看错人”。明明是熊猫的照片，AI 却识别成了长臂猿！上头我把扰动图案明显化，这就是图像识别算法上的漏洞。
 
-![](./30-How-did-hackers-steal-your-lucky-money.assets/image-20250426082127182.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/27/271d6a1631726e46a21886581c08e88fbe17e99999e6d275db636199d2f26889.png)
 
 再比如，一个人只要在衣服上贴一张特殊图案，AI 摄像头可能就完全“看不见”这个人——像是贴了隐身符。
 

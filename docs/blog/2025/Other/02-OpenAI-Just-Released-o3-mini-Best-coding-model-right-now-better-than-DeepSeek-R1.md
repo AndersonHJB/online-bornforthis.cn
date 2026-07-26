@@ -38,7 +38,7 @@ o3-mini is fast at advanced reasoning, while o3-mini-high is great at coding and
 
 Here’s the amazing part: o3-mini-high’s coding average on [LiveBench](https://livebench.ai/#/) is 82.74. Other models don’t come even close: o1 (69.69) claude 3.5 sonnet (67.13), deepseek-r1 (66.74).
 
-![LiveBench](./02-OpenAI-Just-Released-o3-mini-Best-coding-model-right-now-better-than-DeepSeek-R1.assets/0*EbFc2_XQHg4i702M.png)
+![LiveBench](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7e/7e9006657045a3caaac26b911bd7b02c8c8467403c0df63db30e67bca398625d.png)
 
 
 
@@ -80,14 +80,14 @@ Another [X user](https://x.com/flavioAd/status/1885449107436679394) used o3-mini
 
 03-mini output code:
 
-<img src="./02-OpenAI-Just-Released-o3-mini-Best-coding-model-right-now-better-than-DeepSeek-R1.assets/image-20250202222619910.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/86/86b00457bce9c4a1eb7af01563c760b84287c7458314a4d9869628501d6192c9.png" style="zoom:25%;" />
 
 - Test 1: [http://codemark.bornforthis.cn/share/2565c29f-c4da-4f70-8c2c-18db08338701_20250202222527](http://codemark.bornforthis.cn/share/2565c29f-c4da-4f70-8c2c-18db08338701_20250202222527)
 - Test 2: [http://codemark.bornforthis.cn/share/cd4fa872-0a2e-489b-8486-1b3edfb7a040_20250202223219](http://codemark.bornforthis.cn/share/cd4fa872-0a2e-489b-8486-1b3edfb7a040_20250202223219)
 
 DeepSeek R1 output code:
 
-<img src="./02-OpenAI-Just-Released-o3-mini-Best-coding-model-right-now-better-than-DeepSeek-R1.assets/image-20250202223033488.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/71/718561cf02832101c7607e45841515f81e16b376f5d6dd05ce0e2bf16938b87f.png" style="zoom:25%;" />
 
 - Test 1: [http://codemark.bornforthis.cn/share/4779d356-2f1a-4bb5-ad11-d4af3ea4d212_20250202223015](http://codemark.bornforthis.cn/share/4779d356-2f1a-4bb5-ad11-d4af3ea4d212_20250202223015)
 - Test 2: [http://codemark.bornforthis.cn/share/e0bca13d-e8b6-4fe2-9028-eae0cf7c0bfe_20250202223251](http://codemark.bornforthis.cn/share/e0bca13d-e8b6-4fe2-9028-eae0cf7c0bfe_20250202223251)
@@ -112,19 +112,19 @@ Here are some insights found from the [math evaluation](https://openai.com/index
 - with medium reasoning effort, o3-mini matches o1’s performance in math, coding, and science, while delivering faster responses
 - with high reasoning effort, o3-mini outperforms o1
 
-![OpenAI](./02-OpenAI-Just-Released-o3-mini-Best-coding-model-right-now-better-than-DeepSeek-R1.assets/0*_4jm4qt3J0f-4i7c.jpeg)
+![OpenAI](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f9/f91513d3525c0ea6ff55623f80d958c5a8c4ff1948f24bb19fa83b2ebafdd82e.jpeg)
 
-![LiveBench](./02-OpenAI-Just-Released-o3-mini-Best-coding-model-right-now-better-than-DeepSeek-R1.assets/0*AduSTn2ZjUEZ63mQ.png)
+![LiveBench](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fe/fe9cf22cab8e9f6c06680a7d990414d4e5ae12ec6184555a89bda3e35fb012cd.png)
 
 As for coding, LiveBech shows that o3-mini is better than other models (deepseek-r1, o1, claude-3.5-sonnet, etc) even at medium reasoning. At high reasoning, o3-mini extends its lead, achieving significantly stronger performance across key metrics.
 
 In Competition Code, OpenAI o3-mini achieves progressively higher Elo scores with increased reasoning effort.
 
-![OpenAI](./02-OpenAI-Just-Released-o3-mini-Best-coding-model-right-now-better-than-DeepSeek-R1.assets/1*LmyAdLA0Uu3TyAQ69L7Vxg.png)
+![OpenAI](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/67/67efe7d9d4125d7f49c6f790bf0f67de0576ab23660a6d3394db6eb52e385a4a.png)
 
 The same goes for the software engineering test below.
 
-![OpenAI](./02-OpenAI-Just-Released-o3-mini-Best-coding-model-right-now-better-than-DeepSeek-R1.assets/0*S83fQydkaneOI8NH.jpeg)
+![OpenAI](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/516b5f9e434ff06bfdd6de253c181c245e6eff7d47b6b1a7d52111c52d698150.jpeg)
 
 
 
@@ -144,7 +144,7 @@ Some netizens commented:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -160,7 +160,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://medium.com/artificial-corner/openai-just-released-o3-mini-best-coding-model-right-now-better-than-deepseek-r1-64076fff4d27)
 

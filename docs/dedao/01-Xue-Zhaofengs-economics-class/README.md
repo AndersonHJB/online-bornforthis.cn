@@ -27,7 +27,7 @@ backToTop: true
 toc: true
 ---
 
-![img](./README.assets/01.jpeg)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/24/24775d6bfc4937cc122e08cf544a281c32a3ac2523f28f6e1bebbdbf8e661085.jpeg)
 
 从 2010 年起，我每年都在北京大学讲授《经济学原理》和《法律经济学》两门课。现在我要通过“得到”订阅专栏，把这两门课的精华，原汁原味地传授给你。
 
@@ -37,7 +37,7 @@ toc: true
 
 我知道他们不是客气，其实我自己就是亲身经历过经济学带来的震动和快感，才渴望把它们再传递出去的。我羡慕你，因为经济学有多么漂亮，你即将见到。
 
-![img](./README.assets/02.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/94/945d5921fa503919f6bb5010ee7c6acc61521f7ed0fe4c1f90a50204c598a1f9.png)
 
 经济学之所以有如此魅力，原因在于它是以研究陌生人互动规律为己任的学问。人的认知和判断，至今主要还是靠直觉和短距离的人际关系来驱动，但人的身体和际遇，却早就已经暴露在大规模的陌生人的精妙协作之中了。
 
@@ -51,7 +51,7 @@ toc: true
 
 你要的是值得反复揣摩，可以举一反三，能够学以致用的知识体系。你用不着对脱离实际的数学方程式不明觉厉，但也不再满足于经济学散文的零敲碎打了。你要的是一步一个脚印的扎实学习，要的是能够筑成一座城堡的全部石头和部件。
 
-![03](./README.assets/03.png)
+![03](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/fa194dd0bbe0b37f79bc5bda63b6fc775fff555f72ab36ad7ffb563d8540a09f.png)
 
 我的全年专栏订阅，给你的就是这样一个完整的产品：
 
@@ -62,7 +62,7 @@ toc: true
 5. 帮你培养经济学品位：权衡一种观点，尤其是经过深思熟虑的观点，其标准往往不是对或错，而是高或低、轻或重；看高手过招，辨思想源流，不论你觉得他们层次如何，都可以为你增长见识，加强自信，提高对理念的鉴赏水平；  
 6. 助你理性、悦纳和进取，贯穿整个课程，你将学会把愿望和结果分开来评判（理性）；你将学会先去探究现象背后的原因，而不是动不动就抱怨和指责（悦纳）；你将忘记经济学家们所津津乐道的均衡世界，而着迷于由创新精神所牵引的非均衡的开放社会（进取）。 
 
-![04](./README.assets/04.png)
+![04](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/156a4a1fe7fef221023be4b025712c17620ed883c5e1c947c43e0845f837bec3.png)
 
 现在，我们设想自己是外星人，慢慢地接近地球，想要开始了解人类社会的活动规律。这时候，你会发现人类面临着四大基本约束，那就是：
 
@@ -75,5 +75,5 @@ toc: true
 
 热烈欢迎你的订阅！
 
-![05](./README.assets/05.png)
+![05](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3e/3e02e39ee4c3de714f1bf07ec9c75fee998363c8419deb8ece18e6762b4a8873.png)
 

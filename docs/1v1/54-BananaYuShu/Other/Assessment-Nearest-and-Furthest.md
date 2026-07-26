@@ -54,7 +54,7 @@ All of the objects are located in a square, with sides of length 1.0. You code s
 
 Figures 1–4 illustrate situations where the two geometries result in different values for the distance.
 
-![](./Assessment-Nearest-and-Furthest.assets/image-20241120202407950.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c9/c9bfaa36f70049f130b35b6aced830c3f707d673002d84f90dd56beab5a4ee98.png)
 
 
 
@@ -62,7 +62,7 @@ Figure 1: The shortest path between two objects in the standard geometry. Here,t
 
 Figure 2: In the wraparound geometry, there is a shorter path, crossing the left edge and reappearing on the right. Here, this gives a distance of 0.347.
 
-![](./Assessment-Nearest-and-Furthest.assets/image-20241120202550215.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d3/d32f78906a7fe045fc93c41e88f82afa4bc25e97b36a84e1dd970f92eb2364a9.png)
 
 
 
@@ -70,7 +70,7 @@ Figure 3: The shortest path between two ob-jects in the standard geometry. Here,
 
 Figure 4: Again, in the wraparound geometry,there is a shorter path. In this case, it crosses from left to right and from the bottom edge to the top. This gives a distance of 0.347.
 
-![](./Assessment-Nearest-and-Furthest.assets/image-20241120202646212.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a0/a0a10de8749814322d42ff54fbfa9d23a009411d764c4bbed258862fb60408fa.png)
 
 
 
@@ -265,7 +265,7 @@ Solution：[https://gitee.com/huangjiabaoaiyc/xin-yu-shu-sb](https://gitee.com/h
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -281,4 +281,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

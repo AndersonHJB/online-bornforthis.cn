@@ -21,7 +21,7 @@ copy:
     disableSelection: true
 ---
 
-![](./06-guesstimation-why-embrace-imprecision.assets/202012011905277356096848.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6e4569012a6b57f6aa6937bb8a19dfe2da5a7c8af7d5a6a87a8fd330c09741ae.jpeg)
 
 你好，我是悦创。
 
@@ -260,7 +260,7 @@ copy:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -276,4 +276,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

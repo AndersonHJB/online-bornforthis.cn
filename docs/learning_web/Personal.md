@@ -42,7 +42,7 @@ toc: true
 | 13   | freecodecamp                                                 | IT                                    | [https://www.freecodecamp.org/chinese/](https://www.freecodecamp.org/chinese/) | EN/ZH                | 🌟🌟🌟    |
 | 14   | liaoxuefeng                                                  | IT                                    | [https://www.liaoxuefeng.com/](https://www.liaoxuefeng.com/) | zh                   | 🌟      |
 | 15   | 懒人 Excel                                                   | IT                                    | [https://www.lanrenexcel.com/](https://www.lanrenexcel.com/) | zh                   | 🌟🌟     |
-| 16   | [![首页-MongoDB中文社区-全球最大的MongoDB中文社区](./Personal.assets/c16c760629feeac-e1594810404690.png)](https://mongoing.com/) | DB                                    | [https://mongoing.com/](https://mongoing.com/)               | 有待考究             | 🌟      |
+| 16   | [![首页-MongoDB中文社区-全球最大的MongoDB中文社区](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e5/e5718a0180b5dc0254238aadaa2491531f47cffb1688976b39401329460619b2.png)](https://mongoing.com/) | DB                                    | [https://mongoing.com/](https://mongoing.com/)               | 有待考究             | 🌟      |
 | 17   | 小明明的技术分享                                             | IT                                    | [https://www.dongwm.com/](https://www.dongwm.com/)           | 有待考究             | 🌟🌟     |
 | 18   | CodeWars                                                     | IT                                    | [https://www.codewars.com/dashboard](https://www.codewars.com/dashboard) | 刷题网站             | 🌟🌟🌟    |
 | 19   | coolpython                                                   | IT                                    | ~~[http://www.coolpython.net/](http://www.coolpython.net/)~~ | 平平无奇             | 无     |
@@ -63,7 +63,7 @@ toc: true
 | 序号 | 名称                                                         | 链接                                                     | 星级 |
 | ---- | ------------------------------------------------------------ | -------------------------------------------------------- | ---- |
 | 01   | [钛学术文献服务平台](https://doc.taixueshu.com/)             | [https://doc.taixueshu.com/](https://doc.taixueshu.com/) | 🌟    |
-| 02   | [![img](./Personal.assets/toplogo.png)](https://mall.cnki.net/) | [https://mall.cnki.net/](https://mall.cnki.net/)         | 🌟    |
+| 02   | [![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3a/3acc1f9d0385a6d0f5f85661efcd95ea3509d1643dd1444a361b32cf540cf4c7.png)](https://mall.cnki.net/) | [https://mall.cnki.net/](https://mall.cnki.net/)         | 🌟    |
 
 ## 问答网站
 
@@ -92,7 +92,7 @@ toc: true
 
 | 序号 | 名称                                                         | 链接                                           |
 | ---- | ------------------------------------------------------------ | ---------------------------------------------- |
-| 01   | ![多瑙影院_影视大全_热播电视剧电影高清免费在线观看](./Personal.assets/ee4e974fe.png) | [https://www.dnyy.com/](https://www.dnyy.com/) |
+| 01   | ![多瑙影院_影视大全_热播电视剧电影高清免费在线观看](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/777a7499c64eacf0dbd8947aff489c0185ea88c1ec2745cf8ed54c14cbdcba99.png) | [https://www.dnyy.com/](https://www.dnyy.com/) |
 |      |                                                              |                                                |
 
 ## AI 音乐
@@ -289,7 +289,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -305,5 +305,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

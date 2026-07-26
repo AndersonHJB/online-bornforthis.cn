@@ -25,15 +25,15 @@ toc: true
 
 @tab img1
 
-![](./Students-Message-Sytem.assets/image-20241221115428824.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0e/0e1bf5bd006039e4173e0724e58d9d05fea38f6bb5bdf61656e883e34dc45865.png)
 
 @tab img2
 
-![](./Students-Message-Sytem.assets/image-20241221115441508.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bc/bc0bb327464bab2a4fb4e7df1a39ec4db3c762321999050261c6d9203947ad3f.png)
 
 @tab img3
 
-![](./Students-Message-Sytem.assets/image-20241221115500341.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ac/acb45f3ccd735a42b09834992eaa7f69eee84940a99c77109a1828d00fd8324a.png)
 
 :::
 
@@ -1252,7 +1252,7 @@ graph TD
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1268,4 +1268,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

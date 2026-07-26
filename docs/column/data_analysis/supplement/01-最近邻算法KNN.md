@@ -51,7 +51,7 @@ OK，说完结论，懂的可以直接看代码部分了，如果不能理解的
 
 上面6个样本（电影）分别给出其特征（打斗镜头、拥抱镜头）和标签（电影类型）信息，现在给定一个新的样本，我们想知道这部电影的类型。由于是2维数据，我们可以用平面直角坐标系表示。
 
-![](./01-最近邻算法KNN.assets/2a59b8a90e8d45ae98250e2c0454712c3fdec9f4c3724a19ba27178adc37394f.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/eda069f0c27467613e98fc09d9e094a5b1b90736004b5b04c92150d8795439f5.png)
 
 绿色的点是未知的，红色的黄色的点是已知的。kNN要做的就是计算未知的点到所有已知点的距离，根据距离进行排序。
 
@@ -83,7 +83,7 @@ $$ D_{F} = \sqrt{(49-2)^{2} + (6-38)^{2}} \approx 56.86 $$
 
 上面提到的是 2 维数据，但是我们现实中处理的样本可能有 3 个甚至更多特征，我们无法用视觉来抽象这些特征，但是计算方法还是一样的，只不过根号里做差的数变多了而已。
 
-![](./01-最近邻算法KNN.assets/8a2ecceee86c482a871cf5e44d061f9d80a96dfee7e2459193c879279e6bc63d.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ec/ecd7ddd7d1223cd47918d49c4c9a4bbe040ee711112f5ef1f4b767b623b16069.png)
 
 ## 代码实现——Numpy
 
@@ -326,7 +326,7 @@ for k in range(3, 14, 2):
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -342,4 +342,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

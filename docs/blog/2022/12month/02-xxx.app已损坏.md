@@ -52,9 +52,9 @@ toc: true
 
 新版本系统看图：
 
-![image-20221211210052091](./02-xxx.app已损坏.assets/image-20221211210052091.png)
+![image-20221211210052091](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ca/cad3145ce5d1feeedcbef295183c8d7450956a848be47f978404fe7a1ac5b4b7.png)
 
-![image-20221211210125098](./02-xxx.app已损坏.assets/image-20221211210125098.png)
+![image-20221211210125098](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ee/ee729058b4b53a2c1fd6ae52bf49d58e83b46e2adc391aa7788e0c9ccc8c09d3.png)
 
 如果没有这个选项，复制以下面的命令：
 
@@ -64,7 +64,7 @@ sudo spctl --master-disable
 
 打开`终端`：
 
-![image-20221211210210968](./02-xxx.app已损坏.assets/image-20221211210210968.png)
+![image-20221211210210968](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/07/0780378bb23e4867db7db0fc5316e3e4bd4e090a2e8fa083a534b6752bab2aed.png)
 
 将刚刚复制的命令粘贴到终端中。
 
@@ -76,7 +76,7 @@ sudo spctl --master-disable
 
 如果你是在安装软件的时候出现了下图的这个提示：
 
-![img](./02-xxx.app已损坏.assets/22093009_62d9fda16e38f30134.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f8/f8ef322fc34d1097c48cccdde9c186a564652135478c7e67070f7c46e869a1d3.png)
 
 ## 绕过公证（扩展）
 
@@ -112,7 +112,7 @@ sudo xattr -rd com.apple.quarantine
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -128,4 +128,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

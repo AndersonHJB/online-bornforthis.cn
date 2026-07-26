@@ -54,7 +54,7 @@ footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https:/
 
 ::: details submit hw
 
-![](./18-web-log.assets/image-20230725084028529.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bb/bb2e4cb9a327d67dc8b53c19a005ac088437138f56823f6eb97a2bfffdcffe01.png)
 
 :::
 
@@ -73,15 +73,15 @@ footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https:/
 
 @tab 网站名称
 
-![](./18-web-log.assets/image-20230728071108784.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9d/9dca74e54630639a3fd7daf0ffb8a408fbb3b4a61645628c3aeefe017611b71b.png)
 
 @tab 菜单栏
 
-![](./18-web-log.assets/image-20230728082458113.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c8/c8fb6d4d3fd350598259c1dfb831d45e25556ea5ba64c79e96ebe9e5dbddef32.png)
 
 @tab 笔记
 
-![](./18-web-log.assets/image-20230728082516754.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9d/9d23b3d49794b0aa38f9b1f2d284ed7e59fc68e68af9a6adfb6d03f16344bb41.png)
 
 :::
 
@@ -114,7 +114,7 @@ footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https:/
 
 ### 4.2 图片
 
-![image-20230901081935540](./18-web-log.assets/image-20230901081935540.png)
+![image-20230901081935540](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9d/9defa13c154a30005c24f3741c9e2e545578c836965ab9930772d8579d11db02.png)
 
 ### 4.3 代码
 
@@ -570,7 +570,7 @@ chsichishcishcihsichsichj
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -586,4 +586,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

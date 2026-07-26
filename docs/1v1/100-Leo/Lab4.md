@@ -36,7 +36,7 @@ Here are some examples of what the floor and status of a lift mean:
 
 You can also refer to the figure below for better understanding: 
 
-![img](./lab4.assets/examples.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8e/8e21732e408591a3c572ab421da93dcbe36a30e81c096ab93eaddb4fd853a9c9.png)
 
 #### Your Task
 
@@ -62,19 +62,19 @@ If you have any questions regarding the problem statement, please post a questio
 
 Scenario 1:
 
-<img src="./lab4.assets/example1-20251004212922206.png" alt="example1" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/09/09c927ac8f8115995eddd72975ffc266b1fddd6d84fb4552bbcf37174919bd65.png" alt="example1" style="zoom:50%;" />
 
 Life 1 will pick them up
 
 Scenario 2:
 
-<img src="./lab4.assets/example2.png" alt="example2" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/99684b33b930bc8aeabf33f161eaa3db59836212551d0b8f122f7586efa07e64.png" alt="example2" style="zoom:50%;" />
 
 Life 2 will pick them up
 
 Scenario 3:
 
-<img src="./lab4.assets/example3.png" alt="example3" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f8/f874cb7062c8a548b1fca9f22d287df1c1283765866eed3851a38ba44a86e2f2.png" alt="example3" style="zoom:50%;" />
 
 Life 3 will pick them up
 
@@ -377,7 +377,7 @@ if __name__ == "__main__":
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -393,4 +393,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -27,7 +27,7 @@ toc: true
 
 如图 6-1 表示，给定 $n$​ 个学生，每个学生都有“姓名”和“学号”两项数据。假如我们希望实现“输入一个学号，返回对应的姓名”的查询功能，则可以采用图 6-1 所示的哈希表来实现。
 
-![图 6-1  哈希表的抽象表示](./07-hash_map.assets/image-20241110154204473.png)
+![图 6-1  哈希表的抽象表示](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/75e2eb5dd87405904986fd2b019e3f4021b0f27af725741257aa8325328ab3b2.png)
 
 除哈希表外，数组和链表也可以实现查询功能，它们的效率对比如表 6-1 所示。
 
@@ -352,7 +352,7 @@ index = hash(key) % capacity
 
 设数组长度 `capacity = 100`、哈希算法 `hash(key) = key` ，易得哈希函数为 `key % 100` 。图 6-2 以 `key` 学号和 `value` 姓名为例，展示了哈希函数的工作原理。
 
-![](./07-hash_map.assets/image-20241111090254575.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/12/12b6b1b274b498a625c643104f215a7d2fb31f8f7fd81afe0e7f752dac48daba.png)
 
 以下代码实现了一个简单哈希表。其中，我们将 `key` 和 `value` 封装成一个类 `Pair` ，以表示键值对。
 
@@ -571,7 +571,7 @@ if __name__ == "__main__":
 
 如图 6-3 所示，两个学号指向了同一个姓名，这显然是不对的。我们将这种多个输入对应同一输出的情况称为哈希冲突（hash collision）。
 
-![图 6-3  哈希冲突示例](./07-hash_map.assets/image-20241112092941608.png)
+![图 6-3  哈希冲突示例](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0a/0af76a2d950bf3d55cbf323f83b7624dcc6cdf74cf7d9bdcb677ac3a6b92cdb9.png)
 
 
 
@@ -579,7 +579,7 @@ if __name__ == "__main__":
 
 如图 6-4 所示，扩容前键值对 `(136, A)` 和 `(236, D)` 发生冲突，扩容后冲突消失。
 
-![图 6-4  哈希表扩容](./07-hash_map.assets/image-20241112093046760.png)
+![图 6-4  哈希表扩容](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/48/489d959c1538616ed381dd05c9c002c06633cebcc02ca28c2ab85629d77c39d8.png)
 
 
 
@@ -602,7 +602,7 @@ if __name__ == "__main__":
 
 在原始哈希表中，每个桶仅能存储一个键值对。链式地址（separate chaining）将单个元素转换为链表，将键值对作为链表节点，将所有发生冲突的键值对都存储在同一链表中。图 6-5 展示了一个链式地址哈希表的例子。
 
-![图 6-5  链式地址哈希表](./07-hash_map.assets/image-20241112093529071.png)
+![图 6-5  链式地址哈希表](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9e/9efc38df1cb7c155a12bf31f312b601fd0c5d2585ce59667ac6b02ab108e923b.png)
 
 基于链式地址实现的哈希表的操作方法发生了以下变化。
 
@@ -828,13 +828,13 @@ if __name__ == "__main__":
 
 图 6-6 展示了开放寻址（线性探测）哈希表的键值对分布。根据此哈希函数，最后两位相同的 `key` 都会被映射到相同的桶。而通过线性探测，它们被依次存储在该桶以及之下的桶中。
 
-![图 6-6  开放寻址（线性探测）哈希表的键值对分布](./07-hash_map.assets/image-20241112100942487.png)
+![图 6-6  开放寻址（线性探测）哈希表的键值对分布](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/01/018030cc5606df693e614b5411b9adb78b5955b74843f1a3ccfccd558c83343a.png)
 
 然而，**线性探测容易产生“聚集现象”**。具体来说，数组中连续被占用的位置越长，这些连续位置发生哈希冲突的可能性越大，从而进一步促使该位置的聚堆生长，形成恶性循环，最终导致增删查改操作效率劣化。
 
 值得注意的是，**我们不能在开放寻址哈希表中直接删除元素**。这是因为删除元素会在数组内产生一个空桶 `None` ，而当查询元素时，线性探测到该空桶就会返回，因此在该空桶之下的元素都无法再被访问到，程序可能误判这些元素不存在，如图 6-7 所示。
 
-![图 6-7  在开放寻址中删除元素导致的查询问题](./07-hash_map.assets/image-20241112101029488.png)
+![图 6-7  在开放寻址中删除元素导致的查询问题](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6c/6cd972701d17df51edf5ce241989d9604fd606590b5d6a2dd3c74c1b465683d6.png)
 
 为了解决该问题，我们可以采用懒删除（lazy deletion）机制：它不直接从哈希表中移除元素，**而是利用一个常量 `TOMBSTONE` 来标记这个桶**。在该机制下，`None` 和 `TOMBSTONE` 都代表空桶，都可以放置键值对。但不同的是，线性探测到 `TOMBSTONE` 时应该继续遍历，因为其之下可能还存在键值对。
 
@@ -988,7 +988,7 @@ class HashMapOpenAddressing:
 
 如果哈希冲突过于频繁，哈希表的性能则会急剧劣化。如图 6-8 所示，对于链式地址哈希表，理想情况下键值对均匀分布在各个桶中，达到最佳查询效率；最差情况下所有键值对都存储到同一个桶中，时间复杂度退化至 $O(n)$。
 
-![图 6-8  哈希冲突的最佳情况与最差情况](./07-hash_map.assets/image-20241113134852502.png)
+![图 6-8  哈希冲突的最佳情况与最差情况](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7b/7bbe6d75202e1d3dd67d9c1be30b766d32edbe317267b82298549b8e12975c2f.png)
 
 
 
@@ -1486,7 +1486,7 @@ IndexError: list index out of range
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1502,4 +1502,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -263,7 +263,7 @@ Django 启动了一个名为 development server 的服务器，让你能够查�
 
 现在打开一款 Web 浏览器，并输入URL:[http://localhost:8000/](http://localhost:8000/);如果这不管用，请输入 [http://127.0.0.1:8000/](http://127.0.0.1:8000/) 。你将看到类似于下图所示的页面，这个页面是 Django 创建的，让你知道到目前为止一切正常。现在暂时不要关闭这个服务器。等你要关闭这个服务器时， 可切换到执行命令 runserver 时所在的终端窗口，再按 Ctrl + C。
 
-![image-20221117152345150](./01-Start-with-Django.assets/image-20221117152345150.png)
+![image-20221117152345150](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ff/ffa5664faf52612cbf0ab033333f234f9c4d5fc176737303fd78332a206cb99a.png)
 
 
 
@@ -535,7 +535,7 @@ from django.contrib import admin
 
 现在，使用超级用户账户访问管理网站：访问 [http://localhost:8000/admin/](http://localhost:8000/admin/)，并输入刚创建的超级用户的用户名和密码。你将看到类似于下图所示的屏幕。这个页面让你能够添加和修改用户和用户组，还可管理与刚才定义的模型 `Topic` 相关的数据。
 
-![包含模型 Topic 的管理网站](./01-Start-with-Django.assets/image-20230314110816275.png)
+![包含模型 Topic 的管理网站](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2e/2ea6449a0c87efe4f555773606a8d5ca08def16a23882ff259a7a0347f80e52e.png)
 
 ::: warning
 
@@ -549,7 +549,7 @@ from django.contrib import admin
 
 下面再创建一个主题，以便有更多的数据可供使用。再次单击 Add，并输入 Rock Climbing，然后单击 Save 回到主题管理页面。现在，你可以看到其中包含了主题 Chess 和 `Rock Climbing`。
 
-![](./01-Start-with-Django.assets/image-20230314111542358.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8d/8ddb9eda17bbe4f5782eec56b2657fff3ef134dd36a10dc69dab4408635da23f.png)
 
 ### 2.4 定义模型 Entry
 
@@ -634,7 +634,7 @@ The opening is the first part of the game, roughly the first ten moves or so. In
 Of course, these are just guidelines. It will be important to learn when to follow these guidelines and when to disregard these suggestions.（当然，这些只是指导原则。学习什么情况下遵守这些原则、什么情况下不用遵守很重要。）
 ```
 
-![](./01-Start-with-Django.assets/image-20230314120534347.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0e/0eed2423300f74bff169a2ef9af24f2ebadf4a9b109a2450893870e092568d56.png)
 
 当你单击 Save 时，将返回到主条目管理页面。在这里，你将发现使用 `text[:50]` 作为条目的字符串表示的好处：在管理界面中只显示了条目的开头部分而不是其所有文本，这使得管理多个条目容易得多。
 
@@ -833,7 +833,7 @@ learning about.</p>
 
 现在，如果请求这个项目的基础URL [http://localhost:8000/](http://localhost:8000/)，将看到刚才创建的页面，而不是默认的 Django 页面。Django 接受请求的URL，发现该 URL 与模式 `''` 匹配，因此调用函数 `views.index()` 。这将使用 `index.html` 包含的模板来渲染页面，结果如下图所示。
 
-![学习笔记的主页](./01-Start-with-Django.assets/046.png)
+![学习笔记的主页](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9a/9a615d00e37331a29b23d73bfe6fee825ae2c8fd4e1aaba4d7e0c813943a1d64.png)
 
 创建页面的过程看起来可能很复杂，但将 URL、视图和模板分离的效果很好。这让我们能够分别考虑项目的不同方面，在项目很大时，可让各个参与者专注于最擅长的方面。
 
@@ -1043,7 +1043,7 @@ def topics(request): ❷
 
 现在如果刷新浏览器中的主页，将看到链接 Topics。如果单击这个链接，将看到类似于图4-1所示的页面。
 
-![图4-1 显示所有主题的页面](./01-Start-with-Django.assets/047.png)
+![图4-1 显示所有主题的页面](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a8/a883194331e29926c265db0e6c6cea6af2827f426b25cca143a8d00614e697e1.png)
 
 
 
@@ -1154,7 +1154,7 @@ def topic(request, topic_id): ❶
 
 如果现在刷新显示所有主题的页面，再单击其中的一个主题，将看到类似于下图所示的页面。
 
-![特定主题的详细页面，其中显示了该主题的所有条目](./01-Start-with-Django.assets/image-20230325155318332.png)
+![特定主题的详细页面，其中显示了该主题的所有条目](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9c/9c00792c97a39b894dce1019f2dec83c73f907a11d658d295f9bb5577fab98d6.png)
 
 
 
@@ -1186,7 +1186,7 @@ def topic(request, topic_id): ❶
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1202,4 +1202,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

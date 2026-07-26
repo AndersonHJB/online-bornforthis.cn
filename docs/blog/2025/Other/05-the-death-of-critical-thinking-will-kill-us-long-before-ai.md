@@ -19,7 +19,7 @@ backToTop: true
 toc: true
 ---
 
-![Photo by Eddy Billard](./05-the-death-of-critical-thinking-will-kill-us-long-before-ai.assets/0*tWF1q_VQSIagFIyM.jpeg)
+![Photo by Eddy Billard](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/01/01860c1286fdc46b93dd37da3bcd7ac67a9f04951e76b2e0cbfb6fb0e24a24d0.jpeg)
 
 We have witnessed a multi-generational decline in reading comprehension. We read less, retain less of what we read, and struggle to engage in critical analysis. And if this trend continues, we risk undermining the very foundations of our society.
 
@@ -101,7 +101,7 @@ A society that cannot patiently read long-form texts struggles to make sense of 
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -117,7 +117,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://joanwestenberg.medium.com/the-death-of-critical-thinking-will-kill-us-long-before-ai-781fdd23cc7c)
 

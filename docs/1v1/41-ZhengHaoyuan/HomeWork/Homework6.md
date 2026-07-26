@@ -164,7 +164,7 @@ We will represent an integer value, as a linked list of its digits.
 
 For example, the number 375 will be represented by a 3-length list, with 3, 7 and 5 as its elements.
 
-![](./Homework6.assets/image-20231114081306762.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/17832a3ad150f1d777a7c88594a58ece9ad05e242dc540fbe038c50a2525052d.png)
 
 Note: this is not the representation Python uses. Complete the definition of the following `Integer` class:
 
@@ -1023,7 +1023,7 @@ We will represent such strings as a linked list, where each maximal sequence of 
 
 For example, the string “aaaaabbbaaac” will be represented as the following list:
 
-![](./Homework6.assets/linked.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/80fd87ef0bb9cf131caa1265a3a2af267beb552fcc60103797dc42c81d105005.png)
 
 Complete the definition of the following `CompactString` class:
 
@@ -2033,7 +2033,7 @@ def merge_linked_lists(srt_lnk_lst1, srt_lnk_lst2):
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -2049,4 +2049,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

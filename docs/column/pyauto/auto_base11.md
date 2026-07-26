@@ -34,7 +34,7 @@ xlrd 和 xlwt，以及 xlutils 足以满足对 xls 文件的读、写、追加�
 
 xlsx 是 xls 的升级版，xls 是老版本的办公软件所支持的文件格式，且劣势也比较明显，当文件数据超过 65536 行和 256 列，使用 xls 则会导致数据截断。
 
-![](./auto_base11.assets/image-20220717162403684.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/306e00fa3ffb1a1900c1bee7a6e45ff04cd2d57e0ef8cee4bff8edf28b0259c7.png)
 
 xlsx 的支持则更好，同样多的数据，xlsx 格式的文件体积小，支持的操作更多，软件打开和动作执行的速度会更快。
 
@@ -99,7 +99,7 @@ wb.close()
 
 用 Office 打开文件，如下图：
 
-![image-20220717173517827](./auto_base11.assets/image-20220717173517827.png)
+![image-20220717173517827](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f6860cebf6a0d24be0845e7829581c4367f40e2d64acb0339a2e3e6874d38c84.png)
 
 数据写入完毕。
 
@@ -223,7 +223,7 @@ wb.close()
 
 下面是最后的 Excel 文件样式：
 
-![image-20220717201003183](./auto_base11.assets/image-20220717201003183.png)
+![image-20220717201003183](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bb/bb90c7f5e034807d4096eca077b24e4fb60d8e2976f3752c53441c7d8ca293aa.png)
 
 以上就是 xlsxwriter 的使用示例，有图的加入，比较有趣。但是 xlsxwriter 只能创建新的文件，不能追加和读取。
 
@@ -279,7 +279,7 @@ wb.close()
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -295,7 +295,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

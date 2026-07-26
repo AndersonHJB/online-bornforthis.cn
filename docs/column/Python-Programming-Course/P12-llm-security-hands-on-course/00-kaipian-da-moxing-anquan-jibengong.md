@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](./00-kaipian-da-moxing-anquan-jibengong.assets/2c5683f8cc23c0de04c3dc6e90bbd40a.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ad/adff67a78dbb84f427ba50af4e49a1ea59b3db2a7ef992b39dbc64b11597e201.jpg)
 
 你好，我是悦创。
 
@@ -61,7 +61,7 @@ toc: true
 
 假如你的脑海中闪现过这类想法，那么你已经隐约意识到了安全的重要性。这是迈向构建稳固、可靠的大模型应用的第一步。因为大模型的能力越强，**它的“不受控性”也越强**。今天的大模型不像过去的 FAQ、Task Bot 那样写死意图流程，它是生成的。也就是说，你没办法预判它每次都会说什么，它可能临场发挥，也可能语出惊人。你能做的，是通过系统性机制，让它“**不该说的话说得合规、说得有据、说得安全**”。所以大模型安全的目标，绝不是百分百防止事故，而是：
 
-![大模型安全的目标](./00-kaipian-da-moxing-anquan-jibengong.assets/4308084fdaec02b897883bb9bd5b8299.jpg)
+![大模型安全的目标](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/22/2224da417424089c9028b0bf32bace42dc611a3ae9a189cc28105d4bd425e6de.jpg)
 
 - **识别可能出事的点**
 - **给模型装上护栏**
@@ -84,7 +84,7 @@ toc: true
 
 安全，其实是模型走向成熟的一种“**自觉**”，专栏中我们将逐步展开一套系统的方法路径，因为很多东西还在变化，每家头部公司也都在边走边调。通过本专栏，我最想传授给你的是三种能力，这些也是我亲身实践中，解决大模型安全问题时最有帮助的武器。
 
-![](./00-kaipian-da-moxing-anquan-jibengong.assets/2089891214cd7832ab459fdef2665b0d.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/71/719ce2152c862c120ab9d81418622645f56032fe883caf2691be11744c6eadf3.jpg)
 
 - 第一：学会识别风险，知道有哪些坑，哪些地方模型最容易翻车。
 
@@ -137,15 +137,15 @@ toc: true
 
 这里我还梳理了一张知识导图，帮你直观了解大模型安全中的四大支柱。
 
-![大模型安全中的四大支柱](./00-kaipian-da-moxing-anquan-jibengong.assets/2c5b9d8b39497004d11724910761fe40.jpg)
+![大模型安全中的四大支柱](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/62/624f5b7ba3c3a029a87d9e078cfcdcc4a6e2683b35d78af6b9c2b9757a8ae735.jpg)
 
 跟我学完这门课，你今后在面对最前面的那些困惑时，将不再只是感觉有问题，而是真的知道怎么应对。我将用接地气的语言、系统化的路径、实操性的案例，帮助你从认知混沌中跳出来，构建自己的安全设计思维。不是为了安全而安全，而是为了让你的 AI 产品真正落地——落得下去，守得住场，撑得起责任。
 
 后面是这门课的职场小贴士，方便你快速了解学习这门课对从事哪些岗位有帮助，他们的前景又是怎么样的。
 
-![](./00-kaipian-da-moxing-anquan-jibengong.assets/e84eb0d177efdee26b72d2da03db2cc8.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/40/40deb4795eb3fd51c379898ce5aa73cc7650da00be3080239afed9fd4ecaef82.jpg)
 
-![](./00-kaipian-da-moxing-anquan-jibengong.assets/f5176dcab99f2f73ccba16bea0c534ab.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/65/65b724c1afe996693f4cb5ce863a589c92748d77394e2fd31fecaa77447faddc.jpg)
 
 期待你加入课程一起学习，我还准备了 10 道题目的小测试，帮你快速评测你产品的安全分数，点击后面的链接就可以开始测试啦！
 
@@ -181,7 +181,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -197,4 +197,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

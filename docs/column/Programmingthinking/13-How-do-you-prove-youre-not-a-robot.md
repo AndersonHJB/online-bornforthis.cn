@@ -30,7 +30,7 @@ toc: true
 
 这是一台名叫**尤金•古斯特曼**的聊天机器人。它会模拟成一个**13岁的小男孩**和你聊天。因为它模拟的是13岁男孩嘛，所以在进行图灵测试的时候，评委会觉得有些问题它回答不上来也很正常。另外，问答是用英语进行的，它说自己不是英国人，英语不太好，也就不容易引起怀疑了。
 
-![](./13-How-do-you-prove-youre-not-a-robot.assets/10bed765db8eb042684a26a4335f9e21.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a7/a7d0d2a64135644e61759cf3dcce18e2f577ffc5d662ab22ce7b7b0b6507e513.png)
 
 通过这种方式，尤金·古斯特曼在2014年的时候通过了图灵测试。
 
@@ -38,7 +38,7 @@ toc: true
 
 咱们先看看支持图灵测试的科学家。这一派有个名字，叫**行为学派**。他们觉得假如机器人会思考的话，思考过程是在机器人脑子里进行的，咱们看不见也摸不着，根本没法判断它们的思考过程是不是跟人类一样。所以，咱们得换个实实在在的东西去观察、分析。
 
-![](./13-How-do-you-prove-youre-not-a-robot.assets/83a53f18ca5a20f1c4500d753a762ccd.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/33/33a186d72b8b89602d7681856c622e4d6a1c4f3e35f82483e9926fdad94cf1c2.png)
 
 比如，你向机器人问了啥问题，它怎么回答的，这一问一答是实实在在的吧？只要一问一答这个行为看起来跟人类差不多，就可以认为它能跟人类一样思考。
 
@@ -48,13 +48,13 @@ toc: true
 
 这时候，**考试**就派上用场了，老师给你出一道考题，你能不能做出来，能考多少分——这件事是实实在在的，是可以观察到的。所以，学校会用考试成绩来判断你的学习情况。
 
-![](./13-How-do-you-prove-youre-not-a-robot.assets/5351d6ca6018f3bd0675f8f243118f39.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2f/2f21b3e3ba5a637edc81e217395867b933101f79ccd7a11815d60f25d6389feb.jpg)
 
 当然了，**影响考试成绩的因素**还有很多，比如你可能已经学会某个知识了，但是因为**紧张**，或者考试时候生病了没能答出来。这时候如果你真的掌握了这种知识也不用太在意成绩。另外，你也有可能并没有掌握一个知识，但因为**运气好**，瞎蒙的题全都蒙对了，如果是这样的话，你还是应该好好补齐知识，可不要骄傲呀。
 
 那除了在考试上，这个思考方式在其他方面也有应用。比方说，软件工程师在测试软件的时候，会用到一种叫做**黑盒测试**的方法。
 
-![](./13-How-do-you-prove-youre-not-a-robot.assets/64722bd49b4b0d57a796a7b64354a129.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/08/08888c9555caeced0204d38ddf9144f9a471780e577bc860c5aab123f2f55570.jpg)
 
 
 
@@ -68,7 +68,7 @@ toc: true
 
 比如说，假设你完全不懂英语，但是手里有一本超级厉害的英文问答手册。无论别人用英文写什么样的问题递给你，你都能通过比较每一个字母，确认这个问题在问答手册的哪一页、哪一条。然后，找到对应的答案，再抄在小纸条上还给对方。这么一来，你就能回答各种各样的英语问题了。但是，能说你真的**懂英语**吗？肯定不能吧？
 
-![](./13-How-do-you-prove-youre-not-a-robot.assets/276fc108a6cbc49d4e9f384289400dd1.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3a/3aab7e7b668de3a8ad23c3da4fdd7bd474228ce4b2991edceea0fc0d8def3a62.png)
 
 
 
@@ -82,7 +82,7 @@ toc: true
 
 比方说，你登录各种软件账号的时候，除了要输入账号密码，还可能要做一个**验证**。有时是让你看一张图片，上面有几个歪歪扭扭的字母，你得把字母给输进去；有时是要你按照顺序点击几个汉字；还有些会让你拖拽一个拼图块儿，拖到背景图片的某个位置上。
 
-![输入验证码页面](./13-How-do-you-prove-youre-not-a-robot.assets/a3e84309a74b7774908f156dfdb0d12b.jpg)
+![输入验证码页面](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/97/9789f0febe3a6c2a95dc3b7cb977078da438130bf176f8521701774f3f4c53d4.jpg)
 
 这就是反图灵测试。让你做这些就是要确认你是人类，而不是一个试图混进去的程序。这些问题都特别依赖于咱们的**视觉**，而前面的内容里咱们也说了，计算机其实是没有视觉的，这些对咱们来说很容易解决的问题，在它们看来其实是非常复杂的，普通的计算机根本没法应对。
 

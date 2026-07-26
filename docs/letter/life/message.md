@@ -111,7 +111,7 @@ toc: true
 
 我会在人生百味之中，接纳你愤怒或是悲伤，倾听你的烦恼或是喜悦，理解你的追求和理想，此生惟愿与你共乘海浪之上，同沐林间清风。愿我们互相理解，互相前行。
 
-![婚礼进行时「预告」1](./message.assets/work_538854_8930d9ee-cec8-448c-9bfe-00f5bcdf52cf.jpeg)
+![婚礼进行时「预告」1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/19/196245dcc0fb5d3b6b45740d97493b424c4c4502851a384163288c1851802405.jpeg)
 
 :::
 

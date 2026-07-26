@@ -25,7 +25,7 @@ toc: true
 
 @tab 1
 
-![](./01-Apollo.assets/apollo_solo_carousel_1.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0f/0f0d2f459f61fea8e173063840a7c3be39847bbb98e96645fdf8788302904031.jpg)
 
 - INPUT：输入模式选择
     - MIC
@@ -80,7 +80,7 @@ toc: true
 
 @tab 3
 
-![](./01-Apollo.assets/apollo_solo_carousel_3_@2x.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/84/8409b9e63a334c383d4bce1cdcf9d9dcf6d51417535f92c5f00988b0b5d88bf9.jpg)
 
 - Output: 监听音箱
 - 阿波罗的话放足够优秀，你除非买很好的，不然没必要花钱。
@@ -137,7 +137,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -153,5 +153,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

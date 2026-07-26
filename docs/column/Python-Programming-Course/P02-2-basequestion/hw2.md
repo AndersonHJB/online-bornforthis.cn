@@ -37,7 +37,7 @@ toc: true
 
 ## 2. 示例程序
 
-![](./hw2.assets/64bb1b4b29f0a08b45ff322131c8f410.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0f/0f4dae29c8588421d3711dc05fdd12b07bd03e57f0145ca167e32754e2ce352c.png)
 
 ## 3. 可能会用到的函数
 

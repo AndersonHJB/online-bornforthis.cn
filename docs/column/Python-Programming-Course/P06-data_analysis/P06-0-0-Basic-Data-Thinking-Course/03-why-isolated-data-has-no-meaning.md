@@ -21,7 +21,7 @@ copy:
     disableSelection: true
 ---
 
-![](./03-why-isolated-data-has-no-meaning.assets/202012011306463035303103.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e3/e3d8154baf72db0abee9e1f0ec4d08f9d82b515f6701af8b08408d1d696d23cd.jpeg)
 
 你好，我是悦创。
 
@@ -164,7 +164,7 @@ copy:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -180,4 +180,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

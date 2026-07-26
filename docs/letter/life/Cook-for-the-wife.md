@@ -48,7 +48,7 @@ toc: true
 
 ::: center
 
-<img src="./Cook-for-the-wife.assets/image-20240314225439627.png" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8c/8cb52760aff3c22033babc4357069f325f136c6d1ad979c69349df942ed7c80d.png" style="zoom:25%;" />
 
 :::
 

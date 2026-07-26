@@ -76,7 +76,7 @@ Remember that you may ONLY write code inside of the script_2 script tag. You are
 
 > 请记住，您只能在script_2脚本标记中编写代码。您不允许更改script_1标记中的任何代码-页面的所有其他部分都是“禁止”的，不能更改。如果你不小心删除或更新script_1或html_content元素中的内容，你可以通过复制和粘贴下面的原始代码到你的文档来修复这个问题:
 
-![](./20-Lab02-web.assets/image-20230216091025990.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d8/d8f60bfb390c205b87310f044c69792efb3b1625a0dda356a00a41a92d9e8f18.png)
 
 ```html
 <!-- do not modify this 'div' tag --> <div id="html_content"> <div id="one" class="box"></div> <div id="two" class="box"></div> <div id="three" class="box"></div> </div> <!-- do not modify this 'script' tag --> <script id="script_1"> let boxColors = ['#ff0000', '#00ff00', '#0000ff', '#ffcc00', '#006699', '#fcde53']; let boxProperties = { width: '200px', height: '50px', backgroundColor: 'pink' } function magic() { function _0x5ac8(){const _0x3f8f01=['368JLltKB','325464UCKDLp','2530vbyzDO','1875330KySlKE','1679928KaEANb','99Mlmnsl','1291521gyYeKo','1018CElsDp','8617cGhNFC','6KTaKTd','7677EpYgRY'];_0x5ac8=function(){return _0x3f8f01;};return _0x5ac8();}function _0x4111(_0x28f58a,_0x9b0de6){const _0x5ac825=_0x5ac8();return _0x4111=function(_0x411153,_0x402b2f){_0x411153=_0x411153-0xd3;let _0xb28613=_0x5ac825[_0x411153];return _0xb28613;},_0x4111(_0x28f58a,_0x9b0de6);}(function(_0x2c85a2,_0x23a786){const _0x37df72=_0x4111,_0xde9eb3=_0x2c85a2();while(!![]){try{const _0x2fde9f=parseInt(_0x37df72(0xd7))/0x1+-parseInt(_0x37df72(0xdd))/0x2*(parseInt(_0x37df72(0xdb))/0x3)+-parseInt(_0x37df72(0xda))/0x4+-parseInt(_0x37df72(0xd9))/0x5*(-parseInt(_0x37df72(0xd4))/0x6)+-parseInt(_0x37df72(0xd3))/0x7*(-parseInt(_0x37df72(0xd6))/0x8)+parseInt(_0x37df72(0xd5))/0x9*(-parseInt(_0x37df72(0xd8))/0xa)+parseInt(_0x37df72(0xdc))/0xb;if(_0x2fde9f===_0x23a786)break;else _0xde9eb3['push'](_0xde9eb3['shift']());}catch(_0x3b55ea){_0xde9eb3['push'](_0xde9eb3['shift']());}}}(_0x5ac8,0x3631b));let r=parseInt(Math['random']())+0xff,g=0x80,b=0x7; return [r,g,b]; } let controlString = document.querySelector('#html_content').innerHTML.trim(); </script>
@@ -262,7 +262,7 @@ For micro assignment 2 you are going to want to make sure your code pass
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -278,4 +278,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

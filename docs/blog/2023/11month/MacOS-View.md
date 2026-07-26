@@ -27,17 +27,17 @@ toc: true
 
 如下图，当我们在 Mac 电脑上选取某一档案或图片后，按一下键盘上的「空格键」，正常的预览效果如下，它能让我们快速查看档案内容，节省开启时间。
 
-![](./MacOS-View.assets/image-20231109171319413.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/160666c08a5a6760c00025a7a9b2dba5c2fef73118b8f73d771225260487491c.png)
 
 **空格键预览失效**
 
 但如果你发现在 Mac 上选取档案后按一下「空格键」，却出现变小的预览视窗如下图，那就代表你的 Mac 空格键预览失效了
 
-![](./MacOS-View.assets/image-20231109171410466.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bf/bffefc5c079c2ebcc9ee6e5d6dd16c639f1cd058559e6f6a77ac27a8c524c6cc.png)
 
 这比较多是发生在升级到 macOS Monterey 之后，那我们要怎么解决 Mac 空白键无法预览的问题呢？其实有一个很简单的小技巧，在 Dock 上的访达按下 Option 键＋滑鼠右键，然后点选「重新启动」的选项，让系统重启访达。
 
-![](./MacOS-View.assets/image-20231109171515509.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/797478cb2ba7017f2ec88a5937d41ff87489e0846034258483ee6638100b80e4.png)
 
 重新启动访达后，再选取某一档案文件，然后按空格键，你会发现空格键预览的功能成功恢复了！
 
@@ -49,7 +49,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -65,4 +65,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

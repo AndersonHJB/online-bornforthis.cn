@@ -28,7 +28,7 @@ toc: true
 
 那这一讲，我就来给你聊聊神秘的黑客。在说的时候，我还会告诉你**三条信息安全秘籍**，帮你对付坏蛋黑客。
 
-![](./29-How-did-hackers-steal-your-lucky-money.assets/123e56dd81a3ef145da23e3d500c99c7.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/302932662e9440e17f0af9812195e5056e8b1ed8c0fb2ee9bb25d2c94bc3adf7.jpg)
 
 你肯定知道，无论是银行、QQ、微信还是各种游戏、外卖软件，都有账号密码，这个账号就相当于是你的房间，密码就是你房间的钥匙。
 
@@ -42,7 +42,7 @@ toc: true
 
 这里，我就要告诉你**第一个信息安全小秘籍**了，**你在设置密码的时候，要设置得尽可能长一些，并且要用数字和大小写字母要混用**，这样一来，黑客很难用暴力破解试出你的密码。
 
-![](./29-How-did-hackers-steal-your-lucky-money.assets/d468e54675fcb3522f33d4c2dc98a216.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dc/dcde2b5ae6c06650b5b624dd0c7ea8c9ff0f4b60f68e68791f6833b89ea8fd0a.jpg)
 
 另外，黑客破解密码的时候，还有一个密码库，里面记录着特别常见的密码，什么123456789，abcd1234，这一类的密码虽然也比较长，但黑客破解的时候会优先尝试这些密码，破解它们也用不了1秒钟时间，所以这样的密码最好也不要用。
 
@@ -62,7 +62,7 @@ toc: true
 
 不过，还有些黑客，既不用入侵数据库，也不用一个个地试，他们就会让你自己输入账号和密码。他们是怎么做到的呢？
 
-![](./29-How-did-hackers-steal-your-lucky-money.assets/2b95f8c3faf762f6ed162fe6368f9844.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c52dfc96f7c2cb0e5a971cced8713d7c55c064cad790554b9068c2066b48ed54.jpg)
 
 他们会给你发邮件或者是短信，在邮件和短信附带一个链接，告诉你的银行卡密码泄露了，赶紧去链接修改密码。
 
@@ -76,7 +76,7 @@ toc: true
 
 我先请你一看音频封面。封面上这两张图片怎么看都是熊猫对吧？但是，一个专门用来识别图像的人工智能，看左边的照片也认为是熊猫，但看右边的照片却认为是长臂猿。这是怎么回事呢？
 
-![](./29-How-did-hackers-steal-your-lucky-money.assets/af93e5741a3963dc6588ba1b49454af7.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b3/b3051b27ee6ff60bffdcbec4c00eb1876e85e8c404dfb85de153c3dc82938921.jpg)
 
 其实，右边的照片里增加了一些细微的**背景干扰**，这些干扰用人类的眼睛是识别不出来的，但是却会干扰人工智能的判断，这就是图像识别算法上的漏洞。
 
@@ -86,7 +86,7 @@ toc: true
 
 另外，还有些科学家发现了人工智能技术的另一项漏洞。比如，我在音频封面上给你展示了一张图片，图上怎么看都有两个人对吧？
 
-![](./29-How-did-hackers-steal-your-lucky-money.assets/1a22db0e64745644cd40989a71bed4c9.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/64/64488004e315baa610a4a4d53f68f0aaca90d9526e6207bb134a185779d2121c.jpg)
 
 但对人工智能来说，它**只能识别出左边的人**。这是因为，右边人的腰上贴了一张特殊的图片，这张图片会干扰人工智能的判断。
 
@@ -146,7 +146,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -162,4 +162,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

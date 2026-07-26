@@ -42,7 +42,7 @@ head:
 footer: 招收编程一对一学员,微信:Jiabcdefh,<a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备19021486号-6</a>
 ---
 
-![](./Python1v1.assets/silu3.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4c/4c39b204d7febb4b14ff635e5c7068a5f4af5ae087240a5b8de3401c9fa976df.png)
 
 # 0基础python入门培训
 
@@ -77,7 +77,7 @@ footer: 招收编程一对一学员,微信:Jiabcdefh,<a href="https://beian.miit
 
 一对一教学，有意者加我微信，注明【入门】
 
-<div align=center><img src="/ewm/Jiabcdefh.jpg" alt="微信号：Jiabcdefh" style="zoom:25%;" /></div>
+<div align=center><img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/51f1983c47ad09a50469d03ff84853eddd43b52c02bc8320e13de6cdb90ed9a7.jpg" alt="微信号：Jiabcdefh" style="zoom:25%;" /></div>
 
 
 

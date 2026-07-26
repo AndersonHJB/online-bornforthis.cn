@@ -24,19 +24,19 @@ toc: true
 
 为了帮助你理解这个模块化思维，我们还是要从一个老熟人讲起，那就是**巴贝奇**。
 
-![](./16-Why-dont-the-waiters-in-the-restaurant-cook.assets/d174f1506a9b57dd3d1da54fd28a166b.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d6/d6fe5dfd54d4f72ec30c85c89514c82e910aab60d1fc716d0aace879b0cec9cf.jpg)
 
 在前头我们说过，巴贝奇想要制造一台**差分机**，就从英国政府申请到了**很多很多钱**。结果呢，花了好多好多钱，也没有造出完整的机器。当时，我就说到过，巴贝奇没有造出差分机，是因为这台机器的精度要求太高了，对当时的技术来说太难实现了。
 
 不过，这只是巴贝奇失败的一个重要原因。其实，他的失败，还有另外一个重要原因。实际上，就在巴贝奇之后大约100年，在加工精度没有本质提高的情况下，一个德国工程师就成功了。他的名字叫作**楚泽**。
 
-![楚泽  图片来源：Wolfgang Hunscher](./16-Why-dont-the-waiters-in-the-restaurant-cook.assets/4c4440898da65b5ab206845b75bf3e9e.jpg)
+![楚泽  图片来源：Wolfgang Hunscher](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8c/8c8fd653e18a3a69677f70940f90fec5444ed0ac5e183370979516ba239af325.jpg)
 
 这个楚泽一没有政府资金的支持，二没有其他数学家的帮助，光是靠着自己的力量，就造出了一台机械计算机。而楚泽能成功的一个原因，就是因为使用了模块化思维。这是怎么回事呢？我们从头讲起。
 
 1910年，楚泽出生在德国柏林的一个普通家庭。他从小就特别喜欢制作一些**稀奇古怪的小玩意儿**，后来读大学，就干脆选了土木工程专业。25岁，楚泽大学毕业了，来到了**柏林飞机制造厂**工作。
 
-![](./16-Why-dont-the-waiters-in-the-restaurant-cook.assets/4dd1477eab4794a688e1a256f1e483b1.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/41/41c41f7c01521689aaeffcdb85237d73c9ba3adeed18afb40edb00a16ee5a729.jpg)
 
 你可能会想：小时候做小玩意儿，长大了造飞机，楚泽这是梦想成真了，他肯定干得很开心吧！事实恰好相反。
 
@@ -46,7 +46,7 @@ toc: true
 
 楚泽本身就讨厌做计算题，现在的工作却正好是一天到头做计算题，他可是烦透了。估计算到不耐烦的时候，撕了演算本的心都有了吧！
 
-![](./16-Why-dont-the-waiters-in-the-restaurant-cook.assets/3ee9cdf1dd1a4a68fdaf8a260692ff3d.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c0/c0509372295aa0fee9fc30bbf7a91439e8857081bc317b4cef28ce4d9ae2ad53.jpg)
 
 诶，有一天，又是烦躁的时候，楚泽突然来了灵感：计算这么枯燥，为啥不让机器来干呢？我来造飞机本来是想创造新发明，可不是来做计算题的啊。按现在的干法，我还不如直接回家创造计算机呢！于是，在飞机制造厂干了两个月之后，楚泽就**回家造计算机**去了。
 
@@ -54,7 +54,7 @@ toc: true
 
 楚泽认为，计算机不能是只有一种功能，别的都不会。要造的话，干脆就造一台**什么计算都能做**的机器，什么加法、减法、乘法、除法，甚至更复杂的运算，全都要行。
 
-![楚泽制造的计算机复制品](./16-Why-dont-the-waiters-in-the-restaurant-cook.assets/59989d343bb391f42139de404990978b.jpg)
+![楚泽制造的计算机复制品](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7e/7e6befdb8388c7f8f44d2a22b510bbe588d65421a514ce25426d22b0a9029861.jpg)
 
 可是，简单的运算还好说，复杂的运算，机器能行吗？比如，巴贝奇想要制造的差分机，其实不是做加减乘除计算的，而是做一种很复杂的计算，叫作“**多项式函数**”。正是因为这种计算特别复杂，导致巴贝奇设计的机器也特别复杂，最后就没有成功。
 
@@ -62,7 +62,7 @@ toc: true
 
 我们再打个形象的比方，比如说：我们拼**乐高积木**有两种拼法。第一种，是照着完成品的样子，直接从头到脚一块一块拼起来，拼完头拼身体，拼完身体再拼脚。另一种呢，是先把总体拆分成几个大块，头一块、四肢各一块、身体一块，然后分别拼好这几个大块，最后再组装起来。
 
-![](./16-Why-dont-the-waiters-in-the-restaurant-cook.assets/8bc7e6ae7993498edfeb3e0d29bfdc33.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2e/2e2558035ebc56e1a826aac09a18c38f8e641e26db110d8ef5262e4832c6f68a.png)
 
 巴贝奇的做法，就有点像是第一种。这种拼法看着快，其实慢。因为，如果后来发现前边哪个地方拼得不对，那就要全部拆开重来。而第二种方法呢，看着费了功夫，但其实很快。如果拼的时候发现哪个大块出了问题，就只用把这个大块拆开重来就行了。楚泽的计算机，就跟第二种方法差不多。
 
@@ -72,7 +72,7 @@ toc: true
 
 我们来一起设想一个场景吧：听了前边楚泽的故事，你也有点累了，于是你去了一个餐厅吃点东西休息一下。这家餐厅，有5个人，但他们跟普通餐厅不一样，5个人都是全都能干的多面手。你一进店，就有1个人迎了上来，他招呼你选了座位，然后又给了你菜单，请你点菜。
 
-![](./16-Why-dont-the-waiters-in-the-restaurant-cook.assets/bfe7fb8d2723de6361e6a33bee0a0dbd.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0a/0ac514760ddf2b9f53bc27ef45a2fa850d446b66446f2a8f649c8a9af9696d14.png)
 
 
 
@@ -172,7 +172,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -188,4 +188,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

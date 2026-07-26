@@ -42,7 +42,7 @@ toc: true
 
 简单的财务自动化结算需求，并且给出了各部门的工资表格文件和统计报表的模板文件，截图如下：
 
-![image-20220715211758604](./auto_base07.assets/image-20220715211758604.png)
+![image-20220715211758604](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77d85035a92a047784b7f5bcbb14bff132fe96cd1bb45382796e863a15522884.png)
 
 ## 自行生成各部门所需数据
 
@@ -203,7 +203,7 @@ toc: true
 
 @tab 2019-12-各部门员工数据总览
 
-![各部门员工数据总览](./auto_base07.assets/image-20240327151006841.png)
+![各部门员工数据总览](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c5af489194581e28d3a1edc6934a0db458d2cf59ecd7cee8e10ad57268d1758b.png)
 
 | 2019-12-各部门员工数据总览 |        |          |            |        |
 | -------------------------- | ------ | -------- | ---------- | ------ |
@@ -216,7 +216,7 @@ toc: true
 
 @tab 月结统计模板
 
-![月结统计模板](./auto_base07.assets/image-20240327151029851.png)
+![月结统计模板](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a0/a00c16bb74c1b6316655ffd0602ef14861375319429c382553f5dbb2d3c17fbb.png)
 
 :::
 
@@ -262,15 +262,15 @@ for dep in department_name:
 
 下面是财务文件和模板文件的截图：
 
-![image-20220715221653761](./auto_base07.assets/image-20220715221653761.png)
+![image-20220715221653761](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/44/4422aaa47760aeb7232f349f113223bafc17a872e025b7a9f8e252d5b30c8720.png)
 
-![image-20220715222043587](./auto_base07.assets/image-20220715222043587.png)
+![image-20220715222043587](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a8/a80281e57ff6e2a0f9fe84d3bcd13cd5c941fa26c3ae8e9eb5c90ded42c23095.png)
 
 财务文件中，每个用户数据，都是缺少应发工资的，需要用程序计算和填写；
 
 模板文件的使用，需要将本月的部门财务文件全部计算并统计出来，然后填充到模板文件中，生成一个本月的数据总览表格，如下截图：
 
-![image-20220715222746640](./auto_base07.assets/image-20220715222746640.png)
+![image-20220715222746640](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ec/ecd66a7d4c0bb61402dd9322304aa7b76dc3e4b71b0da098564bb5b0459ad358.png)
 
 选中的部分是需要使用程序自动填写。
 
@@ -434,7 +434,7 @@ xwb.save(title.format(year_month) + '.xls')  # 最后保存，文件名是 xxxx-
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -450,7 +450,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 ::: details
 

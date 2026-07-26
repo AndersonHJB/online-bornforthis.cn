@@ -315,7 +315,7 @@ print("c1/5 =", c1 / 5)
 
 本题预期输出效果如下图，你无需刻意追求与下图效果的完全一致
 
-![sampleimg_33.png](./README.assets/image-20221213123308617.png)
+![sampleimg_33.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/7459ae18b346939339aef7ce540b3c7d63008c657a825e5488b00bf41df9fe97.png)
 
 ---
 
@@ -565,7 +565,7 @@ acc2.deposit(3000)
 
 本题测试代码的输出示范效果见下图，你无需追求与示范效果的完全一致
 
-![sampleimg_34.png](./README.assets/image-20221213193131977.png)
+![sampleimg_34.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5c/5ce6c2d0c794df9eb503a1e88d18d904fd3ae27d794009c00d28355dfcbcc02c.png)
 
 ::: details Answer
 
@@ -702,7 +702,7 @@ if __name__ == '__main__':
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -718,4 +718,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

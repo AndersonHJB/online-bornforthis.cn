@@ -20,7 +20,7 @@ toc: true
 
 ## 1. 程序里藏着“小怪兽”？
 
-![程序中藏着小怪兽？](./21-Will-the-world-come-to-an-end-in-2038.assets/raw-20250422152611414.png)
+![程序中藏着小怪兽？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/89/89e3230e1b2f9d1f5d1cb1d7901280cb07268ca6201adc6dcedf83f307105e80.png)
 
 ~~`![程序中藏着小怪兽？](./21-Will-the-world-come-to-an-end-in-2038.assets/raw-20250422152252113.png)`~~
 
@@ -46,13 +46,13 @@ toc: true
 
 现在，这一页工作记录被送进**博物馆**保存了起来。下面图片显示的，就是这一页记录，你还能看到当年的那个 bug 呢。
 
-![](./21-Will-the-world-come-to-an-end-in-2038.assets/f34327d07299c2c935edc2141ca1b960-20250422140837253.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d428ab484016ea19522f5d7504bfa3fb60b6101def69530a514a6579f64ccc39.jpg)
 
 没想到，这一幕被载入史册，“Bug”从此成为“程序错误”的代名词，而赫柏也被大家戏称为“debug 之母”。
 
 ## 3. 一个 Bug，引发全球危机？
 
-![](./21-Will-the-world-come-to-an-end-in-2038.assets/clsl.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/04/0491c8279251751c7806e1193297b5ef06d10a821506bc2043d3ac34b74b17e0.png)
 
 不过，有意思的是，“debug 之母”本人竟然是世界上最可怕的 bug 的制造者。这个 bug 有个名字，你可能听说过，叫做“**千年虫**”。
 
@@ -88,7 +88,7 @@ toc: true
 
 ## 4. 最后一刻的人类总动员
 
-![](./21-Will-the-world-come-to-an-end-in-2038.assets/千年.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/36/36468212e16a7df3b0e0ce5fcdefb57d160450a6b8f81e915d3d0ad8ecb7e2e7.png)
 
 1998年到1999年，人类历史上上演了一场罕见的“全球程序大检查”：
 
@@ -101,7 +101,7 @@ toc: true
 
 ## 5. 那下一次危机会是啥时候？
 
-![](./21-Will-the-world-come-to-an-end-in-2038.assets/2038.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/63/63e3ead78ba50551b75a1c8bf096f38250948d1edd3db0fe138665bb87b5e5e5.png)
 
 别急，下一场“潜在危机”已经悄悄潜伏中。科学家们发现，2038年左右，某些基于旧系统的计算机会再一次面临“时间爆炸”，这一次不是“千年虫”，而是“二进制虫”。
 
@@ -113,7 +113,7 @@ toc: true
 
 ## 6. 编程思维训练场：极端情况测试法
 
-![](./21-Will-the-world-come-to-an-end-in-2038.assets/raw-20250422155644712.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/37/37d7949dc07f23666dbd01573787bf3686e1a7cda48c1befb5ed171475d3186d.png)
 
 那我们平时该怎么做，才能让程序更“抗打击”呢？
 
@@ -139,7 +139,7 @@ toc: true
 
 ## 7. 不只是编程，生活中也能用！
 
-![](./21-Will-the-world-come-to-an-end-in-2038.assets/raw-20250422173336688.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/05/058a86ad71dc440127ab48014ef14b1d0464d5d63d4c4ce6cc2a3670fef20d96.png)
 
 这种“为最坏做准备”的思维，不只在编程中有用。
 
@@ -154,7 +154,7 @@ toc: true
 
 ## 8. 总结
 
-![](./21-Will-the-world-come-to-an-end-in-2038.assets/sssss.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/54/546751a8c9add326ba751ec4eaa0467343c12f303114a26f7fcecaee823a7139.png)
 
 Bug 不一定是“小虫子”，但调试程序真的像是在“打怪兽”。
 

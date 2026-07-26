@@ -254,7 +254,7 @@ Next, select **at least two** of the following features to add to your game. For
 
 > 功能#2 (Pokedex):显示每种类型的宝可梦被捕获的数量的详细列表。例如，3个皮卡丘，2个Bulbasaur, 0个Charmander等等。当用户捕获每种类型的至少1个时，呈现某种特殊的消息。包括一个直方图，以图形化的方式显示捕获的口袋妖怪。提示:为这些数据创建一个表格，其中包含一个背景色的div。您可以操作此元素的width属性来创建条形图。确保元素中至少有一个字符(使用&nbsp;为div添加一个“不间断空格”)。例如:
 
-![](./22-Macro-Assignment-03-Gotta-Catch-em-All.assets/image-20230225221023223.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f2/f276a663abcbb01fb0f957279f5e24a49e5f4bb25e672d05d77e72256beb9551.png)
 
 - **Feature #3 ("Super item"):**: periodically hide some highly valuable items behind one of the grassy areas, such as +4 Pokeballs or a very rare Pokemon. Create at least 3 different kinds of "super items" that should each use their own graphic (you can't use one of the graphics that were provided for the assignment). Don't let the "super item" show up every round (randomly select when you're in "super item" mode). When you are in "super item" mode let the user know through a message that gets displayed (i.e. "You're in 'Super Item' mode!")
 
@@ -294,7 +294,7 @@ Thoroughly test your work and make sure that it meets the requirements set forth
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -310,4 +310,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

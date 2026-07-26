@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](./23-ai-exposed-education-system-flaws.assets/kkkkk.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f0/f06f1432c71b946d5cfd1ac24ff499d37c2a8fade8ef722601f16c009399e6fa.jpeg)
 
 AI tools are showing us just how broken the education system really is.
 
@@ -40,7 +40,7 @@ And for most of the jobs, you didn’t even need to know half of the things they
 
 Assignments and exams for the most part only test how much you can recall information.
 
-![](./23-ai-exposed-education-system-flaws.assets/lllll.jpeg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/61/6199188ebf4a4e30d2147d19fad7fb1733c361b48f5e57403cb44747b52fe322.jpeg)
 
 They test your memory retrieval ability. They don’t test your thinking process.
 
@@ -90,7 +90,7 @@ Too idealistic, right?
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -106,6 +106,6 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://medium.com/coding-beauty/ai-exposed-education-system-flaws-7fa5e5934bb5)

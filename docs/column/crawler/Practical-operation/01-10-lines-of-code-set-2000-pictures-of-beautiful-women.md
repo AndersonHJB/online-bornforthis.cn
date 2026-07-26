@@ -42,7 +42,7 @@ toc: true
 
 - [http://www.netbian.com/mei/index.htm](http://www.netbian.com/mei/index.htm)
 
-![10行代码集4000张美女图，Python爬虫800例，再上征途](./01-10-lines-of-code-set-2000-pictures-of-beautiful-women.assets/20210520063053256.png)
+![10行代码集4000张美女图，Python爬虫800例，再上征途](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ba/baf8be1d6311a8edcb87418e5f8b35c0157bc4356f636c5a7a7b067530e62de9.png)
 
 ### 2.2 抓取目标：
 
@@ -121,7 +121,7 @@ if __name__ == '__main__':
 
 例如通过开发者工具查看网页，得到图片素材都在 `<div class="list">` 和 `<div class="page">` 这两个标签中，首先要做的就是拆解字符串，取出目标数据部分。
 
-![img](./01-10-lines-of-code-set-2000-pictures-of-beautiful-women.assets/20210521220246609.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dc/dcf4de254ab0414de488d7da1612663eee6500d486bfb7e599a28af272a0b362.png)
 
 通过 `requests` 对网页源码进行获取，代码如下。
 
@@ -143,7 +143,7 @@ def main():
 
 在数据返回 Response 对象之后，通过 `res.encoding="GBK"` 设置了数据编码，该值可以从网页源码中获取到。
 
-![](./01-10-lines-of-code-set-2000-pictures-of-beautiful-women.assets/image-20230222140655220.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5e/5e86d9b4e0af2d68a57f506c258055b22a2488fe7099480e4a99904db4c8db06.png)
 
 请求到数据源码，即开始解析数据，如果使用正则表达式，建议先对目标数据进行一些简单的裁剪工作。
 
@@ -168,7 +168,7 @@ def format(text):
 
 上文返回的目标文本如下所示，本小节的目标就是获取到图片详情页地址。
 
-![](./01-10-lines-of-code-set-2000-pictures-of-beautiful-women.assets/2021052122194447.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f1/f19bf17d84515c385a0507013c5f3bebfbc87e596b1420dc10f1ab625231cbfc.png)
 
 使用的技术是 re 模块，当然需要配合正则表达式进行使用，对于正则表达式，可以跟随 AI悦创一点点的接触。
 
@@ -198,13 +198,13 @@ def format(text):
 
 有这些知识之后，在回到代码中去看实现。
 
-![img](./01-10-lines-of-code-set-2000-pictures-of-beautiful-women.assets/20210521222718384.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/de/de7dfff11d4e1bde9b48e2aa934f24784dbedb2294ad78f59b0182fc8234a59e.png)
 
 假设存在一个字符串：`href="/desk/23478.htm"`，使用 `href="(.\*?)"` 可以将其中的 `/desk/23478.htm` 匹配出来，括号的作用也是为了后续方便提取。
 
 最后输出内容如下图所示。
 
-![10行代码集4000张美女图，Python爬虫120例，再上征途](./01-10-lines-of-code-set-2000-pictures-of-beautiful-women.assets/20210521222925485.png)
+![10行代码集4000张美女图，Python爬虫120例，再上征途](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4d/4d26ada595fede91369d294b0850dbe7140982fe8db919f5c0eafb33b830ef01.png)
 
 ## 6. 清洗爬取结果
 
@@ -277,7 +277,7 @@ def save_image(image_src):
 
 得到的第一张图片，贴到博客中记录。
 
-![img](./01-10-lines-of-code-set-2000-pictures-of-beautiful-women.assets/20210521224142239.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/66/66d0985c49fa80f970c84be945af1af2e2b7648f5f7fa6c0f33b8253c35e0f9e.png)
 
 ## 8. 优化代码
 
@@ -352,7 +352,7 @@ if __name__ == '__main__':
 
 运行代码，得到下图所示运行效果。
 
-![img](./01-10-lines-of-code-set-2000-pictures-of-beautiful-women.assets/20210521225703173.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/01/01dad957fa353068e86f10a3c8346663065dbd9457a5a6799242d1d21a47788a.png)
 
 ## 9. 目标 2000 张
 
@@ -372,7 +372,7 @@ def main():
         format(text)
 ```
 
-![img](./01-10-lines-of-code-set-2000-pictures-of-beautiful-women.assets/20210521231905865.png)
+![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/99a5d96a26c227c787aa17d3eb0f534ff0ef9f15e9b183c2a7c5075a97f94639.png)
 
 ## 10. 完整代码
 
@@ -457,13 +457,13 @@ if __name__ == '__main__':
 
 ::: details 扫码添加交流群，记得备注来意。
 
-![](./01-10-lines-of-code-set-2000-pictures-of-beautiful-women.assets/image-20230222144130222.png)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f3/f302bba2689d3ce1f67fe3cb8b2259ab42c636ac0d62bd4fa9d919ae8c34007c.png)
 
 :::
 
 ::: details 公众号：AI悦创【二维码】
 
-![](/gzh.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -479,4 +479,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](/zsxq.jpg)
+![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
