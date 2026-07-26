@@ -14,7 +14,7 @@ image: false
 navbar: true
 sidebarIcon: true
 comment: true
-lastUpdated: true
+
 backToTop: true
 toc: true
 ---
