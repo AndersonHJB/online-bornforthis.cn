@@ -29,7 +29,7 @@ toc: true
 
 ## 背景「background」
 
-- [点击下载：OBS.zip](/cdn/OBS.zip)
+- [点击下载：OBS.zip](https://github.com/AndersonHJB/blog-images/raw/refs/heads/main/%E6%9D%82%E7%89%A9/OBS.zip)
 
 你好，我是悦创。
 
