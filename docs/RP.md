@@ -13,8 +13,6 @@ navbar: true
 sidebar: false
 sidebarIcon: true
 comment: false
-lastUpdated: false
-editLink: true
 backToTop: true
 toc: true
 head:

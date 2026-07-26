@@ -13,7 +13,7 @@ navbar: true
 sidebarIcon: true
 comment: true
  
-editLink: true
+
 backToTop: true
 toc: true
 watermark: true
