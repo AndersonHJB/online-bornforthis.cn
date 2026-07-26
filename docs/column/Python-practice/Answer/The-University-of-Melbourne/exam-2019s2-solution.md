@@ -26,7 +26,7 @@ editLink: true
 backToTop: true
 ---
 
-<PDF url="/Python-practice/The-University-of-Melbourne/exam-2019s2-solution.pdf" :toolbar="false" />
+<PDF url="https://github.com/AndersonHJB/blog-images/blob/main/The-University-of-Melbourne/exam-2019s2-solution.pdf" :toolbar="false" />
 
 
 

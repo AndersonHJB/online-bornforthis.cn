@@ -25,7 +25,7 @@ editLink: true
 backToTop: true
 ---
 
-<PDF url="/Python-practice/The-University-of-Melbourne/exam-2017s1-solution.pdf" :toolbar="false" />
+<PDF url="https://github.com/AndersonHJB/blog-images/blob/main/The-University-of-Melbourne/exam-2017s1-solution.pdf" :toolbar="false" />
 
 欢迎关注我公众号：AI悦创，有更多更好玩的等你发现！
 
