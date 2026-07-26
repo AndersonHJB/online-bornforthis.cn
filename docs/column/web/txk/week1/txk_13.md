@@ -16,8 +16,7 @@ navbar: true
 sidebarIcon: true
 
 comment: true
-lastUpdated: true
-editLink: true
+
 prev: txk_12.md
 next: txk_14.md
 backToTop: true

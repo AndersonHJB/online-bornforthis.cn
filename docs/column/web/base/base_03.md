@@ -16,8 +16,7 @@ navbar: true
 sidebarIcon: true
 
 comment: true
-lastUpdated: true
-editLink: true
+
 prev: base_02.md
 next: base_04.md
 backToTop: true

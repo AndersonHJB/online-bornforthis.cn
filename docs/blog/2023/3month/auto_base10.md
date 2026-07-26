@@ -13,8 +13,7 @@ navbar: true
 sidebarIcon: true
 
 comment: true
-lastUpdated: true
-editLink: true
+
 prev: auto_base09.md
 next: auto_base11.md
 backToTop: true

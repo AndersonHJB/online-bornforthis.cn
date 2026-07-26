@@ -16,8 +16,7 @@ navbar: true
 sidebarIcon: true
 
 comment: true
-lastUpdated: true
-editLink: true
+
 prev: special_for.md
 next: special_while.md
 backToTop: true

@@ -16,8 +16,7 @@ navbar: true
 sidebarIcon: true
 
 comment: true
-lastUpdated: true
-editLink: true
+
 prev: special_yunsuanfu.md
 next: special_for.md
 backToTop: true

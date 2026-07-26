@@ -19,8 +19,7 @@ navbar: true
 sidebarIcon: true
 
 comment: true
-lastUpdated: true
-editLink: true
+
 prev: Python01.md
 next: Python02.md
 backToTop: true

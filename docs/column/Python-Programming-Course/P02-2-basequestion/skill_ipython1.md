@@ -20,8 +20,7 @@ navbar: true
 sidebarIcon: true
 
 comment: true
-lastUpdated: true
-editLink: true
+
 prev: skill_pycharm1
 next: skill_pycharm1.md
 backToTop: true

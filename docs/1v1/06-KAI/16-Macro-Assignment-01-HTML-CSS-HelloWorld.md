@@ -29,8 +29,7 @@ navbar: true
 sidebarIcon: true
 changelog: false
 comment: true
-lastUpdated: true
-editLink: true
+
 backToTop: true
 toc: true
 ---

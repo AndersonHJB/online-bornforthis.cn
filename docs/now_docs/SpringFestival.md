@@ -21,8 +21,7 @@ navbar: true
 sidebarIcon: true
 
 comment: true
-lastUpdated: true
-editLink: true
+
 prev: onepython.md
 next: autooffice.md
 backToTop: true

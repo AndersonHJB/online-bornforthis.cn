@@ -16,8 +16,7 @@ navbar: true
 sidebar: false
 sidebarIcon: true
 comment: true
-lastUpdated: true
-editLink: true
+
 backToTop: true
 toc: true
 copy:

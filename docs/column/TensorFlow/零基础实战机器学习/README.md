@@ -19,8 +19,7 @@ navbar: true
 sidebarIcon: true
 
 comment: true
-lastUpdated: true
-editLink: true
+
 prev: README.md
 next: 01.md
 backToTop: true

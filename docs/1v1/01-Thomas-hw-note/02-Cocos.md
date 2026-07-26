@@ -19,8 +19,7 @@ navbar: true
 sidebarIcon: true
 
 comment: true
-lastUpdated: true
-editLink: true
+
 prev: 01-Variable.md
 next: 03-web02.md
 backToTop: true

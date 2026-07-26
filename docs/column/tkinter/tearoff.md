@@ -13,8 +13,7 @@ navbar: true
 sidebarIcon: true
 
 comment: true
-lastUpdated: true
-editLink: true
+
 prev: answer5.md
 next: answer7.md
 backToTop: true

@@ -15,8 +15,7 @@ navbar: true
 sidebarIcon: true
 
 comment: true
-lastUpdated: true
-editLink: true
+
 backToTop: true
 toc: true
 ---

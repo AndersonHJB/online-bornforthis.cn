@@ -11,8 +11,7 @@ timeline: true
 image: false
 navbar: true
 comment: true
-lastUpdated: true
-editLink: true
+
 backToTop: true
 toc: true
 watermark: true

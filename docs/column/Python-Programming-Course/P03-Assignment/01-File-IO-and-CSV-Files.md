@@ -10,8 +10,7 @@ article: true
 timeline: true
 image: false
 navbar: true
-lastUpdated: true
-editLink: true
+
 backToTop: true
 toc: true
 ---

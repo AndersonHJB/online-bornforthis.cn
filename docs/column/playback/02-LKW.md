@@ -16,8 +16,7 @@ navbar: true
 sidebarIcon: true
 
 comment: true
-lastUpdated: true
-editLink: true
+
 prev: 01-Tommy.md
 next: 03-20220610.md
 backToTop: true
