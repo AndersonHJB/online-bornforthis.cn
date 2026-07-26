@@ -10,24 +10,24 @@ icon: repo
 初始页面为第二页:<PDF url="/sample.pdf" :page="2" />
 ```
 
-<PDF url="/pdf/01-C语言【蜂考系统课】.pdf" />
+<PDF url="https://github.com/AndersonHJB/blog-images/releases/download/0.0.1/01-C.pdf" />
 
 ---
 
-<PDF url="/pdf/02-C语言【蜂考速成课】.pdf" />
+<PDF url="https://github.com/AndersonHJB/blog-images/releases/download/0.0.1/02-C.pdf" />
 
 ---
 
-<PDF url="/pdf/03-使用8421.pdf" />
+<PDF url="https://github.com/AndersonHJB/blog-images/releases/download/0.0.1/03-.8421.pdf" />
 
 ---
 
-<PDF url="/pdf/04-Python数据分析基础.pdf" />
+<PDF url="https://github.com/AndersonHJB/blog-images/releases/download/0.0.1/04-Python.pdf" />
 
 ---
 
-<PDF url="/pdf/05-Python数据分析实战_2016版.pdf" />
+<PDF url="https://github.com/AndersonHJB/blog-images/releases/download/0.0.1/05-Python._2016.pdf" />
 
 ---
 
-<PDF url="/pdf/06-Python数据分析与挖掘实战.pdf" />
+<PDF url="https://github.com/AndersonHJB/blog-images/releases/download/0.0.1/06-Python.pdf" />
