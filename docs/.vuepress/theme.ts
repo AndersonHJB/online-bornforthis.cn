@@ -34,7 +34,7 @@ export default hopeTheme({
   changelog: false,
   repo: "AndersonHJB/bornforthis.cn",
   lastUpdated: false,
-  contributors: "content",
+  contributors: false,
 
   darkmode: "switch",
 
@@ -76,6 +76,9 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
       lastUpdated: false,
+      changelog: false,
+      contributors: false,
+
 
       footer: '长期招收编程一对一学员!微信:Jiabcdefh, <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备19021486号-6</a><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35030502000172" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="/beian.png" style="float:left;"/>闽公网安备 35030502000172号</a>',
 
