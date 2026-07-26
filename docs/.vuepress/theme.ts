@@ -31,7 +31,7 @@ export default hopeTheme({
   docsBranch: "main",
   docsDir: "docs",
   docsRepo: "AndersonHJB/bornforthis.cn",
-  changelog: true,
+  changelog: false,
   repo: "AndersonHJB/bornforthis.cn",
   lastUpdated: true,
   contributors: "content",
