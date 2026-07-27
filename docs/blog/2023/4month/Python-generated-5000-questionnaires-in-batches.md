@@ -48,7 +48,7 @@ toc: true
 
 ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f61ee8bfaa2119adb2be77e80d79aa66208251e431541b5b42d28bb9e2bfa56e.png)
 
-<button name="button" style="color: black"><a href="/web_runing/blog/2023/04moth/193147130_0_剧本杀基本情况调研_2051_2051.xlsx" target="_blank">原文件下载</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/blog/2023/04moth/193147130_0_剧本杀基本情况调研_2051_2051.xlsx" target="_blank">原文件下载</a></button>
 
 ## Python 生成随机日期
 
