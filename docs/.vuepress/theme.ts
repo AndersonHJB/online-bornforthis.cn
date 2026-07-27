@@ -26,6 +26,10 @@ export default hopeTheme({
   logo: "/aiyc.svg",
   // navTitle: "AI悦创-Python一对一辅导",
   // navTitle: false,
+  changelog: false,
+  editLink: false,
+  lastUpdated: false,
+  contributors: false,
 
   
   docsBranch: "main",
@@ -72,7 +76,10 @@ export default hopeTheme({
 
       // sidebar
       sidebar: zhSidebar,
-
+      changelog: false,
+      editLink: false,
+      lastUpdated: false,
+      contributors: false,
 
       footer: '长期招收编程一对一学员!微信:Jiabcdefh, <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备19021486号-6</a><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35030502000172" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="/beian.png" style="float:left;"/>闽公网安备 35030502000172号</a>',
 
@@ -202,6 +209,7 @@ export default hopeTheme({
         // "//at.alicdn.com/t/c/font_3426793_89l82yqh1lh.css",
       ],
     },
+    git: false,
     watermark: {
       enabled: true,
       watermarkOptions: {
