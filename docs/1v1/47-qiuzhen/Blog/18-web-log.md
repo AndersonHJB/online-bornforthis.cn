@@ -120,8 +120,6 @@ footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https:/
 数字按键 1 左边的那个按键，按三次，并输入编程语言的类型。然后 Enter。
 
 ```markdown
-```python
-```
 
 08:21:02 [vite] hmr update /@fs/Users/aiyuechuang/WebSite/bornforthis.cn/docs/.vuepress/.temp/pages/1v1/47-qiuzhen/Blog/18-web-log.html.js
 08:21:02 [vite] hmr update /@fs/Users/aiyuechuang/WebSite/bornforthis.cn/docs/.vuepress/.temp/pages/1v1/47-qiuzhen/Blog/18-web-log.html.vue
@@ -132,7 +130,7 @@ info page 1v1/47-qiuzhen/Blog/18-web-log.md is modified
 08:21:57 [vite] hmr update /@fs/Users/aiyuechuang/WebSite/bornforthis.cn/docs/.vuepress/.temp/pages/1v1/47-qiuzhen/Blog/18-web-log.html.js
 08:21:57 [vite] hmr update /@fs/Users/aiyuechuang/WebSite/bornforthis.cn/docs/.vuepress/.temp/pages/1v1/47-qiuzhen/Blog/18-web-log.html.vue
 
-```
+
 08:21:02 [vite] hmr update /@fs/Users/aiyuechuang/WebSite/bornforthis.cn/docs/.vuepress/.temp/pages/1v1/47-qiuzhen/Blog/18-web-log.html.js
 08:21:02 [vite] hmr update /@fs/Users/aiyuechuang/WebSite/bornforthis.cn/docs/.vuepress/.temp/pages/1v1/47-qiuzhen/Blog/18-web-log.html.vue
 info page 1v1/47-qiuzhen/Blog/18-web-log.md is modified
@@ -350,14 +348,14 @@ color: rgba(253, 230, 138, 0.15)
 
 
 
-<BiliBili bvid="BV18N411h7oV" />
+`<BiliBili bvid="BV18N411h7oV" />`
 
 <PDF url="/pdf/keyboard-shortcuts-macos.pdf" />
 
 ```markdown
-<BiliBili bvid="BV18N411h7oV" />
+`<BiliBili bvid="BV18N411h7oV" />`
 
-<PDF url="/pdf/keyboard-shortcuts-macos.pdf" />
+`<PDF url="/pdf/keyboard-shortcuts-macos.pdf" />`
 ```
 
 ---

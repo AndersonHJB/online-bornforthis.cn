@@ -401,11 +401,8 @@ const theme = hopeTheme({
       components: [
         "VPBanner",
         "VPCard",
-        "BiliBili",
+        // "BiliBili",
         "PDF",
-        "SiteInfo",
-        "StackBlitz",
-        "Share",
         "VidStack",
       ],
       rootComponents: {

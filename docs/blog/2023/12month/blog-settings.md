@@ -240,21 +240,21 @@ $$
 
 ## 13. 多媒体
 
-::: preview 多媒体
+`::: preview 多媒体`
 
 `<AudioPlayer src="/mp3/sample.mp3" />`
 
 `<VidStack src="/mp3/sample.mp3" title="VidStack 示例音频" />`
 
-<BiliBili bvid="BV1i8411j7cf" />
+`<BiliBili bvid="BV1i8411j7cf" />`
 
-<PDF url="/pdf/03-使用8421.pdf" />
+`<PDF url="/pdf/03-使用8421.pdf" />`
 
-<VidStack src="https://vp-demo.u2sb.com/video/caminandes_03_llamigos_720p.mp4" />
+`<VidStack src="https://vp-demo.u2sb.com/video/caminandes_03_llamigos_720p.mp4" />`
 
-<YouTube id="0JJPfz5dg20" />
+`<YouTube id="0JJPfz5dg20" />`
 
-:::
+`:::`
 
 
 
