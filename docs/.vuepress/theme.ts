@@ -221,7 +221,7 @@ const theme = hopeTheme({
       {
         path: "/",
         title: "通知",
-        content: "关于编程私教&加密文章",
+        content: "建议开启：梯子🪜来访问本网站，会加速图片加载速度！",
         showOnce: true,
         actions: [
           {
