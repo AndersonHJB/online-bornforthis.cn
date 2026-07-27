@@ -34,7 +34,7 @@ BUILD_COMMAND="pnpm run docs:build"
 DIST_DIR="docs/.vuepress/dist"
 
 # Node.js 最大堆内存，单位 MB
-NODE_MEMORY_MB="10240"
+NODE_MEMORY_MB="32768"
 
 # Git 提交用户名
 # 留空表示使用当前项目或全局 Git 配置
