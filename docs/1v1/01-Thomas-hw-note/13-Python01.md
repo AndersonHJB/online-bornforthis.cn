@@ -20,15 +20,15 @@ toc: true
 
 题目链接：[https://bornforthis.cn/column/Python-Programming-Course/P02-2-basequestion/special_variabl.html](https://bornforthis.cn/column/Python-Programming-Course/P02-2-basequestion/special_variabl.html)
 
-![image-20221025200943729](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/88/8843a83b2c2fd1f8e039afe027b0c13f91591877087ffb4745ea70add689427e.png)
+![image-20221025200943729](https://blog.images.bornforthis.cn/docs-images/sha256/88/8843a83b2c2fd1f8e039afe027b0c13f91591877087ffb4745ea70add689427e.png)
 
-![image-20221025201904609](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ab/ab43afd955a5eeccdce7bde1bdbb0206bbca89560ccc01a44bab1c5f2179a327.png)
+![image-20221025201904609](https://blog.images.bornforthis.cn/docs-images/sha256/ab/ab43afd955a5eeccdce7bde1bdbb0206bbca89560ccc01a44bab1c5f2179a327.png)
 
 
 
 ## 2. 同时给多个变量赋予相同的值
 
-![image-20221025202105339](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/06/061eae1a20d554176af6ac6bde978771b1335cc1bd1242efe1a0f11e9af0901e.png)
+![image-20221025202105339](https://blog.images.bornforthis.cn/docs-images/sha256/06/061eae1a20d554176af6ac6bde978771b1335cc1bd1242efe1a0f11e9af0901e.png)
 
 
 
@@ -61,15 +61,15 @@ u1s1e1r121name1212122121 = "aiyc"
 
 
 
-![image-20221025205310126](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bb/bb1a2c3e5c541d6c3e6026d08e9d8a006e5b087e77ab3d6e1566a56564913b0f.png)
+![image-20221025205310126](https://blog.images.bornforthis.cn/docs-images/sha256/bb/bb1a2c3e5c541d6c3e6026d08e9d8a006e5b087e77ab3d6e1566a56564913b0f.png)
 
 ## 练习
 
-![image-20221025205509785](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/23/23bc62f829d2fb06f3e96f644b69c848081b75f029ce5cbe7ba0f2e053753058.png)
+![image-20221025205509785](https://blog.images.bornforthis.cn/docs-images/sha256/23/23bc62f829d2fb06f3e96f644b69c848081b75f029ce5cbe7ba0f2e053753058.png)
 
 ## 作业
 
-![image-20221025205624012](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f7/f7061d86d57eaee7a87b210b30c6b9fb5b7f96888497aa73c6568ae408c6ff42.png)
+![image-20221025205624012](https://blog.images.bornforthis.cn/docs-images/sha256/f7/f7061d86d57eaee7a87b210b30c6b9fb5b7f96888497aa73c6568ae408c6ff42.png)
 
 
 ## 课后反馈
@@ -81,7 +81,7 @@ u1s1e1r121name1212122121 = "aiyc"
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -97,7 +97,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

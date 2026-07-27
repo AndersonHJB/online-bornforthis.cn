@@ -39,7 +39,7 @@ print(tup, type(tup))
 
 一图胜千言，先看下图：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/17b00d353628ea7c444611434faded220aa00bb246e82b8d01e518f73b2743cb.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/17/17b00d353628ea7c444611434faded220aa00bb246e82b8d01e518f73b2743cb.png)
 
 在 Python 中，**列表**和**元组**都可以存储多个元素，但它们有几个显著的区别：
 
@@ -93,7 +93,7 @@ tup = (3, 'bornforthis', 22, 'aiyuechuang', 12, 'huangjiarongbao', 8)
 
 自己在代码编辑器中编辑后，再看我提供的答案。多思考，多编写代码。为了方便理解和提取，我把此元组的双向下标做了一个索引：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c6/c6694d1ee9b5696e54b872d9c31e001f86d48c7d4607e3b89732200f8e300686.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c6/c6694d1ee9b5696e54b872d9c31e001f86d48c7d4607e3b89732200f8e300686.png)
 
 ### 4.2 答案
 
@@ -193,7 +193,7 @@ print(f"Q7: {q7_answer}")
 
     一图胜千言，全在图里了：
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d3/d3fc333c9863bdc9caf942d84f8f534a52857571c3531585251d25a60e378c18.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/d3/d3fc333c9863bdc9caf942d84f8f534a52857571c3531585251d25a60e378c18.png)
 
 ```python
 # Question 8: 提取 ('huangjiarongbao', 12, 'aiyuechuang')
@@ -598,7 +598,7 @@ tup = (
 
 一图胜千言，图片中的红色虚线就是每一列要求和的数据：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/27/27354da158aed67167002db863791de7a9603524e362ee68a06898e8d10d255b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/27/27354da158aed67167002db863791de7a9603524e362ee68a06898e8d10d255b.png)
 
 还需要在代码编写完成后输出如下格式：
 

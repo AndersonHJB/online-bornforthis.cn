@@ -63,7 +63,7 @@ Here's a quick video that shows the basic features of the system:
 
 > 这是一个简短的视频，展示了系统的基本功能：
 
-<VidStack src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/31-Assignment07-Server-side-Quizzing-System/yt1s.com-simpsonsquiz%20assignment6_360p.mp4" />
+<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/31-Assignment07-Server-side-Quizzing-System/yt1s.com-simpsonsquiz%20assignment6_360p.mp4" />
 
 网页结构如下从上到下：
 
@@ -146,7 +146,7 @@ In Part A you will be setting up a form that will prompt the user to answer a se
 
 [You can download all of the artwork used in the sample project here](https://cs.nyu.edu/courses/spring23/CSCI-UA.0061-001/images/assignment07/assignment07_images.zip) (but you are welcome to use your own graphics / content items)
 
-> 您可以在这里下载示例项目中使用的所有艺术作品（但您也可以使用自己的图形/内容项目）。[assignment07_images.zip](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/31-Assignment07-Server-side-Quizzing-System/assignment07_images.zip)
+> 您可以在这里下载示例项目中使用的所有艺术作品（但您也可以使用自己的图形/内容项目）。[assignment07_images.zip](https://blog.images.bornforthis.cn/1v1/06-KAI/31-Assignment07-Server-side-Quizzing-System/assignment07_images.zip)
 
 Here's what you should work on for Part A:
 
@@ -250,7 +250,7 @@ Important: Ensure that you have set up the permissions on your data folder on th
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -266,4 +266,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

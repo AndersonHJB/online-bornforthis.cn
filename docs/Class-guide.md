@@ -109,19 +109,19 @@ footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https:/
 
 @tab zoom 图示
 
-![zoom](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4d/4d573f8c32df6060ec635e57041d33f09ce308ad927c294b81925092bd012e2f.png)
+![zoom](https://blog.images.bornforthis.cn/docs-images/sha256/4d/4d573f8c32df6060ec635e57041d33f09ce308ad927c294b81925092bd012e2f.png)
 
 @tab ToDesk 图示
 
-![ToDesk](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/61/6103a2124486bcfdffc1cee22c00955b5b381f4365299f68369b9e8d36e98554.png)
+![ToDesk](https://blog.images.bornforthis.cn/docs-images/sha256/61/6103a2124486bcfdffc1cee22c00955b5b381f4365299f68369b9e8d36e98554.png)
 
 @tab 腾讯会议
 
-![腾讯会议](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a3/a3b5672a0a092209b0d46a33adbba778336ab0a2abff2585b10fabb8c06ca032.png)
+![腾讯会议](https://blog.images.bornforthis.cn/docs-images/sha256/a3/a3b5672a0a092209b0d46a33adbba778336ab0a2abff2585b10fabb8c06ca032.png)
 
 @tab 飞书
 
-![飞书](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77a8b73c9c940e3aebaf27224a3143d84c2e6430811afa6c1406b1ee7076c317.png)
+![飞书](https://blog.images.bornforthis.cn/docs-images/sha256/77/77a8b73c9c940e3aebaf27224a3143d84c2e6430811afa6c1406b1ee7076c317.png)
 
 :::
 

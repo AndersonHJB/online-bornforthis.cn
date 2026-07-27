@@ -21,7 +21,7 @@ toc: true
 
 想象一下，在正义与邪恶交锋的时刻，**蝙蝠侠**轻轻一点按钮，他的蝙蝠车便自动出发，把救下的人质安全送走，而他自己能专心去制服反派。更妙的是，战斗结束后，蝙蝠车还能准时出现在指定地点，把他接回家，顺便赶上晚饭。是不是酷得不行？
 
-![蝙蝠侠战车](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e3/e3e65ac7b8e8be62625c5c7214c9b2227bc08f57015b216c5749e133d4c7e780.png)
+![蝙蝠侠战车](https://blog.images.bornforthis.cn/docs-images/sha256/e3/e3e65ac7b8e8be62625c5c7214c9b2227bc08f57015b216c5749e133d4c7e780.png)
 
 谁不想拥有这样一辆聪明又能干的汽车呢？全家出门旅行的时候，爸爸妈妈可以一边享受美食小火锅，一边欣赏窗外的风景，根本不用操心开车的辛苦。听起来是不是梦想成真？不过，别急着太开心——真正意义上的自动驾驶汽车，目前离我们还挺远的。
 
@@ -29,7 +29,7 @@ toc: true
 
 说到自动驾驶的历史，可不是最近才冒出来的新鲜事。**一百多年前**，科学家们就已经在琢磨这件事了。只不过，受限于当时的技术水平，他们搞出来的“自动驾驶”，其实更像是“远程遥控车”，离真正的自动驾驶差得很远。
 
-![有轨电车](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/14/14a0e57cc25f8ccd315e0ab472cd7c2b6df8eb75b4f8211f15ce8517267dc6b2.png)
+![有轨电车](https://blog.images.bornforthis.cn/docs-images/sha256/14/14a0e57cc25f8ccd315e0ab472cd7c2b6df8eb75b4f8211f15ce8517267dc6b2.png)
 
 到了**1939年**，人们推出了一种“有轨电车”，算是自动驾驶领域的小突破。这种电车能沿着地面轨道行驶，感知轨道上传来的电信号，从而避免追尾。可惜，它只能在固定轨道上跑，灵活性太差，远远满足不了真正上路的需求。
 
@@ -41,9 +41,9 @@ toc: true
 
 听到这儿你可能会问：现在科技这么发达，自动驾驶不是早该普及了吗？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/01/0136da8f8053d08d77112442d62b04f22214b48b7b296fc14b84e8c25675e8cc.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/01/0136da8f8053d08d77112442d62b04f22214b48b7b296fc14b84e8c25675e8cc.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/88/882d5ae9b2157106c6f03f7bd516c387e59b793dec3ed7da8c0200238c063d6a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/88/882d5ae9b2157106c6f03f7bd516c387e59b793dec3ed7da8c0200238c063d6a.png)
 
 确实，在**矿区**、**码头**、**机场**这些封闭、规则简单的环境里，自动驾驶车辆已经大显身手了。但在我们日常生活的城市道路上，真正的自动驾驶汽车依然凤毛麟角。为什么呢？关键在于，自动驾驶需要同时做好三件事：
 
@@ -65,7 +65,7 @@ toc: true
 
 ## 3. 自动驾驶，败在哪？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d8/d8aba3a93e90f57924e15a1dda0e915a50657a932fbcc76c2f988148b19be426.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d8/d8aba3a93e90f57924e15a1dda0e915a50657a932fbcc76c2f988148b19be426.png)
 
 尽管“智能”汽车可以采集大量信息，但分析这些信息、做出正确决定，却极其复杂。有时候，仅仅因为一点点小误判，就可能引发严重事故。
 
@@ -83,7 +83,7 @@ toc: true
 
 通过这个实际例子，我们可以知道自动驾驶汽车在**分析判断**这项能力上没能过关。
 
-![小米 su7](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ab/ab0fe1f3016719262e632280727222aa88bbbffe9110b904855eea9ad1d20f8b.jpg)
+![小米 su7](https://blog.images.bornforthis.cn/docs-images/sha256/ab/ab0fe1f3016719262e632280727222aa88bbbffe9110b904855eea9ad1d20f8b.jpg)
 
 前面的布朗事故算是比较早期的，也表达了：哪怕自动驾驶技术已经非常厉害了，但只要分析判断出现**极小概率的失误**，也可能引发重大事故。
 
@@ -93,7 +93,7 @@ toc: true
 
 这起事故引发了社会各界的广泛关注，大家纷纷质疑：智能驾驶系统是否可靠？车辆设计是否足够安全？施工区域的安全管理是否到位？小米公司的应对是否及时妥当？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/59/59a721135cc139dae1dca5735bf3304d18affd59e13da532c9b75aac644c32d0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/59/59a721135cc139dae1dca5735bf3304d18affd59e13da532c9b75aac644c32d0.png)
 
 根据小米公司**4月1日**发布的调查信息，当时车辆正在使用 **NOA 智能辅助驾驶**功能，以**116公里/小时**的速度行驶。
 
@@ -111,7 +111,7 @@ toc: true
 
 ## 4. 拆解复杂问题，一步步来
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/81/814b8f971afe443ffe4ff1af3b202ae6bc92f8f2cf64ada4ea5a54978f2b130f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/81/814b8f971afe443ffe4ff1af3b202ae6bc92f8f2cf64ada4ea5a54978f2b130f.png)
 
 那么，人类就此放弃自动驾驶了吗？当然不会！
 
@@ -125,7 +125,7 @@ toc: true
 
 ## 5. 拆解对于生活中的启发
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/92/92262892f57c6774f6b10f54b3dfac3c5a14779cb384abff4f0631ff3ebd169d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/92/92262892f57c6774f6b10f54b3dfac3c5a14779cb384abff4f0631ff3ebd169d.png)
 
 上面科学家使用的：把复杂问题拆分成几个阶段的做法，我们在生活中也能用到。
 
@@ -145,7 +145,7 @@ toc: true
 
 ## 6. 自动驾驶级别的 6个等级
 
-![自动驾驶分级图表](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/92/922b959bb0664a6612d74c3fc143f62f816df767f7f4f06d9bdb89ba3b62e478.png)
+![自动驾驶分级图表](https://blog.images.bornforthis.cn/docs-images/sha256/92/922b959bb0664a6612d74c3fc143f62f816df767f7f4f06d9bdb89ba3b62e478.png)
 
 聊了这么多，可能你已经发现了：自动驾驶其实也不是一蹴而就的。为了更清楚地区分自动驾驶的发展阶段，**国际汽车工程师协会（SAE）专门制定了一个标准，把自动驾驶划分成了6个等级**，从L0到L5，分别对应不同的智能化程度：
 

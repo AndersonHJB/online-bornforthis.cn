@@ -94,11 +94,11 @@ For example, here is a trace of a person solving a **FoCdle** of difficulty 10. 
 
 ::: details img
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/90/902ef5d0ff874723cbb9598f8d54677f90a0167114cc6138ea4939d63f1175ad.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/90/902ef5d0ff874723cbb9598f8d54677f90a0167114cc6138ea4939d63f1175ad.png)
 
 :::
 
-![Example 1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/47/47300140eaa3133a85b02c067b53a341c91fdf8ee95ced44611901191512e594.png)
+![Example 1](https://blog.images.bornforthis.cn/docs-images/sha256/47/47300140eaa3133a85b02c067b53a341c91fdf8ee95ced44611901191512e594.png)
 
 From that information they formed their second guess "`72+31%6=73`" and submitted it. The response from that told them that the computed value had to be 73; that second operator wasn't "`%`" either; that there were no 6s, only one 7, and only one 3; plus also told them some more positions in which the digits 1 and 2 (which must occur somewhere) could not appear.
 
@@ -110,7 +110,7 @@ Your mission in this project is to create some of the functions that might be us
 
 ::: details img
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/08/087710c5e59b80f0b6cc3581ed68a8b22e87a649ebf251ebd69eef528e9e4ca9.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/08/087710c5e59b80f0b6cc3581ed68a8b22e87a649ebf251ebd69eef528e9e4ca9.png)
 
 :::
 
@@ -327,19 +327,19 @@ def create_secret(difficulty=DEF_DIFFIC):
 
 @tab 1
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/50/508f57bf31bbbc00eed3c9536ff2a44f5e9bd327b68e0886c181c7c079de4744.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/50/508f57bf31bbbc00eed3c9536ff2a44f5e9bd327b68e0886c181c7c079de4744.png)
 
 @tab 2
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ba/ba4cbfcffc9b769a03245b4ccc079bf5adbeaa648537f16de8d805c5a660b9a2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ba/ba4cbfcffc9b769a03245b4ccc079bf5adbeaa648537f16de8d805c5a660b9a2.png)
 
 @tab 3
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/02/02cc6a48b945383004f28b4544c4ad6771b8a3993d648aa0ad651b8af0dc24be.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/02/02cc6a48b945383004f28b4544c4ad6771b8a3993d648aa0ad651b8af0dc24be.png)
 
 @tab 4
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/86/866f2a7e0bfafb810ca744304ad6580457223093fd5bef163347718fe4ad0761.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/86/866f2a7e0bfafb810ca744304ad6580457223093fd5bef163347718fe4ad0761.png)
 
 :::
 
@@ -602,19 +602,19 @@ def set_colors(secret, guess):
 
 @tab 1
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8c/8c8452444b87d842c46814cd29a50a87b689269df598ba724ca8a087cbbcaf08.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8c/8c8452444b87d842c46814cd29a50a87b689269df598ba724ca8a087cbbcaf08.png)
 
 @tab 2
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/03eb209b9f833a25d463d6365e18b6dcf9360cf889fe41f59a0abd02f972c5f5.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/03/03eb209b9f833a25d463d6365e18b6dcf9360cf889fe41f59a0abd02f972c5f5.png)
 
 @tab 3
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bd/bdb2737346c992d493c0cd1cbd57d5343235a06796990762a80e9e60a9762c0e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/bd/bdb2737346c992d493c0cd1cbd57d5343235a06796990762a80e9e60a9762c0e.png)
 
 @tab 4
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/65/6549898f0eac773e7ca50d6b4d82c2d2b3fc69d602786b982fb9d37d148c753d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/65/6549898f0eac773e7ca50d6b4d82c2d2b3fc69d602786b982fb9d37d148c753d.png)
 
 :::
 
@@ -1080,19 +1080,19 @@ def passes_restrictions(guess, all_info):
 
 @tab 1
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ec/ecd4233713c8cfbdc7a3c3ae118e0f931a06700e755577ef395bb1212a19233b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ec/ecd4233713c8cfbdc7a3c3ae118e0f931a06700e755577ef395bb1212a19233b.png)
 
 @tab 2
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4b/4b08b6a6f208c4e9734e2b026dff604a97decd02a8715c4de5e465aa1ac9a2cd.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/4b/4b08b6a6f208c4e9734e2b026dff604a97decd02a8715c4de5e465aa1ac9a2cd.png)
 
 @tab 3
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/41/4147d6289b41c0fbd29f492ebbc1b0fec0c454d465dd7f19ad80dc39d458cb28.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/41/4147d6289b41c0fbd29f492ebbc1b0fec0c454d465dd7f19ad80dc39d458cb28.png)
 
 @tab 4
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e8/e841a91cff2fd0f7e26b2fe7ffcdcbcc1cf2410b4d864cd4cf63ba6423723be9.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e8/e841a91cff2fd0f7e26b2fe7ffcdcbcc1cf2410b4d864cd4cf63ba6423723be9.png)
 
 :::
 
@@ -1390,19 +1390,19 @@ def create_guess(all_info, difficulty=DEF_DIFFIC):
 
 @tab 1
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/70/70cad99f4ad3e98accf632b4dc42134673fce4efe2050d00079aaf6f2c0420d7.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/70/70cad99f4ad3e98accf632b4dc42134673fce4efe2050d00079aaf6f2c0420d7.png)
 
 @tab 2
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8c/8cab1917f785d9d111346eedf35e0e5617c64ad23860691112d12c52bf5b280b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8c/8cab1917f785d9d111346eedf35e0e5617c64ad23860691112d12c52bf5b280b.png)
 
 @tab 3
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/57/573d7831b6302e1fdc0a1aed029b7d41c0e3ba1dca6965e35ea6f0709a3e2c7b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/57/573d7831b6302e1fdc0a1aed029b7d41c0e3ba1dca6965e35ea6f0709a3e2c7b.png)
 
 @tab 4
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fb/fbd757c0f7415470e0e25b832e8f1f484e9b91df73b5a2c87f93f7ba5e2dc374.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fb/fbd757c0f7415470e0e25b832e8f1f484e9b91df73b5a2c87f93f7ba5e2dc374.png)
 
 :::
 
@@ -1518,19 +1518,19 @@ if ENABLE_PLAYTEST:  # Set to True to run this code when clicking "Run" in Grok
 
 @tab 1
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/88/88ead59aed41f46376d6030616d39ed4bbd478814fbc906bd342ff9bce09df7d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/88/88ead59aed41f46376d6030616d39ed4bbd478814fbc906bd342ff9bce09df7d.png)
 
 @tab 2
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1c/1c1093afe5933fa60fc2fd9617f04f201e1627b2fa304defb6d3a34779f5aaa0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/1c/1c1093afe5933fa60fc2fd9617f04f201e1627b2fa304defb6d3a34779f5aaa0.png)
 
 @tab 3
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/10/104ce20a3ca36765149a6a0c32e9e59c87d624e1b60a2cc8cc25410810ffe270.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/10/104ce20a3ca36765149a6a0c32e9e59c87d624e1b60a2cc8cc25410810ffe270.png)
 
 @tab 4
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5f43d67076aeab31186a80104519df841a1bc35da2206063debdead8d29788ab.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/5f/5f43d67076aeab31186a80104519df841a1bc35da2206063debdead8d29788ab.png)
 
 :::
 
@@ -1540,7 +1540,7 @@ if ENABLE_PLAYTEST:  # Set to True to run this code when clicking "Run" in Grok
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1556,4 +1556,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

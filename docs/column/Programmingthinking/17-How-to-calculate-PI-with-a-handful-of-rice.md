@@ -21,19 +21,19 @@ toc: true
 
 你在小学六年级的数学课上，会学到一个数学符号叫做**π**，不是菠萝派的派啊，你可以点开文稿看看它的写法。其实，它表示的是“**圆周率**”。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/68/68edb9145a9742a06317da78323b61a92f629c31d1cd2e278b0e9c8b0ad7e385.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/68/68edb9145a9742a06317da78323b61a92f629c31d1cd2e278b0e9c8b0ad7e385.jpg)
 
 圆周率就是**圆的周长跟直径的比值**。你如果想要计算圆的周长或者面积，都要用到圆周率。但要想精确算出，圆周率到底是几，这可不容易。在古代，各国的数学家们在这个方面作出了很多努力。
 
 在七年级历史课上，你会学到，咱们中国，在1500多年前有一位数学家叫**祖冲之**。他就算出圆周率小数点后边**第7位数字**。这是当时世界上最精确的圆周率了。而且，他的这个世界纪录还保持了**800年**，你说厉害不厉害？
 
-![祖冲之  图片来源：三猎](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ba/ba95d206ee2d247250bd13d4255d1879b618c3c05fbd47030e0da0346bc7387f.jpg)
+![祖冲之  图片来源：三猎](https://blog.images.bornforthis.cn/docs-images/sha256/ba/ba95d206ee2d247250bd13d4255d1879b618c3c05fbd47030e0da0346bc7387f.jpg)
 
 祖冲之计算圆周率的时候，使用的是一种叫“**割圆法**”的方法，这种方法很复杂，计算量非常大。所以，祖冲之能把结果算到小数点后边第七位，确实很不容易。
 
 不过，时代在进步，后来，更巧妙的方法出现了。现在，我就要教给你用编程思维来计算圆周率。这样，你只需要**一把大米**，半天时间，就能算出π的值了。这种方法或许没有祖冲之的那么精确，可是真的特别快。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1d/1d2c81f0b944a5877717defe7e8fb8f98d88a95a78d64f555967f9055f76c6c1.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/1d/1d2c81f0b944a5877717defe7e8fb8f98d88a95a78d64f555967f9055f76c6c1.jpg)
 
 这种编程思维，要先从面积计算说起。
 
@@ -41,7 +41,7 @@ toc: true
 
 可是，你想过没有：不规则图形的面积该如何计算呢？比方说，你在“**我的**”这个栏目里可以找到自己领养的**熊猫**。它们看起来傻乎乎、圆滚滚的，还会喝奶啃竹子。那么，我问你：这只熊猫的面积是多少呢？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e9/e9d1f4c902a28b6500620ac14bc8ee02dc4ae812225c41b49094746fb06a7eb1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e9/e9d1f4c902a28b6500620ac14bc8ee02dc4ae812225c41b49094746fb06a7eb1.png)
 
 诶，是不是有点挑战？这只熊猫的面积，**没有现成的公式**可套，算起来有点麻烦了！
 
@@ -63,7 +63,7 @@ toc: true
 
 你可以先称一称屏幕上全部米粒的重量，然后再称一次落在大熊猫图案上米粒的重量。两个重量一比较，也能算出大熊猫的面积来。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e5/e5a0e1fec231397be8e80b14a57304b0473786927c6535e192f7722a81e6b7a3.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e5/e5a0e1fec231397be8e80b14a57304b0473786927c6535e192f7722a81e6b7a3.jpg)
 
 怎么样，很神奇吧！不需要使用公式，拿一把大米，就算出了熊猫的面积。你以后写作业的时候，是不是也可以随身带一包大米了呢？
 
@@ -71,13 +71,13 @@ toc: true
 
 其实不是的，这个蒙特卡洛呀，是欧洲的一座很小的**城市**，只有半个天安门广场那么大。它虽然小，却是**世界三大赌城之一**，是赌徒们爱去的地方。赌博不是什么好事，那为什么这个算法会起个赌城的名字呢？ 
 
-![蒙特卡洛](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b7/b7301a42ae8e2c1766745dcaa48340c6bc76525fa956d1ccaf75cc69ec1843a9.jpg)
+![蒙特卡洛](https://blog.images.bornforthis.cn/docs-images/sha256/b7/b7301a42ae8e2c1766745dcaa48340c6bc76525fa956d1ccaf75cc69ec1843a9.jpg)
 
 这事儿要追溯到20世纪40年代。当时啊，美国的一些科学家正忙着制造**氢弹**。在制造的过程中，科学家们遇到了一个很麻烦的问题，这个问题也没有什么现成的公式可以套用。怎么办呢？要是算不出这个题，氢弹就造不出来了，大家都很着急。
 
 这时候，有一位叫**乌拉姆**的数学家想到一个好主意。当时，他正在打牌，突然就想，能不能算一下，自己拿到一手特殊的牌面的概率呢。如果要用公式来硬算，肯定会特别特别难。于是他就换了个思路，既然硬算算不出来，我不如用计算机模拟抓牌1万次，然后数一数其中有多少次拿到了这种特殊的牌面，不就行了吗？
 
-![乌拉姆](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7f/7f806cc20c432b3e9b42b6d408c9cc100eb93b22f831a571d50314b09ac02912.png)
+![乌拉姆](https://blog.images.bornforthis.cn/docs-images/sha256/7f/7f806cc20c432b3e9b42b6d408c9cc100eb93b22f831a571d50314b09ac02912.png)
 
 
 
@@ -85,7 +85,7 @@ toc: true
 
 诶，这个主意很棒啊！于是，乌拉姆就赶紧跑过去跟另一位数学家**冯·诺依曼**说了他的灵感。冯·诺依曼是当时世界上计算机玩得最溜的人之一，美国第一台电子计算机能制造出来，就离不开冯·诺依曼的研究。
 
-![冯·诺依曼](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1d/1d97fa061a233e99469445b1381e51c950ef20431926596ca31416f7c07a8c02.png)
+![冯·诺依曼](https://blog.images.bornforthis.cn/docs-images/sha256/1d/1d97fa061a233e99469445b1381e51c950ef20431926596ca31416f7c07a8c02.png)
 
 听到乌拉姆的建议，冯·诺依曼赶紧在计算机上编好了程序，问题果然解决了，**氢弹也顺利制造出来了**。
 
@@ -97,7 +97,7 @@ toc: true
 
 聪明的你可能已经想到了：在一张**正方形**的纸上画一个**圆**，圆的直径正好是正方形的边长。然后，闭上眼，撒大米！数出来圆里头的米粒，还有整张纸的米粒，就求出来了圆的面积。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/07/07c717ffd9db0306ab069549f5892ffce9bdff09cdc3cb60cf0c312448d49a6b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/07/07c717ffd9db0306ab069549f5892ffce9bdff09cdc3cb60cf0c312448d49a6b.jpg)
 
 
 
@@ -149,7 +149,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -165,4 +165,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

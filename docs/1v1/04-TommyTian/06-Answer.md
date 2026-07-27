@@ -70,7 +70,7 @@ head:
 
 **Below are a few sample runs of our program:**
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/39/391bf67974570ad8be75f08c14d8887981b3c390ee806748a611325256c5c605.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/39/391bf67974570ad8be75f08c14d8887981b3c390ee806748a611325256c5c605.png)
 
 ### 答案
 
@@ -174,9 +174,9 @@ Write a program that prompts a row number and print out the pattern in a zig-zag
 
 > 编写一个程序，提示行号，并以之字形打印出模式。如果该行的前导为奇数，该行将按照从前导到1的递减顺序显示数字。如果该行的前导为偶数，则该行按照从1到前导的递增顺序显示数字。假设输入总是一个有效的正整数。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3f/3ff3e70241e7a32e7a292cbc087d38d74d7c8538d838af1c60d10843034913a7.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3f/3ff3e70241e7a32e7a292cbc087d38d74d7c8538d838af1c60d10843034913a7.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/58/582c201a1ae1554445b83200c8f6d5ec30434471183c917caf8b4031c5502f72.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/58/582c201a1ae1554445b83200c8f6d5ec30434471183c917caf8b4031c5502f72.png)
 
 > 在这里，“前导”指的是一个数字的最高位。例如，数字 123 的前导是 1，数字 456789 的前导是 4。在题目中，需要判断输入的行数的前导数字是奇数还是偶数，以确定打印数字的方式。
 
@@ -212,7 +212,7 @@ for r in range(row, 0, -1):
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -228,4 +228,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -21,13 +21,13 @@ toc: true
 
 最近在赶书稿，所以一直没时间更新公众号，不过已经交稿咯！
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f3/f37a25475a9ddfb2ab2078e3afb5b91dc3f71aabd6a5697c6705fcae5c197b0a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f3/f37a25475a9ddfb2ab2078e3afb5b91dc3f71aabd6a5697c6705fcae5c197b0a.png)
 
 发现有些粉丝都掉了。不过我并不担心，咱们主打一个质量和宠粉！
 
 在之前的文章中，有读者评论说要学习大模型的 API 调用，那么今天这篇文章就来分享 DeepSeek API 的使用入门，如果你有什么想学的随时评论关注。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d1/d1af10732c8f2d37d54fb63f9c5f37aa0728002b90b06a72cb31b610dfd18e57.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d1/d1af10732c8f2d37d54fb63f9c5f37aa0728002b90b06a72cb31b610dfd18e57.png)
 
 至于 grok 的后期再更新，这个 grok 也需要梯子，所以先编写 DeepSeek，原生实现还是比使用现成的要好，自主性更好，更好的掌握！
 
@@ -56,7 +56,7 @@ DeepSeek API 使用与 OpenAI 兼容的 API 格式，通过修改配置，您可
 
 看看订单就知道，是否有赠送：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/94/946c88c01209615d0c23375b4a9eacf6fa6679f886ce9b382ff7e3cab53f10b2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/94/946c88c01209615d0c23375b4a9eacf6fa6679f886ce9b382ff7e3cab53f10b2.png)
 
 **如果没有赠送，那么自己实名认证后充值吧～**
 
@@ -64,15 +64,15 @@ DeepSeek API 使用与 OpenAI 兼容的 API 格式，通过修改配置，您可
 
 1. 访问 API 官网：[https://platform.deepseek.com/api_keys](https://platform.deepseek.com/api_keys)
 
-![创建 API key](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dc/dcca3d651b7f86279078f626db0d7d836fa47087943525e179f57bc992a79d84.png)
+![创建 API key](https://blog.images.bornforthis.cn/docs-images/sha256/dc/dcca3d651b7f86279078f626db0d7d836fa47087943525e179f57bc992a79d84.png)
 
 输入 API key 的名称后（为了区分不同项目使用的 key），点击创建：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/71/7161318332783faa457c3a8f63cfe633eb0dbe0f158923100daf24b5340c7521.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/71/7161318332783faa457c3a8f63cfe633eb0dbe0f158923100daf24b5340c7521.png)
 
 点击创建后，即可复制得到的 key。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8e/8ee56b70db603383120230076f5dab791435ec6e46bbf01ab5e4048cbe95dcd8.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8e/8ee56b70db603383120230076f5dab791435ec6e46bbf01ab5e4048cbe95dcd8.png)
 
 ### 2.2 基础调用
 
@@ -739,7 +739,7 @@ if __name__ == "__main__":
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -755,7 +755,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://medium.com/data-science-collective/stop-copy-pasting-turn-pdfs-into-data-in-seconds-c5997d523133)
 

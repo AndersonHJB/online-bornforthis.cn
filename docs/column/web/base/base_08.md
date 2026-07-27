@@ -31,9 +31,9 @@ CSS 布局主要就是基于盒模型。每个占据页面空间的块都能有�
 - **border: 边框。** 它紧接着内边距的线。
 - **margin: 外边距。** 它围绕元素外部的空间。
 
-![image-20220802231929105](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1d/1d40a8f69c7f341fb9f617e9b513c69539733b6912691c7e680c3e603018ae9f.png)
+![image-20220802231929105](https://blog.images.bornforthis.cn/docs-images/sha256/1d/1d40a8f69c7f341fb9f617e9b513c69539733b6912691c7e680c3e603018ae9f.png)
 
-![CSS 框模型](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/44/44400458fb8079274c7c14ae84e5a7b2a1734c0d1b155a769cd136deb387cba5.png)
+![CSS 框模型](https://blog.images.bornforthis.cn/docs-images/sha256/44/44400458fb8079274c7c14ae84e5a7b2a1734c0d1b155a769cd136deb387cba5.png)
 
 ---
 
@@ -46,11 +46,11 @@ CSS 布局主要就是基于盒模型。每个占据页面空间的块都能有�
 
 为了正确设置元素在所有浏览器中的宽度和高度，你需要知道的盒模型是如何工作的。
 
-![CSS box-model](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ef/ef5a5fbf2c33229d52b5c6aaf16a24513febe82b4a2f40aab713a64be49b7e8f.gif)
+![CSS box-model](https://blog.images.bornforthis.cn/docs-images/sha256/ef/ef5a5fbf2c33229d52b5c6aaf16a24513febe82b4a2f40aab713a64be49b7e8f.gif)
 
 ## 元素的宽度和高度
 
-![Remark](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6f/6fb0af4f1f113ded1924122fef9242bfceee9e1adac95bb462f47d03b5f6e298.gif)**重要:** 当您指定一个 CSS 元素的宽度和高度属性时，你只是设置内容区域的宽度和高度。要知道，完整大小的元素，你还必须添加内边距，边框和外边距。
+![Remark](https://blog.images.bornforthis.cn/docs-images/sha256/6f/6fb0af4f1f113ded1924122fef9242bfceee9e1adac95bb462f47d03b5f6e298.gif)**重要:** 当您指定一个 CSS 元素的宽度和高度属性时，你只是设置内容区域的宽度和高度。要知道，完整大小的元素，你还必须添加内边距，边框和外边距。
 
 下面的例子中的元素的总宽度为 450px：
 
@@ -145,7 +145,7 @@ html {
 
 案例中的 `#00539F` 是什么呢？效果如下：
 
-![image-20220804120410871](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b9d649897b45ef147460a1cba44a0b150f7065227f939d4d89ed858148830ebf.png)
+![image-20220804120410871](https://blog.images.bornforthis.cn/docs-images/sha256/b9/b9d649897b45ef147460a1cba44a0b150f7065227f939d4d89ed858148830ebf.png)
 
 它是颜色的十六进制编码。它能够把你想要展示的颜色准确的告诉浏览器。
 
@@ -153,7 +153,7 @@ html {
 
 打开百度，输入关键字“在线取色器”。有许多网站可查询颜色编码。获取颜色编码的过程大同小异，如图所示：
 
-![image-20220803100830625](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/46/46935c57f2446dba67ebcc35d5ee92dc84d2cc8c2dd7c74663200c204868ff36.png)
+![image-20220803100830625](https://blog.images.bornforthis.cn/docs-images/sha256/46/46935c57f2446dba67ebcc35d5ee92dc84d2cc8c2dd7c74663200c204868ff36.png)
 
 ## 文档格式设置
 
@@ -178,7 +178,7 @@ body {
 
 效果是：
 
-![image-20220804160121437](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/1598f2fdb70eb172627ab746889e33b995e204566e4878e2352dbaa4d8170abc.png)
+![image-20220804160121437](https://blog.images.bornforthis.cn/docs-images/sha256/15/1598f2fdb70eb172627ab746889e33b995e204566e4878e2352dbaa4d8170abc.png)
 
 ## 定位主标题&添加样式
 
@@ -208,7 +208,7 @@ h1 {
 - 1px： 阴影的模糊半径 , 它的值越大产生的阴影就越模糊。
 - black: 阴影的颜色。
 
-![image-20220804185037783](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/aa/aa1ffcfcce5a0eac02ddf115e8bacb8daeb5938995ef8f9b1d614229aae95be4.png)
+![image-20220804185037783](https://blog.images.bornforthis.cn/docs-images/sha256/aa/aa1ffcfcce5a0eac02ddf115e8bacb8daeb5938995ef8f9b1d614229aae95be4.png)
 
 ## 图像居中
 
@@ -253,35 +253,35 @@ img {
 
 【选词填空】如想更改界面颜色，应在空格内填入哪个属性？
 
-![image-20220804185530071](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c9/c9b13df559be8c7b3eec77f7283b7b36fa0116cfa006a746d0e8b757f08aba81.png)
+![image-20220804185530071](https://blog.images.bornforthis.cn/docs-images/sha256/c9/c9b13df559be8c7b3eec77f7283b7b36fa0116cfa006a746d0e8b757f08aba81.png)
 
 
 
 ::: details 答案
 
-![image-20220804185549308](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a1/a1ffadb40753247d33daa76108a17f234b0f507b7d69cebf5a263d4752cc7b64.png)
+![image-20220804185549308](https://blog.images.bornforthis.cn/docs-images/sha256/a1/a1ffadb40753247d33daa76108a17f234b0f507b7d69cebf5a263d4752cc7b64.png)
 
 :::
 
 【选词填空】在空格中填入适当的属性：
 
-![image-20220804185608426](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/70/701e347bdbcbf297cf3fd564f2d77457dc02cdb2765920151dc8d949aed8058f.png)
+![image-20220804185608426](https://blog.images.bornforthis.cn/docs-images/sha256/70/701e347bdbcbf297cf3fd564f2d77457dc02cdb2765920151dc8d949aed8058f.png)
 
 
 
 ::: details 答案
 
-![image-20220804185627006](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/20/2077c53006d44ad6761b7015cad4acd99643e82c80576df11881ccaaca1f604a.png)
+![image-20220804185627006](https://blog.images.bornforthis.cn/docs-images/sha256/20/2077c53006d44ad6761b7015cad4acd99643e82c80576df11881ccaaca1f604a.png)
 
 :::
 
 【选词填空】在空格内填入适当的属性和值，使 `<img>` 元素也能拥有外边距。
 
-![image-20220804185728480](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2e/2e46422611d758a31c32a82d95cf5e7cfe6c4716eb991794021fb85a22a2d19b.png)
+![image-20220804185728480](https://blog.images.bornforthis.cn/docs-images/sha256/2e/2e46422611d758a31c32a82d95cf5e7cfe6c4716eb991794021fb85a22a2d19b.png)
 
 ::: details 答案
 
-![image-20220804185811783](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e9/e99edba06a15e0665f6633c2e6671541ac28950ecd44f524d35c5d959b5f502c.png)
+![image-20220804185811783](https://blog.images.bornforthis.cn/docs-images/sha256/e9/e99edba06a15e0665f6633c2e6671541ac28950ecd44f524d35c5d959b5f502c.png)
 
 :::
 
@@ -289,7 +289,7 @@ img {
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -305,7 +305,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

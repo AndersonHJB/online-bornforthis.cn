@@ -45,15 +45,15 @@ toc: true
 
 在以上案例中，属性 src 中指向的图片位置因缺少文件格式 jpg，导致图片无法显示。此时，属性 alt 中的文字“ **图片不见了** ”就发挥了说明的作用。
 
-![image-20220802161622835](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/26/2611057c9618fbfefcafd2192de9f9b7e381af5b1bb52835886d80d07996b3d4.png)
+![image-20220802161622835](https://blog.images.bornforthis.cn/docs-images/sha256/26/2611057c9618fbfefcafd2192de9f9b7e381af5b1bb52835886d80d07996b3d4.png)
 
-![image-20220802161720241](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a45cd4190da9d0d7441a985548778f8f26ee1ac84f435ecdd1a7bda93ba94739.png)
+![image-20220802161720241](https://blog.images.bornforthis.cn/docs-images/sha256/a4/a45cd4190da9d0d7441a985548778f8f26ee1ac84f435ecdd1a7bda93ba94739.png)
 
 ## `<a>` 元素
 
 我们在浏览网页时常遇上超链接：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/86/863a985b8cd86ab973899470caf83d796945ef4908008d43efe8282cea320665.gif)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/86/863a985b8cd86ab973899470caf83d796945ef4908008d43efe8282cea320665.gif)
 
 **网页中的超链接怎么做呢？**
 
@@ -89,7 +89,7 @@ Q2:实现点击文字 tag 跳转：
 
 网页内容中有一些是列表。
 
-![image-20220802162427423](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/27/27e5869c9d6c936310bc9ae9bc8c3ce443eaa786aa0b580d12b0241fb99bd586.png)
+![image-20220802162427423](https://blog.images.bornforthis.cn/docs-images/sha256/27/27e5869c9d6c936310bc9ae9bc8c3ce443eaa786aa0b580d12b0241fb99bd586.png)
 
 以上，标有序号的内容是 **有序列表** 的样式。在 HTML 代码中，它用一个 `<ol>` 「order list」元素包围。标有黑色小圆点的内容是 **无序列表** 的样式。在 HTML 代码中，它用一个 `<ul>` 元素包围。
 
@@ -137,7 +137,7 @@ Q2:实现点击文字 tag 跳转：
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -153,7 +153,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

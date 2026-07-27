@@ -26,7 +26,7 @@ backToTop: true
 toc: true
 ---
 
-[/1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing/problem_1.ipynb](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing/problem_1.ipynb)
+[/1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing/problem_1.ipynb](https://blog.images.bornforthis.cn/1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing/problem_1.ipynb)
 
 **Hand-in format:** IPython Notebook or python program. Submit via email.
 
@@ -46,7 +46,7 @@ Each nucleotide consists of a nucleobase (guanine, adenine, thymine, or cytosine
 
 > 每个核苷酸由附在糖上的一个碱基(鸟嘌呤、腺嘌呤、胸腺嘧啶或胞嘧啶)组成，这些碱基又由磷酸基彼此分离:
 
-![DNA_Structure+Key+Labelled.pn_NoBB](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ab/abc945c9f80d4262dc0ebf81d47482455c568e5fe83c16f81a3a3801196c3bf3.png)
+![DNA_Structure+Key+Labelled.pn_NoBB](https://blog.images.bornforthis.cn/docs-images/sha256/ab/abc945c9f80d4262dc0ebf81d47482455c568e5fe83c16f81a3a3801196c3bf3.png)
 
 The nucleobases are commonly referred to with the letters:
 
@@ -189,9 +189,9 @@ When the mRNA is translated to a protein sequence, each set of three nucleotides
 
 > protein也可以被写成字母序列，但是之前mrna每个字母可能要被写成多个字母
 
-The [data/p1_codons.txt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing/p1_codons.txt) file contains a list of codon-amino acid pairs. There are two columns:
+The [data/p1_codons.txt](https://blog.images.bornforthis.cn/1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing/p1_codons.txt) file contains a list of codon-amino acid pairs. There are two columns:
 
-> [data/p1_codons.txt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing/p1_codons.txt) 文件包含密码子-氨基酸对的列表。有两栏:
+> [data/p1_codons.txt](https://blog.images.bornforthis.cn/1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing/p1_codons.txt) 文件包含密码子-氨基酸对的列表。有两栏:
 
 * first column: codon (represented by three letters).
 
@@ -296,7 +296,7 @@ Write a function `read_fasta()`, that takes the name of a file (as a string) and
 
 > 编写一个函数' read_fasta() '，它接受文件的名称(作为字符串)，并返回一个包含文件中所有序列的Python字典，字典中的键对应于标签。
 
-Use this function and the functions you have written above to read in the [p1_fasta_q4.txt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing/p1_fasta_q4.txt) file and print out, for each sequence, the label, followed by the **amino acid** sequence (not the DNA sequence!).
+Use this function and the functions you have written above to read in the [p1_fasta_q4.txt](https://blog.images.bornforthis.cn/1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing/p1_fasta_q4.txt) file and print out, for each sequence, the label, followed by the **amino acid** sequence (not the DNA sequence!).
 
 > 使用这个函数和上面所写的函数来读取[p1_fasta_q4.txt](/1v1/08-LionGuo/01- homework - question -DNA-sequencing/p1_fasta_q4.txt)文件，并为每个序列打印出标签，后面跟着**氨基酸**序列(不是DNA序列!)
 
@@ -325,7 +325,7 @@ def read_fasta():
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -341,4 +341,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

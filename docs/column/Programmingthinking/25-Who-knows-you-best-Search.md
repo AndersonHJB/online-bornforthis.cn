@@ -33,7 +33,7 @@ toc: true
 
 就在这一片混乱当中，**第一代搜索引擎**出现了。当时呀，有一个神奇的网站叫“**雅虎**”，你只要登上这个网站，就能轻松地找到自己想要去的地方。
 
-![雅虎网的标志](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8a/8adfc51bcea380eb91c39502ca9b896e15927ab7dc7c787389acc43acd839da5.png)
+![雅虎网的标志](https://blog.images.bornforthis.cn/docs-images/sha256/8a/8adfc51bcea380eb91c39502ca9b896e15927ab7dc7c787389acc43acd839da5.png)
 
 
 
@@ -51,7 +51,7 @@ toc: true
 
 面对这个问题呢，雅虎公司很快就想到了一个办法。他们在首页上加了一个**搜索框**，这个搜索框，看着跟今天的差不多，但其实是不一样的。因为它**只能搜到雅虎网列出的网站**，没有被列入雅虎网的是搜不到的。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9a/9ae33c527c1baadbb4685c8358b834fdcf5bc4b5504aab00a6b1e15d8406c267.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9a/9ae33c527c1baadbb4685c8358b834fdcf5bc4b5504aab00a6b1e15d8406c267.jpg)
 
 但这对于当时的网友来说，已经很高级了。大家也越来越爱用雅虎网，甚至上雅虎都成了上网的代名词！在2000年前后，雅虎简直要称霸整个互联网世界了。
 
@@ -59,7 +59,7 @@ toc: true
 
 谷歌公司虽然一开始只有布林和佩奇2个人，但是他们相信自己的搜索引擎是世界上最好的，他们对自己的算法特别有信心，这个算法就叫**网页排名算法**。
 
-![谷歌公司的搜索页面](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4f/4ff1cb889fd4c2de95da6cb1702d8c9d17f3118b37ffe5aeee07815ad890abb1.jpeg)
+![谷歌公司的搜索页面](https://blog.images.bornforthis.cn/docs-images/sha256/4f/4ff1cb889fd4c2de95da6cb1702d8c9d17f3118b37ffe5aeee07815ad890abb1.jpeg)
 
 其实，当时世界上已经有别的公司做搜索引擎了，如果你输入一个关键词，就能出现很多结果，当然也包括雅虎没有收录的网址。但他们的算法和谷歌公司的算法不太一样，搜出来的结果排序也不同。
 
@@ -81,7 +81,7 @@ toc: true
 
 咱们还是拿奥特曼来说吧。如果一个网站是真正的超级英雄网站，而且内容又特别好玩，那别的网站肯定会经常推荐它，在自己的网页上放上它的链接。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/21/2108ddb6977456949a6bcbd1f7d4d5cc70a7fcde6fa09eb169299c8f717acbf8.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/21/2108ddb6977456949a6bcbd1f7d4d5cc70a7fcde6fa09eb169299c8f717acbf8.jpg)
 
 那要是卖课外辅导书的呢？挺无聊的是不是，别的网站当然不会推荐它。网页排名算法，就是要统计一下，**每个网站都被别的网站推荐了多少次**。然后，把它们按照**推荐次数**从高到低排名。
 
@@ -99,13 +99,13 @@ toc: true
 
 拿蜘蛛网来比喻，以前的搜索网站只看到了蜘蛛丝的节点，却漏掉了连接节点的蜘蛛丝。而谷歌看到的，是能够抓住猎物的蜘蛛丝。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/70/70e6106323ba3f4aa42dc7077e1d7b2e8d19dd3c5a5bdfdcd31e6af1425b896c.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/70/70e6106323ba3f4aa42dc7077e1d7b2e8d19dd3c5a5bdfdcd31e6af1425b896c.jpg)
 
 你在学习的时候也是一样，只是学会单独的知识点，作用其实不大。你要想方设法，在单个的知识点之间建立起联系，让它们织成一张知识的大网，到那时候，才算真正掌握了这些知识。
 
 那咱们说回搜索引擎，这时候**谷歌**的搜索引擎还只算是**第二代搜索引擎**。很快经过改良，又出现了**第三代搜索引擎**。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6f/6f68718f22826aefc191c4f3a54b43c5d8d3baadba060b93c69ede795c945db8.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/6f/6f68718f22826aefc191c4f3a54b43c5d8d3baadba060b93c69ede795c945db8.jpeg)
 
 这一代其实有点像是苹果手机上的Siri，它能看懂你写的话了，什么意思呢？
 
@@ -159,7 +159,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -175,4 +175,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

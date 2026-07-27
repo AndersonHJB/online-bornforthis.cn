@@ -50,7 +50,7 @@ watermark: true
 
 #### 1.1.1 从数学函数到编程函数
 
-![图1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7e/7ead22d5b6cd5ba42035f731dab8c86dacd914ab3955e7d94d77dfafacd2092b.png)
+![图1](https://blog.images.bornforthis.cn/docs-images/sha256/7e/7ead22d5b6cd5ba42035f731dab8c86dacd914ab3955e7d94d77dfafacd2092b.png)
 
 在初中或高中的数学课里，我们经常会碰到如下形式的函数定义：
 $$
@@ -77,7 +77,7 @@ $$
 
 #### 1.1.2 视觉类比：苹果 🍎 与半个苹果
 
-![图2](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a41a8823877a820581190bda45e16d0ace8ae76f5e5ae308e67b860a5d9d4676.png)
+![图2](https://blog.images.bornforthis.cn/docs-images/sha256/a4/a41a8823877a820581190bda45e16d0ace8ae76f5e5ae308e67b860a5d9d4676.png)
 
 就像在数学函数中，你把 $x$ 输入到 $f$ 里，然后得到 $f(x)$。在编程中也可以把一个“苹果”传递给函数，让它来做“切苹果”的过程，最终“输出”半个苹果。可以直接查看图2——这个过程非常类似前面的图1“输入 → 函数 → 输出”的图片示意。
 
@@ -341,7 +341,7 @@ Hello
 
 一图胜千言，可以查看下图：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fb/fbaa6867a8367e51d17b28fa7dc34e131d1f876631cfcbda4d14ad1ee63e09bb.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fb/fbaa6867a8367e51d17b28fa7dc34e131d1f876631cfcbda4d14ad1ee63e09bb.png)
 
 代码示例：
 
@@ -1310,7 +1310,7 @@ def 函数名(参数):
 
 #### 2.10.3 返回单个值
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/84/8401f5eff565f33afdd4409368fedaa1e8c22cfd266092c9adff13208ef42fb4.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/84/8401f5eff565f33afdd4409368fedaa1e8c22cfd266092c9adff13208ef42fb4.png)
 
 ```python
 def add(a, b):

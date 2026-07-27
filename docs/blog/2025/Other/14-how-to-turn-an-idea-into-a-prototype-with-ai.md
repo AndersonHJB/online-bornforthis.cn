@@ -37,7 +37,7 @@ Let’s get started!
 
 Before we dived in, here’s a brief demo of the outcome:
 
-![Brief demo of the prototype](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/86/866e51f452e89f9021256a5e1a5f85a002e9486939d36921976a8cef0a853061.gif)
+![Brief demo of the prototype](https://blog.images.bornforthis.cn/docs-images/sha256/86/866e51f452e89f9021256a5e1a5f85a002e9486939d36921976a8cef0a853061.gif)
 
 ## Step 1: Draft the requirements
 
@@ -55,7 +55,7 @@ This PRD will be used for an experiment to generate wireframes using AI tools.
 
 Here’s Claude’s response:
 
-![Claude’s response](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2de89bccac669e07beb83f90cf34936c5c5f3d40273b9e3b7509f597cca79829.jpeg)
+![Claude’s response](https://blog.images.bornforthis.cn/docs-images/sha256/2d/2de89bccac669e07beb83f90cf34936c5c5f3d40273b9e3b7509f597cca79829.jpeg)
 
 The generated requirements was quite thorough, but it was much more complex than I needed.
 
@@ -97,15 +97,15 @@ Home Screen Components
 
 Then I used the UX Pilot’s Figma plugin to generate 3 design options:
 
-![Homepage design options from UX Pilot](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e0/e04effff7c13c30f0030eb7b0bccb48ea25cd89355e27c70ce9692824b688d2b.png)
+![Homepage design options from UX Pilot](https://blog.images.bornforthis.cn/docs-images/sha256/e0/e04effff7c13c30f0030eb7b0bccb48ea25cd89355e27c70ce9692824b688d2b.png)
 
 Using the same approach, I generated 3 design options for the add/edit post page :
 
-![Add/Edit post page design options from UX Pilot](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/19/193e4462d44ec4f3b521e39a4590f51e05012e2891603ebedfc69ee626e1d2a7.png)
+![Add/Edit post page design options from UX Pilot](https://blog.images.bornforthis.cn/docs-images/sha256/19/193e4462d44ec4f3b521e39a4590f51e05012e2891603ebedfc69ee626e1d2a7.png)
 
 Finally, the profile page:
 
-![Profile page design options from UX Pilot](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/33/3377d1a0f07468b5e3be78bf014ba65317bcb9bf2ae42034e188ccd12ed63ced.png)
+![Profile page design options from UX Pilot](https://blog.images.bornforthis.cn/docs-images/sha256/33/3377d1a0f07468b5e3be78bf014ba65317bcb9bf2ae42034e188ccd12ed63ced.png)
 
 Then I selected my preferred designs and made minor revisions.
 
@@ -142,11 +142,11 @@ By comparison, I had to go through tedious installation process previously while
 
 I asked Bolt to create a prototype using those revised wireframes as a reference.
 
-![A prompt for Bolt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/faf47cb0add857f1987f53d72c6314f036db51a68b4cf97e697f29232608772b.jpeg)
+![A prompt for Bolt](https://blog.images.bornforthis.cn/docs-images/sha256/fa/faf47cb0add857f1987f53d72c6314f036db51a68b4cf97e697f29232608772b.jpeg)
 
 It used NativeScript to build the mobile application and asked me to use my phone to scan the QR code to access the preview.
 
-![Bolt asked me to scan the code](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c3/c3241e7e027b93082ec099862bd6b38b93fab944c079511808857e1b6bd2f1e5.jpeg)
+![Bolt asked me to scan the code](https://blog.images.bornforthis.cn/docs-images/sha256/c3/c3241e7e027b93082ec099862bd6b38b93fab944c079511808857e1b6bd2f1e5.jpeg)
 
 For the sake of simplicity and easier access, I asked Bolt to create a web version of this app instead.
 
@@ -154,9 +154,9 @@ So it switched direction, regenerating a web app using React and Vite.
 
 Here’s its first attempt with several pages generated:
 
-![The first homepage creation from Bolt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7a/7a69c9a3e78cd45b1b50301e27f91f24ee7055c924130821bf39dff158c1be48.jpeg)
+![The first homepage creation from Bolt](https://blog.images.bornforthis.cn/docs-images/sha256/7a/7a69c9a3e78cd45b1b50301e27f91f24ee7055c924130821bf39dff158c1be48.jpeg)
 
-![The first add/edit post page creation from Bolt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5e/5e584ab15d86e9732c9995ac0613d803519d807462e8b6af1b0104db12aad856.jpeg)
+![The first add/edit post page creation from Bolt](https://blog.images.bornforthis.cn/docs-images/sha256/5e/5e584ab15d86e9732c9995ac0613d803519d807462e8b6af1b0104db12aad856.jpeg)
 
 ## Step 4: Make revisions
 
@@ -179,7 +179,7 @@ I had to revise those small details one by one, but the process was fairly strai
 
 Here’s an example of me taking a snapshot of the tab bar in the wireframe and asking Bolt to fix a visual inconsistency:
 
-![A follow-up prompt for revision](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/eb/eb769119489cd7496cc5c4d6fb0c0daf6aa67511e070fa8658a8bfa39593ba32.jpeg)
+![A follow-up prompt for revision](https://blog.images.bornforthis.cn/docs-images/sha256/eb/eb769119489cd7496cc5c4d6fb0c0daf6aa67511e070fa8658a8bfa39593ba32.jpeg)
 
 ### 💡 Tips
 
@@ -214,7 +214,7 @@ Will talk more about it on designwithai.co in the future.
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -230,7 +230,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://medium.com/design-bootcamp/how-to-turn-an-idea-into-a-prototype-with-ai-6863bbeb56e4)
 

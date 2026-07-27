@@ -336,13 +336,13 @@ c. If an employee works a total of more than 40 hours in a single week, any hour
 
 ## Sample outputs:
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7a/7ae04b3e6aeec863f57a5cd4a72c05881f24a0a8e03170a24defcf431b35d523.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/7a/7ae04b3e6aeec863f57a5cd4a72c05881f24a0a8e03170a24defcf431b35d523.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/26/26c3d2c7cf81c1becd6f4fe9079c7067a4185a4d26b35141a449cd4059d80166.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/26/26c3d2c7cf81c1becd6f4fe9079c7067a4185a4d26b35141a449cd4059d80166.png)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -358,4 +358,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -31,7 +31,7 @@ import sqlite3
 
 导入代码之后，将 `first.db` 文件，放到代码文件旁边。这里用的是 py，所以是把 py 和 `first.db` 文件放一起，不放一起就只能使用绝对路径。如下图：
 
-![image-20220717143802293](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b9f7b321c5961f665f3a66109a8c6c8a713adbd65c954fe9777a5ba338b89907.png)
+![image-20220717143802293](https://blog.images.bornforthis.cn/docs-images/sha256/b9/b9f7b321c5961f665f3a66109a8c6c8a713adbd65c954fe9777a5ba338b89907.png)
 
 然后使用 sqlite3 库，链接 `first.db` 文件，代码 `firstdb = sqlite3.connect('first.db')`
 
@@ -68,7 +68,7 @@ print(list(firstdb.execute(query_sql)))
 
 输出结构效果图：
 
-![image-20220717144442354](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/23/2376e42bb3ee68fa42a79757f416e3d9aa89f586b67806db092c1a46d524bc5f.png)
+![image-20220717144442354](https://blog.images.bornforthis.cn/docs-images/sha256/23/2376e42bb3ee68fa42a79757f416e3d9aa89f586b67806db092c1a46d524bc5f.png)
 
 这是最简单的查询语句。数据库都是支持查询、删除、增加、更新操作的。
 
@@ -91,7 +91,7 @@ for result in firstdb.execute(query_sql):
 
 运行结果如下图：
 
-![image-20220717150958014](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3bfa3c9cd2ad82d85af1ec719ece08679e20231166ebf399c31e97136a1d63fa.png)
+![image-20220717150958014](https://blog.images.bornforthis.cn/docs-images/sha256/3b/3bfa3c9cd2ad82d85af1ec719ece08679e20231166ebf399c31e97136a1d63fa.png)
 
 ## 插入更多数据
 
@@ -113,7 +113,7 @@ for result in firstdb.execute(query_sql):
 
 for 循环，从 10 循环到 20，不含 20，然后全部执行 sql 语句和提交到数据库。最后查询全部数据，看下有没有增多，如下结果图：
 
-![image-20220717152956276](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/94/941a1bf1f4023994f0722dcf6bf116a6a085607306c1a326bf02f1b1b8cd6496.png)
+![image-20220717152956276](https://blog.images.bornforthis.cn/docs-images/sha256/94/941a1bf1f4023994f0722dcf6bf116a6a085607306c1a326bf02f1b1b8cd6496.png)
 
 ## 更新数据操作
 
@@ -132,7 +132,7 @@ for result in firstdb.execute(query_sql):
 
 最后的结果图如下：
 
-![image-20220717154945628](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/00/00d8dc294f198456b65ef94eb799ff85497316392845479a19ad4491f0edd2d9.png)
+![image-20220717154945628](https://blog.images.bornforthis.cn/docs-images/sha256/00/00d8dc294f198456b65ef94eb799ff85497316392845479a19ad4491f0edd2d9.png)
 
 以上就是 Python 操作 sqlite 的全部代码了。
 
@@ -151,7 +151,7 @@ for result in firstdb.execute(query_sql):
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -167,7 +167,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

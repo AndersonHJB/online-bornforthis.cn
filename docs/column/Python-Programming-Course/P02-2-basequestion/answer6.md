@@ -96,11 +96,11 @@ toc: true
 
 5. 用 Python 编程，假设一年期定期利率为 `3.25%` ，计算一下需要过多少年，一万元的一年定期存款连本带息能翻番？ 
 
-    ![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b961209e605466dcfcf16484455f41c964ecf5b2ae81fa6cece506c932484797.png)
+    ![img](https://blog.images.bornforthis.cn/docs-images/sha256/b9/b961209e605466dcfcf16484455f41c964ecf5b2ae81fa6cece506c932484797.png)
 
 6.  （拓展）使用 while 循环将列表内的奇数和偶数分开
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1c/1c99743f895b3f26b45617d8c67f9def6b31161a551b3f1844dfca75daf59d49.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/1c/1c99743f895b3f26b45617d8c67f9def6b31161a551b3f1844dfca75daf59d49.png)
 
 
 

@@ -80,7 +80,7 @@ Now, use an SFTP program to transfer your “index.html” Web page file from yo
 
 If you are using Fetch, here is the opening screen; fill it in as follows but with your own NetID and click “Connect.” After logging in, you can use “Put” to copy files to the server and “Get” to bring files down from the server to your local machine.
 
-![Screen Shot 2017-09-29 at 11.06.54 AM](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/81/81edae45ae00e333330152bfdb2864d7c33035357290c5d16a08000b445d64ed.png)
+![Screen Shot 2017-09-29 at 11.06.54 AM](https://blog.images.bornforthis.cn/docs-images/sha256/81/81edae45ae00e333330152bfdb2864d7c33035357290c5d16a08000b445d64ed.png)
 
 Upload the index.html file from your computer to your i6 account inside your **public_html** folder. Once you have uploaded the file, check to make sure your Web page is visible at: i6.cims.nyu.edu/~netid
 
@@ -96,13 +96,13 @@ Upload the index.html file from your computer to your i6 account inside your **p
 
 - Sep 13, 2022 8:00 AM
 
-![Screen Shot 2017-09-29 at 11.06.54 AM](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/16c00b490882cd08838c56cfedb12486372b8f645e8ec5933cafa0b927145dc2.png)
+![Screen Shot 2017-09-29 at 11.06.54 AM](https://blog.images.bornforthis.cn/docs-images/sha256/16/16c00b490882cd08838c56cfedb12486372b8f645e8ec5933cafa0b927145dc2.png)
 
 ## 3. Submit
 
 Text submission
 
-![image-20220909214735804](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c55ff0d61495e8fbbf5b113b423fbda8dfecda342f7227e22bd0bc06fd2fa396.png)
+![image-20220909214735804](https://blog.images.bornforthis.cn/docs-images/sha256/c5/c55ff0d61495e8fbbf5b113b423fbda8dfecda342f7227e22bd0bc06fd2fa396.png)
 
 成功：[https://i6.cims.nyu.edu/~zq2076/index.html](https://i6.cims.nyu.edu/~zq2076/index.html)
 
@@ -121,7 +121,7 @@ Text submission
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -137,4 +137,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

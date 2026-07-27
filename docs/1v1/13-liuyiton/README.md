@@ -24,7 +24,7 @@ toc: true
 
 ## 1. 新建目录
 
-![image-20221124195358570](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fc/fcf19446b2a3ad6fd47e08cd785d0e0b1f87029b9c03060aee5276f537989d4c.png)
+![image-20221124195358570](https://blog.images.bornforthis.cn/docs-images/sha256/fc/fcf19446b2a3ad6fd47e08cd785d0e0b1f87029b9c03060aee5276f537989d4c.png)
 
 > 为我们的目录「文件夹」命名。
 
@@ -38,13 +38,13 @@ toc: true
 
 输入好名称后，回车。
 
-![image-20221124200058935](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/16989ff5b8e501776cb6e100a05b0df17f2d82e46f3c8c881aebd13630904503.png)
+![image-20221124200058935](https://blog.images.bornforthis.cn/docs-images/sha256/16/16989ff5b8e501776cb6e100a05b0df17f2d82e46f3c8c881aebd13630904503.png)
 
-![image-20221124200112169](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/11/1101bacd1c239e5eaf840d96e635367ad7ff048ff2278ae518ff2dc891c17d6c.png)
+![image-20221124200112169](https://blog.images.bornforthis.cn/docs-images/sha256/11/1101bacd1c239e5eaf840d96e635367ad7ff048ff2278ae518ff2dc891c17d6c.png)
 
 ## 2. 新建 Python 代码
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/09/097d4b3d0d8b5f18d2584ec4b25329a11033ee8706609e2622db782530b0df6e.png" alt="image-20221124200236825" style="zoom: 33%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/09/097d4b3d0d8b5f18d2584ec4b25329a11033ee8706609e2622db782530b0df6e.png" alt="image-20221124200236825" style="zoom: 33%;" />
 
 输入文件名称后，回车创建。
 
@@ -84,7 +84,7 @@ print("ju tou wang ming yue，di tou si gu xiang。")
 
 ### 4.2 从生活中来理解变量
 
-![image-20221124204202666](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/57/571578d999649fdd1c09db07c594ee53847729fe688a8e6c788e77176b7b0766.png)
+![image-20221124204202666](https://blog.images.bornforthis.cn/docs-images/sha256/57/571578d999649fdd1c09db07c594ee53847729fe688a8e6c788e77176b7b0766.png)
 
 ::: tip
 
@@ -96,7 +96,7 @@ ps：信封在当前空间中，开辟了一个空间叫做：信封，来装东
 
 ### 4.3 变量的特点「覆盖」
 
-![image-20221124204839231](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c4/c4a5e230cdb086ef2d1db81c3b1c89915ec9c599c78ce242336f7bb396e5dfd0.png)
+![image-20221124204839231](https://blog.images.bornforthis.cn/docs-images/sha256/c4/c4a5e230cdb086ef2d1db81c3b1c89915ec9c599c78ce242336f7bb396e5dfd0.png)
 
 **代码实例：**
 
@@ -153,7 +153,7 @@ print(b)
 
 ### 5.1 变量名 = 表达式
 
-![image-20221124210023216](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e0/e06b698b1abf569ef8815435ea0fdf0c9a4dd0619c5eba7083aa1062e9152769.png)
+![image-20221124210023216](https://blog.images.bornforthis.cn/docs-images/sha256/e0/e06b698b1abf569ef8815435ea0fdf0c9a4dd0619c5eba7083aa1062e9152769.png)
 
 ### 5.2 变量的运行顺序
 
@@ -163,7 +163,7 @@ print(b)
 
 :::
 
-![image-20221124210442546](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ec/ecfb99c22e5e424ce17daa88fa09c72300f54ee762221707b2fd48d343481970.png)
+![image-20221124210442546](https://blog.images.bornforthis.cn/docs-images/sha256/ec/ecfb99c22e5e424ce17daa88fa09c72300f54ee762221707b2fd48d343481970.png)
 
 ## 6. 作业输出三角形
 
@@ -316,7 +316,7 @@ print(a112121)
 
 ### 9.3 变量名，不能有空格
 
-![image-20221130172424476](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/58/5888c48db4b24d81da87caaf71d2b540d6b0226fcc86411bf4cb880058059e84.png)
+![image-20221130172424476](https://blog.images.bornforthis.cn/docs-images/sha256/58/5888c48db4b24d81da87caaf71d2b540d6b0226fcc86411bf4cb880058059e84.png)
 
 **怎么解决呢？**
 
@@ -374,13 +374,13 @@ TypeError: 'str' object is not callable
 
 ## 10. 作业
 
-![image-20221130175607547](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/741f5e699fca1607693d7ff9f0a910f7c5feedf1a2518871585d99497522a7b3.png)
+![image-20221130175607547](https://blog.images.bornforthis.cn/docs-images/sha256/74/741f5e699fca1607693d7ff9f0a910f7c5feedf1a2518871585d99497522a7b3.png)
 
 
 
 ## 11. 作业讲解
 
-![image-20221207194913147](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b9a5d190f744058a9fb073cc83bf8fde26bed448e3378b92820266a6493913a6.png)
+![image-20221207194913147](https://blog.images.bornforthis.cn/docs-images/sha256/b9/b9a5d190f744058a9fb073cc83bf8fde26bed448e3378b92820266a6493913a6.png)
 
 编程如何实现呢？
 
@@ -407,7 +407,7 @@ c = 3
 # c = 2
 ```
 
-![image-20221207203240033](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d7/d71d5524e5463ac65c7064501020e2bb6e2bb86ed977d847e7d076bf91ad205d.png)
+![image-20221207203240033](https://blog.images.bornforthis.cn/docs-images/sha256/d7/d71d5524e5463ac65c7064501020e2bb6e2bb86ed977d847e7d076bf91ad205d.png)
 
 ```python
 a = 1
@@ -421,9 +421,9 @@ d = 4
 # d = 3
 ```
 
-![image-20221207204312637](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/29/29abc4effcfa93876b1676f0191f20aed01beeff4ce39742e208b21718a3a751.png)
+![image-20221207204312637](https://blog.images.bornforthis.cn/docs-images/sha256/29/29abc4effcfa93876b1676f0191f20aed01beeff4ce39742e208b21718a3a751.png)
 
-![image-20221207205011738](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0e/0e2941d17dda44d366d63780beef9bb365d3e3e2f4c0bd887bffc063a5cb053e.png)
+![image-20221207205011738](https://blog.images.bornforthis.cn/docs-images/sha256/0e/0e2941d17dda44d366d63780beef9bb365d3e3e2f4c0bd887bffc063a5cb053e.png)
 
 ::: details 注意⚠️
 
@@ -437,19 +437,19 @@ d = 4
 
 1. 括号必须是英文括号
 
-![image-20221124201437627](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/26/2692e513d0592405ba5f9b53124d96b96c684a393e3d444d757bad6d0ef46f42.png)
+![image-20221124201437627](https://blog.images.bornforthis.cn/docs-images/sha256/26/2692e513d0592405ba5f9b53124d96b96c684a393e3d444d757bad6d0ef46f42.png)
 
 2. 必须是英文双引号
 
 3. 变量创建当中是下划线，不是减号
 
-![image-20221130173237809](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/02/02e1d744a7d0ff95f498938480ddcbd35dc4fdcc95c8a20210f9f71692cf56fe.png)
+![image-20221130173237809](https://blog.images.bornforthis.cn/docs-images/sha256/02/02e1d744a7d0ff95f498938480ddcbd35dc4fdcc95c8a20210f9f71692cf56fe.png)
 
 [https://video.aiyc.top/GuGO/](https://video.aiyc.top/GuGO/)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -465,4 +465,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

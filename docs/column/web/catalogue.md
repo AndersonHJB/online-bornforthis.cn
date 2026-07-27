@@ -2,7 +2,7 @@
 home: true
 icon: web
 title: Web 工程师入门体系私教课程
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dd/ddc16ba31da4680e97a6db2e95458f293fa6af25ce440f7d3b003c082ef8b887.jpg
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/dd/ddc16ba31da4680e97a6db2e95458f293fa6af25ce440f7d3b003c082ef8b887.jpg
 heroText: Web 工程师入门体系课
 tagline: 2022前端工程师体系课程
 actions:

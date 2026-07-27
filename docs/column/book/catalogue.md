@@ -2,7 +2,7 @@
 home: true
 icon: book1
 title: 电子书目录
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a2/a260c59a8550133fb380d0fddbf44aebbb4b92519f47ff20eca8c8775d09b351.svg
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/a2/a260c59a8550133fb380d0fddbf44aebbb4b92519f47ff20eca8c8775d09b351.svg
 heroText: 电子书目录
 tagline: 阅读是输入，这样你不会空虚。
 
@@ -21,7 +21,7 @@ features:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -37,4 +37,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

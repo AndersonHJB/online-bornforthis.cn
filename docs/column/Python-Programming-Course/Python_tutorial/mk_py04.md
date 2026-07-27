@@ -23,7 +23,7 @@ backToTop: true
 toc: true
 ---
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9e/9ed378380fa9f0926f84151a56ddc7e0919a43da3b33cf17eb587d0fddf8ce12.jpg)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/9e/9ed378380fa9f0926f84151a56ddc7e0919a43da3b33cf17eb587d0fddf8ce12.jpg)
 
 > 人的影响短暂而微弱，书的影响则广泛而深远。——普希金
 
@@ -178,11 +178,11 @@ print(12345 + 54321)
 
 - VS code，微软开源的优秀代码编辑器。 [官方下载页面](https://code.visualstudio.com/)
 
-![image-20220717213759894](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/48/48b6eab1c80e7289795eb981864761ecd6e5a6ea4b40c729485d0677f22fc532.png)
+![image-20220717213759894](https://blog.images.bornforthis.cn/docs-images/sha256/48/48b6eab1c80e7289795eb981864761ecd6e5a6ea4b40c729485d0677f22fc532.png)
 
 - PyCharm。它是 Python 领域口碑和人气双高的 IDE。有付费的个人版本和免费的社区版本，我们使用社区版本就足够了。[官方下载页面](https://www.jetbrains.com/pycharm/download/)
 
-![image-20220717213844371](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/61/6116bc13d5fbcbd07819c52b873e235d02a4433152e57263d40b06e7173f440b.png)
+![image-20220717213844371](https://blog.images.bornforthis.cn/docs-images/sha256/61/6116bc13d5fbcbd07819c52b873e235d02a4433152e57263d40b06e7173f440b.png)
 
 ## 本专栏代码演示说明
 
@@ -204,7 +204,7 @@ print(12345 + 54321)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -220,4 +220,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

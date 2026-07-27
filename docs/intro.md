@@ -2,7 +2,7 @@
 home: false
 icon: people
 title: 关于博主
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fd/fd88b1fca223fd8228039bdf0c1c4ff4de678dc664d4b8a8f8139208b417adc6.jpg
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/fd/fd88b1fca223fd8228039bdf0c1c4ff4de678dc664d4b8a8f8139208b417adc6.jpg
 heroText: About AndersonHJB
 tagline: Where there is light, there is hope
 timeline: true
@@ -70,7 +70,7 @@ footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https:/
 
 微信：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/51f1983c47ad09a50469d03ff84853eddd43b52c02bc8320e13de6cdb90ed9a7.jpg =300x400)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/51/51f1983c47ad09a50469d03ff84853eddd43b52c02bc8320e13de6cdb90ed9a7.jpg =300x400)
 
 ## Student Site「part」
 

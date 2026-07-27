@@ -104,9 +104,9 @@ is distance number 8. Yourtask istowrite a programwhich fulfills the following r
 
 **Table 1** : Details of the Facial landmarks
 
-![image-20220908192014220](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7d/7d39c0febee60ecad07d28181d5d430e9cbb490d1789cec42a245080bc27bef3.png)
+![image-20220908192014220](https://blog.images.bornforthis.cn/docs-images/sha256/7d/7d39c0febee60ecad07d28181d5d430e9cbb490d1789cec42a245080bc27bef3.png)
 
-![image-20220908192104211](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d7/d76cd8fa1ef5b532d34c1a2942fde4badd216bc92c86fed5a03f6e6c8c1dee89.png)
+![image-20220908192104211](https://blog.images.bornforthis.cn/docs-images/sha256/d7/d76cd8fa1ef5b532d34c1a2942fde4badd216bc92c86fed5a03f6e6c8c1dee89.png)
 
 **Requirements (i.e. what your program should do)**
 
@@ -591,7 +591,7 @@ if __name__ == '__main__':
     main(csvfile=path, adultID="E001")
 ```
 
-![image-20220911110429465](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/08/08532533b07d0c6b9e1996c9de3b29d35290b4c6b730390cb28a8f3c447be87a.png)
+![image-20220911110429465](https://blog.images.bornforthis.cn/docs-images/sha256/08/08532533b07d0c6b9e1996c9de3b29d35290b4c6b730390cb28a8f3c447be87a.png)
 
 ## 添加 Stats/FR
 
@@ -1786,9 +1786,9 @@ if __name__ == '__main__':
 
 ```
 
-![image-20220914101206734](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fc/fc39af871bd92c4ef192f9f09a21ae85bd82fe7fdbc84dc1a56706898d43f913.png)
+![image-20220914101206734](https://blog.images.bornforthis.cn/docs-images/sha256/fc/fc39af871bd92c4ef192f9f09a21ae85bd82fe7fdbc84dc1a56706898d43f913.png)
 
-![image-20220914101420886](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/89/89c95c8e58a5d1300dfe4e84117e12a19df7cb17a5f52d43feb1f5abb1699982.png)
+![image-20220914101420886](https://blog.images.bornforthis.cn/docs-images/sha256/89/89c95c8e58a5d1300dfe4e84117e12a19df7cb17a5f52d43feb1f5abb1699982.png)
 
 ```python
 from pprint import pprint
@@ -2553,7 +2553,7 @@ Your program can assume the following:
 - The **main()** function will always be provided with valid input parameters.
 - The formula for standard deviation and for calculating cosine similarity can be found at the end of the project sheet.
 
-![image-20220908182040558](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/96/967a00b669085b63738d14ada7e211ccf0e665172a0abb87470b7547c0a5f3d1.png)
+![image-20220908182040558](https://blog.images.bornforthis.cn/docs-images/sha256/96/967a00b669085b63738d14ada7e211ccf0e665172a0abb87470b7547c0a5f3d1.png)
 
 
 
@@ -2569,7 +2569,7 @@ Your program can assume the following:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -2585,4 +2585,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

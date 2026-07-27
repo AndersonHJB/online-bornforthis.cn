@@ -335,7 +335,7 @@ This section contains responses to the questions on normalization and entity-rel
 
 5. Use [draw.io](https://draw.io) to draw an Entity-Relationship Diagram showing a 4NF-compliant form of this data, including primary key field(s), relationship(s), and cardinality.
 
-![image-20231101214938788](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/07/0774fe369e178909972bba8d0dac5beecebba23a9e17c41958e73ce36f2ef9dc.png)
+![image-20231101214938788](https://blog.images.bornforthis.cn/docs-images/sha256/07/0774fe369e178909972bba8d0dac5beecebba23a9e17c41958e73ce36f2ef9dc.png)
 
 1. `wifi.csv` 是否满足第四范式 (4NF)?
 答：不能确定。
@@ -411,7 +411,7 @@ F. \* None - they would all have the same level of redundancy *
 
 7. Imagine you had a table named 'grades', as shown below.  Assuming the 'student_id' field holds a foreign key that refers to records in a 'students' table, which query will show the maximum grade, broken down by the assessment being graded?  You can imagine that another table named 'students' exists, which is referred to by the 'student_id' field.
 
-![Captionless Image](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7b/7bfd860223ee37f7fea9eae7d3e8a235f19e0a4aa959b51e157fbb955b7b7b9a.png)
+![Captionless Image](https://blog.images.bornforthis.cn/docs-images/sha256/7b/7bfd860223ee37f7fea9eae7d3e8a235f19e0a4aa959b51e157fbb955b7b7b9a.png)
 
 A. SELECT assessment_title, MAX(grade) FROM grades GROUP BY grade ORDER BY MAX(grade) DESC;
 
@@ -429,7 +429,7 @@ B. False✅
 
 9. How many times is the print statement executed in the code above (not counting the print ('Done!') statement?)
 
-![Captionless Image](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/71/713ea9f7cc80fffd7afee47f3f26660ca51f5085097e2d012c8b9a86fb8f9288.png)
+![Captionless Image](https://blog.images.bornforthis.cn/docs-images/sha256/71/713ea9f7cc80fffd7afee47f3f26660ca51f5085097e2d012c8b9a86fb8f9288.png)
 
 A. Once
 
@@ -511,7 +511,7 @@ D. None of the options
 
 16. You have a 'Tournament' table with fields as shown below. Which of the following Normal Forms does it satisfy? Assume all values are singular. ('*' indicate the primary key field(s)) (Select all that apply.)
 
-![Captionless Image](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/519b5cfac9329ed59d21170f5b4cb039cdf5a7ed72efbf6f3d35b0cf0f315536.png)
+![Captionless Image](https://blog.images.bornforthis.cn/docs-images/sha256/51/519b5cfac9329ed59d21170f5b4cb039cdf5a7ed72efbf6f3d35b0cf0f315536.png)
 
 A. 1NF✅
 
@@ -525,7 +525,7 @@ E. None of the options
 
 17. I have a table of 'Temperatures' in the following format. Which of the following queries will return me the maximum temperature each year? (* indicates the primary key field(s).)
 
-![Captionless Image](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b64f38465f413ead566efe48cf24c09be50f12e6bca66d5161cc8ff159851ccc.png)
+![Captionless Image](https://blog.images.bornforthis.cn/docs-images/sha256/b6/b64f38465f413ead566efe48cf24c09be50f12e6bca66d5161cc8ff159851ccc.png)
 
 A. SELECT TEMPERATURE, YEAR, FROM Temperatures;
 
@@ -539,7 +539,7 @@ E. This is an impossible query.
 
 18. In the example below, in which data structure is the data in the variable named « data » stored?
 
-![Captionless Image](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/65/65392b3b3161d64af6008ac28e05c17d8bc1532188ceae1f7927cf7539e2b7a2.png)
+![Captionless Image](https://blog.images.bornforthis.cn/docs-images/sha256/65/65392b3b3161d64af6008ac28e05c17d8bc1532188ceae1f7927cf7539e2b7a2.png)
 
 A. a string
 
@@ -553,7 +553,7 @@ E. a file object
 
 19. Why does the following table not satisfy the Second Normal Form? (The * indicate the primary key.)
 
-![Captionless Image](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/03c4f4bc82dd03444df98f3eeb1f4d8184a34b214a8140f027e2b1462f33c33c.png)
+![Captionless Image](https://blog.images.bornforthis.cn/docs-images/sha256/03/03c4f4bc82dd03444df98f3eeb1f4d8184a34b214a8140f027e2b1462f33c33c.png)
 
 A. Each record does not contain the same set of fields.
 
@@ -572,7 +572,7 @@ D. The non-key fields do not all represent facts about the entity represented by
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -588,4 +588,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

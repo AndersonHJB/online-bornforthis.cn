@@ -20,7 +20,7 @@ toc: true
 
 This step-by-step guide will show you how to install and run DeepSeek locally, configure it with CodeGPT, and start leveraging AI to enhance your software development workflow, all without relying on cloud-based services.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b7/b7234cf5a53372aaf1a82552a97fa1cc12552fa6d3675372296b096f9e0788e6.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b7/b7234cf5a53372aaf1a82552a97fa1cc12552fa6d3675372296b096f9e0788e6.png)
 
 ## Step 1: Install Ollama and CodeGPT in VSCode
 
@@ -34,7 +34,7 @@ Ollama is a lightweight platform that makes running local LLMs simple.
 
 - Visit the official website: https://ollama.com
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/85/856ab9f7ce1acf55ed32fb56bb3b59ff45a1ce9770979c3c96ac57234b88f7ee.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/85/856ab9f7ce1acf55ed32fb56bb3b59ff45a1ce9770979c3c96ac57234b88f7ee.png)
 
 - Download the installer for your operating system (Windows, macOS, or Linux).
 
@@ -53,7 +53,7 @@ If Ollama is installed correctly, it will display the installed version.
 - **Open VSCode** and navigate to the **Extensions Marketplace** (Ctrl + Shift + X or Cmd + Shift + X on macOS).
 - **Search for “CodeGPT”** and click **Install**.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/71/7183a59731aacfead4e32e147a9c722edaf743e33c40f03804dd8e93aa30055a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/71/7183a59731aacfead4e32e147a9c722edaf743e33c40f03804dd8e93aa30055a.png)
 
 - Or you can create a free account here: [https://codegpt.co](https://codegpt.co/)
 
@@ -86,7 +86,7 @@ Introducing DeepSeek R1:1.5b Running Locally in Cursor! In less than 4 minutes, 
 >
 > That's it! Now open the extension, and you'll be able to install all the deepseek_ai models to run them locally and completely privately.
 >
-> ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/23/233d29660e47151872aa7785d7a89110b772f921545cdc4ff4fb66ee0d6aaee6.png)
+> ![](https://blog.images.bornforthis.cn/docs-images/sha256/23/233d29660e47151872aa7785d7a89110b772f921545cdc4ff4fb66ee0d6aaee6.png)
 
 ---
 
@@ -94,7 +94,7 @@ Once the download is complete, CodeGPT will automatically install the model. Aft
 
 You can now easily query the model about your code. Simply highlight any code within your editor, add extra files to your queries using the **#** symbol, and leverage powerful command shortcuts such as:
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e4014c70578c4fd2fa6f00fec04603efbed7b2dbda927257290b07042a4896cd.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e4/e4014c70578c4fd2fa6f00fec04603efbed7b2dbda927257290b07042a4896cd.png)
 
 - **/fix** — For fixing errors or suggesting improvements in your code.
 - **/refactor** — For cleaning up and improving the structure of your code.
@@ -143,7 +143,7 @@ Clap if you enjoyed this article 👏 👏 👏
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -159,7 +159,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://medium.com/@dan.avila7/step-by-step-running-deepseek-locally-in-vscode-for-a-powerful-private-ai-copilot-4edc2108b83e)
 

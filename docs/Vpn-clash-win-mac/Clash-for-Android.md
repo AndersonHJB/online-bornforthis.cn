@@ -50,47 +50,47 @@ Clash For Android 是一款新推出的 V2ray 客户端。自带服务器测速�
 
 ### 1.2 复制你的专属订阅链接
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7f/7f549c5570038fd9071e0e9b8778c45a3b688b73d576e23c7891e1cfc05d1c9d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/7f/7f549c5570038fd9071e0e9b8778c45a3b688b73d576e23c7891e1cfc05d1c9d.png)
 
 进入之后。
 
 ### 1.3 选择复制安卓手机的订阅
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a3/a342b7effef25cccbde3c5812e0ba8fa8696754b52bd2ce13cddf4b65b1a37a6.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a3/a342b7effef25cccbde3c5812e0ba8fa8696754b52bd2ce13cddf4b65b1a37a6.png)
 
 ## 2. 手机配置
 
 ### 2.1 手机上打开clash, 选择配置
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/32/3253416d40ac0e4514caab5c6dc5fc4448c1313307a119df99cc3b28628830f0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/32/3253416d40ac0e4514caab5c6dc5fc4448c1313307a119df99cc3b28628830f0.png)
 
 ### 2.2 选择 +新配置
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/57/576696fa45f1acd6679047f0ac64a4a6382e9c37a65d5febdfe45ba24f67f2c0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/57/576696fa45f1acd6679047f0ac64a4a6382e9c37a65d5febdfe45ba24f67f2c0.png)
 
 ### 2.3 选择从 URL 导入
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9c/9cb48505938bf100feb34e7693624cf561c18aa9fd739dda5ddeb98a5e54d76a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9c/9cb48505938bf100feb34e7693624cf561c18aa9fd739dda5ddeb98a5e54d76a.png)
 
 ### 2.4 填写配置
 
 按照下图备注填写， URL 就是之前从 [https://mf.bornforthis.cn/content](https://mf.bornforthis.cn/content) 上复制的 Clash 订阅码链接地址。 此链接地址你也可以通过微信、QQ 等发送到手机上，然后复制。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/92/9233fb6000cff56652211c8509bef4e7e8ffc14e42f76f672f5d23ae10861c0d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/92/9233fb6000cff56652211c8509bef4e7e8ffc14e42f76f672f5d23ae10861c0d.png)
 
 ### 2.5 选中 IGG ， 然后返回
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0d/0da66403e496417bac5103787f7c3a6b0d2d79bf3cc3a7834239401507fa2b57.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/0d/0da66403e496417bac5103787f7c3a6b0d2d79bf3cc3a7834239401507fa2b57.png)
 
 ## 3. 打开代理
 
 ### 3.1 按下图点击 已停止 按钮开启 VPN 连接
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2f/2f3ea6d40841e3c65b0ab4c529dce7ba98258353338e9e59f9b3e22d1c223b0c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2f/2f3ea6d40841e3c65b0ab4c529dce7ba98258353338e9e59f9b3e22d1c223b0c.png)
 
 按下图显示 运行中 ， 就代表连接成功。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/67/6743311fa7f124b9f6b08ff5f57e8847f94637588dd272904c2fe699cd35b941.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/67/6743311fa7f124b9f6b08ff5f57e8847f94637588dd272904c2fe699cd35b941.png)
 
 
 
@@ -106,7 +106,7 @@ Clash For Android 是一款新推出的 V2ray 客户端。自带服务器测速�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -122,4 +122,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

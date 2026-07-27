@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: home
 title: 人人都能学会的编程入门课
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/19/197178a5992f5214ef6ede406d54edfa96338e0011a14a850f3eaaa820a7ec54.jpg
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/19/197178a5992f5214ef6ede406d54edfa96338e0011a14a850f3eaaa820a7ec54.jpg
 heroText: 人人都能学会的编程入门课
 heroFullScreen: false
 tagline: 敲出人生第一段代码
@@ -47,7 +47,7 @@ footer: 立志降低教育成本，普及编程教育，提供优质资源教程
 
 针对编程初学者的痛点问题，文章内设计独特的学习结构，帮你解决枯燥乏味、不懂、难学的种种问题。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d7/d7ae423de18c6dc2be58e847e3ce2511d16c32dd7ededc83569c625fb00411d4.jpg)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/d7/d7ae423de18c6dc2be58e847e3ce2511d16c32dd7ededc83569c625fb00411d4.jpg)
 
 # 专栏模块
 
@@ -58,7 +58,7 @@ footer: 立志降低教育成本，普及编程教育，提供优质资源教程
 
 ## 课程目录
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/35/357c263fea153b72f8246e370debd46da8da1d376faad62b202ba018be9af265.jpg)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/35/357c263fea153b72f8246e370debd46da8da1d376faad62b202ba018be9af265.jpg)
 
 ## 适合人群
 
@@ -74,7 +74,7 @@ footer: 立志降低教育成本，普及编程教育，提供优质资源教程
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -90,4 +90,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

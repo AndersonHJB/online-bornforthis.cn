@@ -75,7 +75,7 @@ hugo version
 2.  勾选 **Public**，设置为公开仓库。
 3.  勾选添加 **README** 文件
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/304c04f2f42de642a43bc321f4c529cfe4df7feb3224b47afdb082baa9360e6f.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/30/304c04f2f42de642a43bc321f4c529cfe4df7feb3224b47afdb082baa9360e6f.png)
 
 ### 3-2 创建GitHub Page仓库
 
@@ -83,7 +83,7 @@ hugo version
 2.  勾选 **Public**，设置为公开仓库。
 3.  勾选添加 **README** 文件，这会设置 `main` 分支为仓库的默认主分支，这在后面提交推送博客内容时很重要。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9f/9f83affee80224662a68297fef7e56b1478531a2546142f90db388aec606ac69.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/9f/9f83affee80224662a68297fef7e56b1478531a2546142f90db388aec606ac69.png)
 
 ## 4. 克隆博客源仓库到本地
 
@@ -95,13 +95,13 @@ cd project
 
 2. 克隆**博客源仓库**到项目文件夹，克隆时使用的 HHTPS 仓库链接在这里查看：
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e5/e5482c13d666a7ca5702a503d607a88aec0de85de8e0786778c7d909fb0f390f.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/e5/e5482c13d666a7ca5702a503d607a88aec0de85de8e0786778c7d909fb0f390f.png)
 
 ```shell
 git clone https://github.com/miawithcode/cuttontail.git
 ```
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3d/3d20cad3d0c713efaaf33198b1b3adec22a8e6eba5b7118bc9c0362c3f758be9.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/3d/3d20cad3d0c713efaaf33198b1b3adec22a8e6eba5b7118bc9c0362c3f758be9.png)
 
 ## 5. 使用 Hugo 创建网站
 
@@ -113,11 +113,11 @@ cd cuttontail
 hugo new site cuttontail-blog
 ```
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a6/a6110fdd5cc907f29d56c9b6dbd4a99a6699f7da918d69775a5dfffe78826177.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/a6/a6110fdd5cc907f29d56c9b6dbd4a99a6699f7da918d69775a5dfffe78826177.png)
 
 3. 用 Hugo 创建的网站共有 7 个文件夹和 1 个文件，这些文件分别代表：
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8e/8ee78007c76be5821a1fccc59729d8d55549f2929058fc8d6744777db58e31e9.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/8e/8ee78007c76be5821a1fccc59729d8d55549f2929058fc8d6744777db58e31e9.png)
 
 - **archetypes**：存放用 hugo 命令新建的 md 文件应用的 front matter 模版
 - **content**：存放内容页面，如 Blog
@@ -138,15 +138,15 @@ hugo new site cuttontail-blog
 
 1. 一般在你选择的 Hugo 主题的文档中，都会给出「如何安装这个主题」的命令，比如我选用的 **Hugo Bear Blog** 的文档中给出：
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3a/3a432ad9c95b45f2de30e12469ef3da16208dbf0d7c68fe20e3f14831c87909f.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/3a/3a432ad9c95b45f2de30e12469ef3da16208dbf0d7c68fe20e3f14831c87909f.png)
 
 2. 打开刚刚用 Hugo 创建的网站文件夹（我的是 cuttontail-blog），在终端输入文档中给出的命令。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8c/8cea4366ecc939ac7bed2c6e8516d87be0f1b181501d48d8d979af7402ad2ee8.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/8c/8cea4366ecc939ac7bed2c6e8516d87be0f1b181501d48d8d979af7402ad2ee8.png)
 
 3. 这时可以看到在 themes 文件夹中，多出了刚刚安装的主题文件，代表主题安装成功。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d1/d1ae64ffbdf63a2e6ac25b9d9722bc3f7f662e700b6339aa6221b5a93d74c12c.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/d1/d1ae64ffbdf63a2e6ac25b9d9722bc3f7f662e700b6339aa6221b5a93d74c12c.png)
 
 ### 6-3 配置 Hugo 主题
 
@@ -156,9 +156,9 @@ hugo new site cuttontail-blog
 
 - 🌰：比如 `exampleSite` 下有 `content` ,  `static` 和 `config.toml` 3 个文件，就找到你自己的站点跟目录下这对应的三个文件。在把对应目录中的内容分别复制过去。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c8/c86157df4e01b93a7ee7810ca87cf717d36774b47eceaf4769ff61b5befd8c1e.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/c8/c86157df4e01b93a7ee7810ca87cf717d36774b47eceaf4769ff61b5befd8c1e.png)
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/93130e015cf29cbac1ae1b8bce77bb8fdeda478fa4046abedea655f8952a6fca.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/93/93130e015cf29cbac1ae1b8bce77bb8fdeda478fa4046abedea655f8952a6fca.png)
 
 其中在复制 `config.toml` 的内容时要注意：
 
@@ -188,7 +188,7 @@ hugo new xxx.md
 
 用这个命令创建的 Markdown 文件会套用 `archetypes` 文件夹中的 front matter 模版，在空白处用 Markdown 输入 blog 内容。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/32/321ae82a0720eecd3a63fafa0c0e6c9f83e6b7716f43d684b5ff6fd58603fb08.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/32/321ae82a0720eecd3a63fafa0c0e6c9f83e6b7716f43d684b5ff6fd58603fb08.png)
 
 其中：`draft: true` 代表这篇文章是一个草稿，Hugo 不会显示草稿，要在主页显示添加的文章，可以设置 `draft: false`；或者直接删掉这行。
 
@@ -200,13 +200,13 @@ hugo new xxx.md
 hugo server
 ```
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0b/0b73083210271baaf620bda36ecb29ee6507df219ec70070ee1757adab9e23aa.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/0b/0b73083210271baaf620bda36ecb29ee6507df219ec70070ee1757adab9e23aa.png)
 
 2. 也可以在本地编辑 Markdown 文件时，通过 `hugo server` 来实时预览显示效果。
 
 3. `hugo server` 运行成功后，可以在 `http://localhost:1313/` 中预览网站
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b0/b04551c579124f7828160f6766455872dc65d97625fe8cd1314251b03748d569.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/b0/b04551c579124f7828160f6766455872dc65d97625fe8cd1314251b03748d569.png)
 
 ## 9. 发布内容
 
@@ -216,7 +216,7 @@ hugo server
 hugo
 ```
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a1/a18585fcf770360baa879f1f36cc58d02c3d1e7bd1d8a5e7d0af2de353502b09.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/a1/a18585fcf770360baa879f1f36cc58d02c3d1e7bd1d8a5e7d0af2de353502b09.png)
 
 2. 因为`hugo` 生成的静态HTML网页文件默认存放在 `public` 文件中，所以推送网页内容只需要把 `public` 中的 HTML 网页文件发布到 GitHub Pages 仓库中。
 
@@ -231,20 +231,20 @@ cd public
 git init -b main
 ```
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/ed1e9e88fc4375d95b70d789f5b91c7dfacc31b968badde4657382e33669e590.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/ed/ed1e9e88fc4375d95b70d789f5b91c7dfacc31b968badde4657382e33669e590.png)
 
 4. 将 `public` 文件夹关联远程 GitHub Pages 仓库，使用 GitHub Pages 仓库的 SSH 链接。
 
 - （ ⚠️ 注意：要让 SSH 链接起作用，需要你添加过SSH Key。如果你没有设置 SSH Key，请参考[ 如何在Mac上为GitHub设置SSH Key](https://cuttontail.blog/blog/how-to-add-ssh-key-to-github-on-mac/)）
 - **GitHub Pages 仓库的 SSH 链接可以在这里查看：**
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/92/929c5f2d8613a05d8e0f63986a87095f2cd4758b48be10a1acfb01123cd5a749.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/92/929c5f2d8613a05d8e0f63986a87095f2cd4758b48be10a1acfb01123cd5a749.png)
 
 ```shell
 git remote add origin git@github.com:miawithcode/miawithcode.github.io.git
 ```
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4d/4d66279a26e5b4e5730fdd3e70195f3c55c7bfb0127eeba35811b48a83531870.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/4d/4d66279a26e5b4e5730fdd3e70195f3c55c7bfb0127eeba35811b48a83531870.png)
 
 5. 推送**博客源仓库**的 `public` 文件夹中的 HTML 网页文件到 **GitHub Pages仓库** 中，在推送仓库内容前要先用 `git pull --rebase origin main` 和远端仓库同步，否则会报错。
 
@@ -255,17 +255,17 @@ git commit -m "...(修改的信息)"
 git push origin main
 ```
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6c/6cc5743b99dd429f48df396af1ff69e04c0a4ca3c29dc0949a9c6fd912b86eae.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/6c/6cc5743b99dd429f48df396af1ff69e04c0a4ca3c29dc0949a9c6fd912b86eae.png)
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5b/5bd318cf911ba0b5ad4b6992ee53eeb5933ad4a7eb56595614c04201af5f3c84.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/5b/5bd318cf911ba0b5ad4b6992ee53eeb5933ad4a7eb56595614c04201af5f3c84.png)
 
 6. 转到 GitHub 中查看 **GitHub Pages仓库** 中是否存在刚刚推送的文件，存在则代表推送成功。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/53/53f6b17b2c2472b9b800317c81a76d866b5477127583a0982e2e5f94a60a5524.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/53/53f6b17b2c2472b9b800317c81a76d866b5477127583a0982e2e5f94a60a5524.png)
 
 7. 如果你没有设置自定义域名，且把 `comfig.toml` 文件中的 `baseURL` 设置为 `https://<username>.github.io`，就可以在 [https://username.github.io](https://cuttontail.blog/blog/create-a-wesite-using-github-pages-and-hugo/) 中查看刚刚创建的网站。 ( 👀 我使用的是自定义域名，所以这里用我的自定义域名查看。)
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7e/7e284274c6590f43738d834f3cfb387dee1c4b027979f13736d632835bdf60a8.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/7e/7e284274c6590f43738d834f3cfb387dee1c4b027979f13736d632835bdf60a8.png)
 
 8. 后续的更新步骤：
 
@@ -299,7 +299,7 @@ git push origin main
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -315,4 +315,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

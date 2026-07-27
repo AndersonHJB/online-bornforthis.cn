@@ -34,7 +34,7 @@ backToTop: true
 
 课程分为六个章节，具体设计思路如下：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/740dc1e44adeedd3a378e7a1540ac310cc9a179f44021ab37d494d9659788bf1.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/74/740dc1e44adeedd3a378e7a1540ac310cc9a179f44021ab37d494d9659788bf1.jpg)
 
 **前置课程：**探讨普通程序员如何使用和学习 DeepSeek，有哪些探索方向，并学习 AI 应用开发不可或缺的 Agent 技术。
 
@@ -50,7 +50,7 @@ backToTop: true
 
 课程代码库（随上线进度动态更新）：[https://github.com/AndersonHJB/BornforthisData](https://github.com/AndersonHJB/BornforthisData)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6d/6dbc4efc4f73e7c45ff0da24aa5e3f0b9ea90b7ad4cae15247a46c746cc91e54.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/6d/6dbc4efc4f73e7c45ff0da24aa5e3f0b9ea90b7ad4cae15247a46c746cc91e54.jpg)
 
 
 
@@ -58,7 +58,7 @@ backToTop: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -74,4 +74,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

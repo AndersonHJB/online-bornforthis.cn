@@ -222,17 +222,17 @@ toc: true
 
 ### 1.3 Codex 网络经常性的重试
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ff/ff40459601ee8165a4da00a50ffb99251b0e77b4562405e31fe51507d4dc6bb2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ff/ff40459601ee8165a4da00a50ffb99251b0e77b4562405e31fe51507d4dc6bb2.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/2527f1e4f451df3491861b8159563c5240ce922c17254f3e62d868cd366773d3.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/25/2527f1e4f451df3491861b8159563c5240ce922c17254f3e62d868cd366773d3.png)
 
 #### 1.3.1 查看代理端口
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/19/191871f680456167672b3006d4bb8e07db07932a4cecbf8f361bcd571ba31d19.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/19/191871f680456167672b3006d4bb8e07db07932a4cecbf8f361bcd571ba31d19.png)
 
 没有启用的，进行启用即可。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cb752025ac7fc8ce4910ba27252ebdda20e98751272c0481bd46fedd3e608944.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/cb/cb752025ac7fc8ce4910ba27252ebdda20e98751272c0481bd46fedd3e608944.png)
 
 #### 1.3.2 修改的 prompt
 
@@ -378,21 +378,21 @@ Mixed `7897`、Redir `7895` 和 TUN 均可关闭。
 
 ### 2.3.1 创建 GitHub 仓库
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f4/f4aa1545b293592d27795d43585ad5f172e0fb07a28edc6253329656895be1d0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f4/f4aa1545b293592d27795d43585ad5f172e0fb07a28edc6253329656895be1d0.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/0349e077d1cf569dfe9e86593e17f59b378d38b36e8f43852327a56af0e0b81d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/03/0349e077d1cf569dfe9e86593e17f59b378d38b36e8f43852327a56af0e0b81d.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3a/3a74a6c58d4610d70ce75285471f489834a527fbc64cd49c43afee4f91e05b53.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3a/3a74a6c58d4610d70ce75285471f489834a527fbc64cd49c43afee4f91e05b53.png)
 
 ### 2.3.2 将本地文件绑定远程 GitHub 仓库
 
 1. 启动终端：
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b7/b7de283a6087bd35097ff27b7dfe34ad9f139ddab7bf952fdf24ccd8d545a05e.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/b7/b7de283a6087bd35097ff27b7dfe34ad9f139ddab7bf952fdf24ccd8d545a05e.png)
 
 2. 切换仓库指令到 SSH：
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d473ec0c517efe385d3c30ea9c761541a1b49041247bfcdd655f508eb9ce8864.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/d4/d473ec0c517efe385d3c30ea9c761541a1b49041247bfcdd655f508eb9ce8864.png)
 
 3. 开始绑定远程仓库：
 
@@ -425,9 +425,9 @@ Mixed `7897`、Redir `7895` 和 TUN 均可关闭。
 
     :::
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/35/358085b6248547880ca4a43d4f7b12940ef7b35959332ff7a537275c6b45beb6.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/35/358085b6248547880ca4a43d4f7b12940ef7b35959332ff7a537275c6b45beb6.png)
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bf/bf89a9851b4affdb6c855a4f9ecfcd13c3c81cf04d7dddb1f305fb23ec1dfa84.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/bf/bf89a9851b4affdb6c855a4f9ecfcd13c3c81cf04d7dddb1f305fb23ec1dfa84.png)
 
 
 
@@ -447,7 +447,7 @@ Mixed `7897`、Redir `7895` 和 TUN 均可关闭。
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -463,4 +463,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

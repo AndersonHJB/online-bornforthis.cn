@@ -298,9 +298,9 @@ print(r)
 
 ### Question
 
-![image-20221004202943624](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/755bf33cd70528ec04413b43392ea44457f638758973d351f8085aef87babc82.png)
+![image-20221004202943624](https://blog.images.bornforthis.cn/docs-images/sha256/75/755bf33cd70528ec04413b43392ea44457f638758973d351f8085aef87babc82.png)
 
-![image-20221004211451572](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/97/971ed0faddb53ed6482cc63a81a75e7228a3d3c06a64cae86e5f3e3b61841bff.png)
+![image-20221004211451572](https://blog.images.bornforthis.cn/docs-images/sha256/97/971ed0faddb53ed6482cc63a81a75e7228a3d3c06a64cae86e5f3e3b61841bff.png)
 
 
 
@@ -312,7 +312,7 @@ Write a function concatenate_files (filename1, filename2, new_filename) that con
 
 > 编写一个函数 concatenate_files(filename1, filename2, new_filename)，它将来自两个源文件的文本连接在一起，这样，由参数filename2 命名的文件中的文本会跟随来自 filename1 的文本。连接的文本应该被写入一个名为 new_file name 的新文件。你的函数不能返回任何东西。
 
-We have provided sample input files named [part1.txt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files/part1.txt) and [part2.txt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files/part2.txt) containing a portion of the text from the novel *Alice* in  WonderlandXo test your function.
+We have provided sample input files named [part1.txt](https://blog.images.bornforthis.cn/1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files/part1.txt) and [part2.txt](https://blog.images.bornforthis.cn/1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files/part2.txt) containing a portion of the text from the novel *Alice* in  WonderlandXo test your function.
 
 > 我们在 WonderlandXo 中提供了名为 `part1.txt` 和 `part2.txt` 的示例输入文件，其中包含小说《爱丽丝》中的部分文本。
 
@@ -406,9 +406,9 @@ Melbourne,41.2,35.5,37.4,29.3
 
 **Test File**
 
-So you can test your answer, we have provided a full year of data for many Australian cities in a file called [max_temp.csv](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files/max_temp.csv). The data was obtained from the Bureau of Meteorology website.
+So you can test your answer, we have provided a full year of data for many Australian cities in a file called [max_temp.csv](https://blog.images.bornforthis.cn/1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files/max_temp.csv). The data was obtained from the Bureau of Meteorology website.
 
-> 你可以测试一下你的答案，我们在一个名为  [max_temp.csv](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files/max_temp.csv) 的文件中提供了许多澳大利亚城市全年的数据。这些数据来自气象局网站。
+> 你可以测试一下你的答案，我们在一个名为  [max_temp.csv](https://blog.images.bornforthis.cn/1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files/max_temp.csv) 的文件中提供了许多澳大利亚城市全年的数据。这些数据来自气象局网站。
 
 > CVS文件的一列是城市的名字，一行是月份
 >
@@ -591,7 +591,7 @@ The first column of the CSV file will contain the city name. The rest of the col
 
 > CSV文件的第一列将包含城市名称。其余的列将是一年中的月份。CSV文件的第一行将提供列标题。下面是一个示例文件(有一个不完整的月份集):
 
-[max_temp_tiny.csv](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files/max_temp_tiny.csv)
+[max_temp_tiny.csv](https://blog.images.bornforthis.cn/1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files/max_temp_tiny.csv)
 
 ```python
 city/month,Jan,Feb,Mar,Apr
@@ -765,7 +765,7 @@ if __name__ == '__main__':
     print(r)
 ```
 
-![image-20221007123301344](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cc/cc3b7239ab6d6c0ba08237001c30c55af064c47fcb5ebdaa8ef681922175bef8.png)
+![image-20221007123301344](https://blog.images.bornforthis.cn/docs-images/sha256/cc/cc3b7239ab6d6c0ba08237001c30c55af064c47fcb5ebdaa8ef681922175bef8.png)
 
 ## Disentangling list comprehensions
 
@@ -810,7 +810,7 @@ print(aha(0, 10))
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -826,4 +826,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -182,7 +182,7 @@ wb.save('poenpyxl插入数据和折线图[copy xlsxwriter].xlsx')
 
 然后就是用 Office 打开 poenpyxl 插入数据和折线图[copy xlsxwriter].xlsx，看下 sheet2 的样子，如下图：
 
-![3](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/86/8656910083c8719a6b9d955283cb3ef065a507f9833fe5d5633b15545bf8b655.png)
+![3](https://blog.images.bornforthis.cn/docs-images/sha256/86/8656910083c8719a6b9d955283cb3ef065a507f9833fe5d5633b15545bf8b655.png)
 
 25 行数据，除了标题 24 行，刚好是 2019+2020 的 24 个月。折线图也一切正常。
 
@@ -190,7 +190,7 @@ wb.save('poenpyxl插入数据和折线图[copy xlsxwriter].xlsx')
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -206,7 +206,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

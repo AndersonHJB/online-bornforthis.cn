@@ -488,7 +488,7 @@ if user_input == 'move':
 
 接下来，看下面的图比较直观一点，能看到每个部分代表什么：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fe/febabe044897ff0332d9aa1e35fa2a48471e59f5a990e99c26b9b83970cb717c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fe/febabe044897ff0332d9aa1e35fa2a48471e59f5a990e99c26b9b83970cb717c.png)
 
 
 
@@ -695,7 +695,7 @@ self 就是代表 `Animal()`，而当 `Animal()` 实例化了 dog（也就是 `A
 
 **在类里面的函数，第一个参数都必须写 self！**
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d8/d880ee7f57691930269fcba95c46a95635dbaee2a641b20981b5780e3a15e14b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d8/d880ee7f57691930269fcba95c46a95635dbaee2a641b20981b5780e3a15e14b.png)
 
 
 
@@ -4648,7 +4648,7 @@ else:
 
 #### 14.21.1 花里胡哨版本
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9d/9d9aa7202a75e953a46333b8bad70934f10e4f3a56160f3daa98fe631c64e47e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9d/9d9aa7202a75e953a46333b8bad70934f10e4f3a56160f3daa98fe631c64e47e.png)
 
 ::: code-tabs
 
@@ -5785,7 +5785,7 @@ else:
 
 访问 API 文档：[https://api-docs.deepseek.com/zh-cn/](https://api-docs.deepseek.com/zh-cn/)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e7/e73e5dde6c207ad721094b5cc230ccddd5d5601d173828558936bec9c292eab2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e7/e73e5dde6c207ad721094b5cc230ccddd5d5601d173828558936bec9c292eab2.png)
 
 复制其中的 Python 代码：
 
@@ -5906,7 +5906,7 @@ pip3 install -U openai
 
 在每一轮对话过程中，模型会输出思维链内容（`reasoning_content`）和最终回答（`content`）。在下一轮对话中，之前轮输出的思维链内容不会被拼接到上下文中，如下图所示：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fd/fdd013061a361ee9cabb95bf8f00632d0707a677cad267a9daaeffe9d8967f35.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fd/fdd013061a361ee9cabb95bf8f00632d0707a677cad267a9daaeffe9d8967f35.png)
 
 请注意：如果您在输入的 messages 序列中，传入了`reasoning_content`，API 会返回 `400` 错误。因此，请删除 API 响应中的 `reasoning_content` 字段，再发起 API 请求，方法如[访问样例](https://api-docs.deepseek.com/zh-cn/guides/reasoning_model#访问样例)所示。
 
@@ -6635,11 +6635,11 @@ pip3 install -U openai
 
     ::: details
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3f/3f67f587552b8577b1be22424d6badedd55d29cdec1e0736f857040680a18a6d.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/3f/3f67f587552b8577b1be22424d6badedd55d29cdec1e0736f857040680a18a6d.png)
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b7/b7a55fba1dcea8ba58a9664b7967c0a500a28cc1e157966fe28acc11578ff7b3.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/b7/b7a55fba1dcea8ba58a9664b7967c0a500a28cc1e157966fe28acc11578ff7b3.png)
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/91d84763a94f49c9bbb84a04c389ccf9b0ff03d6b39055c6b18837b018618e3a.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/91/91d84763a94f49c9bbb84a04c389ccf9b0ff03d6b39055c6b18837b018618e3a.png)
 
     :::
 
@@ -7782,9 +7782,9 @@ else:
 
     **设置局域网 IP：**
 
-    ![自己按图片的去配置即可！](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8c/8cedd3362f0e885a0a57af202b9654f6297fb1f423489beac7e27ec039836269.png)
+    ![自己按图片的去配置即可！](https://blog.images.bornforthis.cn/docs-images/sha256/8c/8cedd3362f0e885a0a57af202b9654f6297fb1f423489beac7e27ec039836269.png)
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/70/70814aa2cd2531b4324266d2330d86a56665d2f120b72879c2815f0c51a0d8cc.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/70/70814aa2cd2531b4324266d2330d86a56665d2f120b72879c2815f0c51a0d8cc.png)
 
     ```python
     import lmstudio as lms

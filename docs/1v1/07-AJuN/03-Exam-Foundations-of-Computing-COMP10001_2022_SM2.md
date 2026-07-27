@@ -179,7 +179,7 @@ for line in reader:
 return ngrams.most_common(5)
 ```
 
-![image-20221101121000208](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/aa/aa001a8f2632e41adb2674011f2873c16f96b0793fcab8455c34a919df13daad.png)
+![image-20221101121000208](https://blog.images.bornforthis.cn/docs-images/sha256/aa/aa001a8f2632e41adb2674011f2873c16f96b0793fcab8455c34a919df13daad.png)
 
 ### 答案
 
@@ -469,7 +469,7 @@ def csvdict(filename):
 #    5
 ```
 
-![image-20221101122727959](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cc/ccca76b58437df238a647691a6fbf8c4e57645dafbce4b77d80bd034fb8ab98a.png)
+![image-20221101122727959](https://blog.images.bornforthis.cn/docs-images/sha256/cc/ccca76b58437df238a647691a6fbf8c4e57645dafbce4b77d80bd034fb8ab98a.png)
 
 ### 答案
 
@@ -668,7 +668,7 @@ if __name__ == '__main__':
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -684,4 +684,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

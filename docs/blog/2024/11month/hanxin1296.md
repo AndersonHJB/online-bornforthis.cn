@@ -56,7 +56,7 @@ Ensure that each animation loops infinitely. For this assignment, the focus is o
 
 ## Percentage of Final Grade
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e7/e7d4f018c4a7062889f4838d6d1ac507cf05986a6a6a76f317537dc4e73ffcab.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e7/e7d4f018c4a7062889f4838d6d1ac507cf05986a6a6a76f317537dc4e73ffcab.png)
 
 ::: code-tabs
 
@@ -305,7 +305,7 @@ Walk 动作动画：
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -321,4 +321,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

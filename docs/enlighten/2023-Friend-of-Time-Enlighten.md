@@ -36,11 +36,11 @@ toc: true
 
 诺贝尔文学奖得主索尔·贝娄对书有一个定义，书是什么？书是广阔生活的保证人。
 
-![书是广阔生活的保证人](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/01/0191cc23fbeada77342727c759458e0dfc2096b72ebe43818c0d7da1038a72a3.jpeg)
+![书是广阔生活的保证人](https://blog.images.bornforthis.cn/docs-images/sha256/01/0191cc23fbeada77342727c759458e0dfc2096b72ebe43818c0d7da1038a72a3.jpeg)
 
 距离 2023 年还有 3 个半小时，我想请朋友们坐下来，在这么多“广阔生活的保证人”的陪伴下，咱们聚在一起聊聊天。今天晚上，我给你准备了 22 个故事，咱们开始。
 
-![电动车与书店](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/39/395364c3d8808e52517fd8ae77a1c223afbdd4b05037a41af53b431c699e5fc8.jpeg)
+![电动车与书店](https://blog.images.bornforthis.cn/docs-images/sha256/39/395364c3d8808e52517fd8ae77a1c223afbdd4b05037a41af53b431c699e5fc8.jpeg)
 
 
 
@@ -54,7 +54,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -70,5 +70,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

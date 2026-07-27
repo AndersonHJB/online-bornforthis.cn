@@ -21,9 +21,9 @@ toc: true
 
 最近在短视频平台上无意刷到，Gemini3 实现手部动态跟踪的项目，效果图如下：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1d/1d84ddb18121eaccf48ada50b3bb29380666735e3a9288a84335269ba83d4b51.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/1d/1d84ddb18121eaccf48ada50b3bb29380666735e3a9288a84335269ba83d4b51.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/db/db5f405a77ee303da9e624874fc78e90f561dddfe847a35ee03aeef83a84e95f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/db/db5f405a77ee303da9e624874fc78e90f561dddfe847a35ee03aeef83a84e95f.png)
 
 在线访问使用链接：[https://gemini.bornforthis.cn/jarvis-holographic-ui/](https://gemini.bornforthis.cn/jarvis-holographic-ui/)
 
@@ -127,7 +127,7 @@ Implement a gesture control system using MediaPipe:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -143,4 +143,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

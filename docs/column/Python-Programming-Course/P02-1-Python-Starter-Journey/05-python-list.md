@@ -116,7 +116,7 @@ print(string_to_list)
 
 下图展示的是 grade 列表中每个元素对应的下标（索引）：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/84/84a8f8381f84b887e3569b73ab48385117ff5e37be413fbcfb461ca323988e0e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/84/84a8f8381f84b887e3569b73ab48385117ff5e37be413fbcfb461ca323988e0e.png)
 
 
 
@@ -134,7 +134,7 @@ print(grade[0] + grade[3])  # 178
 
 ### 2.3 获取列表中连续的几个元素
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/dfc036cdfda1ac8ba0bc32727735d27cfe175ab20ea55e11cbb22b469f93ebd8.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/df/dfc036cdfda1ac8ba0bc32727735d27cfe175ab20ea55e11cbb22b469f93ebd8.png)
 
 - ~~中括号内用 **<span style="color:orange">起始位置:结束位置</span>** 描述~~
 - 通过 **切片语法** **<span style="color:orange">起始位置:结束位置</span>** 获取部分元素。
@@ -148,7 +148,7 @@ print(numbers[2:6])  # [2, 3, 4, 5]
 
 ### 2.4 获取列表中连续且特定间隔的元素
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c6/c6c5a7bc70dae8fb3a5fc0d12f66ece2d13693ca42b24925895c6503e344586a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c6/c6c5a7bc70dae8fb3a5fc0d12f66ece2d13693ca42b24925895c6503e344586a.png)
 
 - ~~更细致的用法 **<span style="color:orange">起始位置:结束位置:步长</span>**~~
 - 通过 **切片语法** **<span style="color:orange">起始位置:结束位置:步长</span>** 实现步长控制。
@@ -260,7 +260,7 @@ Out[7]: ['P', 'y', 'a', 'b', 'c']
 
 讲了这么多，不如一图胜千言。下面我也给你做了一张图，你可以直接查看：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a0/a0bea3305a11bf96659bc74f265d0885030bb63d638eeafdb908adfe9ea337be.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a0/a0bea3305a11bf96659bc74f265d0885030bb63d638eeafdb908adfe9ea337be.png)
 
 ### 3.2 列表切片赋值进阶：插入与删除元素
 
@@ -457,7 +457,7 @@ print(len(student_list))
 
 一图胜千言，我还是准备了一张图便于你理解：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/18/1839098a8a4f4973e6c503a83ad2a24a3fbc0cb98611e3b6b7f80333ca097d92.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/18/1839098a8a4f4973e6c503a83ad2a24a3fbc0cb98611e3b6b7f80333ca097d92.png)
 
 下面我们分别来看这几种情况。
 
@@ -1789,7 +1789,7 @@ Python 在 `y = x` 赋值时的行为类似于百度网盘的“创建链接”�
 
 
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/9301e236d9ca01ac6a6810fd83aac13250f2e3b18317add5ec0f28eac0002f74.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/93/9301e236d9ca01ac6a6810fd83aac13250f2e3b18317add5ec0f28eac0002f74.png)
 
 
 
@@ -1940,7 +1940,7 @@ After 2:
 1. ~~证明一：从上面的代码可知，子列表的 id 是相同的，代表 x 和 y 的子列表是同一个列表~~
 2. ~~证明二：从可视化可知~~
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b61b601313b457111a337b085570dbfd79a38b938183f2b79113a1fe888ec39f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b6/b61b601313b457111a337b085570dbfd79a38b938183f2b79113a1fe888ec39f.png)
 
 
 
@@ -2015,7 +2015,7 @@ After 2:
 1. 方法一：子列表的 `id` 值已经不同，说明 `x` 和 `y` 中的子列表各自拥有独立的内存空间。你还可以基于上面的代码，通过添加 `print(id(x[3]) != id(y[3]))` 得到 False 可以验证，它们的 ID 已经不同。id 即代表物理地址，物理地址不同则不是同一个数据。
 2. 可视化层面也可以看出，被拷贝的多层嵌套结构完全分离，互不影响，一图胜千言：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cb5f83ac3bae2181112e2f53f79f9fb964eadf6509eb2608eece24d216e225ec.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/cb/cb5f83ac3bae2181112e2f53f79f9fb964eadf6509eb2608eece24d216e225ec.png)
 
 使用的网站依然是：[https://pythontutor.bornforthis.cn/visualize.html#mode=edit](https://pythontutor.bornforthis.cn/visualize.html#mode=edit)
 

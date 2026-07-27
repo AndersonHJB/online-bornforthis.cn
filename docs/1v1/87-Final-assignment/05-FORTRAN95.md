@@ -31,23 +31,23 @@ toc: true
 
 @tab image-1
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/83/83282bd345dbf26bc14d230db90d8374318d287a9e21e2b3bf44e03b4e5619c7.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/83/83282bd345dbf26bc14d230db90d8374318d287a9e21e2b3bf44e03b4e5619c7.png)
 
 @tab image-2
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2daceec6da145e63d04be4216208c45a93784e5e66d413b1374b18dc3e68ea1e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2d/2daceec6da145e63d04be4216208c45a93784e5e66d413b1374b18dc3e68ea1e.png)
 
 @tab image-3
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e9/e95cf7debaa20033b88602fbab73f6cc67b6eccf20513ad030d56420c57a8284.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e9/e95cf7debaa20033b88602fbab73f6cc67b6eccf20513ad030d56420c57a8284.png)
 
 @tab image-4
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a6/a6f5b71ab323d43ca6eab9d8c47ff76ddc928690da25c31f0d1d76c5fb349301.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a6/a6f5b71ab323d43ca6eab9d8c47ff76ddc928690da25c31f0d1d76c5fb349301.png)
 
 @tab image-5
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0e/0ea328b26734af3e737b46cfaf198cb2e900901b118c03f3d26eb38cdea7af8c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/0e/0ea328b26734af3e737b46cfaf198cb2e900901b118c03f3d26eb38cdea7af8c.png)
 
 :::
 
@@ -201,7 +201,7 @@ end subroutine bisection
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2db414b791fa7d186213dd4867b7d9a81f678cfbba2013bae5762ce16c5c4447.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2d/2db414b791fa7d186213dd4867b7d9a81f678cfbba2013bae5762ce16c5c4447.png)
 
 ## 二、求定积分
 
@@ -313,7 +313,7 @@ contains
 end program IntegralCalculator
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/40/40cff3bf4fe91ede350f0467f4926211c61a3a68a6406a7b12e0a5ba299141da.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/40/40cff3bf4fe91ede350f0467f4926211c61a3a68a6406a7b12e0a5ba299141da.png)
 
 
 
@@ -370,7 +370,7 @@ program GaussianElimination
 end program GaussianElimination
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f9/f95ad07cfdc497734afa01beeb75d7405a9b9f3178a346a7046d3fb932a4d59f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f9/f95ad07cfdc497734afa01beeb75d7405a9b9f3178a346a7046d3fb932a4d59f.png)
 
 ## 四、编写班级成绩考评程序
 
@@ -913,11 +913,11 @@ end program student_evaluation
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c7/c74484e07a67980f1d447812d6b5eddc34356e999981d04b936d4702c95b2367.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c7/c74484e07a67980f1d447812d6b5eddc34356e999981d04b936d4702c95b2367.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fb/fba4f7078f0546ab81ca81651729f814bd45adfe9773db03e6a5f03d6025d361.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fb/fba4f7078f0546ab81ca81651729f814bd45adfe9773db03e6a5f03d6025d361.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/17e4694febb9e3b2361dc9c6cebbdbf9c537226ed1b2d56f411a8b27abdbb30f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/17/17e4694febb9e3b2361dc9c6cebbdbf9c537226ed1b2d56f411a8b27abdbb30f.png)
 
 ## 五、编写程序，实现进制间的相互转换
 
@@ -1057,9 +1057,9 @@ end program ConvertBases
 
 这些例子涵盖了从小到大不同范围的十进制数，并显示了它们转换成二进制、八进制和十六进制的结果。可以将这些例子用于测试程序的正确性。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/45/45da5a9c72b0bd0ba4dc687799c86dc975050fb98e3033c79e79ece75cd50552.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/45/45da5a9c72b0bd0ba4dc687799c86dc975050fb98e3033c79e79ece75cd50552.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/25f41ecf5485d8625227f53b315ab9c393b131ab7511436d0bafa462b9b50593.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/25/25f41ecf5485d8625227f53b315ab9c393b131ab7511436d0bafa462b9b50593.png)
 
 ## 六、求各种不同形状截面的截面特性
 
@@ -1188,13 +1188,13 @@ end subroutine TShape
 
 
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9c/9c04d8c10ac7c337e4f932d2fac74c138d824bb270f7d203557967ccaf201f55.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9c/9c04d8c10ac7c337e4f932d2fac74c138d824bb270f7d203557967ccaf201f55.png)
 
 
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1210,5 +1210,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

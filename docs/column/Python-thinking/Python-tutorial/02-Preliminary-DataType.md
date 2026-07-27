@@ -24,7 +24,7 @@ toc: true
 
 ## 1. 一图胜千言
 
-![DataType](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/61/61c17c9944974a5c09fe641d8c12c02e2f1c7d8bb7a5df426069d7ecaa126d66.png)
+![DataType](https://blog.images.bornforthis.cn/docs-images/sha256/61/61c17c9944974a5c09fe641d8c12c02e2f1c7d8bb7a5df426069d7ecaa126d66.png)
 
 ## 2. 数字型
 

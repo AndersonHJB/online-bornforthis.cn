@@ -17,7 +17,7 @@ backToTop: true
 toc: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c1/c110c77cc49c580d5bb2f84a086529a59c1a44ae3a875454026a677399c32cde.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c1/c110c77cc49c580d5bb2f84a086529a59c1a44ae3a875454026a677399c32cde.png)
 
 在前面学习了搜索引擎，我们聊的是“搜索”——你主动出发，像个小侦探一样去找线索。而今天我们要说的是“推荐”——你啥也没干，结果消息自己敲门进来了。
 
@@ -31,7 +31,7 @@ toc: true
 
 要说推荐算法，就得从最早的购物网站——**亚马逊**讲起。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/59/59dfc490bd5e16af7947f5ba19728f1ebf05a585c3e9df17e0d66653065d7e56.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/59/59dfc490bd5e16af7947f5ba19728f1ebf05a585c3e9df17e0d66653065d7e56.png)
 
 这家巨头在刚起步时，只是个卖书的网站。一开始他们的方式很简单：把书都摆出来，顾客想买啥就自己挑。
 
@@ -39,7 +39,7 @@ toc: true
 
 这个规律，其实你自己早就掌握了。只是你还未发现，我们来看看例子：
 
-![不要插入此图片](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4b/4bc09afb355ad2caf0ff14257a3b48048df952f03057ca4757395202f03e68c3.png)
+![不要插入此图片](https://blog.images.bornforthis.cn/docs-images/sha256/4b/4bc09afb355ad2caf0ff14257a3b48048df952f03057ca4757395202f03e68c3.png)
 
 如果小悦买了《哈利·波特》第一本，在小悦生日的时候，你会买什么书送给小悦？小悦可能对什么感兴趣？——也许是第二册、第三册，甚至是漫画版的《哈利·波特》。
 
@@ -61,7 +61,7 @@ toc: true
 
 ## 2. 看不见的“标签机”
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a5/a5e56298bc9879c1559f6fcf169d225d120895ef5f1635e2053345ef76720a36.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a5/a5e56298bc9879c1559f6fcf169d225d120895ef5f1635e2053345ef76720a36.png)
 
 不过嘛，今天的推荐算法可不是当年的“老实人”了，它已经变身为超级智能助理。
 
@@ -79,7 +79,7 @@ toc: true
 
 ## 3. “地平说”的故事，和茧房的陷阱
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d5/d5dfae9d33288ac9454effac6ddc0313241a0884f5127961ac7d4e6974bc5fbe.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d5/d5dfae9d33288ac9454effac6ddc0313241a0884f5127961ac7d4e6974bc5fbe.png)
 
 咱们来说个真实得让人咋舌的例子：地球到底是圆的，还是平的？
 

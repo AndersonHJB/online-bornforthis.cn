@@ -33,7 +33,7 @@ toc: true
 
 ### 1.1 “非”运算（NOT）
 
-![非运算](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/81/8153d66994d6861972d0931bd71b022fdd3958bbc0b7ad966e9122fce0fae5cc.png)
+![非运算](https://blog.images.bornforthis.cn/docs-images/sha256/81/8153d66994d6861972d0931bd71b022fdd3958bbc0b7ad966e9122fce0fae5cc.png)
 
 你看到旁边小伙伴的灯泡亮着，你就把你的灯关掉；他灯泡灭了，你就打开你的灯。总之，就是**跟他反着来**。这就是“非”运算——这样做就好比对输入信号做了“反转”，不论是什么，就返回它的反面。
 
@@ -41,17 +41,17 @@ toc: true
 
 ### 1.2 “或”运算（OR）
 
-![或运算](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/72cec8b8ccef09677bd320c96269365474fab484dadf605d6dc28248d41b411f.png)
+![或运算](https://blog.images.bornforthis.cn/docs-images/sha256/72/72cec8b8ccef09677bd320c96269365474fab484dadf605d6dc28248d41b411f.png)
 
 现在，对方有两个灯泡。只要**其中有一个是亮的**，你就把你的灯也点亮；如果他那两个都灭了，那你就不点灯。这叫“或”运算，只要有一个满足，就点亮。
 
 ## 1.3 “与”运算（AND）
 
-![与运算](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5d/5d47093a4b71757e92bed7dce879c3913c5cb1d8ca6f6d568b7b0b33b5d5df87.png)
+![与运算](https://blog.images.bornforthis.cn/docs-images/sha256/5d/5d47093a4b71757e92bed7dce879c3913c5cb1d8ca6f6d568b7b0b33b5d5df87.png)
 
 还是两个灯泡。这次你得严格一点：**只有当对方两个灯泡都亮着**，你才点亮自己的灯；否则，灯就保持关闭。这就是“与”运算，讲究“全部都满足”。
 
-![乔治·布尔](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cf/cf61e875649b19adc70c627bce444714cada0b2baa3f19dcb9758410d1f31f70.png)
+![乔治·布尔](https://blog.images.bornforthis.cn/docs-images/sha256/cf/cf61e875649b19adc70c627bce444714cada0b2baa3f19dcb9758410d1f31f70.png)
 
 这三种操作构成了逻辑运算最基础的部分，而完整的逻辑体系正是由数学家乔治·布尔提出，因此这种运算方式也被称为 **“布尔运算（Boolean Logic）“** 。布尔最初提出这套理论时，虽然在当时并没有受到广泛关注，但它后来成为电子计算的基石。
 
@@ -59,7 +59,7 @@ toc: true
 
 ## 2. 布尔的“逻辑革命”
 
-![克劳德·香农](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/50/504a9cfe89f0019f0631ce37be9a596f2c7dad974a7ab83be2a64d41337a2ebd.png)
+![克劳德·香农](https://blog.images.bornforthis.cn/docs-images/sha256/50/504a9cfe89f0019f0631ce37be9a596f2c7dad974a7ab83be2a64d41337a2ebd.png)
 
 那么，为什么现代计算机会舍弃传统的加减乘除，而选择这种看似简单却极为高效的逻辑运算呢？
 
@@ -91,7 +91,7 @@ toc: true
 
 你想，咱们前面说布尔运算的时候，是拿小灯泡的亮和灭打比方的，其实，小灯泡的亮和灭不就是计算机电路里面的有电和没电吗？
 
-![基础电路](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1f/1f01b1e9a84ae356d4af0aa2c28109f1b7351c94aa87cbf51aeafa1a1a19ca10.png)
+![基础电路](https://blog.images.bornforthis.cn/docs-images/sha256/1f/1f01b1e9a84ae356d4af0aa2c28109f1b7351c94aa87cbf51aeafa1a1a19ca10.png)
 
 所以，布尔运算的规则再加上二进制，正好就可以让计算机处理信息。当然了，香农也在二进制和布尔运算的基础上构建了一套更复杂的体系，好让计算机能够进行各种各样的运算。
 

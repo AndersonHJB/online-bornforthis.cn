@@ -221,7 +221,7 @@ const theme = hopeTheme({
       {
         path: "/",
         title: "通知",
-        content: "建议开启：梯子🪜来访问本网站，会加速图片加载速度！",
+        content: "建议开启：梯子🪜(VPN)来访问本网站，会加速图片加载速度！",
         showOnce: true,
         actions: [
           {
@@ -269,7 +269,7 @@ const theme = hopeTheme({
     // },
     // slimsearch: true,
     search: {
-      maxSuggestions: 32,
+      maxSuggestions: 10,
       hotKeys: [],
       // 你的选项
       locales: {
@@ -355,7 +355,6 @@ const theme = hopeTheme({
     blog: true,
     comment: {
       provider: "Waline",
-      // serverURL: "https://comment.bornforthis.cn/",
       serverURL: "https://waline.bornforthis.cn/",
       reaction: [
         '/Waline/tieba/tieba_agree.png',
@@ -399,11 +398,8 @@ const theme = hopeTheme({
         }
       },
       components: [
-        "VPBanner",
         "VPCard",
-        // "BiliBili",
         "PDF",
-        "VidStack",
       ],
       rootComponents: {
 

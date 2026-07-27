@@ -36,7 +36,7 @@ toc: true
 <Share colorful services="qq,weibo,email,qrcode"/>
 
 - [https://cs.nyu.edu/courses/spring23/CSCI-UA.0102-001/index.html](https://cs.nyu.edu/courses/spring23/CSCI-UA.0102-001/index.html)
-- [hw01.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/18-Data-Structures-Programming-Assignment-1-OOP-Review/hw01.pdf)
+- [hw01.pdf](https://blog.images.bornforthis.cn/1v1/06-KAI/18-Data-Structures-Programming-Assignment-1-OOP-Review/hw01.pdf)
 
 Last month, scientists at NASA discovered life on Mars, Neptune, and Saturn! Your job is to create a program that can convert currencies between the planets to aid in interplanetary transactions.
 
@@ -513,7 +513,7 @@ public class test {
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -529,4 +529,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

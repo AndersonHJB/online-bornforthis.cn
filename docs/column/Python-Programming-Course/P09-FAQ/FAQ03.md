@@ -39,11 +39,11 @@ toc: true
 
 @tab Question 1
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/54/545c62694917175511439182745cd3ccc17f0d10fe0ffc1372822cb0032b718e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/54/545c62694917175511439182745cd3ccc17f0d10fe0ffc1372822cb0032b718e.png)
 
 @tab Question 2
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/31/3155d6231dba60cba952fa8867d7820e07af877002c42226b24f9d3add7860fe.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/31/3155d6231dba60cba952fa8867d7820e07af877002c42226b24f9d3add7860fe.png)
 
 :::
 
@@ -51,7 +51,7 @@ toc: true
 
 这里，我直接引用书稿的前言：
 
-![点击图片·即可放大阅读](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/80c4df392d1f1cc04fb2b1e890c5e0f35da7f70f2a85b6c2ae1927da0bbb3a55.png)
+![点击图片·即可放大阅读](https://blog.images.bornforthis.cn/docs-images/sha256/80/80c4df392d1f1cc04fb2b1e890c5e0f35da7f70f2a85b6c2ae1927da0bbb3a55.png)
 
 原文链接：[https://bornforthis.cn/column/Python-Programming-Course/Preface.html#_4-重点-是否需要频繁练习](https://bornforthis.cn/column/Python-Programming-Course/Preface.html#_4-%E9%87%8D%E7%82%B9-%E6%98%AF%E5%90%A6%E9%9C%80%E8%A6%81%E9%A2%91%E7%B9%81%E7%BB%83%E4%B9%A0)
 
@@ -86,7 +86,7 @@ toc: true
 
 :::: details 彩蛋
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a0/a013a7de9d1e99ad762bccc4531b0c4f5d02ebddc5f1b3bdd4a44240bbf66358.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a0/a013a7de9d1e99ad762bccc4531b0c4f5d02ebddc5f1b3bdd4a44240bbf66358.jpg)
 
 ::: warning 你以为的慢，其实是快。
 
@@ -187,7 +187,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -203,7 +203,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 ::: details
 

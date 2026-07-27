@@ -68,7 +68,7 @@ python,c++,c,java,c#,html,css,javascript,php
 
 如果你使用的是 Windows 电脑，在运行时有可能会遇到如下情况：
 
-![情况 1：乱码](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/99456ff947454f39f4d80db4bd5ca88330bb2e5d47fb0be5432764e984678d4c.png)
+![情况 1：乱码](https://blog.images.bornforthis.cn/docs-images/sha256/99/99456ff947454f39f4d80db4bd5ca88330bb2e5d47fb0be5432764e984678d4c.png)
 
 情况 2：报错【图片后期补充】【下面的类似报错】
 
@@ -775,7 +775,7 @@ python,c++,c,java,c#,html,css,javascript,php
 
 从输出我们可以看出没有任何反应是：空的。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/25e9c7ca119a93a44387f691f446c6ee078b864098f5a89b00e88e28096ec0e1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/25/25e9c7ca119a93a44387f691f446c6ee078b864098f5a89b00e88e28096ec0e1.png)
 
 2. 编写 loop 实现：
 
@@ -1009,7 +1009,7 @@ file.close()
 
 执行上面代码后，会在当前代码的同目录（同路径）下创建文件 `'data_st.txt'` 并写入内容 `Hi! Python write.`
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e4fd89a5f2dddc61de96caa3554fb4fe562074310d1f11998945e28120103a47.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e4/e4fd89a5f2dddc61de96caa3554fb4fe562074310d1f11998945e28120103a47.png)
 
 #### 3.3.2 文件存在的情况
 
@@ -1028,7 +1028,7 @@ file.close()
 
 上面代码中 “`来这世上，时间稍纵即逝，我想留下意义！`” 会覆盖掉原本文件中 “`Hi! Python write.`”。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0c/0c07567326ca1609e719dd7a49868349f0179a9960c59e78e59af5e2c5ef2e2a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/0c/0c07567326ca1609e719dd7a49868349f0179a9960c59e78e59af5e2c5ef2e2a.png)
 
 #### 3.3.3 写入多行内容
 
@@ -1070,7 +1070,7 @@ file.close()
 
 发现，都写成一行了！
 
-![都写成一行了！](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3c/3ce26fcdc5e58794784838022dedcf01c769c567aa8e1bb4320193dcca18c53e.png)
+![都写成一行了！](https://blog.images.bornforthis.cn/docs-images/sha256/3c/3ce26fcdc5e58794784838022dedcf01c769c567aa8e1bb4320193dcca18c53e.png)
 
 如何解决呢？
 
@@ -1274,7 +1274,7 @@ file.close()
 
 上面的文本结果我们无法直接阅读，并且看不懂——这种情况我们称之为：乱码。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/75de332de350dafd49fb3f3eefea220b8700da56b252ff4a3b6dfb181a2757a0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/75/75de332de350dafd49fb3f3eefea220b8700da56b252ff4a3b6dfb181a2757a0.png)
 
 上面是直接使用 Pycharm 查看写入文件的，我们再试一试 Python 读取文件，有没有问题：
 
@@ -1317,13 +1317,13 @@ Python open 默认编码是使用 utf-8，而我们写入使用 gbk，就导致�
 
 第一种方法是改变我们 Pycharm 的编码来改正这个显示问题：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ae/ae1d4f67450d6f2d48da41791b545ef170ff01561dbe0e02be051911a81c859a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ae/ae1d4f67450d6f2d48da41791b545ef170ff01561dbe0e02be051911a81c859a.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a5/a53071eaaf46c6248942328f19d542c3e76410417a920a3c6ce43b74175c31c1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a5/a53071eaaf46c6248942328f19d542c3e76410417a920a3c6ce43b74175c31c1.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2f/2fad542053bfe94b25e7094a8a927618f153e3d0ba72be61a4df5a1108a424f0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2f/2fad542053bfe94b25e7094a8a927618f153e3d0ba72be61a4df5a1108a424f0.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/88/886df6173c96ec61a57f15e2a4b64c7d9ba8d1bb1002473260912df8a1084f76.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/88/886df6173c96ec61a57f15e2a4b64c7d9ba8d1bb1002473260912df8a1084f76.png)
 
 上面的操作，仅仅是让 Pycharm 以我们存储文件时的编码来显示正确我们的文本。
 

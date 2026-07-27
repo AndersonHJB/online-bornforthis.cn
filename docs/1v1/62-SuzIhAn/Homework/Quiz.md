@@ -62,15 +62,15 @@ print(x, "and", y)
 
 Which of the following Python statements successfully initializes a list of 3 integers?
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8a/8ad71294fd81d1a341b60a24f8384e90062d8c349585646d5e60cc61641b5298.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8a/8ad71294fd81d1a341b60a24f8384e90062d8c349585646d5e60cc61641b5298.png)
 
 ## Question 4
 
-![image-20231015081543582](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/11/11c1a2c09473c486fed883f3695672d9c6e0b2524fdc31bb1469e6e200cb8a3d.png)
+![image-20231015081543582](https://blog.images.bornforthis.cn/docs-images/sha256/11/11c1a2c09473c486fed883f3695672d9c6e0b2524fdc31bb1469e6e200cb8a3d.png)
 
 ## Question 5
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/29/29292f6a2e3f62050b0f7f5f57b43c37a7f4039dbc308318544fe4aada521843.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/29/29292f6a2e3f62050b0f7f5f57b43c37a7f4039dbc308318544fe4aada521843.png)
 
 ## Question 6
 
@@ -94,7 +94,7 @@ Read the code below **carefully**, then select the best description of what will
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -110,5 +110,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

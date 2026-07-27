@@ -59,17 +59,17 @@ Mac 快捷键：[keyboard-shortcuts-macos.pdf](/pdf/keyboard-shortcuts-macos.pdf
 
 依次点击“**文件-首选项-键盘快捷方式**”即可查询和修改快捷键，或者使用快捷键，**先按 ctrl+K，然后再按 ctrl + S**。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3d/3dc6634baf169863374705ee18eec9f8bd813f7b82755938b359b0dd6f5a2ea2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3d/3dc6634baf169863374705ee18eec9f8bd813f7b82755938b359b0dd6f5a2ea2.png)
 
 输入“search”，带一个就是全局搜索快捷键的默认设置，双击即可，进行修改。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a1/a12996bf940b3cf5c5ab847d9e7d9632780c44a3388c9989871d78bf65cb62f5.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a1/a12996bf940b3cf5c5ab847d9e7d9632780c44a3388c9989871d78bf65cb62f5.png)
 
 欢迎关注我公众号：AI悦创，有更多更好玩的等你发现！
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -85,4 +85,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

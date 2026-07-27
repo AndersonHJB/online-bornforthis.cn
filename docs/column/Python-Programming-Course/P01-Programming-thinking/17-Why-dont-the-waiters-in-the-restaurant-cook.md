@@ -29,7 +29,7 @@ toc: true
 
 ## 1. 一个不爱算数学题的工程师
 
-![康拉德·楚泽](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/40/40746274bbed88743f5980c42ce360a2cbd76820c6dbe7584a156d68a7aa8a3f.png)
+![康拉德·楚泽](https://blog.images.bornforthis.cn/docs-images/sha256/40/40746274bbed88743f5980c42ce360a2cbd76820c6dbe7584a156d68a7aa8a3f.png)
 
 说到模块化思维，其实在计算机发展史上，有一个人非常有代表性。他叫**楚泽**，一位出生在德国的年轻工程师。
 
@@ -56,7 +56,7 @@ toc: true
 
 而方法二，看着费了功夫，但其实很快。如果拼的时候发现哪个大块出了问题，就只用把这个大块拆开重来就行了。楚泽的计算机，就跟方法二差不多。
 
-![康拉德·楚泽的计算机](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/26/26089ffde70db6ae86263dcc33110b22c366d7b071b2cdf9d1d1f307f1233c4c.png)
+![康拉德·楚泽的计算机](https://blog.images.bornforthis.cn/docs-images/sha256/26/26089ffde70db6ae86263dcc33110b22c366d7b071b2cdf9d1d1f307f1233c4c.png)
 
 所以呢，最后巴贝奇没干成的事，楚泽靠着模块化思维，干成了。他单枪匹马，只花了2年，就造出了世界上第一台通用机械计算机。随后，他又发明了第一台电磁式计算机，创造了第一种计算机语言，成立了世界上第一家计算机公司。这些第一，让很多人认为，楚泽才是最名正言顺的“**计算机之父**”。
 
@@ -73,7 +73,7 @@ toc: true
 
 ## 3. 编程世界的厨房分工
 
-![编程世界的厨房分工](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/55/5514dbb7a3bec2ffdea4cb89d357c2e57f604e5f990dbf2d6e4709fcfe2551f9.png)
+![编程世界的厨房分工](https://blog.images.bornforthis.cn/docs-images/sha256/55/5514dbb7a3bec2ffdea4cb89d357c2e57f604e5f990dbf2d6e4709fcfe2551f9.png)
 
 我们再回到编程，程序员在写程序时，也不会一下子搞定所有功能，而是会先把整个问题拆成几个部分，比如：
 
@@ -89,7 +89,7 @@ toc: true
 
 当然有用！
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5b/5be27a4bf75d377c1db2ad0e707e4a9e5c8016f637eff1b167af595f85367ed7.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/5b/5be27a4bf75d377c1db2ad0e707e4a9e5c8016f637eff1b167af595f85367ed7.png)
 
 比如，背课文的时候，有人一遍一遍从头读到尾，读了十遍都记不住。还有人把课文拆成几个段落，每段理解清楚，再一块块背。哪种更快？后者显然效率更高。
 

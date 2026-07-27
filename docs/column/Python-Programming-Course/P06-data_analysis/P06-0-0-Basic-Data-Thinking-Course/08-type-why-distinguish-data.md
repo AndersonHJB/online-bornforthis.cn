@@ -20,7 +20,7 @@ copy:
     disableSelection: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ce/cef998689abd8300bfed3fc9065a103ef11431f73ce70172ff88ea8b4671b537.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ce/cef998689abd8300bfed3fc9065a103ef11431f73ce70172ff88ea8b4671b537.jpeg)
 
 你好，我是悦创。
 
@@ -92,7 +92,7 @@ copy:
 
 ### 2.1 第一种：类别数据，也可以叫“唐僧数据”
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/de/de1e5b29a3525be06110a7a5d5f203c9b45f21c70fbc7f67aad713069df768d6.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/de/de1e5b29a3525be06110a7a5d5f203c9b45f21c70fbc7f67aad713069df768d6.png)
 
 我们知道，唐僧的思维是非此即彼的，会给所有的东西分类，不是行，就是不行，不是好人，就是坏人，没有中间状态。类别数据也是这样，这种变量里装的数据都是表示类别的。典型的就是**性别**，相同的还有民族、婚姻状况、申请还是没有申请过房贷、出过国没有出过国等，都是类别数据。
 
@@ -115,7 +115,7 @@ copy:
 - 孙悟空不在了，就找二师兄猪八戒；
 - 你看，特别有次序。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/35/3567dbd9e4bea566ba107bdcd51590966d144a1d155deb20c66c5a356af0ea13.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/35/3567dbd9e4bea566ba107bdcd51590966d144a1d155deb20c66c5a356af0ea13.png)
 
 比如这样提问：“**一个女性要有一个孩子**”这件事对你来说，是非常重要、重要、无所谓、不重要，还是非常不重要呢？这个问题测量出来的结果就是**次序数据**。
 
@@ -125,7 +125,7 @@ copy:
 
 ### 2.3 第三种：间隔数据，也可以叫“猪八戒数据”
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e1/e10c453aa54aeaf17f84ab946d46c24d362d2e3e083c6c8f6c52ccfa4d18f7f5.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e1/e10c453aa54aeaf17f84ab946d46c24d362d2e3e083c6c8f6c52ccfa4d18f7f5.png)
 
 猪八戒有一个著名的武器——九齿钉耙，九个齿就有 8 个间隔，每一个间隔都是相等的。这就是间隔数据，数字之间的距离是相等的。
 
@@ -135,7 +135,7 @@ copy:
 
 ### 2.4 第四种：比例数据，也可以称为“孙悟空数据”
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c55065d3b4d3480c67e21dd184144f425770196676903b497ceae37c76f37317.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c5/c55065d3b4d3480c67e21dd184144f425770196676903b497ceae37c76f37317.png)
 
 为什么是孙悟空呢？因为孙悟空的武器是金箍棒，可以任意放大缩小。
 
@@ -145,7 +145,7 @@ copy:
 
 ### 2.5 定性、定量数据
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f7/f7c7c2aa8d316e3b3cea750c9999505ec21cd18ebfe3396f8b8367560924dce0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f7/f7c7c2aa8d316e3b3cea750c9999505ec21cd18ebfe3396f8b8367560924dce0.png)
 
 我们来总结一下，我们聊到的四个数据，它可以统称为：定性数据和定量数据。
 
@@ -261,7 +261,7 @@ copy:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -277,4 +277,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

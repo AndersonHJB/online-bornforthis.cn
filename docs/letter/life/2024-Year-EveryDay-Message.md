@@ -48,7 +48,7 @@ toc: true
 
 ::: center
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/80dd90c34eecdbc37c4005d28ddc7abbb4fc248ad6944aaa9fe14b299cf5321b.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/80/80dd90c34eecdbc37c4005d28ddc7abbb4fc248ad6944aaa9fe14b299cf5321b.png" style="zoom:25%;" />
 
 :::
 
@@ -76,7 +76,7 @@ toc: true
 
 ::: center
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/81/812628e44788715a1df67496d73bd70ca34af283546b37bc23b66a0116c63372.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/81/812628e44788715a1df67496d73bd70ca34af283546b37bc23b66a0116c63372.png" style="zoom:25%;" />
 
 :::
 
@@ -105,7 +105,7 @@ toc: true
 
 ::: center
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/95/9508f3c551298ae53ed98140602f9bd95ed4223a7c660c94bb0178b54e63e534.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/95/9508f3c551298ae53ed98140602f9bd95ed4223a7c660c94bb0178b54e63e534.png" style="zoom:25%;" />
 
 :::
 
@@ -131,7 +131,7 @@ toc: true
 
 ::: center
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4e/4ecd3f10d01acc07d798be14f49f74a8bac157d36c570cbd310210888965a64b.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/4e/4ecd3f10d01acc07d798be14f49f74a8bac157d36c570cbd310210888965a64b.png" style="zoom:25%;" />
 
 :::
 
@@ -158,7 +158,7 @@ toc: true
 
 ::: center
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a2/a2033ce9504d2c4dcac2e3fd002d9063fdf8a27b1414ef03d078671161c5c124.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/a2/a2033ce9504d2c4dcac2e3fd002d9063fdf8a27b1414ef03d078671161c5c124.png" style="zoom:25%;" />
 
 :::
 
@@ -187,9 +187,9 @@ toc: true
 
 ::: center
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/76/7650c62ce77233342375ede33f421712c42b2785363e9c0e2b78a97f82303b89.png" alt="image-20240318114644233" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/76/7650c62ce77233342375ede33f421712c42b2785363e9c0e2b78a97f82303b89.png" alt="image-20240318114644233" style="zoom:25%;" />
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bf/bfa57d9503216b3050d67af3a16f449635244997a250811f8a16cea6b9513f8f.png" alt="image-20240318114700102" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/bf/bfa57d9503216b3050d67af3a16f449635244997a250811f8a16cea6b9513f8f.png" alt="image-20240318114700102" style="zoom:25%;" />
 
 :::
 
@@ -223,7 +223,7 @@ toc: true
 
 ::: center
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7f/7ffdde14f557493f909221b420ed4e8ddcb48f390fabdd2cf175cafa9f4b9b47.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/7f/7ffdde14f557493f909221b420ed4e8ddcb48f390fabdd2cf175cafa9f4b9b47.png" style="zoom:25%;" />
 
 :::
 

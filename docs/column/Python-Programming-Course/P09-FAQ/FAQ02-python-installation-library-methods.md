@@ -30,7 +30,7 @@ toc: true
 
 ### 1.1 打开 Pycharm
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/43/43582620c9ed1b76f6d4d23f8e6fa699c6ca3fdfbd6c5aa6f234b94fe99bea43.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/43/43582620c9ed1b76f6d4d23f8e6fa699c6ca3fdfbd6c5aa6f234b94fe99bea43.png)
 
 ### 1.2 使用 pip 安装
 
@@ -43,7 +43,7 @@ pip install numpy
 
 ### 1.3 在 Terminal 执行命令
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d4d86716ed82d288ab5a17911c77b6b8a21d69f15a28eeb9c5c54b7d3528a7b7.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d4/d4d86716ed82d288ab5a17911c77b6b8a21d69f15a28eeb9c5c54b7d3528a7b7.png)
 
 > 如果安装失败，请自行检查网络等其他未知问题。可以加微信，咨询我。
 
@@ -53,13 +53,13 @@ pip install numpy
 
 随便一个 Python 的代码文件中，导入你所需要的库，不论是否安装。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5f5e8bbf79401b9ea5149c982d38b88f5c10335d739793604ccbb704cbe27538.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/5f/5f5e8bbf79401b9ea5149c982d38b88f5c10335d739793604ccbb704cbe27538.png)
 
 ### 2.2 开始安装
 
 鼠标点击 numpy 库，然后按住键盘 Alt 键 + Enter。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/68/68551fa85efa475f4ac7481c5c0df71ebd9a8992140980c00838893dce327103.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/68/68551fa85efa475f4ac7481c5c0df71ebd9a8992140980c00838893dce327103.png)
 
 
 
@@ -91,7 +91,7 @@ pip install numpy
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -107,4 +107,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

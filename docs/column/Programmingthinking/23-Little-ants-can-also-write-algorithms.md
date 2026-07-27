@@ -27,11 +27,11 @@ toc: true
 
 在这些“**动物程序**”身上，就包含着特别厉害的算法。比方说吧，科学家从蜜蜂合作采蜜的过程中学到了**蜂群算法**，从生物遗传进化的规则上学到了**遗传算法**。
 
-![蜂巢](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e5/e5aab6a8d945416b8532761c5320b6b95e45d1b416b4e690855aa9dec905948b.jpg)
+![蜂巢](https://blog.images.bornforthis.cn/docs-images/sha256/e5/e5aab6a8d945416b8532761c5320b6b95e45d1b416b4e690855aa9dec905948b.jpg)
 
 今天要给你说的这个算法，是科学家从蚂蚁觅食过程中学到的，叫“**蚁群算法**”。那既然是从蚂蚁身上学到的，咱们当然也得从蚂蚁说起。
 
-![蚁群](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c4/c4db27605f568f858f92999812794d787adea8b503c6824703b8f7c28fbfeb7a.jpg)
+![蚁群](https://blog.images.bornforthis.cn/docs-images/sha256/c4/c4db27605f568f858f92999812794d787adea8b503c6824703b8f7c28fbfeb7a.jpg)
 
 你肯定知道，很多种类的蚂蚁，都是一大群生活在一起的。它们之间分工明确，有负责生小蚂蚁的**蚁后**、负责守卫蚁巢的**兵蚁**，还有负责修补蚁巢、寻找食物的**工蚁**。
 
@@ -39,7 +39,7 @@ toc: true
 
 蚂蚁的嗅觉非常灵敏，如果闻到了食物的味道，直接循着味道找过去就行了。要是附近没有食物的味道，侦察兵们就得各自分头，走远一点去碰碰运气了。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e2/e22a7fc23b8ece5b73bc240e6563eb00e35fcfd8c80b5af994654e9cdbf1ac3a.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e2/e22a7fc23b8ece5b73bc240e6563eb00e35fcfd8c80b5af994654e9cdbf1ac3a.jpg)
 
 一开始，它们都是漫无目的地随处乱逛。可一旦发现了食物，它们就会赶紧跑**回蚁穴请求大部队帮忙**：“我找到好吃的啦，大家快跟我来搬吧！”
 
@@ -49,7 +49,7 @@ toc: true
 
 那咱们来**假设**一下哈，有一批蚂蚁侦查员，分头出去找食物，其中的一些呢，诶，找到了一大块食物，然后就各自跑回巢穴去报信。它们是各自回去报信的，然后呢，报信的时候，它们刚好是沿着两条路返回的，**一条路长一点，一条路短一点**。好，现在问题来了，得到消息之后，蚁群大部队要去搬回食物的时候，会选哪一条路呢？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/06/065ad3c603c3dc52a3c897a809c33d1e9eb17dfd300d6407152a3ea9f08e1437.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/06/065ad3c603c3dc52a3c897a809c33d1e9eb17dfd300d6407152a3ea9f08e1437.jpg)
 
 你可能会觉得，这还用问吗？当然是选短的了。但别忘了，蚂蚁没有地图，也没望远镜。它们一开始并不知道哪条路长，哪条路短。所以呢，蚂蚁大军就又派出一些工蚁，**兵分两路**，试着走走看。
 
@@ -67,7 +67,7 @@ toc: true
 
 但如果这条路线比原来的路线更短，蚂蚁来回一趟需要的时间也更短，那这条路线上的信息素浓度升高得会比较快。渐渐地，大部分蚂蚁又会走到这条路线上来，**路线就被优化了**。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/81/810df15242e7ea0cc2ae98fffa0060b51ed732df8b39d3e8e9e0e4029f9081d8.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/81/810df15242e7ea0cc2ae98fffa0060b51ed732df8b39d3e8e9e0e4029f9081d8.jpg)
 
 
 
@@ -93,7 +93,7 @@ toc: true
 
 类似的，在物理课上，老师也可能会用水波上下震荡的过程来帮助你理解**声音的传播**，这也是类比思维的应用。用你熟悉的东西去类比陌生的东西，这对你理解和掌握知识特别有帮助。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1a/1a0559bc76b605631766ddd77a5c4cd812c2fe6b81a1bea67b5557c6a74f4ced.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/1a/1a0559bc76b605631766ddd77a5c4cd812c2fe6b81a1bea67b5557c6a74f4ced.jpg)
 
 我们下节课再见！
 
@@ -137,7 +137,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -153,4 +153,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

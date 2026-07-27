@@ -51,13 +51,13 @@ footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https:/
 
 ## 微信：
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/51f1983c47ad09a50469d03ff84853eddd43b52c02bc8320e13de6cdb90ed9a7.jpg" alt="AI悦创·微信" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/51/51f1983c47ad09a50469d03ff84853eddd43b52c02bc8320e13de6cdb90ed9a7.jpg" alt="AI悦创·微信" style="zoom:25%;" />
 
 ## 关于我为什么建议你写笔记和博客
 
 一图胜千言～
 
-![知识库](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c0/c0e19778c164b04245051f03138570e7fda6b73352c1c838395ed12bf2b5368f.jpg)
+![知识库](https://blog.images.bornforthis.cn/docs-images/sha256/c0/c0e19778c164b04245051f03138570e7fda6b73352c1c838395ed12bf2b5368f.jpg)
 
 ## 视频不能正常播放？
 

@@ -23,19 +23,19 @@ toc: true
 
 ## 1. 冰箱里的任务
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b6fe108e9239575f782c99bd2cc39d9482ebcad02b03180fbf409c300a91cf5d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b6/b6fe108e9239575f782c99bd2cc39d9482ebcad02b03180fbf409c300a91cf5d.png)
 
 想象一下，面前有一台冰箱。你打开它的门，里面塞满了各种食物：苹果、西兰花、牛肉、果汁……如果现在请你给这些东西**归个类**，是不是非常轻松？
 
 你或许会把**水果和蔬菜分开**，把**饮料和肉类分开**，甚至还能再细致些，把蔬菜分成叶子类和根茎类，水果按味道分成甜的和酸的。这种分类任务，我们从小就已经很熟悉了，不需要人特意教，就能顺利完成。
 
-![监督学习图示](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ac/acc922031f6c98e82ef50202b9ba6ca73ff86b981a2c7c4987f8fde8a32d5325.png)
+![监督学习图示](https://blog.images.bornforthis.cn/docs-images/sha256/ac/acc922031f6c98e82ef50202b9ba6ca73ff86b981a2c7c4987f8fde8a32d5325.png)
 
 其实这类任务，计算机也能做到。它只需要我们喂给它足够多的样本图片，再告诉它哪些是水果，哪些是蔬菜，它就能学会。这个过程叫做“**监督学习**”，也就是**在人类的指导下学习**。
 
 ### 2. 来到未知的星球
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/81/819c1440ad873fb27518c48e6249352697214dbf28c2cfe845d417fc12eac0ac.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/81/819c1440ad873fb27518c48e6249352697214dbf28c2cfe845d417fc12eac0ac.png)
 
 好，现在换个更刺激的场景。假设你是一名宇航员，登陆了一颗遥远的陌生星球。这里的植物和果子五花八门：有三角形的果实，有长得像五角星的，还有各种奇怪的颜色，比如蓝色、粉红、橙色……
 
@@ -54,13 +54,13 @@ toc: true
 
 其实还真不一样！
 
-![分类（Classification）](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b2/b28a6d59ed268729b74bb7534c0fe5a400b98ee5bf103c3103078c355f4d29f7.png)
+![分类（Classification）](https://blog.images.bornforthis.cn/docs-images/sha256/b2/b28a6d59ed268729b74bb7534c0fe5a400b98ee5bf103c3103078c355f4d29f7.png)
 
 在前面冰箱的例子中，我们是知道每一样东西的名称和类别的，这种**明确知道**“答案”的情况，叫做**分类（Classification）**。
 
-![聚类（Clustering）](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f1/f1eb30427d70b7892d358c10c29d3c65949a01f3b585dff2e42fb24aa484b8c3.png)
+![聚类（Clustering）](https://blog.images.bornforthis.cn/docs-images/sha256/f1/f1eb30427d70b7892d358c10c29d3c65949a01f3b585dff2e42fb24aa484b8c3.png)
 
-![聚类（Clustering）](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/53/5319bcffe961eebffb4f45f073d5eebcee23fd8d95b47ea5f20e24368e9835d0.png)
+![聚类（Clustering）](https://blog.images.bornforthis.cn/docs-images/sha256/53/5319bcffe961eebffb4f45f073d5eebcee23fd8d95b47ea5f20e24368e9835d0.png)
 
 而在外星球的情况里，我们**完全不知道**那些果子是什么，只能靠猜测和特征去分组，这种“靠特征找规律”的方式，叫做**聚类（Clustering）**。聚类的意思，就是根据一些特征把不同的东西聚在一块。（物以类聚，人以群分）
 
@@ -78,9 +78,9 @@ toc: true
 
 ## 5. 无监督学习登场
 
-![无监督学习](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/58/585e5322e86821a88b9d6f6865fcf4d4b90877ef2215e4d394e0f6da21d92b7c.png)
+![无监督学习](https://blog.images.bornforthis.cn/docs-images/sha256/58/585e5322e86821a88b9d6f6865fcf4d4b90877ef2215e4d394e0f6da21d92b7c.png)
 
-![无监督学习](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6ea72614de94e49e646e60a022f497b12289e9802e64b2ec8ab5340a36a4b365.png)
+![无监督学习](https://blog.images.bornforthis.cn/docs-images/sha256/6e/6ea72614de94e49e646e60a022f497b12289e9802e64b2ec8ab5340a36a4b365.png)
 
 这种没有人类老师参与，只靠数据特征来自我判断归类的学习方式，在人工智能领域里有个名字，叫做：**无监督学习（Unsupervised Learning）**。
 
@@ -92,7 +92,7 @@ toc: true
 
 ## 6. 最重要的启发：不断调整
 
-![无监督学习是动态的](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/40/4014ed08f77d3b2c6861be248a613443694779e011596bbc0a88ac6fc9c07bc8.png)
+![无监督学习是动态的](https://blog.images.bornforthis.cn/docs-images/sha256/40/4014ed08f77d3b2c6861be248a613443694779e011596bbc0a88ac6fc9c07bc8.png)
 
 还有一点值得你特别注意：**无监督学习是动态的**。
 

@@ -26,13 +26,13 @@ toc: true
 
 @tab 图1
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0b/0bfa12965a0f0d6c7c1cd1672e0eb4401ba5cdced86b44f1588caa1e62648bb6.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/0b/0bfa12965a0f0d6c7c1cd1672e0eb4401ba5cdced86b44f1588caa1e62648bb6.png" style="zoom:25%;" />
 
 @tab 图2
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6d/6d73b3a3cf99857f2291e82522ba37843d8ea465527e19a8b5fd64ccf61b4242.png" alt="image-20230412162619118" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/6d/6d73b3a3cf99857f2291e82522ba37843d8ea465527e19a8b5fd64ccf61b4242.png" alt="image-20230412162619118" style="zoom:25%;" />
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b3/b33efa9d39ead4bcd6d2d9328ec510e8a1d380478d39ca93ecc0292e17507c01.png" alt="image-20230412162631533" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/b3/b33efa9d39ead4bcd6d2d9328ec510e8a1d380478d39ca93ecc0292e17507c01.png" alt="image-20230412162631533" style="zoom:25%;" />
 
 :::
 
@@ -119,7 +119,7 @@ if __name__ == "__main__":
 
 将此代码保存到名为 `signature.py` 的文件中，然后运行此文件，你将看到输出的个性签名，类似于这样：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9c/9c408f63e9a7b6a99bca056a0236de6a79ecabe380001bcb105d72d0512057f5.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9c/9c408f63e9a7b6a99bca056a0236de6a79ecabe380001bcb105d72d0512057f5.png)
 
 你可以根据需要更改姓名、引用以及边框和背景颜色。
 
@@ -176,7 +176,7 @@ if __name__ == "__main__":
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -192,7 +192,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

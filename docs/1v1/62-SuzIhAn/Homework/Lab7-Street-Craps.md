@@ -30,7 +30,7 @@ toc: true
 
 ## Street craps
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5fc8213670cc73d89803c29a11c810707d0ab11fa8d8d3419dfb29af320903da.jpg)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/5f/5fc8213670cc73d89803c29a11c810707d0ab11fa8d8d3419dfb29af320903da.jpg)
 
 In class we looked at a simple card game implemented using object-oriented programming. For this lab, you'll adapt that structure to create a simple dice game based on the classic signifier of misspent youth: street craps.
 
@@ -158,7 +158,7 @@ Place all module files together in a directory called `dice_game` and zip the di
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -174,5 +174,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

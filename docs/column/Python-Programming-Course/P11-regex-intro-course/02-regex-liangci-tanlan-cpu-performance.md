@@ -17,7 +17,7 @@ backToTop: true
 toc: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a7/a77bd53903797b8dad4493daceb72c1faedd2f1166f420b6198139e6699385d3.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a7/a77bd53903797b8dad4493daceb72c1faedd2f1166f420b6198139e6699385d3.jpg)
 
 你好，我是悦创。
 
@@ -34,15 +34,15 @@ toc: true
 
 由于本节内容和量词相关的元字符密切相关，所以我们先来回顾一下正则中表示量词的元字符。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/724ac7d0ab371187c0dd5ef045ca5b4e26ed0d947de2dc774e25395c68cb0997.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/72/724ac7d0ab371187c0dd5ef045ca5b4e26ed0d947de2dc774e25395c68cb0997.png)
 
 在这 6 种元字符中，我们可以用 `{m,n}` 来表示 （`*`）（`+`）（`?`） 这 3 种元字符：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/31/31dea7f493714f1d664feef67d8de619bf8844c076b13ad4363a3b26df70f377.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/31/31dea7f493714f1d664feef67d8de619bf8844c076b13ad4363a3b26df70f377.jpg)
 
 表示量词的星号（`*`）和 加号（`+`）可能没你想象的那么简单，我用一个例子给你讲解一下。我们先看一下加号（`+`），使用 `a+` 在 `aaabb` 中查找，可以看到只有一个输出结果：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d2/d27f879fde200178e0f0ab16a2d1c3abd27fc521f0c330b209ef586c719b3fb5.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d2/d27f879fde200178e0f0ab16a2d1c3abd27fc521f0c330b209ef586c719b3fb5.png)
 
 对应的 Python 代码如下：
 
@@ -54,7 +54,7 @@ toc: true
 
 加号应该很容易理解，我们再使用 `a*` 在 `aaabb` 这个字符串中进行查找，这次我们看到可以找到 4 个匹配结果。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b8/b86945ea9172c94445c8a13d890bb7e1ec371ec9f292d7b480b6c779232bd6f2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b8/b86945ea9172c94445c8a13d890bb7e1ec371ec9f292d7b480b6c779232bd6f2.png)
 
 使用 Python 示例如下，我们可以看到输出结果，也是得到了 4 个匹配结果：
 
@@ -76,7 +76,7 @@ toc: true
 
 首先，我们来看一下在字符串 `aaabb` 中使用正则 `a*` 的匹配过程。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e0/e039d9d683ba61e3a2efe20d7d4adcd938012d077c99fb0c44660893b5a5b12a.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e0/e039d9d683ba61e3a2efe20d7d4adcd938012d077c99fb0c44660893b5a5b12a.jpg)
 
 `a*` 在匹配开头的 a 时，会尝试尽量匹配更多的 a，直到第一个字母 b 不满足要求为止，匹配上三个 a，后面每次匹配时都得到了空字符串。
 
@@ -86,7 +86,7 @@ toc: true
 
 那么如何将贪婪模式变成非贪婪模式呢？我们可以在量词后面加上英文的问号 (`?`)，正则就变成了 `a*?`。此时的匹配结果如下：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fe/fe4792d6d796f0be4f68eb2e4fb659b4563e17cb0bea2cc0eece646f5e26eb1b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fe/fe4792d6d796f0be4f68eb2e4fb659b4563e17cb0bea2cc0eece646f5e26eb1b.png)
 
 ```python
 >>> import re
@@ -100,13 +100,13 @@ toc: true
 
 到这里你可能就明白了，非贪婪模式会尽可能短地去匹配，我把这两者之间的区别写到了下面这张图中。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e4ad95e6bf25deec19046454ba7c8ac5a6e11a4a520a48dd89e03d8381b5fa61.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e4/e4ad95e6bf25deec19046454ba7c8ac5a6e11a4a520a48dd89e03d8381b5fa61.png)
 
 为了让你加深理解，我们再来看一个示例，这一次让我们查找一下引号中的单词。
 
 从下面这个示例中，我们可以很容易看出两者对比上的差异。左右的文本是一样的，其中有两对双引号。不同之处在于，左边的示例中，不加问号时正则是贪婪匹配，匹配上了从第一个引号到最后一个引号之间的所有内容；而右边的图是非贪婪匹配，找到了符合要求的结果。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/96/96b25dc3ffabb85356c08b172942ba38a8ecbd9f052090042cf2f0b123ccfb59.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/96/96b25dc3ffabb85356c08b172942ba38a8ecbd9f052090042cf2f0b123ccfb59.png)
 
 ### 2.3 独占模式（Possessive）
 
@@ -121,7 +121,7 @@ text = "xyyz"
 
 在匹配时，`y{1,3}`会尽可能长地去匹配，当匹配完 `xyy` 后，由于 y 要尽可能匹配最长，即三个，但字符串中后面是个 z 就会导致匹配不上，这时候正则就会向前回溯，吐出当前字符 z，接着用正则中的 z 去匹配。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ab/abcb4b6bb1a7ca622d067db734cd73039d8e14121908e1b4a19aec9d755e72e0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ab/abcb4b6bb1a7ca622d067db734cd73039d8e14121908e1b4a19aec9d755e72e0.png)
 
 如果我们把这个正则改成非贪婪模式，如下：
 
@@ -132,7 +132,7 @@ text = "xyyz"
 
 由于 `y{1,3}?` 代表匹配 1 到 3 个 y，尽可能少地匹配。匹配上一个 y 之后，也就是在匹配上 text 中的 xy 后，正则会使用 z 和 text 中的 xy 后面的 y 比较，发现正则 z 和 y 不匹配，这时正则就会**向前回溯**，重新查看 y 匹配两个的情况，匹配上正则中的 xyy，然后再用 z 去匹配 text 中的 z，匹配成功。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/ed3dbb6c9e9ae2e690392b9d153d3ac4476506e2ec3bfd83afb2b4ca1936d3b9.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ed/ed3dbb6c9e9ae2e690392b9d153d3ac4476506e2ec3bfd83afb2b4ca1936d3b9.png)
 
 了解了回溯，我们再看下独占模式。
 
@@ -143,7 +143,7 @@ regex = "xy{1,3}+yz"
 text = "xyyz"
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/07/07295b4fc88ae1aa6cdf5a67e9019253fa3cc68014e60df530b353ce85c38352.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/07/07295b4fc88ae1aa6cdf5a67e9019253fa3cc68014e60df530b353ce85c38352.png)
 
 需要注意的是 Python 和 Go 的标准库目前都不支持独占模式，会报错，如下所示：
 
@@ -171,7 +171,7 @@ error: multiple repeat at position 7
 
 如果你用 `a{1,3}+ab` 去匹配 `aaab` 字符串，`a{1,3}+` 会把前面三个 a 都用掉，并且不会回溯，这样字符串中内容只剩下 b 了，导致正则中加号后面的 a 匹配不到符合要求的内容，匹配失败。如果是贪婪模式 `a{1,3}` 或非贪婪模式 `a{1,3}?` 都可以匹配上。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/25bcd7cd7308a78517654ce6ab0193c6fe579c5f049279ac9c85393346740fc9.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/25/25bcd7cd7308a78517654ce6ab0193c6fe579c5f049279ac9c85393346740fc9.jpg)
 
 这里我简单总结一下，独占模式性能比较好，可以节约匹配的时间和 CPU 资源，但有些情况下并不能满足需求，要想使用这个模式还要看具体需求（比如我们接下来要讲的案例），另外还得看你当前使用的语言或库的支持程度。
 
@@ -218,7 +218,7 @@ error: multiple repeat at position 7
 
 最后我来给你总结一下：正则中量词默认是贪婪匹配，如果想要进行非贪婪匹配需要在量词后面加上问号。贪婪和非贪婪匹配都可能会进行回溯，独占模式也是进行贪婪匹配，但不进行回溯，因此在一些场景下，可以提高匹配的效率，具体能不能用独占模式需要看使用的编程语言的类库的支持情况，以及独占模式能不能满足需求。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/24/24d6ae39f8052663cd270334d7dab7cf1a48918e1fe4d06cb645f0b4a908dcb4.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/24/24d6ae39f8052663cd270334d7dab7cf1a48918e1fe4d06cb645f0b4a908dcb4.png)
 
 ## 5. 课后思考
 
@@ -252,7 +252,7 @@ error: multiple repeat at position 7
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -268,4 +268,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

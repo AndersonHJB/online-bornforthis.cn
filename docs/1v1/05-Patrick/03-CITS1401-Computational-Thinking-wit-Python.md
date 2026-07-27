@@ -22,9 +22,9 @@ backToTop: true
 toc: true
 ---
 
-## [**SampleData.csv**](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/05-Patrick/03-CITS1401-Computational-Thinking-wit-Python/SampleData.csv)
+## [**SampleData.csv**](https://blog.images.bornforthis.cn/1v1/05-Patrick/03-CITS1401-Computational-Thinking-wit-Python/SampleData.csv)
 
-## [**CITS1401-Project-2-S2-2022.pdf**](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/05-Patrick/03-CITS1401-Computational-Thinking-wit-Python/CITS1401-Project-2-S2-2022.pdf)
+## [**CITS1401-Project-2-S2-2022.pdf**](https://blog.images.bornforthis.cn/1v1/05-Patrick/03-CITS1401-Computational-Thinking-wit-Python/CITS1401-Project-2-S2-2022.pdf)
 
 **Project 2:** 
 
@@ -60,7 +60,7 @@ In this project, you are required to write a computer program that can read the 
 
 >   在这个项目中，您被要求编写一个计算机程序，可以从提供给您的CSV(逗号分隔值)文件中读取数据。该文件包含表1中提到的每个受试者的7个面部标志的X、Y和Z轴的3D坐标。你的任务是写一个满足以下要求的程序。
 
-![image-20221018124254056](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fe/fec67d070caa88baf753c62c95e197fc4e763fa4035fc11781d2359192919099.png)
+![image-20221018124254056](https://blog.images.bornforthis.cn/docs-images/sha256/fe/fec67d070caa88baf753c62c95e197fc4e763fa4035fc11781d2359192919099.png)
 
 
 
@@ -86,7 +86,7 @@ The input arguments to this function are:
 >
 >   下面是示例文件的前两行。
 
-![image-20221018124449914](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fb/fb8bf0d57ac59e300411f383c210875ac813920aae3a7d09c96d93dc67dcd59e.png)
+![image-20221018124449914](https://blog.images.bornforthis.cn/docs-images/sha256/fb/fb8bf0d57ac59e300411f383c210875ac813920aae3a7d09c96d93dc67dcd59e.png)
 
 The first row of the CSV file contains the following headers: 
 
@@ -2213,7 +2213,7 @@ if __name__ == '__main__':
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 

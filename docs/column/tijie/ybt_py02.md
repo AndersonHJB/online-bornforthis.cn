@@ -52,7 +52,7 @@ toc: true
 
 题目中有 5 位小朋友，他们初始时糖果的数目不确定，用 a、b、c、d、e 分别存储五个小朋友的糖果数，初始值由键盘输入。
 
-![image-20220706192227598](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1a/1a5b5783c82bd01eebd32382d45897d1d63df469b6fd0c8d2306cd7387a07478.png)
+![image-20220706192227598](https://blog.images.bornforthis.cn/docs-images/sha256/1a/1a5b5783c82bd01eebd32382d45897d1d63df469b6fd0c8d2306cd7387a07478.png)
 
 ## 【代码实现】
 
@@ -90,7 +90,7 @@ print("%5d" % a, "%5d" % b, "%5d" % c, "%5d" % d, "%5d" % e, sep="")  # 按五�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -106,7 +106,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

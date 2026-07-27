@@ -32,23 +32,23 @@ SSH(Secure Shell) 是允许两台电脑之间通过安全连接进行数据交�
 
 1. 点开 [ GitHub ](https://github.com/) 账号头像下的 `Settings`
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/90/90eb989583bfb4e35c83007926eef54eb19b178e9c1cb3b9554635cde387f52b.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/90/90eb989583bfb4e35c83007926eef54eb19b178e9c1cb3b9554635cde387f52b.png)
 
 2. 找到 `Settings` 下的 `SSH and GPG keys`，点击 `generating SSH keys`，点击后会打开一个新的页面。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c7/c7e7d3beb42b3758aef6a9564e9caa66522b60d00d313595850a2e3a701a8ca2.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/c7/c7e7d3beb42b3758aef6a9564e9caa66522b60d00d313595850a2e3a701a8ca2.png)
 
 3. 在新的页面中选择 `Generating a new SSH key and adding it to the ssh-agent`
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bb/bb78effded8ac0a70d4af1052e674ea13126f6d5b7166569357e6e4b5370babb.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/bb/bb78effded8ac0a70d4af1052e674ea13126f6d5b7166569357e6e4b5370babb.png)
 
 4. 注意选择对应操作系统的教程。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/89/89666b780c59ee3cea736aabcc0afb5a02d134b5033a6ee72e7f9907898c2773.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/89/89666b780c59ee3cea736aabcc0afb5a02d134b5033a6ee72e7f9907898c2773.png)
 
 5. 往下滑动页面会看到 GitHub 给出的 Mac 下生成 SSH Key 的指南，按照指南的步骤一步一步进行。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a92c392ddbff2f88223a41d2e3dc4ebc65f07cbccf4f79739fec66c460afaa19.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/a9/a92c392ddbff2f88223a41d2e3dc4ebc65f07cbccf4f79739fec66c460afaa19.png)
 
 6. 打开终端（Terminal），复制粘贴以下文本到终端，把 `your_email@example.com` 替换成你注册 GitHub 时使用的邮箱，然后按下Enter键。
 
@@ -56,15 +56,15 @@ SSH(Secure Shell) 是允许两台电脑之间通过安全连接进行数据交�
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/02/020d56a2ba8cfa4303517a5da83b3608aec279b9d0634d2c39cab39d3a7ab6db.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/02/020d56a2ba8cfa4303517a5da83b3608aec279b9d0634d2c39cab39d3a7ab6db.png)
 
 - 如果你不记得注册 GitHub 时使用的邮箱，可以从 `Settings` 中的 `Emails` 中查看。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a6/a661c956698c1082ea6ab0ed574797e10c7649423708b2007b8ea388dfe5754c.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/a6/a661c956698c1082ea6ab0ed574797e10c7649423708b2007b8ea388dfe5754c.png)
 
 7. 出现 `Enter file in which to save the key(...)` ，按下 `Enter` 键，一直按 `Enter` 直到出现以下画面。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/165cd0e7d0b5bbad14143d56e4b64f8c1bb71f28f7a8272738ffa1388c6af299.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/16/165cd0e7d0b5bbad14143d56e4b64f8c1bb71f28f7a8272738ffa1388c6af299.png)
 
 8. 🎉 恭喜你的 SSH Key 已经生成成功，接下来把生成的 SSH Key 添加到 ssh-agent。
 
@@ -88,7 +88,7 @@ open ~/.ssh/config
 
 - 如果像我一样显示这个 config 文件不存在，则创建这个文件
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f0/f03d5aade2149d8e47f01dad3c5a91543eb04172afb3e72cbca8214a29bac735.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/f0/f03d5aade2149d8e47f01dad3c5a91543eb04172afb3e72cbca8214a29bac735.png)
 
 ```shell
 touch ~/.ssh/config	
@@ -111,17 +111,17 @@ Host *
 
 - 粘贴代码后按 `control+X` 退出编辑器
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/48/480ccbbee27d7c7c3e2c56a77c0c24481dbfc9e060eba34fec6f549d8dc353c0.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/48/480ccbbee27d7c7c3e2c56a77c0c24481dbfc9e060eba34fec6f549d8dc353c0.png)
 
 - 输入 `y` 保存更改
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/64/646803fa9ed1d25a1dfd5674f0459e64751aae0fb71b1c913923b72177b1e7d8.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/64/646803fa9ed1d25a1dfd5674f0459e64751aae0fb71b1c913923b72177b1e7d8.png)
 
 
 
 - 出现这个画面后再按 `Enter` 键
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5e/5e4793bb2013eae33ccd2af1b2bbd4d34b91c011239502fa41b6213bd1c3cc6e.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/5e/5e4793bb2013eae33ccd2af1b2bbd4d34b91c011239502fa41b6213bd1c3cc6e.png)
 
 3. 将 SSH Key 添加到 ssh-agent。如果你使用的是[ **Mac Monterey(12.0)及以上版本**](https://docs.github.com/cn/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#adding-your-ssh-key-to-the-ssh-agent)，请使用以下命令（~~因为在Mac Monterey(12.0)及以上版本中，`-K` 标志已经被废弃，被 `--apple-use-keychain` 代替~~）。
 
@@ -137,7 +137,7 @@ ssh-add -K ~/.ssh/id_ed25519
 
 - 🎉 出现 `Identity added` 即表示添加成功。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f669704613b85c0449523bdf57f5f5b9a7ef45359e79f9c33a22a5faa0040b76.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/f6/f669704613b85c0449523bdf57f5f5b9a7ef45359e79f9c33a22a5faa0040b76.png)
 
 ## 添加 SSH Key 到 GitHub
 
@@ -149,7 +149,7 @@ pbcopy < ~/.ssh/id_ed25519.pub
 
 2. 再次打开 GitHub `Settings` 下的 `SSH and GPG Key` ，点击 `New SSH key`
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1e/1e833a58705785194d9225afd9fc16fbf52c39c17f734b117b3d34c92245d58c.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/1e/1e833a58705785194d9225afd9fc16fbf52c39c17f734b117b3d34c92245d58c.png)
 
 3. 添加本机生成的 SSH Key 到 GitHub：
 
@@ -158,7 +158,7 @@ pbcopy < ~/.ssh/id_ed25519.pub
 - 在 **Key** 中 `Command+V` 粘贴刚刚复制的 SSH Key
 - 添加后点击
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/18/187f5cfaf67275087a280ebe49a777f4c45969e3236ac34acf9d549f313f2439.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/18/187f5cfaf67275087a280ebe49a777f4c45969e3236ac34acf9d549f313f2439.png)
 
 4. 🎉 添加完成。
 
@@ -166,7 +166,7 @@ pbcopy < ~/.ssh/id_ed25519.pub
 
 1. 选择一个要用 SSH Key clone 的仓库，复制这个仓库的 SSH 链接。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e8/e824cd4c9a7c5d3e43d52cab3aa3c945f0c7d2cf66e50edc9c0cb6ac79d494ad.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/e8/e824cd4c9a7c5d3e43d52cab3aa3c945f0c7d2cf66e50edc9c0cb6ac79d494ad.png)
 
 2. 在终端输入:
 
@@ -174,7 +174,7 @@ pbcopy < ~/.ssh/id_ed25519.pub
 git clone [ssh-url]
 ```
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9f/9f4b3ac3e6f3f2b5e5b7b5182ba3fe58624e7b0f68736c9f020df683ef59dd48.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/9f/9f4b3ac3e6f3f2b5e5b7b5182ba3fe58624e7b0f68736c9f020df683ef59dd48.png)
 
 1. 🎉 clone 成功即代表 SSH Key 添加成功。
 
@@ -186,7 +186,7 @@ git clone [ssh-url]
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -202,4 +202,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -37,7 +37,7 @@ They’re calling it a “goldrush” with “zero competition.”
 
 So, here’s my dead-simple, three-step plan to get you in on this before it gets crowded. Grab a coffee, and let’s do this.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b7/b78ea848af97d4a29856e560bb1a4b82383ce5757672d7f1a89365949d05103b.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b7/b78ea848af97d4a29856e560bb1a4b82383ce5757672d7f1a89365949d05103b.jpeg)
 
 ## What’s an MCP Server?
 
@@ -232,7 +232,7 @@ I built my book shop MCP in 10 hours with zero MCP experience, mostly because I 
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -248,7 +248,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 :::
 

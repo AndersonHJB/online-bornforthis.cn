@@ -25,7 +25,7 @@ backToTop: true
 
 ::: center
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a9a8469a4fb14e3649b46861327bec7acc091a8db176e0468d7adff161114342.jpg)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/a9/a9a8469a4fb14e3649b46861327bec7acc091a8db176e0468d7adff161114342.jpg)
 
 :::
 
@@ -71,7 +71,7 @@ backToTop: true
 
 首先 Vmware 上新建虚拟机安装 CentOS7.5，root 用户登录：
 
-![图片描述](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/70/70543d90f2e235e7dba512b67e4f393ec1cde50b37513e21d84523449d6f380a.png)
+![图片描述](https://blog.images.bornforthis.cn/docs-images/sha256/70/70543d90f2e235e7dba512b67e4f393ec1cde50b37513e21d84523449d6f380a.png)
 
 ```sh
 [root@iZ8vbexjmeno0adswvyk5nZ ~]# cat /etc/redhat-release 
@@ -132,7 +132,7 @@ mysql -uroot -p
 
 输入上面命令后，系统会提示我们输入密码，此时 root 默认密码为空，直接回车即可。
 
-![图片描述](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/59/594dd8572077d71416bd255755bafc263daa4296e86ab8b98c80e7f1bdc73464.png)
+![图片描述](https://blog.images.bornforthis.cn/docs-images/sha256/59/594dd8572077d71416bd255755bafc263daa4296e86ab8b98c80e7f1bdc73464.png)
 
 如果要退出 MariaDB，输入 `exit;` 后回车即可。
 
@@ -215,7 +215,7 @@ systemctl restart mariadb #重新启动
 
 - DDL（Data Definition Language，数据定义语言）  **日常使用的创建数据库或表的 Create 语句，删除数据库或表的 Drop 语句，以及修改数据库或表的 alter 语句都属于该类型**，比如我们在 SQL Server 上的数据库中创建一张学生表：
 
-![图片描述](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/68/680145e4b3ff62ad52b3d3e66b5ef2844d5942064b8e452451eb2253c2fdf27b.png)
+![图片描述](https://blog.images.bornforthis.cn/docs-images/sha256/68/680145e4b3ff62ad52b3d3e66b5ef2844d5942064b8e452451eb2253c2fdf27b.png)
 
 ```sql
 CREATE TABLE [dbo].[student] (
@@ -232,7 +232,7 @@ PRIMARY KEY CLUSTERED
 
 - DML（Data Manipulation Language，数据操作语言）**对表的增删改查都属于 DML语句** ，比如我们查询年龄大于29岁的学生：
 
-![图片描述](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7b/7b576ad88386e47b9b69c202c83c1b6fd4a68ce6bd4d0dd0186a1fc11bc42c7e.png)
+![图片描述](https://blog.images.bornforthis.cn/docs-images/sha256/7b/7b576ad88386e47b9b69c202c83c1b6fd4a68ce6bd4d0dd0186a1fc11bc42c7e.png)
 
 - 除此之外，还有 DCL（Data Control Language，数据控制语言）， **它主要完成对数据库变更操作的确认和取消，以及用户对数据库对象权限的设定** 。比如 update 语句后面出现 commit 表示确认更新完成，出现 rollback 代表取消更新，数据保持不变。
 
@@ -284,7 +284,7 @@ mysql> show databases;
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -300,4 +300,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

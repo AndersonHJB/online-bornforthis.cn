@@ -26,9 +26,9 @@ toc: true
 
 直接访问：
 
-![1.gif](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8b/8b966f12d2dc86c3c02b8596c2654e576f63b08fbd3014b509af9d68b109a1aa.gif)
+![1.gif](https://blog.images.bornforthis.cn/docs-images/sha256/8b/8b966f12d2dc86c3c02b8596c2654e576f63b08fbd3014b509af9d68b109a1aa.gif)
 
-![2.gif](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/06/06353ceec4834dc4ce378daa5179d126a409ff0f4824434efec9bb04c3d75c88.gif)
+![2.gif](https://blog.images.bornforthis.cn/docs-images/sha256/06/06353ceec4834dc4ce378daa5179d126a409ff0f4824434efec9bb04c3d75c88.gif)
 
 不加 headers：
 
@@ -41,7 +41,7 @@ html = requests.get(url).content
 with open("image.png", mode="wb") as f:
     f.write(html)
 ```
-![image.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cd/cdfddf335dffdb8bea122376c977b474307b858ef100b9aeb55782094234a7dc.png)
+![image.png](https://blog.images.bornforthis.cn/docs-images/sha256/cd/cdfddf335dffdb8bea122376c977b474307b858ef100b9aeb55782094234a7dc.png)
 
 加上 headers：
 
@@ -58,13 +58,13 @@ html = requests.get(url, headers=headers).content
 with open("image.png", mode="wb") as f:
     f.write(html)
 ```
-![image.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ac/ac97533556b9db60d024b96e41f311b5937b686fdc47e923fd3e26d3e139519f.png)
+![image.png](https://blog.images.bornforthis.cn/docs-images/sha256/ac/ac97533556b9db60d024b96e41f311b5937b686fdc47e923fd3e26d3e139519f.png)
 
 欢迎关注我公众号：AI悦创，有更多更好玩的等你发现！
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -80,5 +80,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

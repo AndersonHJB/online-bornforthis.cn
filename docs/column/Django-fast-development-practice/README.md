@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: django
 title: Django 3 - Full Stack Websites with Python Web Development
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4f/4f2bd5617c76343e3b2ae1627676810d9860b78e13f04f60e47bc88dcbe27a7f.jpg
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/4f/4f2bd5617c76343e3b2ae1627676810d9860b78e13f04f60e47bc88dcbe27a7f.jpg
 heroText: Django开发实战
 heroFullScreen: false
 tagline: 从开发到部署，掌握项目开发全流程
@@ -43,7 +43,7 @@ Django 是当前最流行的 Python Web 框架，很多知名产品比如 Instag
 
 ## 课程目录
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bc/bcf352afa703698c39001413f09fff0408be8dfb482d5a0832815bb19e46293f.jpg)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/bc/bcf352afa703698c39001413f09fff0408be8dfb482d5a0832815bb19e46293f.jpg)
 
 ## 适合人群
 
@@ -56,7 +56,7 @@ Django 是当前最流行的 Python Web 框架，很多知名产品比如 Instag
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -72,4 +72,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

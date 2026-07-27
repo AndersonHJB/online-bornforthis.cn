@@ -185,11 +185,11 @@ For this assignment you will be creating 'matching game' that will allow visitor
 
 > 对于这个作业，你将创建一个“匹配游戏”，允许访问者尝试和匹配一系列隐藏的令牌。速度是关键，最好的时间将被存储在你的电脑上的“高分”-未来的玩家将需要尝试并打破这个分数，以成为新的匹配冠军!下面是一段简短的视频，展示了该系统的基本功能:
 
-<VidStack src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/30-Assignment06-Matching-Game/webdev%20matching%20game_360p.mp4" />
+<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/30-Assignment06-Matching-Game/webdev%20matching%20game_360p.mp4" />
 
 Your program should do the following. [You can download all of the artwork used in this project here](https://cs.nyu.edu/courses/spring23/CSCI-UA.0061-001/images/assignment06/assignment06_images.zip).
 
-> 您的程序应该执行以下操作。你可以在这里下载这个项目中使用的所有艺术品。[assignment06_images.zip](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/30-Assignment06-Matching-Game/assignment06_images.zip)
+> 您的程序应该执行以下操作。你可以在这里下载这个项目中使用的所有艺术品。[assignment06_images.zip](https://blog.images.bornforthis.cn/1v1/06-KAI/30-Assignment06-Matching-Game/assignment06_images.zip)
 
 - Layout
     - A 'start' screen that introduces the user to your game and provides them with a button to start the game. This element should be visible to the user when the page loads.「“开始”屏幕，向用户介绍你的游戏，并提供一个开始游戏的按钮。当页面加载时，该元素应该对用户可见。」
@@ -306,7 +306,7 @@ Thoroughly test your work and make sure that it meets the requirements set forth
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -322,4 +322,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

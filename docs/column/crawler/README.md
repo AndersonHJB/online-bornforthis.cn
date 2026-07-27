@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: home
 title: Crawler
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/151bedf2779bfdf4cddbc8cc5c78e5b5a5f1544db70bd3b7ccdaf644b4faefcc.png
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/15/151bedf2779bfdf4cddbc8cc5c78e5b5a5f1544db70bd3b7ccdaf644b4faefcc.png
 heroText: 爬虫专栏
 heroFullScreen: false
 tagline: 快速带你入门 Python3 网络爬虫
@@ -76,7 +76,7 @@ footer: 立志降低教育成本，普及编程教育，提供优质资源教程
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -92,4 +92,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

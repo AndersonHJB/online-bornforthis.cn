@@ -21,7 +21,7 @@ toc: true
 
 说到“计算机”或者“人工智能”这样的话题，你常常会看到这么一个词，叫“**人机大战**”。意思就是，人类和计算机程序，一起玩儿一个**游戏**，在游戏里对抗，看看到底是人能胜过计算机，还是计算机能胜过人。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a2/a20bd6b5620e3902c1de764fba5af3e25d89ff9be6d6e73619b74a6a00c201dd.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a2/a20bd6b5620e3902c1de764fba5af3e25d89ff9be6d6e73619b74a6a00c201dd.png)
 
 
 
@@ -29,7 +29,7 @@ toc: true
 
 “人机大战”这个话题啊，听起来蛮时髦、蛮高科技的。但你可能想不到，这样的“人机大战”，早在**三十年前**就开打了，而且战火波及了**扑克类游戏、象棋、围棋甚至是电子游戏**上。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/51bba7d5e21ee0cbb4d4254e46459eb9529d3754c4f41fbd3703400c2b8ccdc0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/51/51bba7d5e21ee0cbb4d4254e46459eb9529d3754c4f41fbd3703400c2b8ccdc0.png)
 
 其中最精彩的，要数在下棋这个领域的竞争了。为啥是下棋这个领域呢？因为你下的每一步都有好多**好多种可能性**，不知道怎么走最好，玩儿起来特别烧脑。
 
@@ -45,11 +45,11 @@ toc: true
 
 人机大战的第一场战斗发生在“**英国跳棋**”战场上。这种跳棋和你平时玩儿的跳棋不太一样，棋盘长得有点像国际象棋的棋盘，我也在音频封面上放了一张英国跳棋的照片，你可以点开看一眼。不光棋盘长得不一样，走法也有些区别，可以跳过对方的棋子把它吃掉。
 
-![英国跳棋](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7a/7ae1b9d5b4f2ba15899dceb3f81a383ee004f889e5e9ed64efda7bd148bfb503.png)
+![英国跳棋](https://blog.images.bornforthis.cn/docs-images/sha256/7a/7ae1b9d5b4f2ba15899dceb3f81a383ee004f889e5e9ed64efda7bd148bfb503.png)
 
 当时玩英国跳棋玩得最好的，是一个数学家，名字叫**马里恩·汀斯雷**。他玩儿得有多好呢？他不仅仅是英国跳棋的世界冠军，而且在长达40年的时间里，几乎没有人能战胜他。所以，在那段时间里，他是名副其实的“**英国跳棋王**”。
 
-![英国跳棋王](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/21/21d451b36646a3b296a4521ff4f2e8f7147f50f0174ee3b7844af9bc16a44ae3.jpg)
+![英国跳棋王](https://blog.images.bornforthis.cn/docs-images/sha256/21/21d451b36646a3b296a4521ff4f2e8f7147f50f0174ee3b7844af9bc16a44ae3.jpg)
 
 虽然“英国跳棋王”已经天下无敌了，但还是有人向他发起了挑战，这个对手名叫**奇诺克**。它不是人类，而是一台专门下英国跳棋的机器人。
 
@@ -85,7 +85,7 @@ toc: true
 
 这种一层层一步步的思考方式叫做**结构化思考**，这对咱们的生活特别有用。假如新学期刚开始，老师突然给你一项任务，让你组织一场班会，来一场才艺表演，虽然班上的同学也都愿意帮你，但具体要怎么**分配任务**呢？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fc/fc7893001b0cc3c40882b2472c5f9f296e566f5efd4ceb2a6cb1fd2dca327298.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fc/fc7893001b0cc3c40882b2472c5f9f296e566f5efd4ceb2a6cb1fd2dca327298.png)
 
 你可能会想，得有人给演员们准备服装道具，得有人布置教室，好像还得找人去买点小零食水果。可这样分配任务，搞不好就会漏掉一些环节。这时候，你就可以用结构化思考来解决这个问题。
 
@@ -99,7 +99,7 @@ toc: true
 
 诶，计算机科学家们也是这么想的，接下来，他们就选了一个在世界范围内更普遍的游戏，**国际象棋**。下国际象棋的人可比英国跳棋多多了，下的人多，大师之间的竞争也更激烈。
 
-![国际象棋](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cb71bd1e76b9541758af1c9983399f417fd1eb995e76628ad81c32a835ee1913.png)
+![国际象棋](https://blog.images.bornforthis.cn/docs-images/sha256/cb/cb71bd1e76b9541758af1c9983399f417fd1eb995e76628ad81c32a835ee1913.png)
 
 
 

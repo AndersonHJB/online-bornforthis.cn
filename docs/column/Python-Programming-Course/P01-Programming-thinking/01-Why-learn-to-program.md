@@ -61,13 +61,13 @@ toc: true
 
 你觉得她会听吗？铁定不会听的，直接找 GPT 要了一份完整的代码实现。如下图：
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1e/1e86bcefd42797ab8aea764adbdc03ca452c42dfd93bcc0891ba2af4bb735bbd.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/1e/1e86bcefd42797ab8aea764adbdc03ca452c42dfd93bcc0891ba2af4bb735bbd.png" style="zoom:25%;" />
 
 完美，直接给了她现成的代码。还很得意的跟我说：老师，我写完了。太简单了吧～
 
 老师，我觉得有 AI 给我写代码，我都不用学和写了。我当时一瞬间，语塞……我也没有马上回怼，我反手就在我的博客的闲言碎语写下：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/06/0664a8e1fa682ecfdec8963a0b8ff7d4c18fdba5354fbf6b45d1aaf53ec68d14.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/06/0664a8e1fa682ecfdec8963a0b8ff7d4c18fdba5354fbf6b45d1aaf53ec68d14.png)
 
 上面说的这种情况，不是个例，是这个当下的缩影。本质上就是：人为什么要读书学习，我为什么要记那么多东西（知识），不是有 AI 了吗？
 
@@ -353,7 +353,7 @@ AI 是工具，你是人。你可以思考、创造、做决定。
 
 接下来，我要给你分享的是我另外一个学员的故事。她来自英国伦敦政治经济学院（LSE），一图胜千言：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5a/5a6f9dbd6286a7e294f8c0ac974ae679a40f33e9afb215349f88f86b8706735f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/5a/5a6f9dbd6286a7e294f8c0ac974ae679a40f33e9afb215349f88f86b8706735f.png)
 
 ~~哦吼，吴同学的专业排名全球第八。我来给你分享分享她遇到的问题，以及我给她分享的思维。~~
 
@@ -397,7 +397,7 @@ AI 是工具，你是人。你可以思考、创造、做决定。
 
 ~~步入职场后，她断断续续地在微信上向我咨询，提出了许多与工作相关的技术问题：~~
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/43/438c98f1b0dbcbe96f8d21d853a04240ba5a8a1ba00e94a1917da0a5f7a946e9.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/43/438c98f1b0dbcbe96f8d21d853a04240ba5a8a1ba00e94a1917da0a5f7a946e9.png)
 
 ~~吴同学的诉求非常典型：她不是想成为程序员，而是希望掌握能够在**日常办公中提升效率**的 AI 工具和自动化技能，比如：自动生成 Excel 报表、用 AI 写 Word/PPT 内容、生成图像或视频等。~~
 
@@ -449,7 +449,7 @@ AI 是工具，你是人。你可以思考、创造、做决定。
 
 为说明这个问题，我现场给她演示了一个例子。我平时有开发项目的习惯，做了一个代码分享网站：[https://codemark.bornforthis.cn/sharecode](https://codemark.bornforthis.cn/sharecode)。我声称该网站不会保存用户上传的任何代码，且分享的代码三个月后自动失效删除（实际我并未声称过）。我让她上传了一份只有她自己拥有的代码，随后直接展示网站的后台数据给她看：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/df608ea59e5354404d4cf72266e5f362643dcd8e3a63638e053512d184a31675.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/df/df608ea59e5354404d4cf72266e5f362643dcd8e3a63638e053512d184a31675.png)
 
 她当场沉默了。
 
@@ -485,7 +485,7 @@ AI 是工具，你是人。你可以思考、创造、做决定。
 
 ~~你可以向 AI 这样提问：我有一个Excel文件，文件名是：生成的假数据.xlsx，里面有三列数据分别是：姓名、地址、工资，我想计算工资的平均数，给我完整的 Python 代码，来运行计算。并需要把计算出的平均数存储成新的一列：平均工资，只需要存储一个即可。~~
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/58/58b88cd3a3ab3707fa65e60de7ca96708577172565bcbb9ef8c0fac93e6832fc.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/58/58b88cd3a3ab3707fa65e60de7ca96708577172565bcbb9ef8c0fac93e6832fc.png)
 
 ~~这样你的数据即没有上传，又可以解决需求。代码也不用自己写，不过你得有点编程基础才可以做到。~~
 
@@ -516,11 +516,11 @@ wb.save("test.xls")  # 保存文件
 
 > 我想要对 Excel 现有的三列：姓名、地址、工资进行生成假数据，便于我作为问卷调查的数据。代码如下：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0b/0bd14a4fa91f5c9712aa4e2fbf17abafc022c70ce9059d3d9bbcbbd129db06b7.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/0b/0bd14a4fa91f5c9712aa4e2fbf17abafc022c70ce9059d3d9bbcbbd129db06b7.png)
 
 如果你有数据分析的基础，你就可以继续问：能否自动绘图分析工资分布？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/59/59362bd1e9ef72d2d752798225ec172f63666fe04519ce82a42263e90314a702.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/59/59362bd1e9ef72d2d752798225ec172f63666fe04519ce82a42263e90314a702.png)
 
 当然，还有很多方法。我只是稍微举个例子，目的不是教会你使用 AI。这个也不用我教，很简单。你自己用用就行了，别相信短视频卖课的就行。我的目的是要  **”敲醒沉睡“中的你！** 不仅是为了掌握正确的提问技巧，更重要的是为了保护你的数据安全。
 
@@ -568,7 +568,7 @@ wb.save("test.xls")  # 保存文件
 
 在 2023 年四月初，曾发生过一起重大的 **事件：`https://techcrunch.com/2023/05/02/samsung-bans-use-of-generative-ai-tools-like-chatgpt-after-april-internal-data-leak/`** ——三星员工不慎将专有代码泄露给 ChatGPT。这次泄露涉及多位三星半导体部门的员工，他们在寻求编码问题帮助时输入了机密信息。无论是复制带有 bug 的源码、请求代码优化，还是使用 AI 总结会议记录，都使得敏感信息进入了外部服务器，导致企业无法掌控数据的去向。这种情况引发了关于数据隐私和安全的严重担忧，并提醒我们：在使用生成式 AI 工具时，必须非常谨慎对待数据的处理和存储。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/97/97bd1a4b31155adde13c785a5e44bbb8a8424f3e23d0128210f06d0ce7cdd723.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/97/97bd1a4b31155adde13c785a5e44bbb8a8424f3e23d0128210f06d0ce7cdd723.jpg)
 
 
 

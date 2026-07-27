@@ -24,7 +24,7 @@ toc: true
 
 ## 字符串定义
 
-![image-20230110190819252](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/17d751cf2518e7e2405aebec37faf2fe47062a749daebc180bac26fbe9163012.png)
+![image-20230110190819252](https://blog.images.bornforthis.cn/docs-images/sha256/17/17d751cf2518e7e2405aebec37faf2fe47062a749daebc180bac26fbe9163012.png)
 
 ## 字符串为什么会有三种创建方法
 
@@ -95,7 +95,7 @@ el
 el
 ```
 
-![image-20230110195254943](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/04/04dc2156e7549cd25fff65ea30136b5a8483517d8a80d279aaab69e6e3348ae9.png)
+![image-20230110195254943](https://blog.images.bornforthis.cn/docs-images/sha256/04/04dc2156e7549cd25fff65ea30136b5a8483517d8a80d279aaab69e6e3348ae9.png)
 
 ### 提取有间隔/切片的数据
 
@@ -143,7 +143,7 @@ print(s[::-1])
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -159,4 +159,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

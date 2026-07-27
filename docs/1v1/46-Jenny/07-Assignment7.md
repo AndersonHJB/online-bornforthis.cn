@@ -35,7 +35,7 @@ The folder `/home/OMIS107/HW7` contains an executable program, `prc`. It asks th
 
 > `/home/OMIS107/HW7`文件夹中包含一个可执行程序`prc`。它要求用户输入“他/她”的名字和一个数字，程序将其乘以2。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9f/9fddaf6bd00663e1de23d0906809b8edfb133b57189e08275d3f97a8b7e09f2b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9f/9fddaf6bd00663e1de23d0906809b8edfb133b57189e08275d3f97a8b7e09f2b.png)
 
 Run the program giving longer and longer names, and see what happens to the arithmetic operation.
 
@@ -45,7 +45,7 @@ Your task: when prompted for your name, input something that makes the arithmeti
 
 > 你的任务:当提示输入你的名字时，输入一些东西，使算术运算看起来不正确，但不会导致分割错误，如下面的例子所示:
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/af/af3bc84b5913bd5788c0e6426b5d5416f605b1f3c6eb9bf2bd2bc481665ec9e0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/af/af3bc84b5913bd5788c0e6426b5d5416f605b1f3c6eb9bf2bd2bc481665ec9e0.png)
 
 Submit a document (pdf, docx, etc) containing two things:
 
@@ -61,7 +61,7 @@ Submit a document (pdf, docx, etc) containing two things:
 
 ## Screenshot
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/eacfb4788f21f530bde6adde6306d29b2fb980a0d2914747faa194f12d38200c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ea/eacfb4788f21f530bde6adde6306d29b2fb980a0d2914747faa194f12d38200c.png)
 
 ## Explanation
 
@@ -115,7 +115,7 @@ The string passed as input (the name) “smashed” the area of the stack where 
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -131,5 +131,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

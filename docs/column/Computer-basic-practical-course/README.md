@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: caozuoxitong
 title: 计算机基础实战课
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4d/4d616317e381b919a66c71482ed7048ff6189114aafc607c4da90a637ff5f73b.jpeg
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/4d/4d616317e381b919a66c71482ed7048ff6189114aafc607c4da90a637ff5f73b.jpeg
 heroText: 计算机基础实战课
 heroFullScreen: false
 tagline: 系统级工程师“压箱底”的学习笔记
@@ -61,15 +61,15 @@ footer: 立志降低教育成本，普及编程教育，提供优质资源教程
 
 ::: details 图片
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c9/c91185bdea2cdbab92689266203f20f97e9c4fe8d2bfba6c72df76ae908ebe94.jpg)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/c9/c91185bdea2cdbab92689266203f20f97e9c4fe8d2bfba6c72df76ae908ebe94.jpg)
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ac/ac26db0065b9afa219fe65ce3760f8003edeab16e677dd3523d7867dcb3b1c4b.jpg)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/ac/ac26db0065b9afa219fe65ce3760f8003edeab16e677dd3523d7867dcb3b1c4b.jpg)
 
 :::
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -85,4 +85,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

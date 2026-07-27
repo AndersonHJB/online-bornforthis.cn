@@ -20,7 +20,7 @@ copy:
     disableSelection: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2d521474a8a1745e931afc2417d3389820d60fa8756ec9ab64048ec6fecafab8.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2d/2d521474a8a1745e931afc2417d3389820d60fa8756ec9ab64048ec6fecafab8.jpeg)
 
 你好，悦创。
 
@@ -81,7 +81,7 @@ copy:
 
     （你总不能直接问模型：这个人是购物爱好者吗？——大概率我会说，得提供数据才可以得结论。）
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/153390dc1ca2ce689d691caec0a407c20d987bbaf2e15980f4474efe2d92b570.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/15/153390dc1ca2ce689d691caec0a407c20d987bbaf2e15980f4474efe2d92b570.png)
 
 - **例子 2**：判断一段文字情绪（NLP）
 
@@ -407,7 +407,7 @@ copy:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -423,4 +423,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

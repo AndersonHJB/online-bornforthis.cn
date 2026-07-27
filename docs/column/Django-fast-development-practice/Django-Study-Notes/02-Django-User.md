@@ -211,9 +211,9 @@ Django 不会为表单创建提交按钮，因此我们在❹处定义了一个�
 
 这个链接放在既有主题列表的后面。下图显示了生成的表单。请使用这个表单来添加几个新主题。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/05/0503f0d2f94b25d7e794458edab6761c2aa6482566fe44f81b6521e2bf1e0393.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/05/0503f0d2f94b25d7e794458edab6761c2aa6482566fe44f81b6521e2bf1e0393.png)
 
-![**用于添加新主题的页面**](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/28/28515ffd97fb89382140f6b999ba3793538b76d6062d07278f38f77a6cd438de.png)
+![**用于添加新主题的页面**](https://blog.images.bornforthis.cn/docs-images/sha256/28/28515ffd97fb89382140f6b999ba3793538b76d6062d07278f38f77a6cd438de.png)
 
 
 
@@ -386,7 +386,7 @@ def new_entry(request, topic_id):
 
 我们将这个链接放在条目列表前面，因为在这种页面中，执行的最常见的操作是添加新条目。下图显示了页面 `new_entry` 。现在用户可添加新主题，还可在每个主题中添加任意数量的条目。请在一些主题中添加新条目，尝试使用一下页面 `new_entry`。
 
-![页面 new_entry](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2b/2b7450d6c39ecb83ecf448a3f9a366432b738fa019e570f1a1fc3037616fbace.png)
+![页面 new_entry](https://blog.images.bornforthis.cn/docs-images/sha256/2b/2b7450d6c39ecb83ecf448a3f9a366432b738fa019e570f1a1fc3037616fbace.png)
 
 ### 1.3 编辑条目
 
@@ -494,7 +494,7 @@ def edit_entry(request, entry_id):
 
 将编辑链接放在了每个条目的日期和文本后面。在循环中，使用模板标签 `{% url %}` 根据 URL 模式 `edit_entry` 和当前条目的 ID 属性（`entry.id`）来确定 URL。链接文本为 Edit entry，它出现在页面中每个条目的后面。下图显示了包含这些链接时，显示特定主题的页面是什么样的。
 
-![每个条目都有一个用于编辑的链接](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6a/6a1c86b31dc899d8936a76de9155cb7329577e6130f35925322e99e8423876f5.png)
+![每个条目都有一个用于编辑的链接](https://blog.images.bornforthis.cn/docs-images/sha256/6a/6a1c86b31dc899d8936a76de9155cb7329577e6130f35925322e99e8423876f5.png)
 
 至此，“学习笔记”已具备了需要的大部分功能。用户可添加主题和条目，还可根据需要查看任何条目。在下一节，我们将实现一个用户注册系统，让任何人都可向“学习笔记”申请账户，并创建自己的主题和条目。
 
@@ -649,7 +649,7 @@ urlpatterns = [
 
 注销后，访问 [http://localhost:8000/users/login/](http://localhost:8000/users/login/) 将看到类似于下图所示的登录页面。输入你在前面设置的用户名和密码，将进入索引页面。在这个主页的页眉中，显示了一条个性化问候语，其中包含你的用户名。
 
-![**登录页面**](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7a/7aeb9a319f70dfbd621180a30f4288596f256e08e2ad6b2a629956d6de5f8808.png)
+![**登录页面**](https://blog.images.bornforthis.cn/docs-images/sha256/7a/7aeb9a319f70dfbd621180a30f4288596f256e08e2ad6b2a629956d6de5f8808.png)
 
 
 
@@ -692,7 +692,7 @@ urlpatterns = [
 
 下图显示了用户单击 Log out 链接后出现的注销确认页面。这里的重点是创建能够正确工作的网站，因此几乎没有设置样式。确定所需的功能都能正确运行后，我们将设置这个网站的样式，使其看起来更专业。
 
-![**注销确认页面指出用户已成功注销**](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a7/a7485a9bad2388385b3867e8f259c3b006be44ba13658eeb9eda3cca6495d904.png)
+![**注销确认页面指出用户已成功注销**](https://blog.images.bornforthis.cn/docs-images/sha256/a7/a7485a9bad2388385b3867e8f259c3b006be44ba13658eeb9eda3cca6495d904.png)
 
 ### 2.6 注册页面
 
@@ -837,7 +837,7 @@ def register(request):
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -853,4 +853,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

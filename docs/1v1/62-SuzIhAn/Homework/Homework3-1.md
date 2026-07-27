@@ -44,7 +44,7 @@ Look at the image below to see how the symptoms are associated with various poss
 
 Note that there are many cases of nested conditionals and there are some cases where more than one condition can lead to the same diagnosis. Try to write your program to be as concise as possible, and avoid duplicating code as much as you can.
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/98/98315e61ccb6fe6c18410b6ed8e233fbe60e91c54f6f3be3503e42bb4d2de047.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/98/98315e61ccb6fe6c18410b6ed8e233fbe60e91c54f6f3be3503e42bb4d2de047.png)
 
 Image/exercise from *Java: Programming Design* by James Cohoon and Jack Davidson
 
@@ -82,7 +82,7 @@ In addition to the checklist above, use the Pycodestyle linter in your editor to
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -98,5 +98,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

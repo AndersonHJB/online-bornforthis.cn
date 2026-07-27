@@ -20,7 +20,7 @@ toc: true
 
 ## Question 1
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/15e5216e83e6b4c406ae4ae34f04338e0dc5dad29356784a5326b9d5aac7d797.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/15/15e5216e83e6b4c406ae4ae34f04338e0dc5dad29356784a5326b9d5aac7d797.png)
 
 ## Solution 1
 
@@ -46,7 +46,7 @@ toc: true
 
 ## Question 2
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6b/6ba1f3e66127923957601dd72c74933eb37f117df83c664b55fb3a5075a1fa7b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/6b/6ba1f3e66127923957601dd72c74933eb37f117df83c664b55fb3a5075a1fa7b.png)
 
 
 
@@ -80,7 +80,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -96,4 +96,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

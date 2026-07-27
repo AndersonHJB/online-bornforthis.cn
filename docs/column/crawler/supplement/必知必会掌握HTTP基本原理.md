@@ -35,7 +35,7 @@ URL 是 URI 的子集，也就是说每个 URL 都是 URI，但不是每个 URI 
 
 URN 只命名资源而不指定如何定位资源，比如 `urn:isbn:0451450523` 指定了一本书的 ISBN，可以唯一标识这本书，但是没有指定到哪里定位这本书，这就是 URN。URL、URN 和 URI 的关系可以用图表示。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/91d8c0570b40f0af41b6e9a14b0777fc74d5cf498d9f94aec9b3fe0090a03e67.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/91/91d8c0570b40f0af41b6e9a14b0777fc74d5cf498d9f94aec9b3fe0090a03e67.jpeg)
 
 ---
 
@@ -47,11 +47,11 @@ URN 只命名资源而不指定如何定位资源，比如 `urn:isbn:0451450523`
 
 例如，我们在 Chrome 浏览器里面打开任意一个页面，如淘宝首页，右击任一地方并选择 “检查” 项（或者直接按快捷键 F12），即可打开浏览器的开发者工具，这时在 Elements 选项卡即可看到当前网页的源代码，这些源代码都是超文本，如图所示。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/78/78b959f790002689e3206de0a99429414f9a22b68ef94302062480e8e9825033.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/78/78b959f790002689e3206de0a99429414f9a22b68ef94302062480e8e9825033.png)
 
 ## 3. HTTP 和 HTTPS
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/89/8972f3885e92b61a68448a6a482477ebf1887303ac61ec3575bef88c5da3fe28.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/89/8972f3885e92b61a68448a6a482477ebf1887303ac61ec3575bef88c5da3fe28.png)
 
 也就是在 **TCP/IP** 四层模型中添加了一层 **SSL 层（或者叫 TLS）** ，并且，根据加密程度不同，所需要的费用不同。
 
@@ -91,19 +91,19 @@ URN 只命名资源而不指定如何定位资源，比如 `urn:isbn:0451450523`
 
 网络层就类似于我们的　**IP**
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/da/da04651f7716f3b1afe19cd8cf87166994f1be2830328ebc90c64660828fa68d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/da/da04651f7716f3b1afe19cd8cf87166994f1be2830328ebc90c64660828fa68d.png)
 
 #### 3.1.1 HTTP 请求头详解
 
 - **HTTP 头部**
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/725aef82274327e7da06d0bcbb12a9e54070efb24395773217782c935d35ca3b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/72/725aef82274327e7da06d0bcbb12a9e54070efb24395773217782c935d35ca3b.png)
 
 ---
 
 举个例子：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/be/bef1ebe5848f318025daf98717c445d6f28690a8f2e683152d17e501fa4c83ea.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/be/bef1ebe5848f318025daf98717c445d6f28690a8f2e683152d17e501fa4c83ea.png)
 
 上图中的 **Request Header** 有个
 
@@ -115,7 +115,7 @@ URN 只命名资源而不指定如何定位资源，比如 `urn:isbn:0451450523`
 
 超文本传输安全协议（英语：HyperText Transfer Protocol Secure，缩写：HTTPS；常常称为：HTTP over TLS、
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8e/8e32d9aaf1ed528d288c3e0b3816ae70a7847156b73e0077fe03a6cd1c0c9d80.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8e/8e32d9aaf1ed528d288c3e0b3816ae70a7847156b73e0077fe03a6cd1c0c9d80.png)
 
 ### 3.3 实例讲解
 
@@ -139,11 +139,11 @@ HTTPS 的安全基础是 SSL，因此通过它传输的内容都是经过 SSL �
 
 ## 4. HTTP 请求过程
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/89/89c9d20b3a9ece8b55c4fe6acdd63c036cdecf08d9257a8cf8bf437f828abae1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/89/89c9d20b3a9ece8b55c4fe6acdd63c036cdecf08d9257a8cf8bf437f828abae1.png)
 
 我们在浏览器中输入一个 URL，回车之后便可以在浏览器中观察到页面内容。实际上，这个过程是浏览器向网站所在的服务器发送了一个请求，网站服务器接收到这个请求后进行处理和解析，然后返回对应的响应，接着传回给浏览器。响应里包含了页面的源代码等内容，浏览器再对其进行解析，便将网页呈现了出来，传输模型如图所示。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f1/f1cb42840faab0ec9c581aec8ebf0f7dd6b7a77a24bccf43addbf24cb42cfcd3.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f1/f1cb42840faab0ec9c581aec8ebf0f7dd6b7a77a24bccf43addbf24cb42cfcd3.jpeg)
 
 此处客户端即代表我们自己的 PC 或手机浏览器，服务器即要访问的网站所在的服务器。
 
@@ -151,7 +151,7 @@ HTTPS 的安全基础是 SSL，因此通过它传输的内容都是经过 SSL �
 
 打开 Chrome 浏览器，右击并选择 “检查” 项，即可打开浏览器的开发者工具。这里访问百度 [http://www.baidu.com/](http://www.baidu.com/)，输入该 URL 后回车，观察这个过程中发生了怎样的网络请求。可以看到，在 Network 页面下方出现了一个个的条目，其中一个条目就代表一次发送请求和接收响应的过程，如图所示。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ab/abe7bec70e3d1075bc12c17e67a883ff2449450c347b44f7420df8aa80c1be90.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ab/abe7bec70e3d1075bc12c17e67a883ff2449450c347b44f7420df8aa80c1be90.png)
 
 我们先观察第一个网络请求，即 www.baidu.com，其中各列的含义如下。
 
@@ -165,7 +165,7 @@ HTTPS 的安全基础是 SSL，因此通过它传输的内容都是经过 SSL �
 
 我们点击这个条目即可看到其更详细的信息，如图所示。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/61/6153c42ce7d6def5bec773cea4cc01caf1334edab25c69282319e43d17102800.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/61/6153c42ce7d6def5bec773cea4cc01caf1334edab25c69282319e43d17102800.jpeg)
 
 首先是 General 部分，Request URL 为请求的 URL，Request Method 为请求的方法，Status Code 为响应状态码，Remote Address 为远程服务器的地址和端口，Referrer Policy 为 Referrer 判别策略。
 
@@ -194,7 +194,7 @@ GET 和 POST 请求方法有如下区别。
 
 我们平常遇到的绝大部分请求都是 GET 或 POST 请求，另外还有一些请求方法，如 HEAD、PUT、DELETE、OPTIONS、CONNECT、TRACE 等，我们简单将其总结为下表。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/23/23f5d9daa2ae201895d1a4453cf01d2cc413064421159122aa8f97d9801318b0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/23/23f5d9daa2ae201895d1a4453cf01d2cc413064421159122aa8f97d9801318b0.png)
 
 请求的网址本表参考：[http://www.runoob.com/http/http-methods.html](http://www.runoob.com/http/http-methods.html)。
 
@@ -265,7 +265,7 @@ Process finished with exit code 0
 
 我们下面来对比原网页的 **Response Headers**。我们会发现，内容上可以配对上，是 Response Headers 的内容。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/95/95aebc31fd3c566244ebffbe644ca28b70a8c019175e761a88409aa43156bca8.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/95/95aebc31fd3c566244ebffbe644ca28b70a8c019175e761a88409aa43156bca8.png)
 
 > Ps：截图与爬虫运行时间不同，所以图片的时间按你时间操作来对比哦。
 
@@ -296,17 +296,17 @@ nslookup
 # DNS 就是给我们返回这些地址或域名等这些数据
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5d/5da29aaf6c48b2f1b3ac60f91fea1d995d739b6a76190f7a22d770d55a10a6cf.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/5d/5da29aaf6c48b2f1b3ac60f91fea1d995d739b6a76190f7a22d770d55a10a6cf.png)
 
 比如我们访问，百度的这个网站：
 
 里面的 **IP** 都是百度的 **IP** 地址，当然，我们访问 www.a.shifen.com 也是会跳转到百度的页面。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d3/d3b79b9d1aa6bb635504c44dbc682f2bf45818f1ebe8655b7bd4dc6b9b37be5d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d3/d3b79b9d1aa6bb635504c44dbc682f2bf45818f1ebe8655b7bd4dc6b9b37be5d.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0f/0fd60032f7398c6002808a9450b9e427d75d23c8ee6609e35a8c03b9cefb225f.gif)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/0f/0fd60032f7398c6002808a9450b9e427d75d23c8ee6609e35a8c03b9cefb225f.gif)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/08/086d1e4cf8eae12da69d070cb78a71339c15ea67e2873c9e74ac4966b61959f1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/08/086d1e4cf8eae12da69d070cb78a71339c15ea67e2873c9e74ac4966b61959f1.png)
 
 ---
 
@@ -359,13 +359,13 @@ Process finished with exit code 0
 
 例如，这里我登录 GitHub 时捕获到的请求和响应如图所示。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/92/92ac672bb381eb3eb10f950e4deab757cee4b8cc4c629cab42dfdfe736a3bcb8.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/92/92ac672bb381eb3eb10f950e4deab757cee4b8cc4c629cab42dfdfe736a3bcb8.jpeg)
 
 登录之前，我们填写了用户名和密码信息，提交时这些内容就会以表单数据的形式提交给服务器，此时需要注意 Request Headers 中指定 Content-Type 为 application/x-www-form-urlencoded。只有设置 Content-Type 为 application/x-www-form-urlencoded，才会以表单数据的形式提交。另外，我们也可以将 Content-Type 设置为 application/json 来提交 JSON 数据，或者设置为 multipart/form-data 来上传文件。
 
 表格中列出了 Content-Type 和 POST 提交数据方式的关系。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cbdaca365c6684801f5f4f59159d9458e07ccc5c9c459705028dd7c0d59d8a35.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/cb/cbdaca365c6684801f5f4f59159d9458e07ccc5c9c459705028dd7c0d59d8a35.png)
 
 在爬虫中，如果要构造 POST 请求，需要使用正确的 Content-Type，并了解各种请求库的各个参数设置时使用的是哪种 Content-Type，不然可能会导致 POST 提交后无法正常响应。
 
@@ -375,11 +375,11 @@ Process finished with exit code 0
 
 ### 4.6 响应状态码
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bb/bbee321f870d1485a123b21ae1900d21fd23376888815f4560a8a03e1086394a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/bb/bbee321f870d1485a123b21ae1900d21fd23376888815f4560a8a03e1086394a.png)
 
 响应状态码表示服务器的响应状态，如 200 代表服务器正常响应，404 代表页面未找到，500 代表服务器内部发生错误。在爬虫中，我们可以根据状态码来判断服务器响应状态，如状态码为 200，则证明成功返回数据，再进行进一步的处理，否则直接忽略。下表列出了常见的错误代码及错误原因。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2d57e93803dfd64f9c93842a4e5b95616ba25de376c15c1025965c541fefaa91.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2d/2d57e93803dfd64f9c93842a4e5b95616ba25de376c15c1025965c541fefaa91.png)
 
 响应头包含了服务器对请求的应答信息，如 Content-Type、Server、Set-Cookie 等。下面简要说明一些常用的响应头信息。
 
@@ -421,7 +421,7 @@ Process finished with exit code 0
 
 那，这个状态码该怎么看呢？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e0/e07779625aa9c7a030a35ea98a63dc6282bb3f32ef319aaee317cc49bf0ae6e2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e0/e07779625aa9c7a030a35ea98a63dc6282bb3f32ef319aaee317cc49bf0ae6e2.png)
 
 当然也可以用代码来查看咯！
 
@@ -457,7 +457,7 @@ Aliases:  www.baidu.com
 
 那从上面得到的结果，如果我访问：www.a.shifen.com 它就会给你跳转到另外的网站，这就是我们所说的重定向。——也就是如下图所示，跳转到了百度页面。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/791e88f435fe7c6e9e97159cccc2bcb675c0da9f8034b9038fb7983137b0d682.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/79/791e88f435fe7c6e9e97159cccc2bcb675c0da9f8034b9038fb7983137b0d682.png)
 
 我们使用代码也可以直观的看见访问的状态码：
 
@@ -475,7 +475,7 @@ print(html.status_code)
 
 最重要的当属响应体的内容了。响应的正文数据都在响应体中，比如请求网页时，它的响应体就是网页的 HTML 代码；请求一张图片时，它的响应体就是图片的二进制数据。我们做爬虫请求网页后，要解析的内容就是响应体，如图所示。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/258318d2347065c12a1cd6001fda1f870c01187486535e5a236473ca765f9420.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/25/258318d2347065c12a1cd6001fda1f870c01187486535e5a236473ca765f9420.jpeg)
 
 在浏览器开发者工具中点击 Preview，就可以看到网页的源代码，也就是响应体的内容，它是解析的目标。
 
@@ -483,27 +483,27 @@ print(html.status_code)
 
 ### 4.8 请求字段展示
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c7/c7d167fbdf21dad06c6fd3a4565340d199adeed8ceebc5004261908496d9b895.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c7/c7d167fbdf21dad06c6fd3a4565340d199adeed8ceebc5004261908496d9b895.png)
 
 ---
 
 DNT：就是是否允许网站对你的操作进行追踪，DNT = 1 也就是 True，允许。反之亦然。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d2/d232a146d8695480e8b966639c9efbbf33d26f4671feb45e1c2b6eca6539671c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d2/d232a146d8695480e8b966639c9efbbf33d26f4671feb45e1c2b6eca6539671c.png)
 
 **Disable cache：** 就是禁用缓存，每次请求都需要重新建立 **TCP/IP** 四层模型，不使用的话，就会调用缓存。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/edb4d4ddf974dc1615d9eaa65add1be7ea60afe72f4814ac20afebfaaa4cbac4.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ed/edb4d4ddf974dc1615d9eaa65add1be7ea60afe72f4814ac20afebfaaa4cbac4.png)
 
 上面的代码不完整，就看红色框即可，就是设置请求头我接受什么数据。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1b/1b6eb37365e1a9720dc04267ac0ef59e7cd47fb48e0a7825a40c9433fcf37a52.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/1b/1b6eb37365e1a9720dc04267ac0ef59e7cd47fb48e0a7825a40c9433fcf37a52.png)
 
 短连接，就需要每次发起请求重新握手，长连接则不需要。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/62/6250e09cbf1016d076b4291aee2ec8252f90848729938b107a8249951c0e8dfb.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/62/6250e09cbf1016d076b4291aee2ec8252f90848729938b107a8249951c0e8dfb.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b946f70d83bd3429f8592ad964f42f9a037dc7bdf156319fc7de99213dbb913b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b9/b946f70d83bd3429f8592ad964f42f9a037dc7bdf156319fc7de99213dbb913b.png)
 
 ---
 
@@ -513,7 +513,7 @@ DNT：就是是否允许网站对你的操作进行追踪，DNT = 1 也就是 Tr
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -529,4 +529,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

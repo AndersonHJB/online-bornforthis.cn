@@ -44,7 +44,7 @@ Luhn’s algorithm, also known as the modulus 10 or mod 10 algorithm, is a check
 
 In the case of the number 79927398713, we begin with the second to right-most value (the 1), and double every other digit's value from right to left, with the results as indicated in the shaded squares below:
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/79e71b67c733715d6a3bb88f8476ae65992e2dcc27459c8703423b2f0da78e0c.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/79/79e71b67c733715d6a3bb88f8476ae65992e2dcc27459c8703423b2f0da78e0c.png)
 
 The double digit values (16 and 18) are in turned converted to values 7 and 9 respectively by adding their two digits together, resulting in the sequence in the third row above. The sum of 7 + 9 + 9 + 4 + 7 + 6 + 9 + 7 + 7 + 2 + 3 is 70, which is evenly divisible by 10, so this number is valid.
 
@@ -52,7 +52,7 @@ The double digit values (16 and 18) are in turned converted to values 7 and 9 re
 
 In the case of the number 12345675, we begin with the second to right-most value (7), and double every other digit's value from right to left, with the results as indicated in the shaded squares below:
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8d/8d3f66df123d05627367a2ea960ffd41e68f135fd26edff56e6cdb383c90a581.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/8d/8d3f66df123d05627367a2ea960ffd41e68f135fd26edff56e6cdb383c90a581.png)
 
 Adding the digits of 10 and 15 give us 1 and 5 respectively, yielding the sequence in the third row. 2 + 2 + 6 + 4 + 1 + 6 + 5 + 5 = 31, which is not a multiple of 10, so this account number is not valid.
 
@@ -241,7 +241,7 @@ Upload `luhn.py` directly to Canvas. Rename the `team_manager_starter` directory
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -257,5 +257,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

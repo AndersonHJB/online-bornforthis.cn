@@ -17,7 +17,7 @@ backToTop: true
 toc: true
 ---
 
-![用国内银行卡订阅 ChatGPT Plus](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/ed39715bf73fa7d16bc5f9c830859cba6a6a132e7f0900fc43e55684ae6e6162.png)
+![用国内银行卡订阅 ChatGPT Plus](https://blog.images.bornforthis.cn/docs-images/sha256/ed/ed39715bf73fa7d16bc5f9c830859cba6a6a132e7f0900fc43e55684ae6e6162.png)
 
 你好，我是悦创。
 
@@ -38,7 +38,7 @@ Google Play 在这里相当于中间付款渠道。本次实测没有额外的�
 3. Google Play 可以接受的 Visa/Mastercard 单标卡；
 4. 已安装官方 ChatGPT 应用的 Android 手机。
 
-![国内银行卡通过 Google Play 订阅 ChatGPT Plus 的付款链路](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5e/5e92a36b2c4da7e1af580a4e513a93efeb08c42052a0ed8de043c43273a204f6.png)
+![国内银行卡通过 Google Play 订阅 ChatGPT Plus 的付款链路](https://blog.images.bornforthis.cn/docs-images/sha256/5e/5e92a36b2c4da7e1af580a4e513a93efeb08c42052a0ed8de043c43273a204f6.png)
 
 *完整链路：国内银行卡 → Google Play → ChatGPT Android 客户端。*
 
@@ -54,7 +54,7 @@ Google Play 在这里相当于中间付款渠道。本次实测没有额外的�
 
 之所以优先使用美国节点，是因为后续要创建美区 Google Payments 资料、确认 Google Play 美区内容，网络地区和付款资料地区需要保持一致。
 
-![Clash Verge 的 AI 服务解锁测试](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f5cea91a7c90c080968cad7a21b4b432e7571a9f306e5893f88c15dd589b0124.png)
+![Clash Verge 的 AI 服务解锁测试](https://blog.images.bornforthis.cn/docs-images/sha256/f5/f5cea91a7c90c080968cad7a21b4b432e7571a9f306e5893f88c15dd589b0124.png)
 
 *先确认 ChatGPT Web、ChatGPT iOS、Claude 等服务显示可用；失败时更换美国节点再测。*
 
@@ -84,7 +84,7 @@ Clash Verge 的相关版本或扩展中通常带有 AI 服务解锁测试，可�
 
 这里我最推荐的方法，就是选择【谷歌账号】直接登录！
 
-![ChatGPT 登录或注册入口](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b8/b8c635e5aa9e114520329aec584d34c935b64c35abf5ee2d93b4d41afeb21008.png)
+![ChatGPT 登录或注册入口](https://blog.images.bornforthis.cn/docs-images/sha256/b8/b8c635e5aa9e114520329aec584d34c935b64c35abf5ee2d93b4d41afeb21008.png)
 
 *可以使用 Google、Apple、手机号或邮箱登录；购买前务必确认最终要获得 Plus 的账号。*
 
@@ -98,7 +98,7 @@ Clash Verge 的相关版本或扩展中通常带有 AI 服务解锁测试，可�
 
 ChatGPT 网页端通常提供银行卡和 PayPal 等付款方式，但国内银行卡在这里会遇到发卡地区识别。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c4/c4e5c71addeafc0c21cd83d2d524301b971f6ae0c4acae1bebad947e4ece3df9.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c4/c4e5c71addeafc0c21cd83d2d524301b971f6ae0c4acae1bebad947e4ece3df9.png)
 
 银行卡卡号前六位是 BIN 码。支付系统可以通过 BIN 码识别卡组织、发卡银行和发卡地区。因此：
 
@@ -106,7 +106,7 @@ ChatGPT 网页端通常提供银行卡和 PayPal 等付款方式，但国内银�
 - 国内银行发行的 Visa/Mastercard 单标卡，在网页直付时仍可能被识别为国内发卡；
 - PayPal 背后同样要绑定付款方式，国内卡也可能继续被拦截。（**实测过国内的 Paypal 可以绑定，但是美区的 Paypal 没试过。**）
 
-![ChatGPT 网页端付款方式验证失败](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/519249289e6260d10add12766acb07cc9315d8f2376e404dc89d4a595b5bde7f.png)
+![ChatGPT 网页端付款方式验证失败](https://blog.images.bornforthis.cn/docs-images/sha256/51/519249289e6260d10add12766acb07cc9315d8f2376e404dc89d4a595b5bde7f.png)
 
 
 
@@ -121,7 +121,7 @@ ChatGPT 网页端通常提供银行卡和 PayPal 等付款方式，但国内银�
 
 ## 四、创建美区 Google Payments 付款资料
 
-![中国区是看不见 GPT 这类软件的](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ef/ef52b44627b68707d3c48eda51e9b818b72c679bcbfc581c955461f406721c2e.png)
+![中国区是看不见 GPT 这类软件的](https://blog.images.bornforthis.cn/docs-images/sha256/ef/ef52b44627b68707d3c48eda51e9b818b72c679bcbfc581c955461f406721c2e.png)
 
 Google Play 和 Apple App Store 类似，也区分国家和地区。不同地区能看到的应用和订阅项目可能不同。要在 Google Play 找到 ChatGPT，先把当前 Google 账号对应的商店环境准备成美区。
 
@@ -138,11 +138,11 @@ Google Play 和 Apple App Store 类似，也区分国家和地区。不同地区
 
 进入：**设置 → 付款资料 / 国家或地区**
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7d/7dfdf6fed46f28e0f28f995429b65a8c8771c94055c9919014c0ee38b8f556bd.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/7d/7dfdf6fed46f28e0f28f995429b65a8c8771c94055c9919014c0ee38b8f556bd.png" style="zoom:25%;" />
 
 如果这个账号从未建立过付款资料，这里可能还是空的；如果已经有其他国家或地区的付款资料，会显示现有资料。
 
-![Google Play 美区由 IP 和支付资料共同决定](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ee/ee35071c7a437e9de4abb2d06d4297eee0ac4d82f453a294c1725b26e3a4ee34.png)
+![Google Play 美区由 IP 和支付资料共同决定](https://blog.images.bornforthis.cn/docs-images/sha256/ee/ee35071c7a437e9de4abb2d06d4297eee0ac4d82f453a294c1725b26e3a4ee34.png)
 
 *美国 IP 是必要条件，Google Payments 付款资料中的国家/地区起决定作用。*
 
@@ -150,15 +150,15 @@ Google Play 和 Apple App Store 类似，也区分国家和地区。不同地区
 
 已有付款资料的国家/地区通常不能直接改成另一个国家。点击国家/地区旁边的编辑图标，然后选择：**新建个人资料 / 创建新的付款资料**。
 
-![Google Payments 中新建美国付款资料](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a7/a788c6ac7ccac2f741fed97473bdcdee22c7a0350cdd2bdeb204cfd3f9621622.jpg)
+![Google Payments 中新建美国付款资料](https://blog.images.bornforthis.cn/docs-images/sha256/a7/a788c6ac7ccac2f741fed97473bdcdee22c7a0350cdd2bdeb204cfd3f9621622.jpg)
 
 *已有资料的国家/地区不能直接改时，选择“新建个人资料”，国家/地区选美国（US）。*
 
 在国家或地区下拉菜单中选择：**美国（US）**。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/62/629e55c5c35321d6f1d17ecf105b539b1cffc88d873fa7157a58060630b8ddb1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/62/629e55c5c35321d6f1d17ecf105b539b1cffc88d873fa7157a58060630b8ddb1.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9d/9dedabf7e869957cbc6c6dad0e5892854fe3f5b6ec974451e800003ab2a658b7.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9d/9dedabf7e869957cbc6c6dad0e5892854fe3f5b6ec974451e800003ab2a658b7.png)
 
 
 
@@ -166,7 +166,7 @@ Google Play 和 Apple App Store 类似，也区分国家和地区。不同地区
 
 ### 3. 填写美国联系地址
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1d/1d46c3330ef62027b901a4fb575659d449458835dc37bc5f523bf81910206fa7.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/1d/1d46c3330ef62027b901a4fb575659d449458835dc37bc5f523bf81910206fa7.png)
 
 接下来填写姓名和美国地址。付款资料名称可以自定义；地址可以借助地址生成工具准备一份美国免税州地址，再把各字段对应复制到表单。需要填写：
 
@@ -181,7 +181,7 @@ Google Play 和 Apple App Store 类似，也区分国家和地区。不同地区
 
 填写完成并保存后，在付款中心确认当前已经存在一份国家/地区为美国的付款资料。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ab/ab02adaafff0a3842a0524334ffb8f0b29551094bc0d69be259266af2ef7e302.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ab/ab02adaafff0a3842a0524334ffb8f0b29551094bc0d69be259266af2ef7e302.png)
 
 - 美国地址生成器：[https://www.meiguodizhi.com/](https://www.meiguodizhi.com/)，也可以选择 GPT 直接生成一个地址。
 - 美国免税地址：[https://usaddressgen.com/tax-free-address/](https://usaddressgen.com/tax-free-address/)
@@ -192,21 +192,21 @@ Google Play 和 Apple App Store 类似，也区分国家和地区。不同地区
 
 依次进入：**右上角头像 → 设置 → 常规 → 账号和设备偏好设置 → 国家和个人资料**。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/45/45a853e089ecead2e929cb625fae0686aca4c67ddbdc1c8f8d5d754e3f0d98f8.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/45/45a853e089ecead2e929cb625fae0686aca4c67ddbdc1c8f8d5d754e3f0d98f8.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9e/9e0d0a2735d721582131680c8d5f355852bb7275058d5d42c932154b4711767c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9e/9e0d0a2735d721582131680c8d5f355852bb7275058d5d42c932154b4711767c.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a8/a8f3780fd09dc0dfe870ee1ec4ff3f0d9ca48ebf6f5f26ed75d59154fe8851bf.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a8/a8f3780fd09dc0dfe870ee1ec4ff3f0d9ca48ebf6f5f26ed75d59154fe8851bf.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c6/c60bcd3d99f76f02f1fcea70e8e3c0acc983fc95bb12d86d0b212baa94702ed3.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c6/c60bcd3d99f76f02f1fcea70e8e3c0acc983fc95bb12d86d0b212baa94702ed3.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/dfe6a86e209084ff8c1300836a8b6c0bfbd4f8b4117c64a840e04915fa96bd11.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/df/dfe6a86e209084ff8c1300836a8b6c0bfbd4f8b4117c64a840e04915fa96bd11.png)
 
 
 
 如果页面显示“美国”，说明当前 Google Play 已经按美区资料工作。
 
-![Google Play 美区方案示意](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/57/577cc33f778a42038269eba3d6315f7a6635e0e6918a280f066723e69c5bf1d4.png)
+![Google Play 美区方案示意](https://blog.images.bornforthis.cn/docs-images/sha256/57/577cc33f778a42038269eba3d6315f7a6635e0e6918a280f066723e69c5bf1d4.png)
 
 *确认美国节点和美国付款资料都已生效，再继续绑卡。*
 
@@ -221,15 +221,15 @@ Google Play 和 Apple App Store 类似，也区分国家和地区。不同地区
 
 ## 六、先选对银行卡：62 开头银联卡不能直接用
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/db/db8981fcf36b84a4c71ecbf340d78a1ea4f59cf52e48d290939b78cae2c78420.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/db/db8981fcf36b84a4c71ecbf340d78a1ea4f59cf52e48d290939b78cae2c78420.png)
 
 进入 Google 付款中心：**支付方式 → 添加支付方式 → 添加信用卡或借记卡**。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f8/f88fd95cdcea1c99bf335bd2100fa00487b8e2b4c03c96c9ceb4c674d2485fdb.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f8/f88fd95cdcea1c99bf335bd2100fa00487b8e2b4c03c96c9ceb4c674d2485fdb.png)
 
 
 
-![Google Payments 添加信用卡或借记卡](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/91875482b07ae3ce59269bb6e1695d9800bc2947af891ca78b1b2ddf2073bdad.jpg)
+![Google Payments 添加信用卡或借记卡](https://blog.images.bornforthis.cn/docs-images/sha256/91/91875482b07ae3ce59269bb6e1695d9800bc2947af891ca78b1b2ddf2073bdad.jpg)
 
 *路径：支付方式 → 添加支付方式 → 添加信用卡或借记卡。*
 
@@ -241,7 +241,7 @@ Google Play 和 Apple App Store 类似，也区分国家和地区。不同地区
 | 国内银行发行的 Visa/Mastercard 单标信用卡 | 会按 BIN 识别为国内发行，直付失败 | 可以尝试；本流程实测可用 |
 | 招商银行万事达人民币 IC 借记卡（普卡） | 不走网页直付 | 本流程主推荐，实测可用 |
 
-![Google Play 对国际卡和 62 银联卡的兼容性对比](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d9/d91aa9427d2121f67a7153536a4ce6916be73f9de2cdc928fab0206137ff0e63.png)
+![Google Play 对国际卡和 62 银联卡的兼容性对比](https://blog.images.bornforthis.cn/docs-images/sha256/d9/d91aa9427d2121f67a7153536a4ce6916be73f9de2cdc928fab0206137ff0e63.png)
 
 *Google Play 可以识别 Visa/Mastercard 国际卡通道，62 开头的普通银联卡不走这条链路。*
 
@@ -251,7 +251,7 @@ Google Play 和 Apple App Store 类似，也区分国家和地区。不同地区
 
 国内常见的 **62 开头银联卡**，即使是储蓄卡，也不能按本文这条路径直接添加为美区 Google Play 的国际卡付款方式。
 
-![国内可尝试的 Visa 或 Mastercard 单标信用卡&招商银行万事达人民币 IC 借记卡普卡](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2b/2bd3deec2920fd6377af6bcc0bb822c5d18dd8ef4aa0a9cfe0c4095c1c494617.png)
+![国内可尝试的 Visa 或 Mastercard 单标信用卡&招商银行万事达人民币 IC 借记卡普卡](https://blog.images.bornforthis.cn/docs-images/sha256/2b/2bd3deec2920fd6377af6bcc0bb822c5d18dd8ef4aa0a9cfe0c4095c1c494617.png)
 
 ### 2. 第一类可尝试的卡：Visa/Mastercard 单标信用卡
 
@@ -286,7 +286,7 @@ Google Play 和 Apple App Store 类似，也区分国家和地区。不同地区
 
 ChatGPT Plus 本身仍要按月支付约 20 美元；**这套路径省掉的是代充费、虚拟卡费和共享账号成本**。
 
-![招商银行万事达人民币 IC 借记卡普卡](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/72f992126654b92b8f8c578ad5aa4b3b833dba244df997966d8d4c63ada5f39f.png)
+![招商银行万事达人民币 IC 借记卡普卡](https://blog.images.bornforthis.cn/docs-images/sha256/72/72f992126654b92b8f8c578ad5aa4b3b833dba244df997966d8d4c63ada5f39f.png)
 
 *选择“万事达人民币 IC 借记卡（普卡）”，不要与“万事达金葵花卡”混淆。*
 
@@ -304,15 +304,15 @@ ChatGPT Plus 本身仍要按月支付约 20 美元；**这套路径省掉的是�
 4. 找到 **万事达卡跨境线上支付**；
 5. 阅读协议，按页面完成开通。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5d/5db4d12ebc22b138d09262f29031c8e164c883334c84c061eeea1120d7ea82db.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/5d/5db4d12ebc22b138d09262f29031c8e164c883334c84c061eeea1120d7ea82db.png)
 
 如果名下有多张招行储蓄卡，页面可能默认选中了普通银联卡。此时要先切换到新办的万事达人民币借记卡，“万事达卡跨境线上支付”选项才会出现。
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b8/b89f159726a38708d26d28735f1fd50e092fdacee06732dc598377807ebde965.png" alt="招商银行 App 切换到目标万事达借记卡" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/b8/b89f159726a38708d26d28735f1fd50e092fdacee06732dc598377807ebde965.png" alt="招商银行 App 切换到目标万事达借记卡" style="zoom:25%;" />
 
 *名下有多张储蓄卡时，先切到新办的万事达人民币借记卡。*
 
-![招商银行 App 中的万事达卡跨境线上支付入口](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/70/707f6fe4fe1852c48128b4161f5768baaf11534ccf900ce10d64565395d8b855.png)
+![招商银行 App 中的万事达卡跨境线上支付入口](https://blog.images.bornforthis.cn/docs-images/sha256/70/707f6fe4fe1852c48128b4161f5768baaf11534ccf900ce10d64565395d8b855.png)
 
 *在“快捷支付”中找到“万事达卡跨境线上支付”，按页面完成开通。*
 
@@ -334,7 +334,7 @@ ChatGPT Plus 本身仍要按月支付约 20 美元；**这套路径省掉的是�
 - 姓名；
 - 账单地址。
 
-![Google Payments 银行卡信息填写表单](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b5/b5b45e2f439c8755bd74ecd4fb3ff4be08c6526fc323358e6b9417128e2489b6.png)
+![Google Payments 银行卡信息填写表单](https://blog.images.bornforthis.cn/docs-images/sha256/b5/b5b45e2f439c8755bd74ecd4fb3ff4be08c6526fc323358e6b9417128e2489b6.png)
 
 *依次填写卡号、有效期、CVC/CVV、姓名和前面准备的美国账单地址。*
 
@@ -351,7 +351,7 @@ ChatGPT Plus 本身仍要按月支付约 20 美元；**这套路径省掉的是�
 
 添加成功后，“支付方式”页面会显示这张 Mastercard。此时银行卡已经可以被 Google Play 调用。
 
-![Google 付款方式中已经出现 Mastercard](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/54/54999a9cfca3040e45353932f70179e98db817b0f23912d9f5019ce767f8c621.jpg)
+![Google 付款方式中已经出现 Mastercard](https://blog.images.bornforthis.cn/docs-images/sha256/54/54999a9cfca3040e45353932f70179e98db817b0f23912d9f5019ce767f8c621.jpg)
 
 *看到 Mastercard 出现在付款方式列表，才算完成 Google Play 绑卡。*
 
@@ -373,13 +373,13 @@ ChatGPT Plus 本身仍要按月支付约 20 美元；**这套路径省掉的是�
 
 进入应用详情页后，确认发布者是 **OpenAI**，再点击安装。不要安装名称相似的第三方客户端。
 
-![Google Play 中由 OpenAI 发布的 ChatGPT 应用](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a3/a3ebfdc1318f0a65cde7c277f2375625f9f6c06ce4e5731880f9d88f64da449d.png)
+![Google Play 中由 OpenAI 发布的 ChatGPT 应用](https://blog.images.bornforthis.cn/docs-images/sha256/a3/a3ebfdc1318f0a65cde7c277f2375625f9f6c06ce4e5731880f9d88f64da449d.png)
 
 *核对应用名和发布者 OpenAI 后再安装。*
 
 安装完成后打开 ChatGPT，使用前面准备好的 ChatGPT 账号登录。推荐继续使用同一个 Google 账号一键登录，避免误入另一个账号。
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/aa/aa8e68b702d51739eccb7531bbf6d0ab658de0990fe31cb3bd15a3a287069cf8.jpg" alt="ChatGPT Android 登录页" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/aa/aa8e68b702d51739eccb7531bbf6d0ab658de0990fe31cb3bd15a3a287069cf8.jpg" alt="ChatGPT Android 登录页" style="zoom:25%;" />
 
 *用准备好的目标 ChatGPT 账号登录；Plus 权益会落在这个账号上。*
 
@@ -389,11 +389,11 @@ ChatGPT Plus 本身仍要按月支付约 20 美元；**这套路径省掉的是�
 
 然后选择：**升级至 Plus**。
 
-![ChatGPT 主界面的获取 Plus 入口](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/00/004d6f82c6b6b60cd9a8ae05f85c4fc6a9faf8b9156c48b6619724cf1331ee3c.png)
+![ChatGPT 主界面的获取 Plus 入口](https://blog.images.bornforthis.cn/docs-images/sha256/00/004d6f82c6b6b60cd9a8ae05f85c4fc6a9faf8b9156c48b6619724cf1331ee3c.png)
 
 *进入 App 后点击左上方“获取 Plus”。*
 
-![ChatGPT Plus 套餐页](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e3/e3b1455ed15c4ab11031efe0d9baef20fdfecc57d6e495aab252fdd117790f7a.png)
+![ChatGPT Plus 套餐页](https://blog.images.bornforthis.cn/docs-images/sha256/e3/e3b1455ed15c4ab11031efe0d9baef20fdfecc57d6e495aab252fdd117790f7a.png)
 
 *切到 Plus，查看权益后点击“升级至 Plus”。*
 
@@ -407,11 +407,11 @@ ChatGPT Plus 本身仍要按月支付约 20 美元；**这套路径省掉的是�
 
 一次实际付款页面显示的是 **US$19.99/月**。页面还提示：Google Play 最多可能在续订日前两天发起预授权，这不等于提前两天完成续费。当次招商银行 App 显示一笔 **¥135.06 的境外消费预授权**。这两个金额只代表当次支付示例，实际人民币金额会随汇率、Google Play 定价和税费变化。 
 
-![Google Play ChatGPT Plus 订阅确认页](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/09/09b5e527e6c471a2fbf15a010928620a1d03250425b9ae14aee075ad26b21d8f.png)
+![Google Play ChatGPT Plus 订阅确认页](https://blog.images.bornforthis.cn/docs-images/sha256/09/09b5e527e6c471a2fbf15a010928620a1d03250425b9ae14aee075ad26b21d8f.png)
 
 *本次页面显示 US$19.99/月，并写明税费和续订日前预授权说明。*
 
-![招商银行 135.06 元境外消费预授权](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/41/418439b54c695b293a36c7f4fc8df50a9c9d6c51bfc1409319c48c78c67a98ab.png)
+![招商银行 135.06 元境外消费预授权](https://blog.images.bornforthis.cn/docs-images/sha256/41/418439b54c695b293a36c7f4fc8df50a9c9d6c51bfc1409319c48c78c67a98ab.png)
 
 *当次银行端显示 ¥135.06 的冻结/预授权；这不是固定人民币月费。*
 
@@ -429,11 +429,11 @@ ChatGPT Plus 本身仍要按月支付约 20 美元；**这套路径省掉的是�
 - 账户订阅详情会显示当前为 Plus；
 - 套餐页面会显示后续续费信息。
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5a/5adc066760c313b1030270464c0d4598be8bb9143f2f65402fcc8437032abe46.png" alt="ChatGPT App 付款后的模型与思考强度选择器" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/5a/5adc066760c313b1030270464c0d4598be8bb9143f2f65402fcc8437032abe46.png" alt="ChatGPT App 付款后的模型与思考强度选择器" style="zoom:25%;" />
 
 *模型名称会更新，重点是账号已经出现 Plus 对应的模型与思考强度选项。*
 
-![ChatGPT App 中 Plus 显示为当前套餐](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/20/2009d29eda2e9f2aef8b7f514eb3ee7b88f8bed52f548fbc380d63e088a8248f.png)
+![ChatGPT App 中 Plus 显示为当前套餐](https://blog.images.bornforthis.cn/docs-images/sha256/20/2009d29eda2e9f2aef8b7f514eb3ee7b88f8bed52f548fbc380d63e088a8248f.png)
 
 *“Plus / 当前的套餐”是移动端最直接的生效证据。*
 
@@ -445,11 +445,11 @@ ChatGPT Plus 本身仍要按月支付约 20 美元；**这套路径省掉的是�
 - 设置或账单页面会显示当前套餐为 Plus；
 - 可以看到下一次自动续订日期。
 
-![ChatGPT 网页端模型选择器](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/63/6348826aed36303b99a7cfacb87a123bbe0f5fc1d2cf2f1d50221f8049cdc88b.png)
+![ChatGPT 网页端模型选择器](https://blog.images.bornforthis.cn/docs-images/sha256/63/6348826aed36303b99a7cfacb87a123bbe0f5fc1d2cf2f1d50221f8049cdc88b.png)
 
 *回到网页端，用同一个账号核对模型和思考强度。*
 
-![ChatGPT 网页端账单显示 Plus 和自动续订日期](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ee/ee8648b69df622daf55ee1919d4634aa4671eae816588a37506bfeea6f0c3c2d.png)
+![ChatGPT 网页端账单显示 Plus 和自动续订日期](https://blog.images.bornforthis.cn/docs-images/sha256/ee/ee8648b69df622daf55ee1919d4634aa4671eae816588a37506bfeea6f0c3c2d.png)
 
 
 
@@ -462,11 +462,11 @@ ChatGPT Plus 本身仍要按月支付约 20 美元；**这套路径省掉的是�
 - 对话框中可以查看当前可用的模型和思考强度；
 - 在“使用详情和计费”中确认账号套餐显示为 Plus。
 
-![Codex 模型与思考强度选择器](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a1/a1d6226beb8dcd330c414be22656e3159aa900879598d604acb1db965ba31c16.jpg)
+![Codex 模型与思考强度选择器](https://blog.images.bornforthis.cn/docs-images/sha256/a1/a1d6226beb8dcd330c414be22656e3159aa900879598d604acb1db965ba31c16.jpg)
 
 *Codex 中可查看当前开放的模型与思考强度。*
 
-![Codex 使用情况和计费显示 Plus](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/83/83f8cbb4d17145b23c6b373974413d6efdd99d13d54f0fe308066dfa2a9b77c2.png)
+![Codex 使用情况和计费显示 Plus](https://blog.images.bornforthis.cn/docs-images/sha256/83/83f8cbb4d17145b23c6b373974413d6efdd99d13d54f0fe308066dfa2a9b77c2.png)
 
 *在“使用情况和计费”中确认当前套餐为 Plus。*
 
@@ -494,7 +494,7 @@ ChatGPT Plus 本身仍要按月支付约 20 美元；**这套路径省掉的是�
 - 取消订阅入口；
 - Google Play 提供的其他管理选项。
 
-![ChatGPT 订阅需要在 Google Play 中管理](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/42/429f2b9a0df3d0891763266c779a606aad1ea28d899d76469602824d0f292f20.jpg)
+![ChatGPT 订阅需要在 Google Play 中管理](https://blog.images.bornforthis.cn/docs-images/sha256/42/429f2b9a0df3d0891763266c779a606aad1ea28d899d76469602824d0f292f20.jpg)
 
 *因为购买来源是 Google Play，网页端会提示回 Google Play 更改或取消。*
 
@@ -538,7 +538,7 @@ Google Play 菜单、银行卡风控、订阅价格和账号验证要求都可�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -554,4 +554,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -29,7 +29,7 @@ head:
 
 @tab ZH
 
-![如何在 Python 中将字符串转换为 DateTime 对象](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6f/6fb081ca21305f432ce09dc7af1b520d9d2dcfb240efb2745f632234610b8781.jpeg)
+![如何在 Python 中将字符串转换为 DateTime 对象](https://blog.images.bornforthis.cn/docs-images/sha256/6f/6fb081ca21305f432ce09dc7af1b520d9d2dcfb240efb2745f632234610b8781.jpeg)
 
 当你从原始数据中获取日期时，它们通常采用字符串对象的形式。但是在这种形式中，你不能访问日期的属性，例如年、月等。
 
@@ -95,7 +95,7 @@ format 变量声明要传递给解析器的日期字符串的格式（帮助我�
 
 当我们在那之后打印它时，它会看起来像这样。
 
-![图片由作者制作](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6c/6c24674c98a3baa09d7961cd1542255e9585b0836afaf5a30374dbbed24e58c2.png)
+![图片由作者制作](https://blog.images.bornforthis.cn/docs-images/sha256/6c/6c24674c98a3baa09d7961cd1542255e9585b0836afaf5a30374dbbed24e58c2.png)
 
 我们可以决定从中检索想要的任何属性。例如，如果我们希望只获取年份，可以通过键入 `date.year` 来做到这一点，它只会打印出年份。
 
@@ -122,7 +122,7 @@ print(date)
 
 不要被字符串中的符号或字母分心。如果你做的一切正确并打印出来，你应该有这样的东西：
 
-![image-200](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/15276ef998a5155748055b9fbad93a19b4aca1e68f98fe910057fedfa5430a78.png)
+![image-200](https://blog.images.bornforthis.cn/docs-images/sha256/15/15276ef998a5155748055b9fbad93a19b4aca1e68f98fe910057fedfa5430a78.png)
 
 确保不要将格式代码 `%m` 与 `%M` 混淆。小 `%m` 用于月份，而大 `%M` 用于分钟。
 
@@ -202,7 +202,7 @@ The method `datetime.strptime` is the parser that will help us convert the `date
 
 When we print it after that, it will look like this.
 
-![Image by Author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6c/6c24674c98a3baa09d7961cd1542255e9585b0836afaf5a30374dbbed24e58c2.png)
+![Image by Author](https://blog.images.bornforthis.cn/docs-images/sha256/6c/6c24674c98a3baa09d7961cd1542255e9585b0836afaf5a30374dbbed24e58c2.png)
 
 We can decide to retrieve any attributes we want from it. For example if we wish to get the year only, we can do that by typing `date.year` and it will print out just the year.
 
@@ -229,7 +229,7 @@ We can see that there is nothing too complex about it. Just follow the format fo
 
 Do not get distracted by the symbols or letters in the string. If you do everything correctly and print it you should have something like this:
 
-![image-200](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/15276ef998a5155748055b9fbad93a19b4aca1e68f98fe910057fedfa5430a78.png)
+![image-200](https://blog.images.bornforthis.cn/docs-images/sha256/15/15276ef998a5155748055b9fbad93a19b4aca1e68f98fe910057fedfa5430a78.png)
 
 Make sure you don't confuse the format code `%m` with `%M`. The small `%m` is used for months while the big `%M` is used for minutes.
 
@@ -255,7 +255,7 @@ Thank you for reading.
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -271,4 +271,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

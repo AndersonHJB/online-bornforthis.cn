@@ -85,25 +85,25 @@ Session，中文称之为会话，其本身的含义是指有始有终的一系�
 
 ## 4. Cookies
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/18/188e80498a91e4a8ee4b3d220d1a3658d677a43dfd2233225aed871716309844.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/18/188e80498a91e4a8ee4b3d220d1a3658d677a43dfd2233225aed871716309844.png)
 
 Cookies 指某些网站为了辨别用户身份、进行 Session 跟踪而存储在用户本地终端上的数据。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8d/8d1ac0f438316a401d45a9c4531d44ec17f49f95a36ff01822f8e98e812afcbd.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8d/8d1ac0f438316a401d45a9c4531d44ec17f49f95a36ff01822f8e98e812afcbd.png)
 
 
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/41/41d0a29f4b4600391907418cff341705416c18896ccdd7f2f294a652feaf7bf3.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/41/41d0a29f4b4600391907418cff341705416c18896ccdd7f2f294a652feaf7bf3.png)
 
 
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b6cd7ab79d2bab90ba0e72a3915d886336aa743f249eece5175d5cbb504d3dbc.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b6/b6cd7ab79d2bab90ba0e72a3915d886336aa743f249eece5175d5cbb504d3dbc.png)
 
 
 
 
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1b/1b4484885b37f5814ed25b162dc37aea1d3d1d531ccba9d132fb3a9595a93e53.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/1b/1b4484885b37f5814ed25b162dc37aea1d3d1d531ccba9d132fb3a9595a93e53.png)
 
 
 
@@ -111,7 +111,7 @@ Cookies 指某些网站为了辨别用户身份、进行 Session 跟踪而存储
 
 当你点击 **记住我也就是启用 Cookies**
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/db/db26013db958ce21b3371b1d911a04adbc9913dfa63ca4802b6d88273b2a0622.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/db/db26013db958ce21b3371b1d911a04adbc9913dfa63ca4802b6d88273b2a0622.png)
 
 ---
 
@@ -131,7 +131,7 @@ Cookies 指某些网站为了辨别用户身份、进行 Session 跟踪而存储
 
 接下来，我们来看看 Cookies 都有哪些内容。这里以知乎为例，在浏览器开发者工具中打开 Application 选项卡，然后在左侧会有一个 Storage 部分，最后一项即为 Cookies，将其点开，如图所示，这些就是 Cookies。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a3/a33c6b37f84c2aa80515a8bd7b43b17eb07f33935d46b93d28d110c805be0f4c.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a3/a33c6b37f84c2aa80515a8bd7b43b17eb07f33935d46b93d28d110c805be0f4c.jpeg)
 
 可以看到，这里有很多条目，其中每个条目可以称为 Cookie。它有如下几个属性。
 
@@ -178,7 +178,7 @@ Cookies 指某些网站为了辨别用户身份、进行 Session 跟踪而存储
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -194,4 +194,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

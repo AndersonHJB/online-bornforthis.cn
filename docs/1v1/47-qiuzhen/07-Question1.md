@@ -29,7 +29,7 @@ footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https:/
 
 teacher，如果想把列表里的子列表，拆出来，让他们变成一个列表，可以用什么[可怜]
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/65/65dc5c1f365d6e6c6b2667facfd3d2179be2566b0df94e49a3e070302abdf05b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/65/65dc5c1f365d6e6c6b2667facfd3d2179be2566b0df94e49a3e070302abdf05b.png)
 ## 解答
 如果你有一个列表包含子列表，你可以使用 Python 的 `extend()` 函数或列表推导式来实现。下面是两种方法的例子：
 
@@ -61,7 +61,7 @@ print(new_lst)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -77,4 +77,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

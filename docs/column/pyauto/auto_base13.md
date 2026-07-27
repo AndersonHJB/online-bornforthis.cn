@@ -86,7 +86,7 @@ w, h = imgL.size
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b2/b2fe6a862f613b3397059061bc47fb463f0ebdf9131ee5ce966eb4cad94f467b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b2/b2fe6a862f613b3397059061bc47fb463f0ebdf9131ee5ce966eb4cad94f467b.png)
 
 使用 Image 读取图片对象，获取宽和高，以及 pix 这像素对象，通过 `pix[1,1]` 拿到具体的颜色 RGB 值，然后转换成 16 进制的颜色值，进行背景色的写入。
 
@@ -142,7 +142,7 @@ wb.close()
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -158,7 +158,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

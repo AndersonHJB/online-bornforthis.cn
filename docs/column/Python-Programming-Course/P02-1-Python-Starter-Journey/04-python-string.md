@@ -33,7 +33,7 @@ Python 中的字符串可以使用单引号 `' '` 或双引号 `" "` 包围，�
 
 下图表示字符串的有序特性，认真查看下图：
 
-![有序性](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/12/1291df7a10eaea87684ad69a2d49419e324fc2fccc49e806d108518b71e5ebb6.png)
+![有序性](https://blog.images.bornforthis.cn/docs-images/sha256/12/1291df7a10eaea87684ad69a2d49419e324fc2fccc49e806d108518b71e5ebb6.png)
 
 ## 2. 创建字符串
 
@@ -232,7 +232,7 @@ print(string)
 
 例如下图微信聊天输入框显示一般，看似换行实则还是一行：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b3/b33a77971aea9c559e78b682b1ca7f022b0bfce1c3856320b0d46e973c5582ec.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b3/b33a77971aea9c559e78b682b1ca7f022b0bfce1c3856320b0d46e973c5582ec.png)
 
 ~~此时，我们使用三引号测试：~~
 
@@ -278,7 +278,7 @@ print(string)
 
 下图展示了在代码中使用三引号字符串实现注释的效果：
 
-![多行注释](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bb/bb052eae332e75195b6e19a098b45cabacc5a245938c93364d01676025086563.png)
+![多行注释](https://blog.images.bornforthis.cn/docs-images/sha256/bb/bb052eae332e75195b6e19a098b45cabacc5a245938c93364d01676025086563.png)
 
 ## 3. 检测字符串长度
 
@@ -654,7 +654,7 @@ print(select)  # 无结果
 
 **Why？**
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e6/e61c64790d778f5151c48b1bd7b2eb9c0e86b167e71803b570d9b8b07d9ba4fd.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e6/e61c64790d778f5151c48b1bd7b2eb9c0e86b167e71803b570d9b8b07d9ba4fd.png)
 
 由上面分析，我们应该如何解决？
 
@@ -691,7 +691,7 @@ select = string[-1:-12:-1]
 print(select)  # sihtrofnrob
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9e/9ee77f4a1b1e04b879a1f287c5489c5cfa851d1b59ece6331375feb71ca8fde5.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9e/9ee77f4a1b1e04b879a1f287c5489c5cfa851d1b59ece6331375feb71ca8fde5.png)
 
 #### 4.5.4 正式讲解倒序
 
@@ -3041,7 +3041,7 @@ bornforthis.cn
 
 ~~但是上面的代码，有点小问题：在运行的时候并不能很直观的知道，程序需要我们输入，何况非程序员用户呢？~~
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d8/d865402222c2a9e8b1509c87d616f01e59db0eae2e948aecb43cfb36c26bc057.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d8/d865402222c2a9e8b1509c87d616f01e59db0eae2e948aecb43cfb36c26bc057.png)
 
 ~~如何解决？——使用输入提示。~~
 
@@ -3061,7 +3061,7 @@ print(user_input)
 
 那基于现在的代码，我们想要光标直接显示在 `请输入内容并按下回车↩︎：` 后面，该如何实现呢？——好好思考一下。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a94f9a74cb442862a81df9e5398c1dde3b7b01bed1ba880f1cb8672511fb9d1f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a9/a94f9a74cb442862a81df9e5398c1dde3b7b01bed1ba880f1cb8672511fb9d1f.png)
 
 使用当前所学，好好思考如何实现。
 
@@ -3115,7 +3115,7 @@ Enter your name: >>> bornforthis.cn
 User input name: bornforthis.cn
 ```
 
-![这样就很直观了](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cc/cca5a0a6ed5891d19546a9d55243136d6be858b645392c148aa1b61994a0b403.png)
+![这样就很直观了](https://blog.images.bornforthis.cn/docs-images/sha256/cc/cca5a0a6ed5891d19546a9d55243136d6be858b645392c148aa1b61994a0b403.png)
 
 这样，用户就能清楚地知道该输入什么，提高了交互体验。
 

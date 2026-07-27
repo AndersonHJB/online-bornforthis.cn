@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: home
 title: 墨问西东·笔记
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/995ff45ed98050ba3650dd5d2be02a08c143f9caca3cf7bc276007ddf9995ed7.jpeg
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/99/995ff45ed98050ba3650dd5d2be02a08c143f9caca3cf7bc276007ddf9995ed7.jpeg
 heroText: 墨问西东·笔记
 heroFullScreen: false
 tagline: 在广袤的空间和无限的时间中，能与你共享同一颗行星和同一段时光，是我莫大的荣幸。卡尔·萨根

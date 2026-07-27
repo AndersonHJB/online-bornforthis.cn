@@ -48,7 +48,7 @@ backToTop: true
 
 上面的例子定义了一条路径，它开始于位置 150 0，到达位置75 200，然后从那里开始到 225 200，最后在 150 0 关闭路径。
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/27/2745f22a12fefcd401e5b799d1c575119ab9d416338894b4828aee3129630898.png" alt="image-20221103235622197" style="zoom:33%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/27/2745f22a12fefcd401e5b799d1c575119ab9d416338894b4828aee3129630898.png" alt="image-20221103235622197" style="zoom:33%;" />
 
 下面是 SVG 代码：
 
@@ -64,7 +64,7 @@ backToTop: true
 
 下面的例子创建了一个二次方贝塞尔曲线，A 和 C 分别是起点和终点，B 是控制点：
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ac/ac2ea2552c210731382162b8e3df6953aeecaefb077b2f0fd03e2fb2c8504b55.png" alt="image-20221104000133546" style="zoom:33%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/ac/ac2ea2552c210731382162b8e3df6953aeecaefb077b2f0fd03e2fb2c8504b55.png" alt="image-20221104000133546" style="zoom:33%;" />
 
 下面是 SVG 代码：
 
@@ -102,7 +102,7 @@ backToTop: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -118,4 +118,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -22,7 +22,7 @@ watermark:
   opacity: 0.5
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2c/2c494d0c8c5a50ac3dcae90a2c79fb3fb37ed58cde036e24b5a0db9e0aabe3bc.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2c/2c494d0c8c5a50ac3dcae90a2c79fb3fb37ed58cde036e24b5a0db9e0aabe3bc.png)
 
 到目前为止，我们已经聊了不少编程中的聪明思路和算法技巧。现在，是时候揭开一项神秘又炫酷的技术面纱了——它叫“人工智能”。
 
@@ -46,7 +46,7 @@ watermark:
 
 他们认为，人类能聪明、能思考，能得出各种各样的知识，是因为我们有一种特别厉害的能力：**逻辑推理能力**。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fb/fb563862264fe4b1c5477ad04c750b8e30f8951d6f05f9ce7e51135b0f56e5e0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fb/fb563862264fe4b1c5477ad04c750b8e30f8951d6f05f9ce7e51135b0f56e5e0.png)
 
 比如：
 
@@ -133,7 +133,7 @@ watermark:
 
 换句话说：人的思维远不是几条逻辑规则就能囊括的，把人类复杂的思考过程简化成一堆符号运算，听上去聪明，实则不太靠谱。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/21/21ae465d82b521ce14a6ec8247ac640b1a52f3ecd9ad0051b1cf8f0803ed8a8b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/21/21ae465d82b521ce14a6ec8247ac640b1a52f3ecd9ad0051b1cf8f0803ed8a8b.png)
 
 举个例子：金属能导电，钢铁是金属，所以钢铁能导电——这没问题，也非常符合逻辑推理的过程。
 
@@ -145,13 +145,13 @@ watermark:
 
 ## 6. 偶然的惊喜：知识图谱登场
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/16dd58e8d281f4823c5fbc4fe8916c03367ff8631c4b7522af5ec9270dfd6377.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/16/16dd58e8d281f4823c5fbc4fe8916c03367ff8631c4b7522af5ec9270dfd6377.png)
 
 虽然 Cyc 没能大放异彩，但它孕育出的一个“小分支”却异军突起，这就是今天被广泛使用的：**知识图谱**。
 
 还记得专家系统要输入很多知识吗？知识图谱就是把这些知识**画成图**，标出它们之间的关联。你可以把它当成“超级**思维导图**”。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/74b28f6b4d0de22c2789c13455534c65a030aaf946379cc5cd901656135811ee.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/74/74b28f6b4d0de22c2789c13455534c65a030aaf946379cc5cd901656135811ee.png)
 
 想象一下，小猪佩奇”和它的亲戚们的关系图谱：乔治是佩奇的弟弟、猪爸爸是他们的父亲、克洛伊是他们的堂姐……这些关系都能画出来。
 
@@ -165,7 +165,7 @@ watermark:
 
 ## 7. 把知识连成网，才算真正理解
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ef/ef0ea7fc20b2eb9d91e7d143585f5f07033ec169ac5064fe6bbc35ec90837915.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ef/ef0ea7fc20b2eb9d91e7d143585f5f07033ec169ac5064fe6bbc35ec90837915.png)
 
 知识图谱不仅对搜索有用，对学习也很重要。
 

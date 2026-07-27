@@ -21,7 +21,7 @@ toc: true
 
 在上一讲的结尾，我说到了人工智能领域大名鼎鼎的**图灵**和**图灵机**。虽然图灵提出了图灵机的设想，但其实他并没有真的造出过图灵机。不过，图灵造了另一台很厉害的机器，而且挽救了无数人的生命。那台机器是用来**破译密码**的。
 
-![艾伦·图灵](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/17054f87e5d799a9da2bb2739f659c7023eecdb995bd621ba892d7d3937328ef.jpg)
+![艾伦·图灵](https://blog.images.bornforthis.cn/docs-images/sha256/17/17054f87e5d799a9da2bb2739f659c7023eecdb995bd621ba892d7d3937328ef.jpg)
 
 你可能觉得，“破解密码”这种事听起来就像是侦探小说里的情节，能和编程有什么关系呢？其实，关系大着呢。听我说完图灵的故事，你就明白了。
 
@@ -35,7 +35,7 @@ toc: true
 
 诶，打仗不是要靠将军和士兵吗？怎么会轮到图灵和他的数学家同事们来改变历史呢？
 
-![以图灵为原型的电影《模仿游戏》剧照](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/ea3bfd8575a2ecdba4b13477f7c668b766eef0bc8b959837eec1afe9b5829920.png)
+![以图灵为原型的电影《模仿游戏》剧照](https://blog.images.bornforthis.cn/docs-images/sha256/ea/ea3bfd8575a2ecdba4b13477f7c668b766eef0bc8b959837eec1afe9b5829920.png)
 
 因为打仗可不只是将军和士兵们打打杀杀，还有好多其他的事情。比如，军队和军队之间，需要联络吧，前线的信息，要往后方传递吧？古代打仗的时候，都是让人骑着马，八百里加急传送军令。
 
@@ -47,7 +47,7 @@ toc: true
 
 恺撒的做法很简单，他把单词里头的每个字母，都改写成在它后边第三位的字母。比如：把A写成D，把B写成E。到了X呢，就**顺延**下去写成A，Y和Z就写成B和C。这样，每个字母都被新的密码字母替代了。
 
-![凯撒密码](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/98/9845c5ca4638999c8885da81808f017f99a2ba33bf381d30c1bb3896a38eedc6.png)
+![凯撒密码](https://blog.images.bornforthis.cn/docs-images/sha256/98/9845c5ca4638999c8885da81808f017f99a2ba33bf381d30c1bb3896a38eedc6.png)
 
 小狗的英文是D-O-G，dog，这个词用恺撒密码来写，就是grj。光看到这三个字母，谁都不会把它跟dog联系在一起。
 
@@ -75,7 +75,7 @@ toc: true
 
 当时，德国人就真的造出了一种这样的机器，叫“**恩尼格码机**”。“恩尼格码”是德语，翻译过来就叫作“**谜**”，谜语的谜，所以，也有人把它翻译成谜机的。
 
-![恩尼格码机](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/98/98a05f9d0fe7e6270705de1e584902a7da1cc6241adf1856af650d486c108f47.jpg)
+![恩尼格码机](https://blog.images.bornforthis.cn/docs-images/sha256/98/98a05f9d0fe7e6270705de1e584902a7da1cc6241adf1856af650d486c108f47.jpg)
 
 这台机器的原理有些复杂，我就不给你细讲了。我打个比方，你就知道它有多厉害了。如果把它的所有加密方式一种一种列出来，写成一本书，每页纸上写一种。那么，光是这本书的页数，就会比银河系里的星星还多**1亿倍**，而且根本没办法用前面说的频率统计法破解。
 
@@ -89,13 +89,13 @@ toc: true
 
 不过也别着急，机器出的题，还得机器来解。图灵跟同事们就做出了一种密码破译机叫“**炸弹机**”，比人力要快得多了。用这台机器破译，只需要花1个小时左右就能破译出来。
 
-![炸弹机复制品](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f8/f85e1c9f29ee526ff906e5c85ceccde9846398a00a3313f634e358ec7d8334d8.jpg)
+![炸弹机复制品](https://blog.images.bornforthis.cn/docs-images/sha256/f8/f85e1c9f29ee526ff906e5c85ceccde9846398a00a3313f634e358ec7d8334d8.jpg)
 
 那破译了德军的密码有多大用呢？有人估计，图灵和他同事的工作**让二战提前了两年多结束**，他们拯救了成千上万的人。
 
 二战结束后，为了守护国家安全，所有庄园里的人都保守着秘密。直到20多年后，人们才知道，图灵他们曾经改变了整个世界的历史走向。
 
-![电影《模仿游戏》剧照](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f3/f363521a116dc59e01f21ba87f417a91d5b7643c1d987989c1f266960376877b.png)
+![电影《模仿游戏》剧照](https://blog.images.bornforthis.cn/docs-images/sha256/f3/f363521a116dc59e01f21ba87f417a91d5b7643c1d987989c1f266960376877b.png)
 
 这集，咱们通过问题抽象和转化的思维方式破解了密码，在下一集，我还要教你用这种思维方式帮计算机看到我们的世界。我们下集见！
 

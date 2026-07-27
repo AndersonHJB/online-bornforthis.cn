@@ -30,7 +30,7 @@ watermark: true
 
 @tab img
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/64/64bc345a143c9e38b7d8b9faac972ea65d703188e8f047ee8594bbfaee6ef341.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/64/64bc345a143c9e38b7d8b9faac972ea65d703188e8f047ee8594bbfaee6ef341.png)
 
 @tab Text
 
@@ -154,7 +154,7 @@ if __name__ == "__main__":
 
 @tab img
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/dfb04738ff2cdc4ebfde1e203fd3b8be464870f8dcd2e241b041b5bdb6b43b2e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/df/dfb04738ff2cdc4ebfde1e203fd3b8be464870f8dcd2e241b041b5bdb6b43b2e.png)
 
 @tab Text
 
@@ -232,7 +232,7 @@ if __name__ == "__main__":
 
 @tab img
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4b/4bd73d8a6cbf0de4535fe52cc542046395d24a4cbed97ffd22c90d8a5732e6fa.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/4b/4bd73d8a6cbf0de4535fe52cc542046395d24a4cbed97ffd22c90d8a5732e6fa.png)
 
 @tab Text
 
@@ -445,7 +445,7 @@ if __name__ == "__main__":
 
 @tab img
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/8054b20ae73357f3d42bc9f0e5c95db84a161976040a89d8ad7f478e398d91c6.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/80/8054b20ae73357f3d42bc9f0e5c95db84a161976040a89d8ad7f478e398d91c6.png)
 
 @tab Text
 
@@ -740,7 +740,7 @@ if __name__ == '__main__':
 
 @tab img
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b0/b0069cce21b9d0855558430e8a61e5a76bed9f39103e0a68a781037211b43d3e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b0/b0069cce21b9d0855558430e8a61e5a76bed9f39103e0a68a781037211b43d3e.png)
 
 @tab Text
 
@@ -1061,7 +1061,7 @@ if __name__ == "__main__":
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1077,5 +1077,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

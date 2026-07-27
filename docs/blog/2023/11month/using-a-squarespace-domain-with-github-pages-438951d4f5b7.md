@@ -42,7 +42,7 @@ GitHub Pages is a static site hosting service that serves your custom website at
 7. Select the branch from the drop-down menu you configured in the **Code and automation** > **Pages** > **Source** section.
 8. You should now see a file entitled *CNAME* containing your domain name.
 
-![GitHub Pages settings for a user.github.io repository published to a custom domain.](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/da/dafac5d6c3dec09bc8b8a3b0d4207bda5ed727b02aa365246ef076c6f8703863.png)
+![GitHub Pages settings for a user.github.io repository published to a custom domain.](https://blog.images.bornforthis.cn/docs-images/sha256/da/dafac5d6c3dec09bc8b8a3b0d4207bda5ed727b02aa365246ef076c6f8703863.png)
 
 ## Second, Squarespace.
 
@@ -55,7 +55,7 @@ Next, we need to point our custom domain’s DNS record to GitHub’s servers.
 5. Add an “A*”* record with host “@” for each GitHub Pages IP address. Use the `dig <user>.github.io` command to get this list. At the time of authorship, they were `185.199.108.153`, `185.199.110.153`, `185.199.111.153`, and `185.199.109.153`.
 6. Add a “CNAME” record with host “www” to point your subdomain to `<user>.github.io`.
 
-![Squarespace custom records in the DNS settings.](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/44/4473100cf2520be331a557299508c4563877ce6d2c5e1d01947a2397679f8557.jpeg)
+![Squarespace custom records in the DNS settings.](https://blog.images.bornforthis.cn/docs-images/sha256/44/4473100cf2520be331a557299508c4563877ce6d2c5e1d01947a2397679f8557.jpeg)
 
 ## Third, patience.
 
@@ -63,7 +63,7 @@ It can take up to 24 hours for your new configuration to take effect. Don’t fo
 
 Once your changes have propagated, you should be able to navigate to your custom domain and see your `<user>.github.io` content. 🎉
 
-![www.emilymdubois.com pointing to content from emilymdubois.github.io.](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5c/5cc9dfe966960683d1598c322690d05a752e8ae6242571c5d2b1be93fc9c45ef.png)
+![www.emilymdubois.com pointing to content from emilymdubois.github.io.](https://blog.images.bornforthis.cn/docs-images/sha256/5c/5cc9dfe966960683d1598c322690d05a752e8ae6242571c5d2b1be93fc9c45ef.png)
 
 
 
@@ -79,7 +79,7 @@ Once your changes have propagated, you should be able to navigate to your custom
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -95,4 +95,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

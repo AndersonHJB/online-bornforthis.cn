@@ -89,7 +89,7 @@ cp -r ../OMIS107/HW1 .
 
 If the permissions were set as shown below, which files would you NOT be allowed to read?
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d6/d6255f17aa21b839914635bcac8b8dd403c1430ad0715cb23098f8d653f78d18.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d6/d6255f17aa21b839914635bcac8b8dd403c1430ad0715cb23098f8d653f78d18.png)
 
 ### **Solution**:
 
@@ -149,7 +149,7 @@ Sep27Lunch.txt
 
 ### 1. 显示隐藏文件操作
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/48/48fa9319cef133fac5c57b13c49b870337817b8784cc8320fe12f6eabeaf703a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/48/48fa9319cef133fac5c57b13c49b870337817b8784cc8320fe12f6eabeaf703a.png)
 
 ### 2. `.` 和 `..`
 
@@ -213,7 +213,7 @@ Sep27Lunch.txt
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -229,5 +229,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

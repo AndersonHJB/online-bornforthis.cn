@@ -2,7 +2,7 @@
 home: true
 icon: columnszhuanlan
 title: Column Two
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6c/6c9919d43f082026aee9a4a57243f3d12b6ac94b38d68fc3653ef718c3362b50.svg
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/6c/6c9919d43f082026aee9a4a57243f3d12b6ac94b38d68fc3653ef718c3362b50.svg
 heroText: Column Two
 tagline: 私教专栏，聚少成多，一股无形的力量！
 actions:

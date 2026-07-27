@@ -24,7 +24,7 @@ toc: true
 
 :::
 
-![(OpenAI)](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/64/6469a25c63a12ce8c8c025c327bf66595fca9bc28a30f7b56bdf4544bd7bbd10.jpeg)
+![(OpenAI)](https://blog.images.bornforthis.cn/docs-images/sha256/64/6469a25c63a12ce8c8c025c327bf66595fca9bc28a30f7b56bdf4544bd7bbd10.jpeg)
 
 if you’ve browsed the internet for any amount of time, you will likely come across a reCAPTCHA box. These boxes appear when you first enter certain websites and ask you to check a box to prove that you are not a robot. The box is labeled “I’m not a robot,” and everyone clicks without a second thought because they aren’t robots. Sometimes, clicking the box forces you to do a series of visual puzzles that ask you things like clicking on all of the images with a motorcycle in them or clicking on all of the pictures with streetlights in them. These basic tests lead people to believe that robots cannot do them. But that isn’t the case.
 
@@ -70,13 +70,13 @@ In an interesting turn of events, computer scientists claim that the newest vers
 
 We might need a new reCAPTCHA system that can weed out the more advanced and human-like bots that are being developed today.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/67/67f5cabf4c502c8cc326e9e76dc2522186649324d65c5197fffaec4714f72699.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/67/67f5cabf4c502c8cc326e9e76dc2522186649324d65c5197fffaec4714f72699.png)
 
 欢迎关注我公众号：AI悦创，有更多更好玩的等你发现！
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -92,6 +92,6 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://grantpiperwriting.medium.com/why-cant-robots-click-the-i-m-not-a-robot-box-on-websites-370f239ba7f4)

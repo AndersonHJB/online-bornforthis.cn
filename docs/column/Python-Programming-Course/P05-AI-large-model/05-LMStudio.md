@@ -31,9 +31,9 @@ pip install lmstudio
 
 以下代码需要 [qwen3-4b-2507](https://lmstudio.ai/models/qwen/qwen3-4b-2507) 模型，如果没有该模型，请在终端运行以下命令进行下载。
 
-![下载过程图](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e1/e1056acb429e807747f7fe22555f89e8d6e74c54be607b1797acd18ff90bda8f.png)
+![下载过程图](https://blog.images.bornforthis.cn/docs-images/sha256/e1/e1056acb429e807747f7fe22555f89e8d6e74c54be607b1797acd18ff90bda8f.png)
 
-![下载完成](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8f/8f8f37c5fcde2c416cd45a3315febac66ba0ced2e636f1766d52d2c83947e841.png)
+![下载完成](https://blog.images.bornforthis.cn/docs-images/sha256/8f/8f8f37c5fcde2c416cd45a3315febac66ba0ced2e636f1766d52d2c83947e841.png)
 
 ```bash
 lms get qwen/qwen3-4b-2507
@@ -54,15 +54,15 @@ print(result)
 
 ### 3.1 LM Studio 软件内设置
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2d2b41fb48044849e80a41d876e7630f11ad9fd45e9c3b27df96413aaa96033b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2d/2d2b41fb48044849e80a41d876e7630f11ad9fd45e9c3b27df96413aaa96033b.png)
 
 默认端口 1234，可以自行设置其它端口。
 
 ### 3.2 开启服务
 
-![开启 Status Stopped](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8e/8e566849913ec3b84f1c24461b18f101c3d470ddf5e3ce90a576476c63ce9301.png)
+![开启 Status Stopped](https://blog.images.bornforthis.cn/docs-images/sha256/8e/8e566849913ec3b84f1c24461b18f101c3d470ddf5e3ce90a576476c63ce9301.png)
 
-![开启状态](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7e/7e1698c3c7d855ac21dbb877c4140cf01ae1b899124adee0122abb16637a9ec4.png)
+![开启状态](https://blog.images.bornforthis.cn/docs-images/sha256/7e/7e1698c3c7d855ac21dbb877c4140cf01ae1b899124adee0122abb16637a9ec4.png)
 
 
 
@@ -95,7 +95,7 @@ else:
 
 当开启 API 服务后，软件右上角会自行显示 IP 地址以及对应端口，看如下图：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5b/5bdb3a094f39eeb9cc5c0869fa42ff4a617636b6273b6eb14621468000178a7b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/5b/5bdb3a094f39eeb9cc5c0869fa42ff4a617636b6273b6eb14621468000178a7b.png)
 
 ### 3.6 最终设置
 
@@ -1356,7 +1356,7 @@ You (leave blank to exit):
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1372,4 +1372,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

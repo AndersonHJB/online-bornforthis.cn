@@ -28,7 +28,7 @@ backToTop: true
 toc: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/ed89b07d5313d526181719c0caab7862af8409e7585b3c7494422d50e8738de7.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ed/ed89b07d5313d526181719c0caab7862af8409e7585b3c7494422d50e8738de7.jpg)
 
 你好，我是悦创。欢迎加入《Rust 语言从入门到实战》，开启一段全新的学习旅程。
 
@@ -52,11 +52,11 @@ toc: true
 
 也就是说，前期的观望期可能已经快结束了。而验证期过后，很可能是一个爆发期，如果你能赶在它爆发前掌握它，那对自身的竞争力来说会是一个极大的加成。我们来看一个数据， Rust 官方的包仓库 crates.io 的下载量。
 
-![数据来源：https://lib.rs/stats](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/9351618b7235478fca1a8c0bb1e511fd77b7e38f8273f6f38699debf087831eb.png)
+![数据来源：https://lib.rs/stats](https://blog.images.bornforthis.cn/docs-images/sha256/93/9351618b7235478fca1a8c0bb1e511fd77b7e38f8273f6f38699debf087831eb.png)
 
 这是一个明显的指数曲线，crate 下载量在以每年 1.8 倍的速度递增（已超过摩尔定律）。另外一方面，国内国外的一些大厂也都在力推 Rust。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7d/7d8d76e679bb25dbefbc267067f0818334f336ce5b60795e814e1004c31f0aea.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/7d/7d8d76e679bb25dbefbc267067f0818334f336ce5b60795e814e1004c31f0aea.jpg)
 
 这些数据让我们对 Rust 的未来信心满满！
 
@@ -76,7 +76,7 @@ toc: true
 
 与 C++ 一样，Rust 是一门全问题域语言，或者叫真正的全栈语言。它可以适应从嵌入式裸金属编程、OS 开发，到上层数据库、大模型系统几乎所有层次的开发需求。Rust 从一开始就被设计成一门立足安全、追求性能、迎合并行计算需求的语言。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fc/fc73a1ee3768db7a65b10616e3f745b6a529ae0b19154060bcd7e5a6200aba40.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fc/fc73a1ee3768db7a65b10616e3f745b6a529ae0b19154060bcd7e5a6200aba40.jpg)
 
 ## 3. 不走寻常路的 Rust
 
@@ -104,7 +104,7 @@ Rust 语言，不管吸收整合了多少种语言的优秀特性，从根本上
 
 为了实现这种 N+1+1 的效果，我把整个课程分成三部分。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/12/1238549d6037a4715fe81f1e3a451aa904e75b364956513b028642d3a1474ee3.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/12/1238549d6037a4715fe81f1e3a451aa904e75b364956513b028642d3a1474ee3.jpg)
 
 ### 5.1 基础篇
 
@@ -138,7 +138,7 @@ Rust 语言，不管吸收整合了多少种语言的优秀特性，从根本上
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -154,4 +154,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -203,19 +203,19 @@ Here are a few visuals that show how your page could potentially look. Note that
 
 > 大的布局
 
-![image-20230203094223774](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/25698948373a7864215ae583b43de669a0086dde7449e359adc31354b58eec1f.png)
+![image-20230203094223774](https://blog.images.bornforthis.cn/docs-images/sha256/25/25698948373a7864215ae583b43de669a0086dde7449e359adc31354b58eec1f.png)
 
 ## Medium layout
 
 > 媒介布局
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/69/69e2a2e5d1959369d733c7587f7d039aa9724bcdc4545374eeaa73ed875e41a1.png" style="zoom: 25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/69/69e2a2e5d1959369d733c7587f7d039aa9724bcdc4545374eeaa73ed875e41a1.png" style="zoom: 25%;" />
 
 ## Small layout
 
 > 小的布局
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/31/31480a044824c5eea4cf973552303d7d4dc33ae7b26e24d956780c5cd0ac1965.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/31/31480a044824c5eea4cf973552303d7d4dc33ae7b26e24d956780c5cd0ac1965.png" style="zoom:25%;" />
 
 Note: You will need to resize your browser in order to test all possible layouts. You may also need to zoom in and zoom out using the View -> Zoom In / View -> Zoom Out commands, especially to see the smallest layout.
 
@@ -261,7 +261,7 @@ Next you need to connect with the server so that you can begin to add files to y
 
 > 接下来，您需要连接到服务器，以便开始向站点添加文件。您可以使用SFTP程序，如Fetch (Mac Only)或WinSCP (Windows Only)。无论你使用什么程序，一定要使用SFTP(而不是FTP，不安全)进行连接。如果你正在使用Fetch，这里是开始的屏幕;用你自己的NetID填写，然后点击“连接”。
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/257f9edb17e163fede250bc4fb4606287a119345da775a828fd3673c8475b0b9.png" style="zoom: 50%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/25/257f9edb17e163fede250bc4fb4606287a119345da775a828fd3673c8475b0b9.png" style="zoom: 50%;" />
 
 If you have problems logging into your i6 account, speak with me as soon as possible (and DO NOT contact the CIMS Helpdesk!)
 
@@ -368,7 +368,7 @@ https://i6.cims.nyu.edu/~NETID/webdev/index.html
 
 3. 设置根目录：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f0/f09886f4f6d36d2403261cba35fbf54dba89c541713fa03fac105f75536940c1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f0/f09886f4f6d36d2403261cba35fbf54dba89c541713fa03fac105f75536940c1.png)
 
 
 
@@ -383,7 +383,7 @@ https://i6.cims.nyu.edu/~NETID/webdev/index.html
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -399,4 +399,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

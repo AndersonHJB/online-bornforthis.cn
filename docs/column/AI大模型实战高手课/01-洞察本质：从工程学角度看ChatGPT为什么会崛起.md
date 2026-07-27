@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7a/7a4ef97f3afda03c2b16c0695ebb3cc41e19f105a2367f456f8cf0bd5ebb77f6.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/7a/7a4ef97f3afda03c2b16c0695ebb3cc41e19f105a2367f456f8cf0bd5ebb77f6.jpg)
 
 你好，我是悦创。
 
@@ -26,7 +26,7 @@ toc: true
 
 实际上国内外同一时期搞大模型的团队很多，为什么 ChatGPT 会突然火起来？还有在 ChatGPT 发布后，为什么各个大厂在短时间内相继发布大模型产品？比如 3 月百度发布文心一言，4 月阿里云发布通义千问，5 月科大讯飞发布星火认知大模型等等。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d0/d062893b7b787bcda61abee5daa64f819ecd08551cffc93716170edafdce8528.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d0/d062893b7b787bcda61abee5daa64f819ecd08551cffc93716170edafdce8528.png)
 
 我们最容易想到的原因是，OpenAI 在自然语言处理（NLP）方面取得了突破性的进展，这是技术层面看到的。实际上，ChatGPT 背后包含了一系列的资源整合，包括技术、资金、大厂背书等等，以及多个国际巨头的通力合作，比如 OpenAI、微软、NVIDIA、GitHub 等。所以说，**ChatGPT 不仅仅是技术上的突破，更是工程和产品的伟大胜利！**
 
@@ -52,7 +52,7 @@ GPT 系列的模型一直走的是和 BERT 不一样的线路，早些年压力�
 
 GPT-3 和 GPT-3.5 其实是两个不同的系列，使用过 OpenAI API 的人应该知道，还有几个细化的模型，比如 code-davinci、text-davince 系列。顾名思义，code-davince 就是 OpenAI 另一个产品 codex 使用的模型，在 text-davince-001 的基础上使用源代码进行训练，产生了 code-davinci-002 模型（codex）。再后来在 code-davinci-002 模型基础上，基于有监督的指令微调，产生了 text-davinci-002，最后在 text-davinci-002 模型基础上，使用 RLHF，产生了 text-davinci-003 和 ChatGPT 模型。演进过程如图所示：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0f/0f5e4028f983e8208a71994472f10ea3ecbae8ddaa002105cb33abd8abe2008f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/0f/0f5e4028f983e8208a71994472f10ea3ecbae8ddaa002105cb33abd8abe2008f.png)
 
 GPT-3 经过充分训练，但是依然不是一个适合与人类进行对话的模型，所以从 GPT-3 到 GPT-3.5 再到 InstructGPT 和 ChatGPT，参数规模并没有太大变化，主要是经过了各种技术的微调，说白了就是去**适配人类情景**。其中，最突出的就是 RLHF。RLHF 就是 Reinforcement Learning From Human Feedback（人类反馈强化学习）的简称。关于 RLHF 的详细介绍，我们会放在后面的章节中。
 
@@ -90,7 +90,7 @@ $$
 
 首先，我向你介绍下基础模型 GPT-3 的训练数据集。GPT-3 模型具有 1750 亿个参数，训练数据集大约 500B 个 token（1B=1 billion，也就是 10 亿）。下面是训练数据大概的组成结构：
 
-![数据源于官方的 GPT-3 论文《Language Models are Few-Shot Learners》](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4b/4b9c209c14d435dd30b6ea00b9c6ff6999ac0e3558eaf8e7b383cbc1d8611e15.png)
+![数据源于官方的 GPT-3 论文《Language Models are Few-Shot Learners》](https://blog.images.bornforthis.cn/docs-images/sha256/4b/4b9c209c14d435dd30b6ea00b9c6ff6999ac0e3558eaf8e7b383cbc1d8611e15.png)
 
 原始大约 45T 的纯文本数据，经历过滤后，大概是 750G 的高质量文本数据。
 
@@ -113,7 +113,7 @@ OpenAI 做对了一件非常重要的事儿，那就是找钱，而且还是找�
 
 OpenAI 母公司是 OpenAI Inc，属于非营利性质组织，这种情况下资本无法进入，所以后来成立了一家子公司，叫 OpenAI LP，现在我们常说的 OpenAI，其实就是 OpenAI LP，这是一家纯粹的商业化公司，这家公司设置了最高 100 倍的回报上限，以此来权衡盈利和非盈利属性，也可以叫做“有限盈利”，既迎合资本家利益，也看似符合母公司非盈利组织的创建初衷。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d2/d2ee36e6ff8e22df4fa339017323e8a19f220a96516763a74b17519b0aa7bd1e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d2/d2ee36e6ff8e22df4fa339017323e8a19f220a96516763a74b17519b0aa7bd1e.png)
 
 通过这种股权结构，成功获得微软累计超过 100 亿美金的投资，这里不得不说，微软为 OpenAI 带来的不仅仅是钱，更是强大的影响力，毕竟全世界人民是认微软的，包括我们中国人。
 
@@ -159,7 +159,7 @@ ChatGPT 也一样，OpenAI 不是仅仅提供一个模型，让我们自己部�
 
 这节课我从宏观方面向你介绍了 ChatGPT 崛起的原因，相信你也对 ChatGPT 有了更深入的理解。下面我们再简单总结一下。所谓**工程化主要就是指集技术、数据、产品、资源于一身，是一个系统性、规范性的工程项目**，很多人想到 ChatGPT，就想到了大模型本身，其实这是片面的，具体你可以参考下面思维导图再回顾一下细节。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f0/f040e34ef768b3baa8a89858321cc9e319c25a3dfab8b11109b072b99f8794b3.png)AI 大模型还处于发展非常迅速的阶段，实际上天天都在发生变化，所以很多事情都还没有定论，我们需要保持开放的心态，不断接纳，不断学习。下一节课，我会从如何用好大模型这个角度，给你讲解下**提示词工程**，这也是刚接触 AI 大模型的用户非常容易忽略的问题，当然这也是能否用好 AI 大模型的核心。
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f0/f040e34ef768b3baa8a89858321cc9e319c25a3dfab8b11109b072b99f8794b3.png)AI 大模型还处于发展非常迅速的阶段，实际上天天都在发生变化，所以很多事情都还没有定论，我们需要保持开放的心态，不断接纳，不断学习。下一节课，我会从如何用好大模型这个角度，给你讲解下**提示词工程**，这也是刚接触 AI 大模型的用户非常容易忽略的问题，当然这也是能否用好 AI 大模型的核心。
 
 ## 6. 思考题
 
@@ -261,7 +261,7 @@ Emergent，在复杂科学领域，好像一般会翻译为“涌现”，而不
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -277,4 +277,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -2,9 +2,9 @@
 home: true
 title: 上手
 icon: home
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0d/0d6f6e8a710d512960c5d4716f0afb3951d548f5777a7d46e99f20ac1e040d08.svg
-bgImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/73/73a0297dba3feea5a9544809f30776984d9456012a4066f293f1253bbebe05f6.svg
-bgImageDark: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b950eaeb3e2bfa7b174725134dea83e3408c5b665614891af0e9f81f600e1b5e.svg
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/0d/0d6f6e8a710d512960c5d4716f0afb3951d548f5777a7d46e99f20ac1e040d08.svg
+bgImage: https://blog.images.bornforthis.cn/docs-images/sha256/73/73a0297dba3feea5a9544809f30776984d9456012a4066f293f1253bbebe05f6.svg
+bgImageDark: https://blog.images.bornforthis.cn/docs-images/sha256/b9/b950eaeb3e2bfa7b174725134dea83e3408c5b665614891af0e9f81f600e1b5e.svg
 heroFullScreen: true
 bgImageStyle:
     background-attachment: fixed

@@ -536,7 +536,7 @@ When calling `has_path_of_ones(root)`, it should return True if the tree rooted 
 
 For example, if we call the function on the trees below, then, for the tree on the left, the function should return True. However, for the tree on the right, the function should return False.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3039c24633639393d035f6a7d11c629bcb4ec0926e14aa38cccf638d9b140d56.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3039c24633639393d035f6a7d11c629bcb4ec0926e14aa38cccf638d9b140d56.png)
 
 Implementation requirements:
 
@@ -690,7 +690,7 @@ A Parity-Queue has the following operations:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -706,4 +706,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

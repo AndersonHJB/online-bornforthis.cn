@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1e/1e617a3bd70f0895371c10a037b7ac2c4b8c969002fea13949f6ae402a5c19e9.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/1e/1e617a3bd70f0895371c10a037b7ac2c4b8c969002fea13949f6ae402a5c19e9.jpeg)
 
 everyone seems to be talking about [DeepSeek](https://www.deepseek.com/) R-1, the new open-source AI language model made by a Chinese AI firm, DeepSeek. Some users claim it’s on par with, or even better than, OpenAI’s o1 in terms of reasoning capabilities.
 
@@ -48,7 +48,7 @@ Ollama is a free, open-source tool that allows users to run large language model
 
 Head to the official Ollama website and click on the “Download” button. Install it on your system.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/edc324f8ea2445206a1408f907b99f33324b3edfc18fcb281958005da69ccc0a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ed/edc324f8ea2445206a1408f907b99f33324b3edfc18fcb281958005da69ccc0a.png)
 
 To confirm that the installation is successful, open a terminal and run the following command:
 
@@ -56,19 +56,19 @@ To confirm that the installation is successful, open a terminal and run the foll
 ollama -v
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6b/6b123657f05b78d3304f010f56f5ea6257140853a3b47112498b4e5196e85e62.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/6b/6b123657f05b78d3304f010f56f5ea6257140853a3b47112498b4e5196e85e62.png)
 
 You should see the version number of the Ollama instead of an error.
 
 Under the Models tab, search for the keyword “deepseek” and you should see the “deepseek-r1” on the first item on the search list.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/81/811591f5bf91556c3b9bdc22585cdeab86a7c671f959fdd0a9e0adffe37441a9.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/81/811591f5bf91556c3b9bdc22585cdeab86a7c671f959fdd0a9e0adffe37441a9.png)
 
 Click on it and down the Models section, you’ll notice that there are multiple model sizes from 5 billion to 671 billion parameters. As a rule of thumb, larger models require more powerful GPUs to run.
 
 - [https://ollama.com/library/deepseek-r1](https://ollama.com/library/deepseek-r1)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/49/4990474c2ce517d56f1eb768ca7087935a3e454cdef9fd6cf8efd63f44acdb1b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/49/4990474c2ce517d56f1eb768ca7087935a3e454cdef9fd6cf8efd63f44acdb1b.png)
 
 Smaller models like the 8 billion parameter version can run on GPUs with 8GB of VRAM. Larger models need significantly more resources (refer to the VRAM and GPU requirements section below).
 
@@ -80,15 +80,15 @@ ollama run deepseek-r1:8b
 
 The model will start downloading (around 4.9GB). Ensure you have enough disk space before proceeding.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9b/9bdbb2c2b7330d7b4d7347f86970c02608ca1075ea3473349004781b02ac4254.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9b/9bdbb2c2b7330d7b4d7347f86970c02608ca1075ea3473349004781b02ac4254.png)
 
 Once downloaded, the model will run locally on your machine. You can chat with it immediately.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c4/c443de7942f496c7827d9567d578646ce8bcecb1a434e5c74cd298729b09a02e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c4/c443de7942f496c7827d9567d578646ce8bcecb1a434e5c74cd298729b09a02e.png)
 
 Let’s test it with this example prompt:
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/56/56fe08e40f36d536065359eaa1f04b2d5a633677ffe3f82596e2ee5cea930fcb.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/56/56fe08e40f36d536065359eaa1f04b2d5a633677ffe3f82596e2ee5cea930fcb.png)
 
 > **Prompt:** What is DeepSeek R-1?
 >
@@ -96,7 +96,7 @@ Let’s test it with this example prompt:
 
 Awesome. It’s fast and it still works even if I disconnect my laptop from the Wifi. Note that even if you are connected to the internet, it still cannot access the web.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8a/8aa6f3d59c8f8b44921263ec47215b24d3a1ac7a50c01bef8fb7a61dc2f387d7.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8a/8aa6f3d59c8f8b44921263ec47215b24d3a1ac7a50c01bef8fb7a61dc2f387d7.png)
 
 > **Prompt:** What’s latest price of AAPL?
 >
@@ -108,7 +108,7 @@ Awesome. It’s fast and it still works even if I disconnect my laptop from the 
 
 The VRAM requirements for DeepSeek-R1 depend on factors like model size, parameter count, and quantization techniques. Below is a detailed overview of the VRAM needs for DeepSeek-R1 and its distilled models, along with recommended GPUs:
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f3/f34054c7f47a9bb35b7126ec418351e8ffe813ce0a553e3c87988fc980082e3c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f3/f34054c7f47a9bb35b7126ec418351e8ffe813ce0a553e3c87988fc980082e3c.png)
 
 Key notes on VRAM usage:
 
@@ -136,7 +136,7 @@ If you don’t like using the terminal, you can always add a simple UI with tool
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -152,7 +152,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://medium.com/generative-ai/how-to-install-and-use-deepseek-r-1-in-your-local-pc-b77bc20f7566)
 

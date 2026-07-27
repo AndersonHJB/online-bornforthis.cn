@@ -48,7 +48,7 @@ r = requests.get('http://news.baidu.com')
 
 我们先看看新闻爬虫的简单流程图：
 
-![网络爬虫简单流程图](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ae/ae4caaf420cdc131d92a7f95005c71306dcdf44e6be229e52c755546b37dd62c.jpg)
+![网络爬虫简单流程图](https://blog.images.bornforthis.cn/docs-images/sha256/ae/ae4caaf420cdc131d92a7f95005c71306dcdf44e6be229e52c755546b37dd62c.jpg)
 
 从一些种子网页开始，种子网页往往是一些新闻网站的首页，爬虫抓取网页，从中提取网站URL放到网址池再进行抓取。这样就从几个网页开始，不断扩展到其它网页。爬虫抓取的网页也越来越多，提取出的新网网址也会成几何级数增长。
 
@@ -105,7 +105,7 @@ r = requests.get('http://news.baidu.com')
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -121,4 +121,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

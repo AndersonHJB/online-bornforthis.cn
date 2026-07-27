@@ -23,7 +23,7 @@ toc: true
 
 可这就带来了一个问题。现在的智能客服、语音助手已经越来越像真人了，有时候你在电话里听到的客服语气、回答都很自然，几乎分不出真伪。按照图灵的设想，这类机器人是不是已经“及格”了呢？
 
-![古斯特曼界面](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/65/657063a57e84baab958674e3f5672cfa71db5ea19ba78d7d22ba836f55493562.png)
+![古斯特曼界面](https://blog.images.bornforthis.cn/docs-images/sha256/65/657063a57e84baab958674e3f5672cfa71db5ea19ba78d7d22ba836f55493562.png)
 
 现实远比理论复杂。一个典型的例子是名叫“**尤金·古斯特曼**”的对话程序。它假扮成一个13岁、英语非母语的小男孩与人交谈。这个设定让它可以“合理地”表现出一些语法不通、逻辑跳跃的回答，也因此成功地通过了图灵测试。
 
@@ -33,13 +33,13 @@ toc: true
 
 有一派学者被称为**行为主义者（行为学派）**，他们提出一个观点：既然我们无法窥探机器的“内心世界”，那就干脆不去管它。只要它的行为——比如回答问题、做决策——足够接近人类，那就可以认为它“具有智能”。
 
-![学生考试](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/39/392c3b7e37fc3714c07bcee687f961b27c0728688817da6ba485a0151d04e3ba.png)
+![学生考试](https://blog.images.bornforthis.cn/docs-images/sha256/39/392c3b7e37fc3714c07bcee687f961b27c0728688817da6ba485a0151d04e3ba.png)
 
 这种观点听起来也很有道理，毕竟生活中我们经常采用类似的思路。比如，老师无法知道你脑子里到底有没有掌握知识，于是选择通过考试来评估。你答对了题目，就说明你可能学会了。
 
 当然，考试的结果也有偏差：有人复习得很好却因为紧张发挥失常；也有人运气好，蒙对了答案。但整体而言，这种基于“可观察行为”的评估，依然是现实中最可行的方法之一。
 
-![黑盒测试](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a1/a1e06c1beaac10a88883a9d5dada7a9db9e1b1a40ba09e6cf5b5bb336ddac829.png)
+![黑盒测试](https://blog.images.bornforthis.cn/docs-images/sha256/a1/a1e06c1beaac10a88883a9d5dada7a9db9e1b1a40ba09e6cf5b5bb336ddac829.png)
 
 在技术领域，这种方法也有体现。程序员们在测试软件时，会用一种叫“**黑盒测试**”的方法：不关心内部代码是怎么写的，只关心这个软件输入什么能输出什么。只要结果对了，那程序就被认为是“合格”的。
 
@@ -51,7 +51,7 @@ toc: true
 
 ## 2. 会回答问题≠理解问题
 
-![会回答问题≠理解问题](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1a/1ab28674e78d04db03735e060cb9c6cb93ee932716a49ad7ca0ba13ada412da8.png)
+![会回答问题≠理解问题](https://blog.images.bornforthis.cn/docs-images/sha256/1a/1ab28674e78d04db03735e060cb9c6cb93ee932716a49ad7ca0ba13ada412da8.png)
 
 不过，也有一派人持反对意见。他们认为，仅靠行为判断智能未免太粗糙了。假设一个人手里有一本超级详细的英语问答手册，别人提问他就从书中翻找最接近的问题和答案，然后照抄应对——这种人显然不能说“懂英语”。可从外面看，他的回答却很“对”。
 

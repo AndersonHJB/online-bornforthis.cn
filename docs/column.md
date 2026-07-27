@@ -2,7 +2,7 @@
 home: true
 icon: columnszhuanlan
 title: Column One
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6c/6c9919d43f082026aee9a4a57243f3d12b6ac94b38d68fc3653ef718c3362b50.svg
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/6c/6c9919d43f082026aee9a4a57243f3d12b6ac94b38d68fc3653ef718c3362b50.svg
 heroText: Column
 heroFullScreen: false
 tagline: 私教专栏，聚少成多，一股无形的力量！
@@ -83,7 +83,7 @@ footer: 浅者见浅，深者见深。——流沙团队 | Copyright © 2018-pre
 
 微信：
 
-![微信号：Jiabcdefh](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/51f1983c47ad09a50469d03ff84853eddd43b52c02bc8320e13de6cdb90ed9a7.jpg =300x400)
+![微信号：Jiabcdefh](https://blog.images.bornforthis.cn/docs-images/sha256/51/51f1983c47ad09a50469d03ff84853eddd43b52c02bc8320e13de6cdb90ed9a7.jpg =300x400)
 
 [^1]: Code 1v1 是 AI悦创·致力推广编程教学而研发的教学库
 

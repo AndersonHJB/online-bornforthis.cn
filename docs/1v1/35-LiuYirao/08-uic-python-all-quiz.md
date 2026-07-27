@@ -191,7 +191,7 @@ print(FullName("guido vAn rossum", capital=False))  # 输出：'Full Name: Guido
 
 @tab LYR
 
-![注意变量名大小写，与题目一致](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/41/41f1fb20b80336e7b6bb498b8e93b0931cfa15765bea67daffb326e57e212890.png)
+![注意变量名大小写，与题目一致](https://blog.images.bornforthis.cn/docs-images/sha256/41/41f1fb20b80336e7b6bb498b8e93b0931cfa15765bea67daffb326e57e212890.png)
 
 :::
 
@@ -255,7 +255,7 @@ print(first_word('Hello, world!'))
 
 @tab LYR
 
-![✅](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c563f58dadcce2d89a241cc44b18498677ba246ed06c0d8a3a37da055a5260f8.png)
+![✅](https://blog.images.bornforthis.cn/docs-images/sha256/c5/c563f58dadcce2d89a241cc44b18498677ba246ed06c0d8a3a37da055a5260f8.png)
 
 :::
 
@@ -347,7 +347,7 @@ print(clean_string("   having fun in Python   "))  # 预期输出: "Having fun i
 
 @tab LYR
 
-![✅](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2a/2a22365740cc1069658b26fd9a3d44367f452151b7342fb33eb97b4563bd0491.png)
+![✅](https://blog.images.bornforthis.cn/docs-images/sha256/2a/2a22365740cc1069658b26fd9a3d44367f452151b7342fb33eb97b4563bd0491.png)
 
 
 
@@ -430,7 +430,7 @@ print(first_last("My Name is Andrew"))  # 输出结果为："Mw"
 
 @tab LYR
 
-![✅](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/ed6e950a342e33864c300236831c432d33ffd70de25f6a84dc8ddaccdb4af1e0.png)
+![✅](https://blog.images.bornforthis.cn/docs-images/sha256/ed/ed6e950a342e33864c300236831c432d33ffd70de25f6a84dc8ddaccdb4af1e0.png)
 
 
 
@@ -482,7 +482,7 @@ def volume_c(radius, height):
 
 @tab LYR
 
-![✅](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/23/236d2201f4829894759fbef8a19ca810bce9f076fcd3bb219a7909b5e47a80c1.png)
+![✅](https://blog.images.bornforthis.cn/docs-images/sha256/23/236d2201f4829894759fbef8a19ca810bce9f076fcd3bb219a7909b5e47a80c1.png)
 
 :::
 
@@ -572,7 +572,7 @@ print(divisible_by_2(15))  # 输出：False
 
 @tab LYR
 
-![✅](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1c/1c1abca67b332b5b03b2a2ccf9bae9761c98886aed5dc01ddf08d687e1281e19.png)
+![✅](https://blog.images.bornforthis.cn/docs-images/sha256/1c/1c1abca67b332b5b03b2a2ccf9bae9761c98886aed5dc01ddf08d687e1281e19.png)
 
 :::
 
@@ -634,7 +634,7 @@ print(isAdult(18))  # 输出：True
 
 @tab LYR
 
-![✅](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6a/6a13ff3d1eb20b9711780604bdbd437f7f539bc95626c7ff05e7935140405717.png)
+![✅](https://blog.images.bornforthis.cn/docs-images/sha256/6a/6a13ff3d1eb20b9711780604bdbd437f7f539bc95626c7ff05e7935140405717.png)
 
 :::
 
@@ -706,7 +706,7 @@ def letter_grade(grade):
 
 @tab LYR
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b2/b291210cab1d9d96a61ef61c5863767cb4d22ad4f14ee4d6b55e37d489cc01c2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b2/b291210cab1d9d96a61ef61c5863767cb4d22ad4f14ee4d6b55e37d489cc01c2.png)
 
 :::
 
@@ -786,7 +786,7 @@ print(cumsum(5.5)) # 输出: 15
 
 @tab LYR
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8e/8ed33d95348f54e63f67d97dd7ecb23d853f088868b4748674033647c0be0de4.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8e/8ed33d95348f54e63f67d97dd7ecb23d853f088868b4748674033647c0be0de4.png)
 
 
 
@@ -858,7 +858,7 @@ print(even_sum(8.5))  # 输出：20
 
 @tab LYR
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5f2b3b48d39c578b13c940575981e5f872630693879f123cf6ffcc0bd208439d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/5f/5f2b3b48d39c578b13c940575981e5f872630693879f123cf6ffcc0bd208439d.png)
 
 
 
@@ -940,7 +940,7 @@ print(num_char_before_period('...'))  # -> 0
 
 @tab LYR
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d2/d2d16232d07b227aa3d0da459c4a07406c48c849315474a993411f67227e6b03.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d2/d2d16232d07b227aa3d0da459c4a07406c48c849315474a993411f67227e6b03.png)
 
 :::
 
@@ -1019,7 +1019,7 @@ print(remove_vowel('I love ice cream'))  # 输出：' lv c crm'
 
 @tab LYR
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f0/f083beee0ce1f0b2f2fa4cd15fadcb4ac26e5e41ba8eb02eec83754753c7b0b1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f0/f083beee0ce1f0b2f2fa4cd15fadcb4ac26e5e41ba8eb02eec83754753c7b0b1.png)
 
 :::
 
@@ -1146,7 +1146,7 @@ print(first_last(["a", "b", "c", "d"]))  # 输出：["d", "b", "c", "a"]
 
 @tab LYR
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/64/649b27a068bcc332ab305c5d59685ee0eac7f054a3124e1026007c3ddd2ccbd1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/64/649b27a068bcc332ab305c5d59685ee0eac7f054a3124e1026007c3ddd2ccbd1.png)
 
 ```python
 def first_last(listA):
@@ -1219,7 +1219,7 @@ print(result)
 
 @tab LYR
 
-![❌](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/28/28d07d9ea82d153663d510bc3a1b4a4c3d063ec7a854d89e8cf83e0c9a2d1890.png)
+![❌](https://blog.images.bornforthis.cn/docs-images/sha256/28/28d07d9ea82d153663d510bc3a1b4a4c3d063ec7a854d89e8cf83e0c9a2d1890.png)
 
 注意双等号才是判断是否相等。
 
@@ -1590,7 +1590,7 @@ list1 = [1, 3, 2, 5, 8, 7]
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1606,5 +1606,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

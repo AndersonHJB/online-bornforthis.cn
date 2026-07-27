@@ -29,7 +29,7 @@ toc: true
 
 @tab article-V0.1.html
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d6/d654ee9062ddacfc3ac1a460a9ce2307805b57bda0ae974f21ce856017f429b7.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d6/d654ee9062ddacfc3ac1a460a9ce2307805b57bda0ae974f21ce856017f429b7.png)
 
 @tab article-V0.2.html
 

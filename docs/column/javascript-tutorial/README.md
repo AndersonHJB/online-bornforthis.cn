@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: home
 title: javascript tutorial
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5e/5e93d7f46b40839e77de9dc9fcf4987374fc3f8c350ed6883302b7b5036c7880.png
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/5e/5e93d7f46b40839e77de9dc9fcf4987374fc3f8c350ed6883302b7b5036c7880.png
 heroText: JavaScript tutorial
 heroFullScreen: false
 tagline: javascript 手册
@@ -30,7 +30,7 @@ JavaScript 后续新增的 ES6 语法，请看[《ES6 标准入门教程》](#)�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -46,5 +46,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

@@ -31,7 +31,7 @@ Web 前端技术应用领域广泛，诸多优秀的移动端产品同样有赖�
 
 如果你入门 Web 后，坚持学习并不断参与项目开发，成为名副其实的 Web 前端工程师将给你带来**不错的薪酬回报。**
 
-![image-20220711012505261](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/7408af63c3117776d9f80e844b176dee18c7f4f02497969cae92f384ce6445db.png)
+![image-20220711012505261](https://blog.images.bornforthis.cn/docs-images/sha256/74/7408af63c3117776d9f80e844b176dee18c7f4f02497969cae92f384ce6445db.png)
 
 （图中数据来自：拉勾招聘）
 
@@ -61,7 +61,7 @@ Web 前端技术应用领域广泛，诸多优秀的移动端产品同样有赖�
 
 从了解 Web 基础知识起步，再经过几门课程的学习之后，你将能从 Web 小白成长为初级前端工程师：
 
-![image-20220711015255425](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c58cf3998c5e19e1759a284955a32e42c1ab44bdbf79666672cef6ad3196e08a.png)
+![image-20220711015255425](https://blog.images.bornforthis.cn/docs-images/sha256/c5/c58cf3998c5e19e1759a284955a32e42c1ab44bdbf79666672cef6ad3196e08a.png)
 
 - **Web 的概念：Web 是 World Wide Web——万维网的简称。** 它是建立在互联网上，为用户使用浏览器浏览信息的可视化界面。
 - **HTML：超文本标记语言能够搭建网页内容。** 但使用 HTML 只能搭建毛坯网页。
@@ -97,7 +97,7 @@ Windows 操作系统，安装时注意查看电脑的位数。32 位的电脑下
 
 **例如：Notepad 的下载**
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1e/1ebabeb4ccb7004adb24569b6364e131dc5e83c711c2b95a09efb5e60f4245c2.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/1e/1ebabeb4ccb7004adb24569b6364e131dc5e83c711c2b95a09efb5e60f4245c2.png)
 
 **如何知道电脑的位数呢？**
 
@@ -105,21 +105,21 @@ Windows 操作系统，安装时注意查看电脑的位数。32 位的电脑下
 
 **方法1：** 打开桌面【此电脑】，此电脑的地址栏中输入【`控制面板\系统和安全\系统`】按回车进入系统信息页面就能查看当前操作系统版本。如下图：
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ae/ae6b49db8b4e59694739adedbdfe2859761dcd7ff0b713f412f213ca0d73bc1d.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/ae/ae6b49db8b4e59694739adedbdfe2859761dcd7ff0b713f412f213ca0d73bc1d.png)
 
-**方法2：** 键盘上按下  WIN 键（![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7c/7c77f18660e5e898d1b79fed2aaa70445558d9877767efdfc65422e637a9c5e0.png))+R 键 输入 **dxdiag** 点击确定，在弹出的 `DirectX 诊断工具`【系统】>【系统信息】>【操作系统：】中可查看当前操作系统版本。如下图：
+**方法2：** 键盘上按下  WIN 键（![img](https://blog.images.bornforthis.cn/docs-images/sha256/7c/7c77f18660e5e898d1b79fed2aaa70445558d9877767efdfc65422e637a9c5e0.png))+R 键 输入 **dxdiag** 点击确定，在弹出的 `DirectX 诊断工具`【系统】>【系统信息】>【操作系统：】中可查看当前操作系统版本。如下图：
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b954a06e3565d3ff261c66d434311be06f1c39237dd7749ec8d3bc92d331be96.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/b9/b954a06e3565d3ff261c66d434311be06f1c39237dd7749ec8d3bc92d331be96.png)
 
 3. **两款浏览器**。编写完代码后，需要把代码在浏览器中运行出来，这个步骤叫做：**测试**。不同的浏览器会呈现出不同的网页效果，建议初学者下载两款浏览器用于测试。
 
 常用的现代浏览器有：
 
-![image-20220711022219600](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5b/5b95befba47d4f8b54e3b52de431fc8fe4c0fbcab4d16a2fef6aae1e8e78979c.png)
+![image-20220711022219600](https://blog.images.bornforthis.cn/docs-images/sha256/5b/5b95befba47d4f8b54e3b52de431fc8fe4c0fbcab4d16a2fef6aae1e8e78979c.png)
 
 推荐使用谷歌浏览器，官方下载地址：[https://www.google.cn/intl/zh-CN/chrome/](https://www.google.cn/intl/zh-CN/chrome/)
 
-![image-20220711022551534](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3bbad2e2890533eabebceaa7b79cf22901d3364355b596da197b8bd3b1fc1c20.png)
+![image-20220711022551534](https://blog.images.bornforthis.cn/docs-images/sha256/3b/3bbad2e2890533eabebceaa7b79cf22901d3364355b596da197b8bd3b1fc1c20.png)
 
 【判断题】HTML 不是编程语言，它是超文本标记语言。
 
@@ -154,7 +154,7 @@ Windows 操作系统，安装时注意查看电脑的位数。32 位的电脑下
 
 - **提前做好规划：** 你想做什么样的网页？请先画好草图。即便是专业的研发团队，也是先由美工或是产品经理用原型工具规划好网页布局，再由工程师实现的。比如：你想为你的宠物狗制作一个网页，记录它的成长。建议你从手绘一张草图，考虑网页结构开始。
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/80dd6dca187c1a016c63ef3b574a645835a3e532a2f57b047b2658f0a70eec38.png" alt="Snipaste_2022-07-11_08-46-40" style="zoom: 33%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/80/80dd6dca187c1a016c63ef3b574a645835a3e532a2f57b047b2658f0a70eec38.png" alt="Snipaste_2022-07-11_08-46-40" style="zoom: 33%;" />
 
 【单选题】以下哪个文件名符合规范？
 
@@ -165,7 +165,7 @@ Windows 操作系统，安装时注意查看电脑的位数。32 位的电脑下
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -181,7 +181,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

@@ -39,7 +39,7 @@ For this assignment you will be creating an online system that lets users keep t
 
 > 对于这个作业，你将创建一个在线系统，让用户跟踪季节活动。这里有一个视频例子，说明这个程序应该如何工作。请注意，您可以重新设计系统以使用自己的内容、颜色和布局，但总体逻辑应该是相同的。
 
-<VidStack src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/27-Assignment05/27-Assignment05.mp4" />
+<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/27-Assignment05/27-Assignment05.mp4" />
 
 
 ## Phase 1
@@ -224,7 +224,7 @@ For this assignment you will be creating an online system that lets users keep t
 
 For full credit for phase 1 you should ensure that your program should do the following. [Note that you can download all of the graphics used in this project here](https://cs.nyu.edu/courses/spring23/CSCI-UA.0061-001/images/assignment05/assignment05_images.zip).
 
-> 对于阶段1的全部学分，您应该确保您的程序应该做到以下几点。请注意，您可以在这里下载这个项目中使用的所有图形。**[assignment05_images.zip](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/27-Assignment05/assignment05_images.zip)**
+> 对于阶段1的全部学分，您应该确保您的程序应该做到以下几点。请注意，您可以在这里下载这个项目中使用的所有图形。**[assignment05_images.zip](https://blog.images.bornforthis.cn/1v1/06-KAI/27-Assignment05/assignment05_images.zip)**
 
 - Layout「布局」
     - Some kind of header to introduce your page「一些标题来介绍你的页面」
@@ -292,7 +292,7 @@ Thoroughly test your work and make sure that it meets the requirements set forth
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -308,4 +308,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: home
 title: 悦创来信·去无方向的信
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8a/8a940ba82b1b1c79e47fccdb5cda2612ec5b8a06484bacdf7d4cf1748093e1df.webp
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/8a/8a940ba82b1b1c79e47fccdb5cda2612ec5b8a06484bacdf7d4cf1748093e1df.webp
 heroText: 悦创来信·去无方向的信
 heroFullScreen: false
 tagline: 这是一个不成体统的启发信

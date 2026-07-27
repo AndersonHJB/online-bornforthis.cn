@@ -45,7 +45,7 @@ toc: true
 
 那计算机要怎么做呢？说出来你可能不信，计算机是**靠猜的**。当然了，计算机并不是瞎猜，这背后有一种特别重要的思考方式，叫做**概率思维**。什么意思呢？我给你举个例子你就明白了。
 
-![概率分布](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fb/fb2f4e41829c3aef74276352fc0635bb509d8d8f6e84991d575a3e808e13d837.png)
+![概率分布](https://blog.images.bornforthis.cn/docs-images/sha256/fb/fb2f4e41829c3aef74276352fc0635bb509d8d8f6e84991d575a3e808e13d837.png)
 
 
 
@@ -53,7 +53,7 @@ toc: true
 
 那你有没有发现，“**mifeng**”这个读音，既可以是在花丛里飞来飞去的小蜜蜂，也可以是把东西密封起来装好的那个“密封”。Siri怎么知道你说的是哪个呢？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/19/195ff5ad2f1dfad2ac120bcead2cae20d88787054ae2f0ea06369b1a81adc2a2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/19/195ff5ad2f1dfad2ac120bcead2cae20d88787054ae2f0ea06369b1a81adc2a2.png)
 
 
 
@@ -63,13 +63,13 @@ toc: true
 
 通过学习语料库，Siri 就会知道哪些词语人们用得比较多，哪些词语很少用。比方说在资料库里，“mifeng”这个读音，**90%**的情况，人们说的是小蜜蜂这种昆虫，只有**10%**的情况，说的是把东西密封起来的意思。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/02/0212acee193619f4024e04fd130da1c971cff124da60a77c69c6cc6b0f0870f6.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/02/0212acee193619f4024e04fd130da1c971cff124da60a77c69c6cc6b0f0870f6.jpg)
 
 所以，在没有任何提示的情况下，Siri就会猜你说的蜜蜂就是指蜜蜂这种昆虫，这样**猜对的概率就比较大**。
 
 这种用概率做判断的方法，在生活中特别有用。比方说你和同学约好了要去肯德基吃饭，结果呢，出了门才发现忘记约的是哪一家肯德基了。怎么办呢？这时候，你可以根据你同学的习惯，去他经常去的那一家，在哪里找到你同学的概率最大。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f3/f33249189522003535a90d96a6ad2262259875d1c7ed5cd02315ef7866980b01.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f3/f33249189522003535a90d96a6ad2262259875d1c7ed5cd02315ef7866980b01.jpg)
 
 那咱们说回Siri，Siri好歹也是个人工智能，这样硬猜是不是太不靠谱了？有没有什么办法能让Siri猜得更准呢？当然有。
 
@@ -87,7 +87,7 @@ toc: true
 
 我先给你举一个**机器人客服**的例子吧。你的爸爸妈妈可能会在购物软件上买各种各样的东西，有时候会给商家的客服打电话，你可能也打过类似的电话。
 
-![机器人客服](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/af/af6c6334a848146b8a819f70f2715b4c074cdf89024b118cb176f028b1ed4e2c.jpg)
+![机器人客服](https://blog.images.bornforthis.cn/docs-images/sha256/af/af6c6334a848146b8a819f70f2715b4c074cdf89024b118cb176f028b1ed4e2c.jpg)
 
 电话那头听起来好像是有个人在和你说话，但其实，现在好多客服电话都是机器人接的，和你聊天的可能压根就不是个人类。
 

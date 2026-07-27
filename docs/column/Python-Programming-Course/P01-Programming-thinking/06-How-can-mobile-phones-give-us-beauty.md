@@ -42,11 +42,11 @@ toc: true
 
 放大之前：
 
-![三星堆文化的青铜雕像头像｜黄家宝摄](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7f/7f035c6c947cd602f52c819c1a557425069f26bc4902f7678460b56fad661b11.jpg)
+![三星堆文化的青铜雕像头像｜黄家宝摄](https://blog.images.bornforthis.cn/docs-images/sha256/7f/7f035c6c947cd602f52c819c1a557425069f26bc4902f7678460b56fad661b11.jpg)
 
 放大之后：
 
-![像素点](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ef/ef4d7950f2e03b18a8c236185d8f9b2c45ac3f1f664c9e8a4a3864f59ec5703b.png)
+![像素点](https://blog.images.bornforthis.cn/docs-images/sha256/ef/ef4d7950f2e03b18a8c236185d8f9b2c45ac3f1f664c9e8a4a3864f59ec5703b.png)
 
 ## 2. 从色彩到数字：计算机看图像的“方式”
 
@@ -58,7 +58,7 @@ toc: true
 
 那倒过来，咱们也可以用这种方式让计算机看到颜色。这就牵扯到咱们之前说的“**问题转化**”思想了。我们要把每种颜色的光，转化成数字来表示。
 
-![PhotoShop 颜色选取](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/df3c6f94b1dfc59fa58b00c7531e366fb8508c3029fd1749c1038f45a32bca67.png)
+![PhotoShop 颜色选取](https://blog.images.bornforthis.cn/docs-images/sha256/df/df3c6f94b1dfc59fa58b00c7531e366fb8508c3029fd1749c1038f45a32bca67.png)
 
 此时，工程师们想出一种方法，把颜色的亮度转化成数字来处理。
 
@@ -75,7 +75,7 @@ toc: true
 1. 红色为255、绿色为0、蓝色为0，就表示“纯红”；
 2. 红绿蓝三色各设为150、200、180，则构成一个柔和的淡绿灰调，其组合就可以表示为：`(150, 200, 180)`。
 
-![RGB（150 200 180）](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a6/a68500d125a1484c8e914326b86727205ed2b80ced4982113924683d576d941d.jpg)
+![RGB（150 200 180）](https://blog.images.bornforthis.cn/docs-images/sha256/a6/a68500d125a1484c8e914326b86727205ed2b80ced4982113924683d576d941d.jpg)
 
 你可以把这三组数字看成是**颜色的身份证**，每个不同的组合，都对应一种具体的色彩。计算机就依靠这样的方式，将“颜色”抽象为可以存储、比较、处理的“数字”，从而完成对图像的理解。
 
@@ -109,13 +109,13 @@ toc: true
 
 20 世纪初的美国，当时，由于交通不便，许多民众终生难以出远门，明信片成为他们了解外面世界的窗口。一些摄影师为了让家乡看起来更有趣，就动起了“照片拼接”的念头。他们将洋葱、玉米等农产品的近景特写，与背景照片拼贴到一起。并且把不够美观的部分通过剪裁和拼接手法加以改善。再重新拍照制作成明信片——于是便出现了“人高的洋葱”、“马拉的母鸡”等极具想象力的图像。
 
-![巨大的洋葱](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/58/584055be95c42187157b8081730fe8a27118a1bc53607021bafa46a53c057657.png)
+![巨大的洋葱](https://blog.images.bornforthis.cn/docs-images/sha256/58/584055be95c42187157b8081730fe8a27118a1bc53607021bafa46a53c057657.png)
 
-![大母鸡和大鸡蛋](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/96/9693c1d7da3ac8919a39a410750610ad5cd357bd9fb9766096a0ff99a9c48b10.png)
+![大母鸡和大鸡蛋](https://blog.images.bornforthis.cn/docs-images/sha256/96/9693c1d7da3ac8919a39a410750610ad5cd357bd9fb9766096a0ff99a9c48b10.png)
 
-![这里的土豆长得很大](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/157398404e9fbd0c640161270a463c6fa0846bf57bcce41ba8fe649004584f48.jpg)
+![这里的土豆长得很大](https://blog.images.bornforthis.cn/docs-images/sha256/15/157398404e9fbd0c640161270a463c6fa0846bf57bcce41ba8fe649004584f48.jpg)
 
-![Loading Cabbage](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/48/48cb16e515a315086e9bf7bf1b29583faa574e84f766f5166e76c69882e36e75.jpg)
+![Loading Cabbage](https://blog.images.bornforthis.cn/docs-images/sha256/48/48cb16e515a315086e9bf7bf1b29583faa574e84f766f5166e76c69882e36e75.jpg)
 
 这种手工“照片合成术”与今天的 Photoshop 美图并无本质不同，只是那时靠剪刀和胶水，现在靠的是像素与算法。
 

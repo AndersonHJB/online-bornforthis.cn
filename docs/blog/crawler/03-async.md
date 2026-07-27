@@ -32,7 +32,7 @@ toc: true
 
 换个说法：你点击出来一个页面，你点击一下它给你一个反馈，你点击一下它给你个反馈，这个就是事件驱动。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7d/7de267acd8394d26290dfe5b18b12fbed479f407a261b10a7346f3d8a47a6323.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/7d/7de267acd8394d26290dfe5b18b12fbed479f407a261b10a7346f3d8a47a6323.png)
 
 异步活动的执行模型可以只有一个单一的主控制流，能在单核心系统和多核心系统中运行。
 
@@ -79,7 +79,7 @@ Ps：任务需要等待一段时间的时候，就被暂停放出去。等任务
 
 ### 2.2 并发与并行
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3a/3a694063fdb1ecce7f7193332fd6c1fd783dc38e4a633867d0edd84cdc571a3f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3a/3a694063fdb1ecce7f7193332fd6c1fd783dc38e4a633867d0edd84cdc571a3f.png)
 
 **多线程**：
 
@@ -195,13 +195,13 @@ asyncio.run(main())
 
 比如在这里我们看这么一个示例网站：[https://ssr4.scrape.center/](https://ssr4.scrape.center/)，如图所示。
 
-![https://ssr4.scrape.center/](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b5/b5652f4e5e6ba120488198d47c304691cc0ee98c5d4a3f0d603685a3679ee344.png)
+![https://ssr4.scrape.center/](https://blog.images.bornforthis.cn/docs-images/sha256/b5/b5652f4e5e6ba120488198d47c304691cc0ee98c5d4a3f0d603685a3679ee344.png)
 
 这个网站在内部实现返回响应的逻辑的时候特意加了 5 秒的延迟，也就是说如果我们用 `requests`来爬取其中某个页面的话，至少需要 5 秒才能得到响应。
 
 另外这个网站的逻辑结构在之前的案例中我们也分析过，其内容就是电影数据，一共 100 部，每个电影的详情页是一个自增 ID，从 1~100，比如 [https://ssr4.scrape.center/detail/43](https://ssr4.scrape.center/detail/43) 就代表第 43 部电影，如图所示。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a7/a7cb3aef52ba1a049694bbc15b35be9418f29b7f8f0bd95c7272b611e0660ff7.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a7/a7cb3aef52ba1a049694bbc15b35be9418f29b7f8f0bd95c7272b611e0660ff7.png)
 
 下面我们来用 requests 写一个遍历程序，直接遍历 1~100 部电影数据，代码实现如下：
 
@@ -1402,7 +1402,7 @@ print(f"Elapsed time: {time.time() - start_time}")
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1418,4 +1418,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

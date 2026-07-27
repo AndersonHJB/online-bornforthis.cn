@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: vue
 title: Vue 项目构建与开发入门
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c7/c70df3073252a54750d15f1a92578509ef844e7dd78e2f679a89e11835f11f15.png
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/c7/c70df3073252a54750d15f1a92578509ef844e7dd78e2f679a89e11835f11f15.png
 heroText: Vue 项目构建与开发入门
 heroFullScreen: false
 tagline: 从构建到开发，帮助 Vue 开发者提升项目构建与开发能力，基于 Vue CLI 3
@@ -24,7 +24,7 @@ footer: 立志降低教育成本，普及编程教育，提供优质资源教程
 
 ::: center
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bf/bf46e3fa15ee244e50102b4b51bf62d66b14581db3d61d4dd9192b92dac55516.png" alt="image-20230113000241854" style="zoom: 50%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/bf/bf46e3fa15ee244e50102b4b51bf62d66b14581db3d61d4dd9192b92dac55516.png" alt="image-20230113000241854" style="zoom: 50%;" />
 
 :::
 
@@ -36,7 +36,7 @@ footer: 立志降低教育成本，普及编程教育，提供优质资源教程
 
 ::: center
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/84/84a2a86a0c398dde3f1907dabbb306857b262161daabf25f19a465e4b66c8fe2.png" alt="image-20230113000628341" style="zoom: 50%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/84/84a2a86a0c398dde3f1907dabbb306857b262161daabf25f19a465e4b66c8fe2.png" alt="image-20230113000628341" style="zoom: 50%;" />
 
 :::
 
@@ -63,7 +63,7 @@ footer: 立志降低教育成本，普及编程教育，提供优质资源教程
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -79,4 +79,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

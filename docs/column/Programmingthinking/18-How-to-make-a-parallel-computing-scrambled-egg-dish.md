@@ -21,7 +21,7 @@ toc: true
 
 首先呀，我想问问你：你做过饭吗？如果没有的话，你可以在爸爸妈妈的帮助下试着**做一道简单的菜**。我相信，你第一次做饭肯定会手忙脚乱的，葱花都不敢往油锅里放。而且呢，你肯定做得特别慢，一道最简单的**炒鸡蛋**，也许就要花5分钟、10分钟。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/faf521afe4ce3d97c99dfaf4786ee0c8899900dd04bd82489cb0c22c7540fc9f.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fa/faf521afe4ce3d97c99dfaf4786ee0c8899900dd04bd82489cb0c22c7540fc9f.jpg)
 
 你或许会说：这是我还不够熟练嘛！没错，不熟练当然是一个原因。但今天我要告诉你：做饭慢或许不是因为缺乏经验，而是因为**缺少并行计算的思维**。诶，并行计算是什么玩意儿？你先别着急，我们先来讲一个寻找外星人的故事，奥秘就藏在这里头。
 
@@ -29,7 +29,7 @@ toc: true
 
 1899年，就在无线电出现不久，伟大的发明家**特斯拉**就报告说，自己在一次实验中，偶然发现了疑似火星人发过来的信号。第二年，无线电的发明者**马可尼**也报告说，他的电台接收到了来自火星的信号。
 
-![马可尼](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4c/4cb6b659c054e76bb14c8a78a009382af11a1b28df416b7a6a684b0de9843eb0.jpg)
+![马可尼](https://blog.images.bornforthis.cn/docs-images/sha256/4c/4cb6b659c054e76bb14c8a78a009382af11a1b28df416b7a6a684b0de9843eb0.jpg)
 
 诶，有这么巧吗？人类刚刚发明无线电，火星人就发来电报庆贺了？实际上，特斯拉和马可尼两人的报告，都缺乏实在的证据。后来有人分析，他们很可能是搞错了，把别的信号当成是火星发来的了。但不管怎么说，用无线电捕捉外星人信号，这确实是个好主意。
 
@@ -41,19 +41,19 @@ toc: true
 
 就比如说**阿雷西博望远镜**吧，你看看封面上的这张照片，是不是像一口大铁锅呀？它的直径足足有350米，相当于100层楼的高度了，如果外星人发出了什么信号，只要能传到地球上，那就很容易掉进这口大锅里。
 
-![阿雷西博望远镜  图片来源：Mariordo](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/58/588f0f7ca6781a84e606636907f2330a5cf1548be61256557bb5d09ca8a4eadb.jpg)
+![阿雷西博望远镜  图片来源：Mariordo](https://blog.images.bornforthis.cn/docs-images/sha256/58/588f0f7ca6781a84e606636907f2330a5cf1548be61256557bb5d09ca8a4eadb.jpg)
 
 诶，这么说，科学家获得了很多信号，应该会很高兴吧？然而问题又来了，望远镜这么大，接收到的信号实在是太多了，科学家根本来不及处理呀。
 
 打个比方吧，如果是普通的家用计算机，说不定要花1年才能处理望远镜一秒钟里接到的信号。所以要想分析这么多的数据，就必须让**超级计算机**出马。但问题是，超级计算机算得快，花的钱也多，科学家实在是掏不出来。
 
-![超级计算机](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3a/3af186f8eb775f8c9467403addc39bffc28487e4835d4219139b294826ecc8bf.jpg)
+![超级计算机](https://blog.images.bornforthis.cn/docs-images/sha256/3a/3af186f8eb775f8c9467403addc39bffc28487e4835d4219139b294826ecc8bf.jpg)
 
 本来呀，美国政府是很支持寻找外星人的，曾经还发动全国人一起寻找火星人。但是几十年过去了，连火星人的影子都没找到。于是就有人不满意了，说：国家的钱，那都是公民们辛辛苦苦赚来的。现在可倒好，你们不拿这钱去帮公民看病买药，偏偏要去找什么外星人。这不是乱花钱嘛！
 
 美国政府一听这话，也就不敢再往寻找外星人上砸钱了。所以呀，科学家们现在面临着一个大难题：手里**一大把数据**，可是没钱租超级计算机来处理数据。怎么办呢？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/44/44e9968b4164fda81ff1108422f601b139f435ce794ee3578a98f51e4a7b6aea.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/44/44e9968b4164fda81ff1108422f601b139f435ce794ee3578a98f51e4a7b6aea.jpg)
 
 如果是你，你会怎么办呢？号召全国热爱外星人的同胞团结起来，给政府施加压力？还是干脆号召大家捐钱给科学家，帮助他们租一台超级计算机？
 
@@ -91,13 +91,13 @@ toc: true
 
 但是，现在网络上还是有很多酷炫的项目可以玩的。比如，如果你参与了“**在家折叠蛋白质**”（Folding@home）项目，就能够帮助科学家解析这次新冠疫情病毒的蛋白质结构，为打败新型冠状病毒作出自己的贡献。这样看来，并行计算是不是很有意义呢？
 
-![在家折叠蛋白质官网](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/31/31dd5f9ef99c334948a716acee12909a30a818c4f1bf89de430e8380d90251fa.png)
+![在家折叠蛋白质官网](https://blog.images.bornforthis.cn/docs-images/sha256/31/31dd5f9ef99c334948a716acee12909a30a818c4f1bf89de430e8380d90251fa.png)
 
 下一集，我要给你说的是用编程思想解决选班长的问题。平时咱们选班长都是靠投票，但其实，编程思维里有更靠谱的办法，到底是什么呢？我们下集再说。
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -113,4 +113,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -56,7 +56,7 @@ Your website should do the following:
 
 > 你的网站应该做到以下几点:
 
-- Begin by downloading the following set of images: [Macro Assignment 02 Images](https://cs.nyu.edu/courses/spring23/CSCI-UA.0061-001/images/assignment02/assignment02_images.zip)/[assignment02_images.zip](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/17-Macro-Assignment02-Everything-is-Awesome/assignment02_images.zip)
+- Begin by downloading the following set of images: [Macro Assignment 02 Images](https://cs.nyu.edu/courses/spring23/CSCI-UA.0061-001/images/assignment02/assignment02_images.zip)/[assignment02_images.zip](https://blog.images.bornforthis.cn/1v1/06-KAI/17-Macro-Assignment02-Everything-is-Awesome/assignment02_images.zip)
 
 > 首先下载以下一组图像:宏分配02图像
 
@@ -145,7 +145,7 @@ Your website should do the following:
 </html>
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/16ebdf2af0991f8c03256700c6e69ffc8d7150e461d3f107bfb00b0d96e2130c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/16/16ebdf2af0991f8c03256700c6e69ffc8d7150e461d3f107bfb00b0d96e2130c.png)
 
 - Next, we are going to set up the page so that it dynamically updates itself every time the page loads.
 
@@ -247,13 +247,13 @@ Here are some sample screenshots of what your website could look like. Note that
 
 > 这里有一些你的网站的截图样本。请注意，欢迎您在布局、颜色选择等方面自由发挥创意。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dd/dda3088dc8e1c9c32ff58a5d2cf96b5b0b08db715b92c3eaf74bed31318aa41a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/dd/dda3088dc8e1c9c32ff58a5d2cf96b5b0b08db715b92c3eaf74bed31318aa41a.png)
 
-![image-20230214104351231](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d3/d3879df082a699e120846314f79fafddcf4ded544b83b0fa6baecd1bda8473f6.png)
+![image-20230214104351231](https://blog.images.bornforthis.cn/docs-images/sha256/d3/d3879df082a699e120846314f79fafddcf4ded544b83b0fa6baecd1bda8473f6.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/52/52b4db889ee679073b34448c4d6824041d27b9eeec0417aa787c7583ee8f7337.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/52/52b4db889ee679073b34448c4d6824041d27b9eeec0417aa787c7583ee8f7337.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e4f75e5fca20f73b7ca90f5a58b5c1ebb82c6e3a66dfdd88ce156ce964b92cf3.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e4/e4f75e5fca20f73b7ca90f5a58b5c1ebb82c6e3a66dfdd88ce156ce964b92cf3.png)
 
 
 
@@ -264,7 +264,7 @@ Here are some sample screenshots of what your website could look like. Note that
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -280,4 +280,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -104,7 +104,7 @@ B. X
 
 9. 请写出以下代码的执行结果：
 
-![right](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d8/d8670b5fad2fcff516d14e348354524e73e3041dd412ecb75b58c960f6475e32.png)
+![right](https://blog.images.bornforthis.cn/docs-images/sha256/d8/d8670b5fad2fcff516d14e348354524e73e3041dd412ecb75b58c960f6475e32.png)
 
 ::: tip 答案解析
 

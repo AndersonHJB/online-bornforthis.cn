@@ -31,17 +31,17 @@ head:
 
 2. 打开 vscode 窗口，按下 Command+Shift+P 打开 Command Palette，之后输入 shell command，选择下面的 Install 'code' command in PATH，之后在终端中即可以使用 `code .` 快速启动 vscode 啦。
 
-![image-20230105233230405](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bc/bcf3ad03af1af8e0ce9d6e72c2d16db56b5413c60bf80643284d9b5df6ae3061.png)
+![image-20230105233230405](https://blog.images.bornforthis.cn/docs-images/sha256/bc/bcf3ad03af1af8e0ce9d6e72c2d16db56b5413c60bf80643284d9b5df6ae3061.png)
 
-![image-20230105233246684](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/80da595ef361b5c97a74813371f009b77d543ffd4428c2169382a6e995f0863d.png)
+![image-20230105233246684](https://blog.images.bornforthis.cn/docs-images/sha256/80/80da595ef361b5c97a74813371f009b77d543ffd4428c2169382a6e995f0863d.png)
 
-![image-20230105233256487](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ab/ab378c2b2e643cc5dd12249c73eefda8bac8db7401d1626dcb0db0b1d2ea26a5.png)
+![image-20230105233256487](https://blog.images.bornforthis.cn/docs-images/sha256/ab/ab378c2b2e643cc5dd12249c73eefda8bac8db7401d1626dcb0db0b1d2ea26a5.png)
 
 欢迎关注我公众号：AI悦创，有更多更好玩的等你发现！
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -57,4 +57,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

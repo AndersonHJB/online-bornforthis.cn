@@ -79,7 +79,7 @@ while True:
     pygame.display.update()  # update 意味更新
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e5/e5f82d102f79356913145966183ea4cea6148efad387177c4f40806f892d3243.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e5/e5f82d102f79356913145966183ea4cea6148efad387177c4f40806f892d3243.png)
 
 ::: info 练习
 
@@ -117,9 +117,9 @@ while True:
 
 你已经成功画出圆形了，现在试一试画出如下效果：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f3/f33aed98a7bf78401211d12383b20fa31b411c6b02da595aa6b9c23940fd3221.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f3/f33aed98a7bf78401211d12383b20fa31b411c6b02da595aa6b9c23940fd3221.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/60/6033f2254b7f506b35971c9900c4a4c76fa6c8a107f685566bc74ea6b1343edb.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/60/6033f2254b7f506b35971c9900c4a4c76fa6c8a107f685566bc74ea6b1343edb.png)
 
 :::
 

@@ -118,9 +118,9 @@ Suppose that text is a Python string. Give a single Python assignment statement 
 new_text = text.lower().strip()
 ```
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0d/0d735106adf3c594177a414e4b247fec95c8956769f5c363f91024d6c56507fa.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/0d/0d735106adf3c594177a414e4b247fec95c8956769f5c363f91024d6c56507fa.png" style="zoom:25%;" />
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ef/efb63809fbedeba279d047e18b1ceb8620370098c67dcfd3014ecb025a284971.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/ef/efb63809fbedeba279d047e18b1ceb8620370098c67dcfd3014ecb025a284971.png" style="zoom:25%;" />
 
 ## Question 3 (3 marks)
 
@@ -194,7 +194,7 @@ Suppose that tup is a Python tuple. Give a single Python assignment statement th
 new_tup = (None,) + tup[1:]
 ```
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f3/f3b9b458d724d06e74d1c39572fdc57d1f55079d447bc6b50b4c9314c881fa71.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/f3/f3b9b458d724d06e74d1c39572fdc57d1f55079d447bc6b50b4c9314c881fa71.png" style="zoom:25%;" />
 
 
 
@@ -214,9 +214,9 @@ uc = sum(c.isupper() for c in text)
 uc = len([c for c in text if c.isupper()])
 ```
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6d/6d5b87930690df3186d184ac66978c8b043a0b51fe8adcc3c196fc7d377909eb.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/6d/6d5b87930690df3186d184ac66978c8b043a0b51fe8adcc3c196fc7d377909eb.png" style="zoom:25%;" />
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/997e0eea02647834e06f460b3d829ed4bcb5994db86f251b75b4f812d80a4e5b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/99/997e0eea02647834e06f460b3d829ed4bcb5994db86f251b75b4f812d80a4e5b.png)
 
 ```python
 text = "HelloWord"
@@ -372,7 +372,7 @@ txt_to_srt(txt_file)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -388,4 +388,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

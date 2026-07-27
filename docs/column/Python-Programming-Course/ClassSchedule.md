@@ -499,7 +499,7 @@ Python小咖养成计划：
 
 微信：
 
-<div align=center><img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/51f1983c47ad09a50469d03ff84853eddd43b52c02bc8320e13de6cdb90ed9a7.jpg" alt="微信号：Jiabcdefh" style="zoom:25%;" /></div>
+<div align=center><img src="https://blog.images.bornforthis.cn/docs-images/sha256/51/51f1983c47ad09a50469d03ff84853eddd43b52c02bc8320e13de6cdb90ed9a7.jpg" alt="微信号：Jiabcdefh" style="zoom:25%;" /></div>
 
 ::: details .
 

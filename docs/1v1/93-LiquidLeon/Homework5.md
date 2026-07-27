@@ -32,7 +32,7 @@ Begin by reviewing your class notes, the slides, and the textbook. Then do the e
 
 1. **[4 Points]** Use the listing method to describe the language $L \subseteq \{a, b\}^*$ that is accepted by the nondeterministic automaton
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/25b1519ac20435a9b29ad653764998b7038f08a028d97228f74f7e685ef0ad53.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/25/25b1519ac20435a9b29ad653764998b7038f08a028d97228f74f7e685ef0ad53.png)
 
 ::: details
 
@@ -69,7 +69,7 @@ $L = \{ \epsilon, a, aa, aaa, \dots, b, ab, aab, aaab, \dots \} = \{ a^n b^m \mi
 
 2. **[6 Points]** The nondeterministic finite automaton $N$ below is defined over the alphabet $\{a, b\}$. Formally describe it by specifying each component of the quintuple $N = (Q, \Sigma, \delta, s, F)$.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ce/cef885ebd3ed5972285a13d4f3285bac1acd869ce0f606ff6e6a05483cbaf806.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ce/cef885ebd3ed5972285a13d4f3285bac1acd869ce0f606ff6e6a05483cbaf806.png)
 
 ::: details
 
@@ -422,7 +422,7 @@ q2 --1--> q5
 
 8. [11 Points] Use the subset method from Lecture 9 to convert the following nondeterministic finite automata to equivalent deterministic finite automata.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9b/9b8cd526c5c8db6cebcab1134b22bb53ca9293c4bfcf90ada34cfe31008f5369.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9b/9b8cd526c5c8db6cebcab1134b22bb53ca9293c4bfcf90ada34cfe31008f5369.png)
 
 ::: details
 
@@ -679,7 +679,7 @@ Construct a finite automaton that accepts \( D \). Note that, due to the lineari
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -695,5 +695,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

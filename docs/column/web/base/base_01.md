@@ -37,7 +37,7 @@ toc: true
 
 如果 Web 网页编写得足够好，它甚至还能在手机上、网络电视上流畅显示。
 
-![微博体育_meitu_1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/749d4d76fe95c00db60973ac30efb3cfb9614d07b489f18f5cc5741d7fd5c664.jpg)
+![微博体育_meitu_1](https://blog.images.bornforthis.cn/docs-images/sha256/74/749d4d76fe95c00db60973ac30efb3cfb9614d07b489f18f5cc5741d7fd5c664.jpg)
 
 【判断题】Web 是万维网的缩写。
 
@@ -62,11 +62,11 @@ Web 服务器就像一台 7X24 小时持续作业的计算机，它为我们顺�
 
 Web 服务器上的文件并不是随意堆放的。网页制作人在发布网站前，已把各类资源进行规范分类和命名——图片归入图片文件夹；样式归入样式文件夹；脚本归入脚本文件夹......
 
-![image-20220711091602969](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0f/0ffd18698ba07ea89bf17365b1d66c1a0fbaf34330aa886f10bfa3c020efb072.png)
+![image-20220711091602969](https://blog.images.bornforthis.cn/docs-images/sha256/0f/0ffd18698ba07ea89bf17365b1d66c1a0fbaf34330aa886f10bfa3c020efb072.png)
 
 **文件夹之间是通过超文本标记语言（HTML）等建立联系的。**
 
-![image-20220711091736450](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4c/4c56c41eb9f1d1e77d62681f69e7d6531dca12a123174c1499991a14462b4e39.png)
+![image-20220711091736450](https://blog.images.bornforthis.cn/docs-images/sha256/4c/4c56c41eb9f1d1e77d62681f69e7d6531dca12a123174c1499991a14462b4e39.png)
 
 各类资源之间建立了规范而合理的联系后，它们需要与服务器建立联系。
 
@@ -74,7 +74,7 @@ Web 服务器上的文件并不是随意堆放的。网页制作人在发布网�
 
 **服务器收到请求后**，**只要它能在文件中找得到对应的资源，服务器都会把资源发送给浏览器。**
 
-![image-20220711091908012](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a3/a368f8ab418bd246bfeae7b47aef47841df78905d227734582f6ade55f31244c.png)
+![image-20220711091908012](https://blog.images.bornforthis.cn/docs-images/sha256/a3/a368f8ab418bd246bfeae7b47aef47841df78905d227734582f6ade55f31244c.png)
 
 网页文件的规范联系，浏览器的合理请求，服务器的正常运作使我们能够顺利在网上找到想要的资源。
 
@@ -110,13 +110,13 @@ Web 服务器上的文件并不是随意堆放的。网页制作人在发布网�
 
 **Before: 没有图片路径**     
 
-![image-20220712195038841](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7d/7dfda522896d3a28bd406ea370ba64ba21c23f28b68c8c05218e827e1bc2ea7d.png)
+![image-20220712195038841](https://blog.images.bornforthis.cn/docs-images/sha256/7d/7dfda522896d3a28bd406ea370ba64ba21c23f28b68c8c05218e827e1bc2ea7d.png)
 
 
 
 **After: 图片路径明确**
 
-![image-20220712222205964](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/71/71b81bc193d3d92b4821eb1b973a19be012896afa93274bab590e70c55200676.png)
+![image-20220712222205964](https://blog.images.bornforthis.cn/docs-images/sha256/71/71b81bc193d3d92b4821eb1b973a19be012896afa93274bab590e70c55200676.png)
 
 Before 和 After 之间差了这条路径：**img/quicksand.png**
 
@@ -131,7 +131,7 @@ img 是存放网站所有图片的文件夹，**quicksand.png** 是其中一张�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -147,7 +147,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

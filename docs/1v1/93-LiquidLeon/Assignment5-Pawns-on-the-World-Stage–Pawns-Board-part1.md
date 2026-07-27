@@ -38,7 +38,7 @@ Game play begins with both players being dealt an equal number of cards to their
 
 An initial layout of the game with 3 rows and 5 columns might look like this:
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3f/3f2093a448f2d6022512321af322af8e2f3f20e38f05fb2fe0cf9e0cee83ea16.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3f/3f2093a448f2d6022512321af322af8e2f3f20e38f05fb2fe0cf9e0cee83ea16.png)
 
 With a valid board created and valid decks for each player, each player is dealt their cards at random from the list. The starting size of each player’s hand is also passed in at the start of the game, but it cannot be greater than a third of the deck size. Player Red always goes first.
 
@@ -56,7 +56,7 @@ In the following subsections, we will dive into the cards, the board, scoring, a
 
 Each card in the game has a name, a cost, a value score, and a five by five board demonstrating the card’s influence on the board. Costs are either one, two, or three pawns. A *value score* is any positive integer and is used to determine the overall score of the game. Influence determines how the cells on the board relative to the card are affected. Consider the following card below
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bb/bb72cf12476d16034a1930194781b0d5f5f76b4ea4ea8deaacd44b4654ac2d9c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/bb/bb72cf12476d16034a1930194781b0d5f5f76b4ea4ea8deaacd44b4654ac2d9c.png)
 
 The name, cost, and value score are depicted in text on the card itself. This card, named Security, has a cost of 1 and a value score of 2. The grey grid depicts the card’s influence. The orange square represents the card itself. If a square on the influence board is cyan, like in the above picture, then it affects the cell relative to where the card is placed on the board. If a square on the influence board is grey, then nothing happens on those cells. This will come into play when we discuss placing a card on the actual board.
 
@@ -72,7 +72,7 @@ A board is a rectangular container of cells. Cells can either contain pawns, car
 
 In the game, each row tallies the scores for each player. Those scores, which we will call row-scores, are determined by summing the value scores of each card owned by that player. Consider the row shown in the following image. You will see grey squares with numbers on them. Those are the row-scores as calculated by the game. The leftmost number is the red player’s row-score and the rightmost number is the blue player’s row-score.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ad/ada9424adb6ca0b9116503c06bf8355c350019c760e995ebf748e1046511e900.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ad/ada9424adb6ca0b9116503c06bf8355c350019c760e995ebf748e1046511e900.png)
 
 We can see which player owns which card by looking at the color of the cell. We can see here that the red player has played cards with value scores of 1 and 1, giving them a row-score of 2. Similarly, we can see that the blue player has played cards with value scores of 3, 1, and 1, giving them a row-score of 5.
 
@@ -80,7 +80,7 @@ We can calculate each players *total score* at any point during the game. To do 
 
 As an example, consider the following game.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/62/62e3b052d106aa2f56f5c62e3f3e495df2bcfe07acfdca964107d9a682caec7a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/62/62e3b052d106aa2f56f5c62e3f3e495df2bcfe07acfdca964107d9a682caec7a.png)
 
 Let us figure out the total score for each player.
 
@@ -92,7 +92,7 @@ By the end of scoring, Player Red has 7 points while Player Blue has 13 points. 
 
 As another example, consider this different game.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/82/826a70c10d98540f891aeefd71f2534f42c03b0a5ef971f495bee177d45cf7f5.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/82/826a70c10d98540f891aeefd71f2534f42c03b0a5ef971f495bee177d45cf7f5.png)
 
 Reminder that pawns do not affect the score in any way. With that in mind, let us start calculating the total score for the players.
 
@@ -119,7 +119,7 @@ Using the starting board from the start of the assignment as an example, players
 
 Consider the following board.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/82/826a70c10d98540f891aeefd71f2534f42c03b0a5ef971f495bee177d45cf7f5.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/82/826a70c10d98540f891aeefd71f2534f42c03b0a5ef971f495bee177d45cf7f5.png)
 
 Right in the middle of the board, the red player can place cards that cost one or two pawns, but not any that cost three pawns.
 
@@ -131,21 +131,21 @@ Naturally, player red cannot place cards on any cell with blue pawns. Similarly,
 
 Once the card is placed, the card’s influence spreads on the board according to that card’s influence grid. The influence grid is always relative to the card’s position. All cells relative in position to the card’s position on the board can be affected. You can think of it like laying the influence grid over the board, centering it on the card that was just placed. For example, say we place a card in the bottom left of the board. The image below represents the possible area that can be affected.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/69/69e8fb0510565a0651cc3bb128a5e93fc94863992e53d837f9b5aa77287f30a2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/69/69e8fb0510565a0651cc3bb128a5e93fc94863992e53d837f9b5aa77287f30a2.png)
 
 Notice that not every cell might be effected. Some of the influence grid’s squares might fall off the board, so nothing happens. Players must consider whether playing a card in a particular cell will allow them to maximize that card’s influence.
 
 When you perform that overlap, all the cyan squares in the influence grid represent the cells that the card influences. The grey and orange squares do not influence any cells. As an example, consider the following pictures, one of a card called the Mandragora with its influence grid, and another showing what cells placing that card can influence after overlaying the influence grid over the grid, centered on that card.
 
-![A card with a particular influence grid](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8c/8c6e4feb722b1ccd604b350094dd3d5f1367dd2fcde22598da37ea614e2abd04.png)
+![A card with a particular influence grid](https://blog.images.bornforthis.cn/docs-images/sha256/8c/8c6e4feb722b1ccd604b350094dd3d5f1367dd2fcde22598da37ea614e2abd04.png)
 
-![ Highlighted cells on the grid that could affected after placing the card in bottom left. The orange cell is overlayed to remind the reader where the center of the influence grid is.](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6f/6fe49bef3487d99ba2fcabf927998d8990b96797d4bd206c279a864d8cddd6db.png)
+![ Highlighted cells on the grid that could affected after placing the card in bottom left. The orange cell is overlayed to remind the reader where the center of the influence grid is.](https://blog.images.bornforthis.cn/docs-images/sha256/6f/6fe49bef3487d99ba2fcabf927998d8990b96797d4bd206c279a864d8cddd6db.png)
 
 Now that we have determined how to figure out which cells are influenced, we must discuss *how* they are influenced. Recall a cell either has a card, pawns, or nothing. We will walk through each scenario separately by focusing on a single cell affected by a card’s influence.
 
 For these subsections, we will use the following card to focus on only one cell on the board.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6b/6ba455476e16e629f3ebef7511f6b83d73a52298e9cacfc0e1a948212c4a9839.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/6b/6ba455476e16e629f3ebef7511f6b83d73a52298e9cacfc0e1a948212c4a9839.png)
 
 #### 6.2.1. Influence on Cards
 
@@ -155,13 +155,13 @@ If the cell to influence has a card, *nothing happens*.
 
 If the cell to influence has nothing on it, then the cell gains a single pawn owned by the current turn player. In the following example, we can see a before and after of this effect.
 
-![**Before placing**: Player Red will place the card on the cell with two red pawns](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9a/9af053f2c6a35b2d187eb856fa228b17d3037334b33b14b024aba5250a914dff.png)
+![**Before placing**: Player Red will place the card on the cell with two red pawns](https://blog.images.bornforthis.cn/docs-images/sha256/9a/9af053f2c6a35b2d187eb856fa228b17d3037334b33b14b024aba5250a914dff.png)
 
 
 
 
 
-![**After placing and influence**: Result of the influence of that card. Notice the cell in the middle now has one red pawn](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/db/dbefff26ef4bfd0247ec5f6902225f82b9a3ae75e7e421289fe248e63778429a.png)
+![**After placing and influence**: Result of the influence of that card. Notice the cell in the middle now has one red pawn](https://blog.images.bornforthis.cn/docs-images/sha256/db/dbefff26ef4bfd0247ec5f6902225f82b9a3ae75e7e421289fe248e63778429a.png)
 
 #### 6.2.3. Influence on Pawns
 
@@ -169,17 +169,17 @@ If the cell to influence has pawns on it, the effect changes depending on whethe
 
 If the current turn player owns the pawns, then the number of pawns on that cell increases by one. However, there can only be a maximum of 3 pawns on a single cell.
 
-![**Before placing**:Player Red will place the card on the cell with two red pawns](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0a/0af3a9b8237b0b40fc22ce0926bdf40ce164211b4cd9f9ac28be1f39c5c92e07.png)
+![**Before placing**:Player Red will place the card on the cell with two red pawns](https://blog.images.bornforthis.cn/docs-images/sha256/0a/0af3a9b8237b0b40fc22ce0926bdf40ce164211b4cd9f9ac28be1f39c5c92e07.png)
 
-![**After placing and influence**:Result of the influence of that card. Notice the cell in the middle now has two red pawns instead of one.](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f9/f9beb2eab92cebe53e35d1e4767dd5309f83e770478014909bbb091b672e9968.png)
+![**After placing and influence**:Result of the influence of that card. Notice the cell in the middle now has two red pawns instead of one.](https://blog.images.bornforthis.cn/docs-images/sha256/f9/f9beb2eab92cebe53e35d1e4767dd5309f83e770478014909bbb091b672e9968.png)
 
 If the current turn player does NOT own the pawns, then the number of pawns on that cell does *not* increase. Instead, the current turn player takes ownership of those pawns. You can see this play out in the following images.
 
-![**Before placing**：Player Red will place the card on the cell with two red pawns](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5a/5ab72c768e1d336ea692134ef03b083afb78225ac44dfdf08f2f0afd04d89f71.png)
+![**Before placing**：Player Red will place the card on the cell with two red pawns](https://blog.images.bornforthis.cn/docs-images/sha256/5a/5ab72c768e1d336ea692134ef03b083afb78225ac44dfdf08f2f0afd04d89f71.png)
 
 
 
-![**After placing and influence**：Result of the influence of that card. Notice the cell in the middle now has two red pawn instead of the two blue pawns](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f9/f9beb2eab92cebe53e35d1e4767dd5309f83e770478014909bbb091b672e9968.png)
+![**After placing and influence**：Result of the influence of that card. Notice the cell in the middle now has two red pawn instead of the two blue pawns](https://blog.images.bornforthis.cn/docs-images/sha256/f9/f9beb2eab92cebe53e35d1e4767dd5309f83e770478014909bbb091b672e9968.png)
 
 This allows players to gain the upper hand by claiming pawns the opponent was saving for higher cost cards.
 
@@ -187,25 +187,25 @@ This allows players to gain the upper hand by claiming pawns the opponent was sa
 
 Putting together these rules, we can now visualize the result of playing the Mandragora in the bottom left. The images below show the card on the left and the resulting board for placing the card on the bottom left of a standard starting board.
 
-![**Card to place**:A card with a particular influence grid](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8c/8c6e4feb722b1ccd604b350094dd3d5f1367dd2fcde22598da37ea614e2abd04.png)
+![**Card to place**:A card with a particular influence grid](https://blog.images.bornforthis.cn/docs-images/sha256/8c/8c6e4feb722b1ccd604b350094dd3d5f1367dd2fcde22598da37ea614e2abd04.png)
 
-![**Board after placing card**:Adding the card changed the cell above the card and the two to the right of the card](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ca/caf6cdc7a5941f5d9e77da3bccceb1daa1bc4099c1c92eec5a1f792867f71ff7.png)
+![**Board after placing card**:Adding the card changed the cell above the card and the two to the right of the card](https://blog.images.bornforthis.cn/docs-images/sha256/ca/caf6cdc7a5941f5d9e77da3bccceb1daa1bc4099c1c92eec5a1f792867f71ff7.png)
 
 Notice number of pawns above the card increased to two pawns. Furthermore, the two cells to the right of the card gained a red pawn.
 
 For another example not in a corner, consider a play where the red player is somehow able to place a different card in the middle of the board.
 
-![**Card to place**:A card with a particular influence grid](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bb/bb72cf12476d16034a1930194781b0d5f5f76b4ea4ea8deaacd44b4654ac2d9c.png)
+![**Card to place**:A card with a particular influence grid](https://blog.images.bornforthis.cn/docs-images/sha256/bb/bb72cf12476d16034a1930194781b0d5f5f76b4ea4ea8deaacd44b4654ac2d9c.png)
 
-![**Board after placing card**:Adding the card changed the cells adjacent in the cardinal directions](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/de/de689d1257b45fbbc7232a53005c8ffe68cf9998610e3c995aa0bc321b9cbfea.png)
+![**Board after placing card**:Adding the card changed the cells adjacent in the cardinal directions](https://blog.images.bornforthis.cn/docs-images/sha256/de/de689d1257b45fbbc7232a53005c8ffe68cf9998610e3c995aa0bc321b9cbfea.png)
 
 Notice that since every cyan square on the influence grid actually overlayed with a cell on the board, they all took effect.
 
 Finally, consider a play where the red player instead placed the same card in the top left instead.
 
-![**Card to place**:A card with a particular influence grid](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bb/bb72cf12476d16034a1930194781b0d5f5f76b4ea4ea8deaacd44b4654ac2d9c.png)
+![**Card to place**:A card with a particular influence grid](https://blog.images.bornforthis.cn/docs-images/sha256/bb/bb72cf12476d16034a1930194781b0d5f5f76b4ea4ea8deaacd44b4654ac2d9c.png)
 
-![**Board after placing card**: Only the cells to the right and below the card are changed. Influence squares that fall off the grid have no effect on the board](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/37/37c1167a6ab4b4c99df902d2e10861179d8b82e47cb3ff4c527174cf56944c0f.png)
+![**Board after placing card**: Only the cells to the right and below the card are changed. Influence squares that fall off the grid have no effect on the board](https://blog.images.bornforthis.cn/docs-images/sha256/37/37c1167a6ab4b4c99df902d2e10861179d8b82e47cb3ff4c527174cf56944c0f.png)
 
 Notice that some of the cyan squares actually don’t overlap with a cell on the board, so they exert no influence.
 
@@ -213,19 +213,19 @@ Notice that some of the cyan squares actually don’t overlap with a cell on the
 
 Keep in mind the blue player is on the right side of the board. To allow the red and blue player to use the same cards, when the blue player looks at what their card can influence, the influence grid is *mirrored* across the columns (i.e. the y-axis). You can see this in the example below with the Mandragora card.
 
-![**Card to Red’s view**:A card with a particular influence grid from red's point of view](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8c/8c6e4feb722b1ccd604b350094dd3d5f1367dd2fcde22598da37ea614e2abd04.png)
+![**Card to Red’s view**:A card with a particular influence grid from red's point of view](https://blog.images.bornforthis.cn/docs-images/sha256/8c/8c6e4feb722b1ccd604b350094dd3d5f1367dd2fcde22598da37ea614e2abd04.png)
 
-![**Card from Blue’s view**:The same card from blue's point of view. Notice the rows don't flip, but the columns do](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/94/945ddaeb03529e8a2b947a1c64541529355a24dbaa89300b6a75b70618c262b2.png)
+![**Card from Blue’s view**:The same card from blue's point of view. Notice the rows don't flip, but the columns do](https://blog.images.bornforthis.cn/docs-images/sha256/94/945ddaeb03529e8a2b947a1c64541529355a24dbaa89300b6a75b70618c262b2.png)
 
 
 
 Therefore, influence is also mirrored when the card is placed on the board. You can see this in the images below. When red plays their Mandragora in the middle, the influence spreads to the right and above. When Blue plays their Mandragora in the bottom right, the influence still spreads above, but it spreads to the *left* instead.
 
-![**Board after Red plays**:Red's Mandragora influences to the right](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fb/fbd8ac4eb0a3a89550a9a8799ea50dbf88a1a8f9c359f067068ff84565ffaa1a.png)
+![**Board after Red plays**:Red's Mandragora influences to the right](https://blog.images.bornforthis.cn/docs-images/sha256/fb/fbd8ac4eb0a3a89550a9a8799ea50dbf88a1a8f9c359f067068ff84565ffaa1a.png)
 
 
 
-![**Board after Blue plays**:Blue's Mandragora influences to the left](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/20/20bd0541a57b8ede169ffda0662b5b755c70460119bfd640af00906a9e71e7a8.png)
+![**Board after Blue plays**:Blue's Mandragora influences to the left](https://blog.images.bornforthis.cn/docs-images/sha256/20/20bd0541a57b8ede169ffda0662b5b755c70460119bfd640af00906a9e71e7a8.png)
 
 ## 7. Architectural choices
 
@@ -255,7 +255,7 @@ You will need to figure out how to let users make moves. Your implementation wil
 
 You are *not required in this assignment* to create a GUI view of your game. Instead, you will start with a simpler textual view, similar to the previous project, to make it easier to see the interim progress of your game. We recommend a straightforward rendering of the board itself and the row-scores, using `_` for empty cells , an integer of 1, 2, or 3 for the number of pawns on the board, `R` for a card owned by the red player , and `B` for a card owned by the blue player. For example, see the graphical and textual views below for a representation of a game in play where player Blue is the current player.
 
-![**Visual view**](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/00/00ebf39681adf281dcaaa24d6cb2dba3a288d288c1850bbdacace38b64f050a9.png)
+![**Visual view**](https://blog.images.bornforthis.cn/docs-images/sha256/00/00ebf39681adf281dcaaa24d6cb2dba3a288d288c1850bbdacace38b64f050a9.png)
 
 
 
@@ -471,7 +471,7 @@ Please submit your homework to https://handins.ccs.neu.edu/ by the above deadlin
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -487,5 +487,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

@@ -157,7 +157,7 @@ fibonacci_rec(int n){
 
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f9/f9bf67e4043b93b1040492faa48c597da08d6cde62ffcdabe10e312f0a4ada01.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f9/f9bf67e4043b93b1040492faa48c597da08d6cde62ffcdabe10e312f0a4ada01.png)
 
 1. Which of the following statements about arrays in C is not true: C
 
@@ -173,7 +173,7 @@ E. The first element in the array is at index 0
 
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/9970b46d42fa741613f5cb2f3f10df78e97a55100368e1c94237e4b79adf5675.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/99/9970b46d42fa741613f5cb2f3f10df78e97a55100368e1c94237e4b79adf5675.png)
 
 Suppose that A is an array of int, and that B is declared to be a pointer of type int *. Which of the following is not a valid assignment statement, assuming that both B and the elements of A have been initialized to suitable values:  A
 
@@ -189,7 +189,7 @@ E. `B[0] = A[0];`
 
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/ea4e914ff2bd5c4978f522d969d37db712fbc4f3a293aca58d6d00830cae53f9.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ea/ea4e914ff2bd5c4978f522d969d37db712fbc4f3a293aca58d6d00830cae53f9.png)
 
 Consider the two arrays E and F:
 
@@ -213,7 +213,7 @@ E. 15
 
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c2/c28fd197cd8dc1b67790eed7a076ea3a1f1a2cedc65b70d167b2088c15233300.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c2/c28fd197cd8dc1b67790eed7a076ea3a1f1a2cedc65b70d167b2088c15233300.png)
 
 
 
@@ -244,7 +244,7 @@ E. `(*Q+1)[2]` is defined and has the value 'e'
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -260,4 +260,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

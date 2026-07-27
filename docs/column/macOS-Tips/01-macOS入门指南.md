@@ -88,7 +88,7 @@ macOS 的桌面、顶部菜单栏、Dock 程序坞、Finder 等都和 Windows �
 
 如果是首次开机，就会有一个如下图所示的开机提示。按照提示去完成每一步，每完成一步就点击下一步操作。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f0/f037fa05f2ec01d7fccb3affac3603583810ab92a099821b3cd4dca7a6dcac46.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f0/f037fa05f2ec01d7fccb3affac3603583810ab92a099821b3cd4dca7a6dcac46.png)
 
 - 根据开机提示，设置 Mac
 
@@ -168,11 +168,11 @@ Mac 预先安装了很多「应用程序」，使用软件可以点按「程序�
 
 | 图标                                                         | 应用程序      | 描述                                                         |
 | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
-| ![“App Store”图标](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9f/9fc60e62da2f432e521a7401fb3bdc386d3de3ad6a441c23890909959ac9ddd4.png) | App Store     | 查找、购买、安装和更新适用于 Mac 的应用程序，请参阅[《App Store 使用手册》](https://support.apple.com/zh-cn/guide/app-store)。 |
-| ![“计算器”图标](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ec/ec6c240790e3cf0a52a3c60fb659acf2f6266ccba7de1f25b14980a32a70e645.png) | 计算器        | 执行基本计算、高级计算或编程器计算。请参阅[《计算器使用手册》](https://support.apple.com/zh-cn/guide/calculator)。 |
-| ![“日历”图标](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/42/42decc2246dcec1edbe8f6e7a79d84a49be7127b3b7eec756a5c35b988b5bb97.png) | 日历          | 日历软件，制定并跟踪会议、日程和约会。请参阅[《日历使用手册》](https://support.apple.com/zh-cn/guide/calendar)。 |
-| ![“提醒事项”图标](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7e/7e54fea0c4eee736339a717cc56c30cc8a6e22429670b20bebfb1613b14b7ce8.png) | 提醒事项      | 为待办事项、项目、购物和其他任何需要跟踪的事项创建列表。请参阅[《提醒事项使用手册》](https://support.apple.com/zh-cn/guide/reminders)。 |
-| ![“Keynote 讲演”图标](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ba/baafbf79f174b439c5601da7a6bbb168768f0a9a6b7cd165cbc421f5ce36fc87.png) | Keynote 讲演  | 类似于 PPT，使用图像、媒体、图表、动画等创建演示文稿。请参阅[《Keynote 讲演使用手册》](https://support.apple.com/zh-cn/guide/keynote)。 |
+| ![“App Store”图标](https://blog.images.bornforthis.cn/docs-images/sha256/9f/9fc60e62da2f432e521a7401fb3bdc386d3de3ad6a441c23890909959ac9ddd4.png) | App Store     | 查找、购买、安装和更新适用于 Mac 的应用程序，请参阅[《App Store 使用手册》](https://support.apple.com/zh-cn/guide/app-store)。 |
+| ![“计算器”图标](https://blog.images.bornforthis.cn/docs-images/sha256/ec/ec6c240790e3cf0a52a3c60fb659acf2f6266ccba7de1f25b14980a32a70e645.png) | 计算器        | 执行基本计算、高级计算或编程器计算。请参阅[《计算器使用手册》](https://support.apple.com/zh-cn/guide/calculator)。 |
+| ![“日历”图标](https://blog.images.bornforthis.cn/docs-images/sha256/42/42decc2246dcec1edbe8f6e7a79d84a49be7127b3b7eec756a5c35b988b5bb97.png) | 日历          | 日历软件，制定并跟踪会议、日程和约会。请参阅[《日历使用手册》](https://support.apple.com/zh-cn/guide/calendar)。 |
+| ![“提醒事项”图标](https://blog.images.bornforthis.cn/docs-images/sha256/7e/7e54fea0c4eee736339a717cc56c30cc8a6e22429670b20bebfb1613b14b7ce8.png) | 提醒事项      | 为待办事项、项目、购物和其他任何需要跟踪的事项创建列表。请参阅[《提醒事项使用手册》](https://support.apple.com/zh-cn/guide/reminders)。 |
+| ![“Keynote 讲演”图标](https://blog.images.bornforthis.cn/docs-images/sha256/ba/baafbf79f174b439c5601da7a6bbb168768f0a9a6b7cd165cbc421f5ce36fc87.png) | Keynote 讲演  | 类似于 PPT，使用图像、媒体、图表、动画等创建演示文稿。请参阅[《Keynote 讲演使用手册》](https://support.apple.com/zh-cn/guide/keynote)。 |
 | ![“Numbers 表格”图标](http://qncdn.bujige.net/images/20201117143311.png) | Numbers 表格  | 类似于 Excel，使用公式、函数、交互式图表等创建电子表格。请参阅[《Numbers 表格使用手册》](https://support.apple.com/zh-cn/guide/numbers)。 |
 | ![“Pages 文稿”图标](http://qncdn.bujige.net/images/20201117143330.png) | Pages 文稿    | 类似于 Word，使用格式化的文本、图像、媒体、表格等创建文稿。请参阅[《Pages 文稿使用手册》](https://support.apple.com/zh-cn/guide/pages)。 |
 | ![“预览”图标](http://qncdn.bujige.net/images/20201117143342.png) | 预览          | 查看和编辑 PDF 及图像、导入图像以及拍摄屏幕图片。请参阅[《预览使用手册》](https://support.apple.com/zh-cn/guide/preview)。 |
@@ -183,15 +183,15 @@ Mac 预先安装了很多「应用程序」，使用软件可以点按「程序�
 
 在「启动台」中打开「日历」软件。可以看到桌面中间多了一个界面，如下图所示，这个就是是「日历」软件的「窗口」。我们在这里可以对软件进行操作使用。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/38/38b1e9d98c0e7f55c20bac778e12765086847704d7169d5a585d301d8ac3a8eb.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/38/38b1e9d98c0e7f55c20bac778e12765086847704d7169d5a585d301d8ac3a8eb.png)
 
 在桌面的左上角，苹果标志  右侧，就是「日历」的菜单栏选项。在这里可以对「日历」进行一些设置操作。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/48/480ae133c3440b30f13b5183af5bf70a70552fc71d825cf832d7fa3a4569de29.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/48/480ae133c3440b30f13b5183af5bf70a70552fc71d825cf832d7fa3a4569de29.png)
 
 软件的相关设置，大多都可以在软件的「菜单栏选项」中的「系统设置」里边进行设置，如下图所示。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/805564b12db14468ef27323a1e2ad3cf93186fbb44078d9a7c974276ed689967.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/80/805564b12db14468ef27323a1e2ad3cf93186fbb44078d9a7c974276ed689967.png)
 
 #### 3.3.2 软件下载
 
@@ -240,7 +240,7 @@ Mac 下的软件卸载很简单，打开「访达」，在左侧「个人收藏�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -256,5 +256,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

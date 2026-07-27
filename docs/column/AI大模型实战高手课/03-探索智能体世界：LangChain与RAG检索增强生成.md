@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/ed2e16d2a42b3efdb3b0339a95d4b5b4bfcbf8e715f2464b3b5dd46db38f12eb.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ed/ed2e16d2a42b3efdb3b0339a95d4b5b4bfcbf8e715f2464b3b5dd46db38f12eb.jpg)
 
 你好，我是悦创。
 
@@ -37,7 +37,7 @@ AI Agent 就是以大语言模型为核心控制器的一套代理系统。
 
 举个形象的例子：如果把人的大脑比作大模型的话，眼睛、耳朵、鼻子、嘴巴、四肢等联合起来叫做 Agent，眼睛、耳朵、鼻子感知外界信号作为大脑的输入；嘴巴、四肢等根据大脑处理结果形成反馈进行输出，形成以大脑为核心控制器的一套系统。
 
-![图片来源于网络](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/55/55ac49a5b36fbaf89f3cebc7cd11fb34f9e41d56d7fef568a06a5935b9598132.png)
+![图片来源于网络](https://blog.images.bornforthis.cn/docs-images/sha256/55/55ac49a5b36fbaf89f3cebc7cd11fb34f9e41d56d7fef568a06a5935b9598132.png)
 
 控制端处于核心地位，承担记忆、思考以及决策制定等基础工作，感知模块则负责接收和处理来自外部环境的多样化信息，如声音、文字、图像、位置等，最后行动模块通过生成文本、API 调用、使用工具等方式来执行任务以及改变环境。
 
@@ -62,7 +62,7 @@ LangChain 可以说是当前最火的 AI Agent 技术框架，GitHub 上拥有�
 
 目前看，大模型已经具备代码编写的能力，理想场景不太可能是由大模型把代码写好，我们下载到本地，用 IDE 打开，然后打包部署、测试，这说白了只是替换了目前代码编写的场景。我觉得如果 AI 颠覆软件开发行业，一定是从编码到测试，再到部署一整套流程的颠覆。到那个时候，我们的开发流程可能就变成我上节课讲的那样了。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b5/b53db4af5d7d6e59d8b0f881ba7598ffde24fce90e412156ddc653342916cb22.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b5/b53db4af5d7d6e59d8b0f881ba7598ffde24fce90e412156ddc653342916cb22.png)
 
 当然，也必须要配套相关的技术框架、管理工具来支撑，比如 Prompt 管理是否还会用 Git？会不会有另一套类似于 Git 用来管理 Prompt 的工具？代码还会不会存在？大模型可否直接生成可执行程序？还会有 Jenkins 吗？
 
@@ -76,7 +76,7 @@ LangChain 可以说是当前最火的 AI Agent 技术框架，GitHub 上拥有�
 - LangChain-Community：第三方集成。
 - LangChain：构成应用程序认知架构的链、代理和检索策略。
 
-![图片来源于官方网站](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e3/e366fffd5d6efa465bba747d999840ada669ff0f0d4bf576178ce96310d49efc.png)
+![图片来源于官方网站](https://blog.images.bornforthis.cn/docs-images/sha256/e3/e366fffd5d6efa465bba747d999840ada669ff0f0d4bf576178ce96310d49efc.png)
 
 下面我们介绍一下其中的重要模块。
 
@@ -88,7 +88,7 @@ LangChain 可以说是当前最火的 AI Agent 技术框架，GitHub 上拥有�
 
 在把数据输入到 AI 大模型之前，不论它来源于搜索引擎、向量数据库还是第三方系统接口，都必须先对数据进行格式化，转化成大模型能理解的格式。这就是格式化部分做的事情。
 
-![图片来源于官方网站](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/eb/eb32f292cd2da7c82cffac5fe348fbdf4b4ade9bb0072902b3d10ee338d44bd3.png)
+![图片来源于官方网站](https://blog.images.bornforthis.cn/docs-images/sha256/eb/eb32f292cd2da7c82cffac5fe348fbdf4b4ade9bb0072902b3d10ee338d44bd3.png)
 
 预测是指 LangChain 原生支持的丰富的 API，可以实现对各个大模型的调用。
 
@@ -114,7 +114,7 @@ Agents（代理）就是指实现具体任务的模块，比如从某个第三�
 
 内存是指模型的一些输入和输出，包含历史对话信息，可以放入缓存，提升性能，使用流程和我们软件开发里缓存的使用一样，在执行核心逻辑之前先查询缓存，如果查询到就可以直接使用，在执行完核心逻辑，返回给用户前，将内容写入缓存，方便后面使用。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5b/5b183706faaa69b627494ba94fe55758637737bc9ffa91652eb2a70830dcac54.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/5b/5b183706faaa69b627494ba94fe55758637737bc9ffa91652eb2a70830dcac54.png)
 
 ### 3.2.4 Callbacks
 
@@ -170,7 +170,7 @@ chain2.invoke({"person": "obama", "language": "spanish"})
 
 就拿下面这个案例来说吧，我们可以通过 RAG 技术让大模型支持最新的知识索引。我们先来看一下技术流程图。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/16e570e31be2b809235aa213009998a4aadf2262341387e91da1cc3fb517e753.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/16/16e570e31be2b809235aa213009998a4aadf2262341387e91da1cc3fb517e753.png)
 
 任务一：先通过网络爬虫，爬取大量的信息，这个和搜索引擎数据爬取过程一样，当然这里不涉及 PR（Page Rank），只是纯粹的知识爬取，并向量化存储，为了保障我们有最新的数据。
 
@@ -192,7 +192,7 @@ chain2.invoke({"person": "obama", "language": "spanish"})
 
 这节课我们详细学习了智能体以及 LangChain 技术体系。目前看来，智能体很有可能在未来一段时间内成为 AI 发展的一个重要方向。因为大模型实际上是大厂商的游戏（除非未来开发出能够低成本训练和推理的大模型），而智能体不一样，普通玩家一样可以入局，而且现在基本上是一片蓝海。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a1/a196f0de62c683a1551e4717fab51cda9d766fa7e327061c22b6c84da0ea2ecf.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a1/a196f0de62c683a1551e4717fab51cda9d766fa7e327061c22b6c84da0ea2ecf.png)
 
 
 
@@ -306,7 +306,7 @@ LangChain 未来还有可能增加分布式大模型调度组件、支持集群�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -322,4 +322,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

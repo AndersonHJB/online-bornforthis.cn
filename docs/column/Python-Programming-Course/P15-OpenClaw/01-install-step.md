@@ -87,7 +87,7 @@ toc: true
 
 下载地址：[https://nodejs.org/zh-cn/download](https://nodejs.org/zh-cn/download)
 
-![Windows](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/85/8533f1e7ac70b967d564a518222476fb2a22f37ea63780a0348052aee827f2f9.png)
+![Windows](https://blog.images.bornforthis.cn/docs-images/sha256/85/8533f1e7ac70b967d564a518222476fb2a22f37ea63780a0348052aee827f2f9.png)
 
 自行选择 Mac 或 Windows 进行下载、安装，安装步骤默认操作即可。
 
@@ -104,7 +104,7 @@ Mac 直接启动终端即可，Windows 需要按如下指示操作：
     3. 选择 **以管理员身份运行**
     4. 点击 **是** 确认
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b3/b3917ebfb421b68bb20c641d34586e4feb377e70b0b560173106d84859b71eeb.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/b3/b3917ebfb421b68bb20c641d34586e4feb377e70b0b560173106d84859b71eeb.png)
 
 2. 在管理员 PowerShell 窗口中，依次执行以下两条命令：
 
@@ -117,7 +117,7 @@ Mac 直接启动终端即可，Windows 需要按如下指示操作：
 
     > **安全提示**：这些命令只会影响您自己的账户，不会影响系统安全或其他用户。
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/21/213529d0132101656a817f8fbd97f66695164ebf6ae999aad73ec532ff717ddb.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/21/213529d0132101656a817f8fbd97f66695164ebf6ae999aad73ec532ff717ddb.png)
 
 ### 3.2 执行一键安装命令
 
@@ -145,9 +145,9 @@ Mac 直接启动终端即可，Windows 需要按如下指示操作：
 
 **Tisp**：下面截图是 Windows 界面，Mac 类似，就不提供截图了。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/7282097918b8b7d745767aa570c23fe4373673be9473f4f0662553a2261f18c6.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/72/7282097918b8b7d745767aa570c23fe4373673be9473f4f0662553a2261f18c6.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/95/95b7345a9ead18c4b2db829456afc5f6a471335d615eeb07000e70cfa1ca4ecc.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/95/95b7345a9ead18c4b2db829456afc5f6a471335d615eeb07000e70cfa1ca4ecc.png)
 
 ## 4. 初始配置向导
 
@@ -159,11 +159,11 @@ Mac 直接启动终端即可，Windows 需要按如下指示操作：
 
 按 向左方向键 ←，选择 `Yes`，按 `Enter` 回车确认：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/84/84108c5f3f131b9ffb94063fd57c9cdf78b33a95c14bb4fa27770344233365c9.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/84/84108c5f3f131b9ffb94063fd57c9cdf78b33a95c14bb4fa27770344233365c9.png)
 
 ### 4.2 选择 QiuickStart 模式
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e9/e95524c04ba45a6fdb83ed2594ec8e57e2db4659b198fd0433f8c84638d617a8.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e9/e95524c04ba45a6fdb83ed2594ec8e57e2db4659b198fd0433f8c84638d617a8.png)
 
 ### 4.3 配置 AI 模型 API Key
 
@@ -171,47 +171,47 @@ OpenClaw 需要连接到大语言模型才能工作。Openclaw 比较费token，
 
 > 如果没有智谱的 API Key，点击官方地址自己注册账号获取 API key：[https://www.bigmodel.cn/invite?icode=kfX4Vy3FW818IlOHqfkX%2BlwpqjqOwPB5EXW6OL4DgqY%3D](https://www.bigmodel.cn/invite?icode=kfX4Vy3FW818IlOHqfkX%2BlwpqjqOwPB5EXW6OL4DgqY%3D)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bf/bfa3b805118fc756a694b3d7c5fcd73fcbca6a3301478dc2b3266d6173f5952c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/bf/bfa3b805118fc756a694b3d7c5fcd73fcbca6a3301478dc2b3266d6173f5952c.png)
 
 输入自己的 API Key：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/db/dbc4c9f05883caacfe981b2575cb192222656238abc9df69eeb0a1fb08c5963a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/db/dbc4c9f05883caacfe981b2575cb192222656238abc9df69eeb0a1fb08c5963a.png)
 
 ### 4.4 选择 AI 模型
 
 > 这里我选择默认的 GLM 4.7，也是智普当前的旗舰模型。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e0/e0e2eb19edb0d0ec622556cc2e99f9c6742ab07878e2d6c8a8c734701f381bdd.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e0/e0e2eb19edb0d0ec622556cc2e99f9c6742ab07878e2d6c8a8c734701f381bdd.png)
 
 ### 4.5 连接即时通讯平台
 
 配置完 AI 模型后，OpenClaw 会询问你要连接哪个通讯平台？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/21/212d37b6749d4e02ad61e7b33745deda0b15253b30ddb469dac9ef74956cadd1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/21/212d37b6749d4e02ad61e7b33745deda0b15253b30ddb469dac9ef74956cadd1.png)
 
 > OpenClaw 原生支持的即时通信平台主要是海外的 WhatsApp、Telegram、Discord、Slack、iMessage 等，国内用户不习惯，这里国产即时通信软件大厂也跟进了，现在钉钉，飞书等都已支持接入 OpenClaw
 
 **后面**会带领大家把**飞书机器人接入 OpenClaw**，使大家可以通过飞书即可指挥 OpenClaw 为我们干活，但是飞书配置比较复杂，这里我们先选择跳过，后面我们可以通过继续进行配置：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d2/d2986056a014f6bfe57b43adf9a0831d069a32a6738408944017d60304296165.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d2/d2986056a014f6bfe57b43adf9a0831d069a32a6738408944017d60304296165.png)
 
 ### 4.6 选择 Skills
 
 这里也选择：No，暂不配置，后面通过UI界面进行配置：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c4/c43454406652a8415657254a12f73a94e3373992b0d4da0851f2c5548b20f392.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c4/c43454406652a8415657254a12f73a94e3373992b0d4da0851f2c5548b20f392.png)
 
 ### 4.7 是否开启 Hooks
 
 操作步骤：先敲**空格**，表示选中当前项，再敲回车键。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/96/96befc4f3c3c3b1f619195fc1b0f5e26287e62db40933fdecca6beb72c28f74a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/96/96befc4f3c3c3b1f619195fc1b0f5e26287e62db40933fdecca6beb72c28f74a.png)
 
 ### 4.8 启动服务并打开 UI 界面
 
 此时它会自动再打开一个命令窗口来启动服务：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/47/47c472aa22c7776fde7b83fec9d77f967a49447470130c294784d3dc038cc672.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/47/47c472aa22c7776fde7b83fec9d77f967a49447470130c294784d3dc038cc672.png)
 
 > 这个过程是在启动服务，可能会需要等一点时间。
 
@@ -219,15 +219,15 @@ Mac 系统不会打开新的命令窗口，只会在同一个窗口执行。
 
 同时，大约过 30 秒左右，我们回到刚才的设置窗口，选择 `Open the Web UI` ，打开 `OpenClaw` 的 UI 界面：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7b/7bd6919ab4e0bb5bf0ac3880fdd599980a4dfbb9896050d53363666096b7169a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/7b/7bd6919ab4e0bb5bf0ac3880fdd599980a4dfbb9896050d53363666096b7169a.png)
 
 浏览器自动打开Web UI界面：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6a/6ae45be0b326cd35c0e7528186fd30773d212a602dff2376e6c0e81c23630baa.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/6a/6ae45be0b326cd35c0e7528186fd30773d212a602dff2376e6c0e81c23630baa.png)
 
 ### 4.9 测试一下
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/92/92bd0bf3ca3a60e59a149e2310dd580affe04a4e3cf13afe1a66873bfa317805.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/92/92bd0bf3ca3a60e59a149e2310dd580affe04a4e3cf13afe1a66873bfa317805.png)
 
 ## 5. 对接飞书机器人
 
@@ -239,61 +239,61 @@ Mac 系统不会打开新的命令窗口，只会在同一个窗口执行。
 
 点击右上角进入 **开发者后台**：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9a/9ae4b20225376e48390a5f20dd441dadff50cfe12705fe3534c88e34f011964e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9a/9ae4b20225376e48390a5f20dd441dadff50cfe12705fe3534c88e34f011964e.png)
 
 
 
 ### 5.2 创建应用
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/08/084ed0cb2698ff8119c10db573deb981f9fd1606d71c940bdcdbca87aae46b8a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/08/084ed0cb2698ff8119c10db573deb981f9fd1606d71c940bdcdbca87aae46b8a.png)
 
 ### 5.3 填写应用信息
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/66/66dc3c769941678d0f6ad9ce947736e8c6c4b83008126256767bbe00d25a96e9.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/66/66dc3c769941678d0f6ad9ce947736e8c6c4b83008126256767bbe00d25a96e9.png)
 
 ### 5.4 给应用添加机器人
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4b/4be8afda0b7819e05803e9b3da8103ba5079d46fbd48244bd12ad9943b242c96.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/4b/4be8afda0b7819e05803e9b3da8103ba5079d46fbd48244bd12ad9943b242c96.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/165383162600731666256b0078cd7d73e006ce22d51453f982b3d389f03b774f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/16/165383162600731666256b0078cd7d73e006ce22d51453f982b3d389f03b774f.png)
 
 ### 5.5 给应用配置权限
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/7552e054af35e2a7e4e857955f47835974d249a91f57211c6eb7d69e1e1358ef.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/75/7552e054af35e2a7e4e857955f47835974d249a91f57211c6eb7d69e1e1358ef.png)
 
 把即时通讯相关的权限全部开通：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9b/9b3a8e98e37c6b045c4ea5018ecb727a0f0552fddbdf2bb1b54b7551a2c00aca.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9b/9b3a8e98e37c6b045c4ea5018ecb727a0f0552fddbdf2bb1b54b7551a2c00aca.png)
 
 
 
 ### 5.6 创建版本并发布
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/15df24959d16d85b3316f9978eeeb8a6251ec7c9c413399b8e507c02d628e13a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/15/15df24959d16d85b3316f9978eeeb8a6251ec7c9c413399b8e507c02d628e13a.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3f/3f8c8f8d77ab0a0d2cfe6f9af8d814a10559bae2fc83557c9b0f254634713f5a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3f/3f8c8f8d77ab0a0d2cfe6f9af8d814a10559bae2fc83557c9b0f254634713f5a.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3c/3c86598f145a141e5c7fb19b4f635e459ad9ee5eedadb90eb451295627de8773.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3c/3c86598f145a141e5c7fb19b4f635e459ad9ee5eedadb90eb451295627de8773.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dd/dd9ff6b118a6d2790582545c7f0d58c5b005442e9055ea6bf7b25db57d21d340.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/dd/dd9ff6b118a6d2790582545c7f0d58c5b005442e9055ea6bf7b25db57d21d340.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cf/cfec5ce7d50da8b2b807c5e02bca741019cfbe85a605a7b20a00f646689a25f4.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/cf/cfec5ce7d50da8b2b807c5e02bca741019cfbe85a605a7b20a00f646689a25f4.png)
 
 ### 5.7 来到飞书客户端进行审批
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ca/ca375cc138fd14ecd63265f57f3f9d690579ec7074904bbb796fd53ff01c99ed.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ca/ca375cc138fd14ecd63265f57f3f9d690579ec7074904bbb796fd53ff01c99ed.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4c/4ce76c61ac389fcbadc86f82f562f9c7a10e5eb5ab0845d1b0aa6c700555ad41.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/4c/4ce76c61ac389fcbadc86f82f562f9c7a10e5eb5ab0845d1b0aa6c700555ad41.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1a/1ac20b81691dc5e6adad94a5f9850f51e97398fd289650c9b5b063c81326451b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/1a/1ac20b81691dc5e6adad94a5f9850f51e97398fd289650c9b5b063c81326451b.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3a/3a93e2f0dbc455cb9efe73321c72ae0af5e1050509a3dbfa532f202d19a59e5f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3a/3a93e2f0dbc455cb9efe73321c72ae0af5e1050509a3dbfa532f202d19a59e5f.png)
 
 
 
 ### 5.8 获取自己的应用凭证
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/39/39e330711f79587e309e34c2c609335b24d9bd76d66fa23bd4a9410dd26efcdd.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/39/39e330711f79587e309e34c2c609335b24d9bd76d66fa23bd4a9410dd26efcdd.png)
 
 ### 5.9 安装飞书插件
 
@@ -303,11 +303,11 @@ Mac 系统不会打开新的命令窗口，只会在同一个窗口执行。
 
 并且在你初始化 OpenClaw 的时候，就会有飞书的选项。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e5/e5fcce586ab5d043f70c35a0a10354b714fa72bb49bcc784215d028631891977.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e5/e5fcce586ab5d043f70c35a0a10354b714fa72bb49bcc784215d028631891977.png)
 
 并且选择进去后，会提示：是否下载。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/05/052eddd5569ef6ffaee4bc52b5ebab5766035289b9024203f5ddce08b99fd773.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/05/052eddd5569ef6ffaee4bc52b5ebab5766035289b9024203f5ddce08b99fd773.png)
 
 ---
 
@@ -329,73 +329,73 @@ openclaw plugins install ./extensions/feishu
 openclaw config
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ab/ab9db334dc22c119da2e55982dcd76de336d25f492c19e001def6026d2982514.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ab/ab9db334dc22c119da2e55982dcd76de336d25f492c19e001def6026d2982514.png)
 
 选择渠道：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f663207fd76ac4fe0e744dcb520279aa6b756e41cb69d920ce329cd870b772b4.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f6/f663207fd76ac4fe0e744dcb520279aa6b756e41cb69d920ce329cd870b772b4.png)
 
 选择配置链接：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/67/67ccdae0335e61e17dcd805919d55aa6b13b4a713a912c13b3e6072f798820a9.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/67/67ccdae0335e61e17dcd805919d55aa6b13b4a713a912c13b3e6072f798820a9.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cd/cdfdb80f6d4ca036ed4d84c2192e5e02a9644b049d147dadd685e66fcabe5ab1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/cd/cdfdb80f6d4ca036ed4d84c2192e5e02a9644b049d147dadd685e66fcabe5ab1.png)
 
 输入飞书的 AppID，AppSecrect：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/80b6dd5567d60d15d1f0e18330e82e2f2ab3ed7dc2f4fa3bc78c1d535610d184.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/80/80b6dd5567d60d15d1f0e18330e82e2f2ab3ed7dc2f4fa3bc78c1d535610d184.png)
 
 域名选择中国的：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9b/9b8a0ed37828f20544f55905a224c0583d1de44b60a18074f665107b29fdc8c0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9b/9b8a0ed37828f20544f55905a224c0583d1de44b60a18074f665107b29fdc8c0.png)
 
 接受群组聊天：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1f/1f083e8d3baebd0391910f98785ba36626a91528ab7bcaf7dfa39b4fcdce9c40.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/1f/1f083e8d3baebd0391910f98785ba36626a91528ab7bcaf7dfa39b4fcdce9c40.png)
 
 选择完成：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/49/49b42082b0dfc0d0e5b0fb5460a6239e42816c1c02dea3acf769df14a7f05b27.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/49/49b42082b0dfc0d0e5b0fb5460a6239e42816c1c02dea3acf769df14a7f05b27.png)
 
 选择 Yes：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a473c3ccd810e525e6639966adae9d5ce39c6900bb4c712a6dbfdf2b310c4b9d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a4/a473c3ccd810e525e6639966adae9d5ce39c6900bb4c712a6dbfdf2b310c4b9d.png)
 
 选择 open：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/155e6116964e4211b219f5b5e4f4224d9ca993c5059d76e59f471b3d31056312.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/15/155e6116964e4211b219f5b5e4f4224d9ca993c5059d76e59f471b3d31056312.png)
 
 选择继续，完成配置：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e3/e3a90475b9344fa2678324b46ccbf624796ae8f0911ecbe7575f618ac5819f11.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e3/e3a90475b9344fa2678324b46ccbf624796ae8f0911ecbe7575f618ac5819f11.png)
 
 重启服务，使配置生效。终端可以看到飞书插件已经配置成功：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/05/05e80ffb529bead6e6df4960ab474b0bd47bd35dc273b766da6b7186e8bd65d2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/05/05e80ffb529bead6e6df4960ab474b0bd47bd35dc273b766da6b7186e8bd65d2.png)
 
 ### 5.10 回到飞书后台设置事件回调
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f6b160e454e2a30d77a03e0271b1c64d96c309d3f5fdc99da6e1449ae9fa3ba7.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f6/f6b160e454e2a30d77a03e0271b1c64d96c309d3f5fdc99da6e1449ae9fa3ba7.png)
 
 选择 `使用长连接接收事件` ：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/26/262cc53760c9a53aae37e2ba2755a80fab32ea514e6f4a0c88af697b60c67a1c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/26/262cc53760c9a53aae37e2ba2755a80fab32ea514e6f4a0c88af697b60c67a1c.png)
 
 可以看到添加事件按钮由原来的灰色不可点击变为可点击：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/746b0d6d445e545a60a3c927b9a48d3aac0a0e51f80e3258ac6f1a238a4789ae.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/74/746b0d6d445e545a60a3c927b9a48d3aac0a0e51f80e3258ac6f1a238a4789ae.png)
 
 添加接收消息事件：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/73/7348813b7843313f2c6014490b9295a41220cf9d70e6e2ad05766f843a23398e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/73/7348813b7843313f2c6014490b9295a41220cf9d70e6e2ad05766f843a23398e.png)
 
 给应用开通获取通讯录基本信息的权限：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/31/31805b93b808d471161111e39794fdd056189989d4b77fd36ca941d49edc8d39.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/31/31805b93b808d471161111e39794fdd056189989d4b77fd36ca941d49edc8d39.png)
 
 重新发布版本：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ec/eccb5b8c4b93d6dd412d10aa05d616993d929d0a36f2670c6a40325ff99cfdce.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ec/eccb5b8c4b93d6dd412d10aa05d616993d929d0a36f2670c6a40325ff99cfdce.png)
 
 跟前面的步骤一样，发布为在线应用即可。
 
@@ -405,13 +405,13 @@ openclaw config
 
 来到飞书客户端或者手机飞书 app 上：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8f/8fe4564601be97145cfd2924605ed59aadef35cd81da0e010923924cdb22b509.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8f/8fe4564601be97145cfd2924605ed59aadef35cd81da0e010923924cdb22b509.png)
 
 以下是 openclaw 文件夹下面的文档内的内容：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/25153bb673c9c96e596debb584f0a7527a4da5d82f905d32427909b5bd3d3e75.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/25/25153bb673c9c96e596debb584f0a7527a4da5d82f905d32427909b5bd3d3e75.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/31/31869905eec4a61c65395844c5495059c1b6531e851200f51f5684d6de9a9469.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/31/31869905eec4a61c65395844c5495059c1b6531e851200f51f5684d6de9a9469.png)
 
 ### 5.12 访问 Web 控制面板
 
@@ -444,9 +444,9 @@ Control UI: http://127.0.0.1:18789
 
 ### Q1：npm 证书校验失败
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/82/824e8d238808571d9cfc03987ad42c4de56e45f524e359ed5036b4e84e4e607c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/82/824e8d238808571d9cfc03987ad42c4de56e45f524e359ed5036b4e84e4e607c.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/75113159080b5cfe7da3c0cb4eb9f10ee4dfd1641b5090220c07108e9c52ecc6.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/75/75113159080b5cfe7da3c0cb4eb9f10ee4dfd1641b5090220c07108e9c52ecc6.png)
 
 ::: code-tabs
 
@@ -479,15 +479,15 @@ npm config set strict-ssl true   # 开启
 
 我的修好了，忘记截图出问题的界面，图片来自：[https://zeabur.com/forum/posts/697ca71becc019f67a62eaac](https://zeabur.com/forum/posts/697ca71becc019f67a62eaac)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c1/c1a92e897ff441392991c219f4c9d07837637ec44820482a9b87ddd09a886614.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c1/c1a92e897ff441392991c219f4c9d07837637ec44820482a9b87ddd09a886614.jpg)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/39/39f6384bbd5c96ef9018a3a95a7750365b30e834e9214cbd8080f3c05be7336b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/39/39f6384bbd5c96ef9018a3a95a7750365b30e834e9214cbd8080f3c05be7336b.jpg)
 
 如果你使用官方推荐的命令：`curl -fsSL https://openclaw.ai/install.sh | bash` 安装之后，出现如下现象：
 
 - **现象一**：在你初始化安装时，出现类似提示：`npm install failed; cleaning up and retrying...`；（或者连准备安装 OpenClaw 的版本号都没显示出来）
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/75113159080b5cfe7da3c0cb4eb9f10ee4dfd1641b5090220c07108e9c52ecc6.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/75/75113159080b5cfe7da3c0cb4eb9f10ee4dfd1641b5090220c07108e9c52ecc6.png)
 
 - **现象二**：已经按照官方安装方法，OpenClaw 一直不回复；
 
@@ -510,7 +510,7 @@ npm config set strict-ssl true   # 开启
 
     按下图配置，新建配置文件，名称随意：
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1c/1cbdedfa768d0030546afb67d45f88bfec28a8b4e4048ae31499223ed0ddd3b6.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/1c/1cbdedfa768d0030546afb67d45f88bfec28a8b4e4048ae31499223ed0ddd3b6.png)
 
     ```bash
     199.232.68.133 raw.githubusercontent.com
@@ -582,7 +582,7 @@ npm config set strict-ssl true   # 开启
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -598,4 +598,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

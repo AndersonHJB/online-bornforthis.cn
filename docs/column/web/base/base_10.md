@@ -62,13 +62,13 @@ JS 是一门 **易上手难精通** 的编程语言。
 
 【选词填空】在空格内填入适当的答案。
 
-![image-20220804222232290](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1a/1a934b180a5e3e39e1a1b68f73f7b8d644388b1ff1d7cdcf72c8da6e0b8ebbf6.png)
+![image-20220804222232290](https://blog.images.bornforthis.cn/docs-images/sha256/1a/1a934b180a5e3e39e1a1b68f73f7b8d644388b1ff1d7cdcf72c8da6e0b8ebbf6.png)
 
 
 
 ::: details 答案
 
-![image-20220804222319314](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4e/4ebdd6e40436c71961f0c936b4b226ed9af0f4fbd0b0bcadde4da0f51e398dea.png)
+![image-20220804222319314](https://blog.images.bornforthis.cn/docs-images/sha256/4e/4ebdd6e40436c71961f0c936b4b226ed9af0f4fbd0b0bcadde4da0f51e398dea.png)
 
 :::
 
@@ -129,11 +129,11 @@ variable = 'Web入门请上 bornforthis.cn';
 
 【选词填空】请填入适当的符号，使下列变量和赋值完整
 
-![image-20220804225118248](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/75888eefd179ebacc09fedab48b9010c389405d1684924b59bb014077328a8a0.png)
+![image-20220804225118248](https://blog.images.bornforthis.cn/docs-images/sha256/75/75888eefd179ebacc09fedab48b9010c389405d1684924b59bb014077328a8a0.png)
 
 ::: details 答案
 
-![image-20220804225244003](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b679ad1ec16cacb4fd51dbec0e9af647f54e65f944d26514bb82ea04d264d54a.png)
+![image-20220804225244003](https://blog.images.bornforthis.cn/docs-images/sha256/b6/b679ad1ec16cacb4fd51dbec0e9af647f54e65f944d26514bb82ea04d264d54a.png)
 
 :::
 
@@ -143,7 +143,7 @@ variable = 'Web入门请上 bornforthis.cn';
 
 JavaScript 的变量具有不同的数据类型：
 
-![image-20220804225355296](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b0/b0533cf0c0e3e8ccb22aaa0ca00318d7ab7d6e73ac84cf9c8db812b7c0a02ef2.png)
+![image-20220804225355296](https://blog.images.bornforthis.cn/docs-images/sha256/b0/b0533cf0c0e3e8ccb22aaa0ca00318d7ab7d6e73ac84cf9c8db812b7c0a02ef2.png)
 
 【多选题】以下哪些是 JS 的数据类型？
 
@@ -165,7 +165,7 @@ JavaScript 的变量具有不同的数据类型：
 
 以下表格罗列出了 JS 中常用的运算符：
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4e/4ecfef31fa57d1bb27af96028ea63ee9267a4eb1ca0bf35846cf825496c8bf06.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/4e/4ecfef31fa57d1bb27af96028ea63ee9267a4eb1ca0bf35846cf825496c8bf06.png)
 
 注意：
 
@@ -188,7 +188,7 @@ let variable = "1024"+"520”
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -204,7 +204,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

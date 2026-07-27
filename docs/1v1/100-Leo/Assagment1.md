@@ -23,13 +23,13 @@ In this assignment, you will make use of Python programming to implement a simpl
 
 #### Piece
 
-![Piece](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f9/f9977ac2a7bb229470658d30e6badc5a1ab55f6a2d0e12e0639168ded9380de6.png)
+![Piece](https://blog.images.bornforthis.cn/docs-images/sha256/f9/f9977ac2a7bb229470658d30e6badc5a1ab55f6a2d0e12e0639168ded9380de6.png)
 
 In the 1023 Game, a piece is a connected group of 4 blocks, just like the Tetris game. There are 7 types of pieces in our game. The player can control the movement of each piece. More information about the movement in the "Gameplay" section.
 
 #### Block
 
-![Block](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6b/6b7ff90a9ffac389799f0420707a97ab4d62522eb726e21d3cf8715485584c0f.png)
+![Block](https://blog.images.bornforthis.cn/docs-images/sha256/6b/6b7ff90a9ffac389799f0420707a97ab4d62522eb726e21d3cf8715485584c0f.png)
 
 A block is the smallest unit in the 1023 Game. Each block has a value of 1, 3, 7, 15, ..., 1023 (each number is two times the previous number plus one: $3 = 2*1 + 1$, $7 = 2*3 +1$ ...). The values can be changed through merging when a block stacks on top of another block of equal value. More information about the merging rule is in the "Gameplay" section.
 
@@ -45,7 +45,7 @@ A proposed move is considered valid if none of the blocks of the piece move into
 
 3. Press the space bar on the keyboard to drop the piece to the bottom of the grid. When blocks of equal value stack vertically, they merge. Unlike Tetris, gravity (dropping down) is applied to each block individually, not to the entire piece as a whole. 
 
-    ![Drop](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/82/8255d9756c44634b792b9558286d3ef980962fad7c311d2886d691ef38b25f7a.png)
+    ![Drop](https://blog.images.bornforthis.cn/docs-images/sha256/82/8255d9756c44634b792b9558286d3ef980962fad7c311d2886d691ef38b25f7a.png)
 
 4. Since pieces will not fall automatically, the player has to press the space bar to drop the piece and continue the game. Even if the piece is already at the bottom, the space bar still needs to be pressed to proceed to the next piece.
 
@@ -57,7 +57,7 @@ In this game, we have a special rule for merging blocks. When two blocks of equa
 
 One special case is that when there are multiple blocks of equal value stacked together, the pair of blocks closest to the bottom will be merged first. Refer to the example below for a better understanding. 
 
-![Merge](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c54771ae66bce3bb72d792eed4b0ce773d8690fd944e442bb89833093b7dcde9.png)
+![Merge](https://blog.images.bornforthis.cn/docs-images/sha256/c5/c54771ae66bce3bb72d792eed4b0ce773d8690fd944e442bb89833093b7dcde9.png)
 
 #### Gameplay
 
@@ -67,7 +67,7 @@ The goal of the player is to create a block with a value of 1023 through merging
 
 The game will end when the player reaches the goal (has a block with a value of 1023) or any block **touches** the red limit line of the grid (that is, if there is any block in the top five rows) after merging checking, and all blocks of the current piece have fallen. If any block touches the line after the block merging process, the game ends, and the player loses. The limit line is represented by the red line in the images above. You can also observe the red limit line when you run your game. An example of a game lost is shown below.
 
-![Game lost](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/24/2419bef9ba60bfb846df47a77ffd1bbc4f1ed79fb57610736cdf2ee89be63013.png)
+![Game lost](https://blog.images.bornforthis.cn/docs-images/sha256/24/2419bef9ba60bfb846df47a77ffd1bbc4f1ed79fb57610736cdf2ee89be63013.png)
 
 An example game play video recording is shown below.
 
@@ -83,7 +83,7 @@ In this section, we will provide some technical details about the game implement
 
     For example, in the example below, we have `game_board[18][1] = 127`, but `game_board[6][2] = 0`.
 
-    ![gameboard.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f2/f23655f7f3a686482e4a42e719e426bd41b0b21d352f0237e8c9a3e9cd3f3572.png)
+    ![gameboard.png](https://blog.images.bornforthis.cn/docs-images/sha256/f2/f23655f7f3a686482e4a42e719e426bd41b0b21d352f0237e8c9a3e9cd3f3572.png)
 
 2. **Piece shape and location**: The shapes of the pieces are stored in the list `shapes` (initialization is contained in the top portion of the provided skeleton program), accessed using `shapes[piece_number][rotation_number][block_number][dimension]`. Each element in the 4D list is an `int`, the row or column offset of the block.
 
@@ -93,7 +93,7 @@ In this section, we will provide some technical details about the game implement
 
     An example is provided here for better understanding (shape 6 rotation 3).
 
-    ![shapes_new.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/35/358e13e5f2d978d3920ffb4a3f9951fac58e0a20bb23a7e1aa024938e127fbfe.png)
+    ![shapes_new.png](https://blog.images.bornforthis.cn/docs-images/sha256/35/358e13e5f2d978d3920ffb4a3f9951fac58e0a20bb23a7e1aa024938e127fbfe.png)
 
     Suppose we want to calculate the position of the third block (block number 2) of the piece (shape number 6, rotation number 3). We can get the row offset by `shapes[6][3][2][0]`, which should be 0, and the column offset by `shapes[6][3][2][1]`, which should be 1. These offsets are then added to the piece's position at [row 9, column 1] to get the position of the block [row 9 + 0, column 1 + 1] = [row 9, column 2] or position [9, 2].
 
@@ -946,7 +946,7 @@ def get_game_status(game_board):
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -962,7 +962,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://chatgpt.com/c/68ef9c89-3794-8328-ba26-c3956c17e6db)
 

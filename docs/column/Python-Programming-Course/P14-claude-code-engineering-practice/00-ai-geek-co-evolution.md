@@ -17,7 +17,7 @@ backToTop: true
 toc: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/82/82d4eb5590c23037462f1bae39e7fb7264a1793dd703999afd171adaf4e5e399.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/82/82d4eb5590c23037462f1bae39e7fb7264a1793dd703999afd171adaf4e5e399.png)
 
 你好，我是悦创。
 
@@ -28,7 +28,7 @@ toc: true
 - 以前写代码是这样的：打开 IDE，敲键盘，查文档，调试，再敲键盘。大脑是主机，手指是输出设备。
 - 现在写代码是这样的：我描述意图，AI 生成代码，我审阅确认，AI 继续迭代。大脑变成了**导演**，AI 变成了**演员**。
 
-![悦创和AI的协作与共生](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/01/01ee3ba326610bf7e0cf9d14bd77dfbe49cf4efdca6faa45fe75048c981555eb.webp)
+![悦创和AI的协作与共生](https://blog.images.bornforthis.cn/docs-images/sha256/01/01ee3ba326610bf7e0cf9d14bd77dfbe49cf4efdca6faa45fe75048c981555eb.webp)
 
 这不是效率提升 10% 或 20% 的量变。这是角色本身的转换——从“**执行者**”到“**指挥者**”。
 
@@ -43,13 +43,13 @@ toc: true
 
 让我们快速扫描一下主流的 AI Coding 工具和它们的特点。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/45/454b8dc4b2b664b6b9aee6100a3f18bac59c03e6fb36467a2d92eb151b574a5c.webp)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/45/454b8dc4b2b664b6b9aee6100a3f18bac59c03e6fb36467a2d92eb151b574a5c.webp)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e4d4a10b6b70824aabb81c1f29024950f9c46e5f38a1d35abb7646b96311dbed.webp)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e4/e4d4a10b6b70824aabb81c1f29024950f9c46e5f38a1d35abb7646b96311dbed.webp)
 
 不难看出，这些 AI Coder 都有着非常相似的交互界面，通过代码补全，尤其是右侧的交互对话框来进行代码库分析和自动代码生成。其中，Github Copolit 是最早的 AI 编码助手。随后 Cursor 异军突起，其 Composer 可以跨文件修改，后来演变为可以复用的 Agent。而 Cursor 的竞争对手 Windsurf 则强调 Flow 状态下的连续编排。这些工具都在解决一个问题—— **如何降低“写代码”的门槛**。
 
-![多个AI Coder可以混合使用，图中的使用Copilot\Claude Code\Augment共同分析一个代码库](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/23/23f215c78d9ef33bce32e45d4570e4d67738e7c28e59d7a8b1e7a869c1f9645e.webp)
+![多个AI Coder可以混合使用，图中的使用Copilot\Claude Code\Augment共同分析一个代码库](https://blog.images.bornforthis.cn/docs-images/sha256/23/23f215c78d9ef33bce32e45d4570e4d67738e7c28e59d7a8b1e7a869c1f9645e.webp)
 
 然而，当 AI 编程最终发展到 Claude Code 之后，如果我们仍然简单地把“学习并使用 Claude Code”当做时下流行的 Vibe Coding 或 AI coding hype 中一个不得不学的工具，那格局就太低了！
 
@@ -81,11 +81,11 @@ Claude Code 出现时，包括我在内的很多人都明确意识到：**真正
 
 就像一家公司不会让 CEO 亲自写代码、做测试、查日志，AI Agent 也需要“组织架构”。我们可以这样理解，主代理是指挥官，子代理是专业兵种。有人负责代码审查（只读，不能改），有人负责跑测试（执行，汇报结果），有人负责分析日志（消化噪声，提炼结论）。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b9602fb66c6ecf7d23464c5971221bb6d126edb6eaeb85e65ef3bf31e27b1094.webp)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b9/b9602fb66c6ecf7d23464c5971221bb6d126edb6eaeb85e65ef3bf31e27b1094.webp)
 
 这不是 Claude Code 独创的想法。OpenAI 的 Swarm、LangChain 的 Multi-Agent、微软的 AutoGen，都在探索类似的方向。但 Claude Code 把它做成了**开箱即用的工程能力**——你只需要写一个配置文件，就能创建一个有明确职责、受限权限的子代理。
 
-![Claude Code让Sub-Agents通过一个配置文件开箱即用](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/60/607a225e805f410e7df73458f21274274c53be1f79b0744e8e09ecc80e828a4e.webp)
+![Claude Code让Sub-Agents通过一个配置文件开箱即用](https://blog.images.bornforthis.cn/docs-images/sha256/60/607a225e805f410e7df73458f21274274c53be1f79b0744e8e09ecc80e828a4e.webp)
 
 ### 2.2 Skills（技能）
 
@@ -95,11 +95,11 @@ Claude Code 出现时，包括我在内的很多人都明确意识到：**真正
 
 这种“语义触发”的设计，让 AI 从执行命令的工具，升级为理解意图的工作伙伴。
 
-![Skill让 AI 从“执行命令”升级为“理解意图”](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/18/1814d567d4174c6088d37824aff4b7872d4b9b7bedbb283ab965cb55761d3add.webp)
+![Skill让 AI 从“执行命令”升级为“理解意图”](https://blog.images.bornforthis.cn/docs-images/sha256/18/1814d567d4174c6088d37824aff4b7872d4b9b7bedbb283ab965cb55761d3add.webp)
 
 更有意思的是，Skills 的**渐进式披露架构**——不是把所有知识一股脑灌给 AI，而是按需加载，用到什么加载什么。这解决了 LLM 上下文窗口的根本限制。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cb50b8ff4ba251aba606d6f7c206cb0e9edf66d63e4a71bb3c4b0d621c76c1cc.webp)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/cb/cb50b8ff4ba251aba606d6f7c206cb0e9edf66d63e4a71bb3c4b0d621c76c1cc.webp)
 
 这两个概念之所以重要，是因为它们**可以迁移**。不管你用的是 Claude Code 还是其他 Agent 框架，分工协作和按需加载的思想都是通用的。学会了这套方法论，你就获得了一种**可复用的 AI 工程能力**。
 
@@ -135,11 +135,11 @@ AI 让更多人获得了这种能力。爱思考的人、会组织的人、有�
 
 这**不是**一份 Claude Code 入门教程——安装 Claude Code（或任何其它 AI Coder）之后，你只需要在命令行、IDE 的 Terminal 中输入 Claude 命令，或者在交互对话框中按照自己的需求开始和它对话，甚至不需要阅读任何说明文档。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d3/d3bfbc610efec17698fb2eb12fd232dd206ae6010fbb2a6fa5984f0d38f01ca0.webp)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d3/d3bfbc610efec17698fb2eb12fd232dd206ae6010fbb2a6fa5984f0d38f01ca0.webp)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/49/493edd8421031395643904fc7b4058e80e76669e11160bd25e3709f9dfd3c215.webp)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/49/493edd8421031395643904fc7b4058e80e76669e11160bd25e3709f9dfd3c215.webp)
 
-![AI Coder零基础即可入门，安装后直接对话即可](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6a/6a03a2d49b71723f5770048528b0ba1d73d27d5199497da1c062a8a72f0eb4e1.webp)
+![AI Coder零基础即可入门，安装后直接对话即可](https://blog.images.bornforthis.cn/docs-images/sha256/6a/6a03a2d49b71723f5770048528b0ba1d73d27d5199497da1c062a8a72f0eb4e1.webp)
 
 这是一门**工程化实战课**，目标是让你从 Claude Code 的使用者，成长为**能够驾驭 AI 的工程指挥者**。
 
@@ -154,7 +154,7 @@ AI 让更多人获得了这种能力。爱思考的人、会组织的人、有�
 
 ## 5. 课程结构与安排
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/46/4639af576b0319836ce90c94f54e3567570cf345e98cbfda14725c9229b05b3e.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/46/4639af576b0319836ce90c94f54e3567570cf345e98cbfda14725c9229b05b3e.jpg)
 
 每一讲都不会止步于理解概念，而是围绕一个**真实工程场景**展开，配套可直接复用的配置与代码（老规矩，悦创会在 [Github](https://github.com/AndersonHJB) 开源所有的教学代码，链接[在此](https://github.com/AndersonHJB/claude-code-engineering)）。
 
@@ -170,7 +170,7 @@ AI 让更多人获得了这种能力。爱思考的人、会组织的人、有�
 
 针对不同需求，我们还给你准备了不同的学习路径：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e8/e810f50bcd43eeeac98313308931d7528753b2074dda37e98f89fe968bd02389.webp)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e8/e810f50bcd43eeeac98313308931d7528753b2074dda37e98f89fe968bd02389.webp)
 
 ::: details .
 
@@ -178,7 +178,7 @@ AI 让更多人获得了这种能力。爱思考的人、会组织的人、有�
 
 这样的节奏安排，主要是综合考量了交付质量保障和大家的学习习惯而制定的——既保证每周有稳定的、高质量的内容准备，也给同学们预留了跟学跟练、消化吸收的时间。
 
-![课程安排](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/97/97a857350158ad4b4604bb095c9256e301d3bf83a32883b1cc3e47445725c1e8.webp)
+![课程安排](https://blog.images.bornforthis.cn/docs-images/sha256/97/97a857350158ad4b4604bb095c9256e301d3bf83a32883b1cc3e47445725c1e8.webp)
 
 :::
 
@@ -192,11 +192,11 @@ AI 让更多人获得了这种能力。爱思考的人、会组织的人、有�
 
 让我们开始这次学习探索之旅吧！
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a42e966a554d64eb9dd955b46d52c889f218351ae9bb984e23389c87e56a0b21.webp)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a4/a42e966a554d64eb9dd955b46d52c889f218351ae9bb984e23389c87e56a0b21.webp)
 
 
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ec/ec9fbca3583f772d9d07879363f411abd3cbedc335913969d1d47a2932d5b49b.webp)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ec/ec9fbca3583f772d9d07879363f411abd3cbedc335913969d1d47a2932d5b49b.webp)
 
 
 
@@ -218,7 +218,7 @@ AI 让更多人获得了这种能力。爱思考的人、会组织的人、有�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -234,4 +234,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

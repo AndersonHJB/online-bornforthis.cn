@@ -45,7 +45,7 @@ The following figure illustrates some example inputs and the expected output for
 
 > 下图展示了一些示例输入以及点击诱饵破坏的预期输出：
 
-![Clickbait Spoiling Task Example](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d3/d362432208455a58ad52666b99e919d600f19184e662af9182b75e6977ac4da2.png)
+![Clickbait Spoiling Task Example](https://blog.images.bornforthis.cn/docs-images/sha256/d3/d362432208455a58ad52666b99e919d600f19184e662af9182b75e6977ac4da2.png)
 
 
 
@@ -167,7 +167,7 @@ We will accept run file submissions and software submissions via [TIRA](https://
 
 Participants may upload docker images that are executed within TIRA so that the runs can be reproduced or the software may be applied to different data (of same format) in the future. You can find the access credentials for your dedicated container registry to upload your images under "Docker Submission":
 
-![TIRA](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0a/0ad13f8573353fcae288baf55adf3f5c8e8baf9ae336593d9ce426cc9015a197.png)
+![TIRA](https://blog.images.bornforthis.cn/docs-images/sha256/0a/0ad13f8573353fcae288baf55adf3f5c8e8baf9ae336593d9ce426cc9015a197.png)
 
 Please follow the instructions there to upload your image. For instance, you can upload [the naive baseline](https://pan.webis.de/semeval23/pan23-web/clickbait-challenge.html#baselines) for task 1 by first tagging the image accordingly, i.e., `docker tag webis/pan-clickbait-spoiling-baselines:task1-naive-0.0.1 registry.webis.de/code-research/tira/YOUR-USER-NAME/YOUR-SOFTWARE-NAME:0.0.1`, then logging in to your dedicated registry, i.e., `docker login -u YOUR-USER-NAME -pTOKEN-PROVIDED-BY-TIRA registry.webis.de` and finally uploading the image by running `docker push registry.webis.de/code-research/tira/YOUR-USER-NAME/YOUR-SOFTWARE-NAME:0.0.1`.
 
@@ -180,15 +180,15 @@ Your software is expected to accept two arguments:
 
 After you have uploaded your image, you can add new softwares that use this image. Each combination of a command and a docker image is a software in TIRA (that can not be changed in retrospect to ensure reproducibility). Add a software by selecting your image and specifying the command that should be executed inside the image (should use the two arguments, for instance, the command for the naive baseline uploaded above is `/naive-baseline-task-1.py --input $inputDataset/input.jsonl --output $outputDir/run.jsonl`):
 
-![TIRA](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/ea7e7ce2a8a04559a577ca1503c7dd1028888b8eb2d6eb7e1cbf966a577654e9.png)
+![TIRA](https://blog.images.bornforthis.cn/docs-images/sha256/ea/ea7e7ce2a8a04559a577ca1503c7dd1028888b8eb2d6eb7e1cbf966a577654e9.png)
 
 After adding the docker software, a new tab for this software appears. You can run your software by specifying the compute resources (that your software has available during its execution) and the dataset (the input to the software). Please run your software on the datasets "task-1-type-classification" (for task 1) respectively "task-2-spoiler-generation" (for task 2) in TIRA to produce submissions (you can use the datasets "task-1-type-classification-validation" respectively "task-2-spoiler-generation-validation" to validate your approaches). You can run your software multiple times in parallel so executing your software on different resource specifications enables evaluations on the scalability of the software: 
 
-![TIRA](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/44/4492b1ebce56a10bb004d3b524ddad50408dbbc1d474f55f4b3b65b6eff817dd.png)
+![TIRA](https://blog.images.bornforthis.cn/docs-images/sha256/44/4492b1ebce56a10bb004d3b524ddad50408dbbc1d474f55f4b3b65b6eff817dd.png)
 
 Once the run of your software completes, you can see the run and its evaluation:
 
-![TIRA](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/1514a78f2c55336c66c80dac8bb02baab923988224cc7994c7aec4371677e782.png)
+![TIRA](https://blog.images.bornforthis.cn/docs-images/sha256/15/1514a78f2c55336c66c80dac8bb02baab923988224cc7994c7aec4371677e782.png)
 
 
 
@@ -646,7 +646,7 @@ model.save_pretrained('./model')
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -662,4 +662,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

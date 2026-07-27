@@ -35,7 +35,7 @@ pip install xlwt
 
 常规的创建 Excel 流程：
 
-![办公自动化-Excel流程](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/af/af88e00ebafb688067d9d8db69022718d2c2da1b17ee54fc1a84952b89152e82.png)
+![办公自动化-Excel流程](https://blog.images.bornforthis.cn/docs-images/sha256/af/af88e00ebafb688067d9d8db69022718d2c2da1b17ee54fc1a84952b89152e82.png)
 
 新建 Python 文件，第一个代码块，先导入 xlwt 这个库，并新建一个 WorkBook 对象。
 
@@ -111,7 +111,7 @@ wb.save('虚假用户数据.xls')
 
 然后找到文件，文件的位置就是你 Python 代码文件的旁边。使用 office 或者 wps 打开这个 xls 文件，如下截图：
 
-![image-20220712002219935](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0a/0ad0df187d5aebc3b422eaf563a66dbc6f4e37c1cc7b37187e9a191348f03f17.png)
+![image-20220712002219935](https://blog.images.bornforthis.cn/docs-images/sha256/0a/0ad0df187d5aebc3b422eaf563a66dbc6f4e37c1cc7b37187e9a191348f03f17.png)
 
 一共有 100 行，其中头部一行，虚假用户信息 99 行。
 
@@ -174,7 +174,7 @@ for row in range(rows):
 
 效果图【只截图头部】：
 
-![image-20220712005318357](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e6/e66224b921f03c699195e77a6b1e3967182f29a8dde026e894ea3c73d7d27caa.png)
+![image-20220712005318357](https://blog.images.bornforthis.cn/docs-images/sha256/e6/e66224b921f03c699195e77a6b1e3967182f29a8dde026e894ea3c73d7d27caa.png)
 
 读数据，指定某行某列，定位到具体方格，取出里面的值即可，代码是 `sheet.cell(row, col).value` 。
 
@@ -182,7 +182,7 @@ for row in range(rows):
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -198,7 +198,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

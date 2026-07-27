@@ -23,7 +23,7 @@ toc: true
 
 
 
-![让AI花朵颜色要多，变成中毒一样](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9c/9c62cc44bdb8273594e9ffba3633a992f05c845b2b82135620b4d9d2e0b2a306.png)
+![让AI花朵颜色要多，变成中毒一样](https://blog.images.bornforthis.cn/docs-images/sha256/9c/9c62cc44bdb8273594e9ffba3633a992f05c845b2b82135620b4d9d2e0b2a306.png)
 
 内置背景太丑！改进点：
 
@@ -40,7 +40,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -56,7 +56,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

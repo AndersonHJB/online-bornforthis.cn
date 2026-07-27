@@ -261,13 +261,13 @@ L.append(7)
 
 那我们先来简单的、系统的了解一下链表的定义。与数组相似，**链表**也是一种线性数据结构。这里有一个例子：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f1/f1382f50c2d45b4d8fb5f8746929c8554fa497c089dd11935572acccb81a92ff.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f1/f1382f50c2d45b4d8fb5f8746929c8554fa497c089dd11935572acccb81a92ff.png)
 
 正如你所看到的，**链表中的每个元素实际上是一个单独的对象，而所有对象都通过每个元素中的引用字段链接在一起。**
 
 链表有两种类型：**单链表**和**双链表**。上面给出的例子是一个单链表，这里有一个双链表的例子：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/98/981ebf74f1d3944d9d178aa4d37eed1f4233b146884e6ab4870a9f5ae8eb8044.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/98/981ebf74f1d3944d9d178aa4d37eed1f4233b146884e6ab4870a9f5ae8eb8044.png)
 
 不过，我这里主要讲解当链表结构。链表是一种线性数据结构，它通过引用字段将所有分离的元素链接在一起。
 
@@ -286,9 +286,9 @@ class IntList(object):
         self.rest = None
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a5/a50ac9189a241493bcb1dbc0de7ef13eede8b1fe65f9b70025f63af650df4829.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a5/a50ac9189a241493bcb1dbc0de7ef13eede8b1fe65f9b70025f63af650df4829.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/801a6980b84cdbb528fab70e8b526cec57ae8ec5c611b639455e87b8c8bc3323.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/80/801a6980b84cdbb528fab70e8b526cec57ae8ec5c611b639455e87b8c8bc3323.png)
 
 ```python
 l1 = IntList()
@@ -301,7 +301,7 @@ l3 = IntList()
 l3.first = 15
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9f/9f9f19c49c080e0413841dc484c16bfba74d3bd878c265edf70f24b692fcef42.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9f/9f9f19c49c080e0413841dc484c16bfba74d3bd878c265edf70f24b692fcef42.png)
 
 
 
@@ -315,11 +315,11 @@ l2.rest = l3
 # 所以：l1.rest = l2 才是连接车厢
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b5/b5af922a9c5bb8852dee6d9ee5d3bae29870a70727d3995b7c395047cb485914.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b5/b5af922a9c5bb8852dee6d9ee5d3bae29870a70727d3995b7c395047cb485914.png)
 
 但是，要是像下面代码这样写是不行的。**<span style="color:orange">这就好像，我们的火车一节连着一节，连的是一整个车厢不是就一部分。其中，lx.first 是一个值。</span>**
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/59/59810e3a72a918c121fa716a0e966f322f0b182f143ef65005f949c57113b44b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/59/59810e3a72a918c121fa716a0e966f322f0b182f143ef65005f949c57113b44b.png)
 
 > 可以使用：[http://pythontutor.com/](http://pythontutor.com/) 来讲解
 
@@ -375,7 +375,7 @@ l.rest.rest.first = 15
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4a/4a5917b13f76b138fe3eaabd6f8ad640b21f4524e6bc2bfa7e0da20bf4033589.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/4a/4a5917b13f76b138fe3eaabd6f8ad640b21f4524e6bc2bfa7e0da20bf4033589.png)
 
 ### 3.3 问题
 
@@ -406,7 +406,7 @@ l.rest.rest.rest.rest = IntList()
 l.rest.rest.rest.rest.first = 25
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b7/b7f65fb2fc7a768b0b073ab11e4a8d5f6dd9b60aad6f9a865dfb6a2eb6ffd295.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b7/b7f65fb2fc7a768b0b073ab11e4a8d5f6dd9b60aad6f9a865dfb6a2eb6ffd295.png)
 
 所以，我们虽然实现了链表的结构，但是不完美。我们可以再进一步的去改进一下。
 
@@ -426,7 +426,7 @@ l2 = IntList(10, l1)
 l3 = IntList(15, l2)
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8f/8f21da02f14de5850360fb6bed95dc7fcb4cb1dcb1fd93f0f812c565b381ad91.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8f/8f21da02f14de5850360fb6bed95dc7fcb4cb1dcb1fd93f0f812c565b381ad91.png)
 
 当然，我们也可以就用一个 l：
 
@@ -442,7 +442,7 @@ l = IntList(10, l)
 l = IntList(15, l)
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f4/f4c7bfa00e412a936d05c3953dc90dbe34a9439ee9049a9ec836888667ae0390.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f4/f4c7bfa00e412a936d05c3953dc90dbe34a9439ee9049a9ec836888667ae0390.png)
 
 
 
@@ -466,19 +466,19 @@ def size(self):
 
 @tab 1. 第一次： self.rest()
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2e/2e0b579b417277ac616e83be0234e305298fe57cecabbad7f5ed179fe75b7db0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2e/2e0b579b417277ac616e83be0234e305298fe57cecabbad7f5ed179fe75b7db0.png)
 
 @tab 2. 第二次：self.rest.size() —> self.rest.rest is None
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/52/520dba5e6007d86ecf25db4b71a6d68c848bf00f7536990ca027168c9dad9f69.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/52/520dba5e6007d86ecf25db4b71a6d68c848bf00f7536990ca027168c9dad9f69.png)
 
 @tab 3. self.rest.rest.size() —> self.rest.rest.rest is None
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/14/146483c784e9da55a1ff175aa9fd2dc241f83d787717fa81a8caeb1f24635c67.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/14/146483c784e9da55a1ff175aa9fd2dc241f83d787717fa81a8caeb1f24635c67.png)
 
 @tab 接下来，上 GIF
 
-![动画.gif](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/98/986754e1c89436a44d973671ce353ebfe45edca0f977714bbee60fcc3610241d.gif)
+![动画.gif](https://blog.images.bornforthis.cn/docs-images/sha256/98/986754e1c89436a44d973671ce353ebfe45edca0f977714bbee60fcc3610241d.gif)
 
 :::
 
@@ -544,7 +544,7 @@ def get_index(self, index):
 
 ### 3.8 Question
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bb/bb2dc5801f2b9684f28fcee1e68c0ab8e26805162b5564d793c019965a723eb3.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/bb/bb2dc5801f2b9684f28fcee1e68c0ab8e26805162b5564d793c019965a723eb3.jpeg)
 
 **<span style="color:orange">现在的链表更像是一个“没穿衣服的”数据结构。</span>**
 
@@ -552,7 +552,7 @@ def get_index(self, index):
 
 有些地方也是看起来很奇怪。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/04/04afa44d0a2991dc61971409003a5465e8fddff6a87a70ca079145b1626ffe08.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/04/04afa44d0a2991dc61971409003a5465e8fddff6a87a70ca079145b1626ffe08.png)
 
 ### 3.9 增加 IntNode() & SLList() 类
 
@@ -585,7 +585,7 @@ l = SLList(10)
 l = SLList(15)
 ```
 
-![动画.gif](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/58/58bebe43e1edec2814c70e718d4b5bf577ee050f32ed0739c3c9fdaa6421106f.gif)
+![动画.gif](https://blog.images.bornforthis.cn/docs-images/sha256/58/58bebe43e1edec2814c70e718d4b5bf577ee050f32ed0739c3c9fdaa6421106f.gif)
 
 ### 3.10 添加 add_first()
 
@@ -604,7 +604,7 @@ l.add_first(10)
 l.add_first(15)
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5ffd850535337e3604187ceaad7d25dc7b6f71149d6a80a7ec42dd7a2b98541c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/5f/5ffd850535337e3604187ceaad7d25dc7b6f71149d6a80a7ec42dd7a2b98541c.png)
 
 ### 3.11 添加 get_first() 获取第一个元素
 
@@ -617,7 +617,7 @@ def get_first(self):
 
 ### 3.12 比较一下
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f3/f30af38e5c329f5c2ca24ae1b4887ec5385b9d6484e4066606fd01e5dbdbb316.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f3/f30af38e5c329f5c2ca24ae1b4887ec5385b9d6484e4066606fd01e5dbdbb316.png)
 
 ::: code-tabs
 
@@ -789,9 +789,9 @@ print(l.get_length())
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ae/ae97fbd3ea2b3bcf2826ef38edd728dcb3a53a5c4c70e8fb95228f990cd16252.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ae/ae97fbd3ea2b3bcf2826ef38edd728dcb3a53a5c4c70e8fb95228f990cd16252.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e5/e5016015f47c747a9255ee38d7af4d119c73fd202cd45f775415e3c02edafc6c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e5/e5016015f47c747a9255ee38d7af4d119c73fd202cd45f775415e3c02edafc6c.png)
 
 ## 4. 然而还是有点问题
 
@@ -861,7 +861,7 @@ def add_last(self, x):
 l.add_last(20)
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/8003d9de9200372634443cff9f4f682e9826a512fac4552605506f46549bdeb4.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/80/8003d9de9200372634443cff9f4f682e9826a512fac4552605506f46549bdeb4.png)
 
 ### 4.4 改进-size()
 
@@ -887,11 +887,11 @@ def size(self):
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/88/88f1a057c43f1ff5045f6b90a4bfdc8abc01a2e29670438c11b7cb21be8f546e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/88/88f1a057c43f1ff5045f6b90a4bfdc8abc01a2e29670438c11b7cb21be8f546e.png)
 
 ::: details
 
-![image-20231205195327956](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/53/5366cfa3bfcc37bf5a9bdb17a1d1b383f5d2b206239e987e21aa8a45bfd178f7.png)
+![image-20231205195327956](https://blog.images.bornforthis.cn/docs-images/sha256/53/5366cfa3bfcc37bf5a9bdb17a1d1b383f5d2b206239e987e21aa8a45bfd178f7.png)
 
 :::
 
@@ -1208,7 +1208,7 @@ False
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1224,6 +1224,6 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [WS](./week1-solution.md)

@@ -7,7 +7,7 @@
 [在线代码编辑器，点击这里！！！](https://bornforthis.cn/html_online/)
 
 
-![EditOnline](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/31/313d1c8ab90e391e2f60d564e0caa652959d464afb95a2327357ab32035814e3.gif)
+![EditOnline](https://blog.images.bornforthis.cn/docs-images/sha256/31/313d1c8ab90e391e2f60d564e0caa652959d464afb95a2327357ab32035814e3.gif)
 
 ## 利器
 - [codeMirror](https://codemirror.net/)

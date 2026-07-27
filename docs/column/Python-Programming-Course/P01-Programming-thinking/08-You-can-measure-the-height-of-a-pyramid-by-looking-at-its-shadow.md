@@ -27,7 +27,7 @@ toc: true
 
 ~~为了帮助你更好地理解抽象思维，我们不妨从一位古人说起——**毕达哥拉斯**。~~
 
-![毕达哥拉斯](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/174377f4b56e27732a067d77575a99f67f2441cbea46e9abee6f484a6fc54b8b.png)
+![毕达哥拉斯](https://blog.images.bornforthis.cn/docs-images/sha256/17/174377f4b56e27732a067d77575a99f67f2441cbea46e9abee6f484a6fc54b8b.png)
 
 为了更好地理解什么是抽象思维，我们先来了解一位古希腊的数学家和哲学家——**毕达哥拉斯**。
 
@@ -37,7 +37,7 @@ toc: true
 
 例如，在2000多年前，毕达哥拉斯就提出了一个令人震惊的观点——**地球是一个巨大的球形**。虽然今天这个观点已成为常识，但在当时却是非常创新的。
 
-![巨大的乌龟](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/82/8264843b8b8dca0805a38bbd5939126c5aa687cd729173add0bdace5ab53472e.png)
+![巨大的乌龟](https://blog.images.bornforthis.cn/docs-images/sha256/82/8264843b8b8dca0805a38bbd5939126c5aa687cd729173add0bdace5ab53472e.png)
 
 因为那时人们的看法五花八门，有人认为地球是平的，也有人认为地面是漂浮在水上的，还有人认为地球是一个**巨大的乌龟**背上。
 
@@ -59,7 +59,7 @@ toc: true
 
 ## 3. “万物皆数”：当抽象遇上数字
 
-![万物皆数](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c6/c6da8c8e5e8ca709c33b33c421b0527b2c4cdc7c04646826d2374fd7a65a14cd.png)
+![万物皆数](https://blog.images.bornforthis.cn/docs-images/sha256/c6/c6da8c8e5e8ca709c33b33c421b0527b2c4cdc7c04646826d2374fd7a65a14cd.png)
 
 毕达哥拉斯后来创立了一个学派，这个学派有个特别大胆的信念，叫做“**万物皆数**”——意思是，世界上的一切事物都可以被数字表达。
 
@@ -69,7 +69,7 @@ toc: true
 
 这种思维方式的强大之处在于：**一旦我们把现实世界中的东西抽象为数字和规则，就可以利用数学工具对它们进行推理和处理。**
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/20/20055e7a06cfab4d1118018b1bdd4874d6147e2f7c4ff723747b8d8676fb13da.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/20/20055e7a06cfab4d1118018b1bdd4874d6147e2f7c4ff723747b8d8676fb13da.png)
 
 举个例子，如果有5只猫，每只猫吃了3条鱼，那它们一共吃了多少条鱼？我们脑海中自然会浮现出**5乘以3等于15**，而不是逐一想象5只猫吃鱼的样子并一条一条地数，这种处理方式大大简化了问题。我们把“猫”和“鱼”变成了“数字5”和“数字3”——这就是抽象在起作用。
 
@@ -81,13 +81,13 @@ toc: true
 
 ## 4. 抽象思维能解决现实难题吗？
 
-![泰勒斯画像修复](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bf/bf0ec12b4a73b08cadb0e6eabb153a617c8f06a41dfe499e1325a378d3043146.png)
+![泰勒斯画像修复](https://blog.images.bornforthis.cn/docs-images/sha256/bf/bf0ec12b4a73b08cadb0e6eabb153a617c8f06a41dfe499e1325a378d3043146.png)
 
 抽象不仅在脑海里有用，还可以指导我们在现实中解决难题。
 
 古希腊还有一位非常著名的数学家，名叫**泰勒斯**。还是毕达哥拉斯的老师，就用抽象思维解决过一个实际问题——**如何测量埃及金字塔的高度？**
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e8/e85e702e924d74a37b385cdd51e31313464e984dc1869f425bc6d8426308c75e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e8/e85e702e924d74a37b385cdd51e31313464e984dc1869f425bc6d8426308c75e.png)
 
 古埃及人虽然能建造金字塔，但由于金字塔的边缘是斜的，他们无法直接用尺子测量其高度。
 
@@ -105,7 +105,7 @@ toc: true
 
 例如，他们的一名学生发现了一个奇怪的现象：拿尺子在纸上画一个边长10厘米的正方形，然后把它的对角线连起来，然后量一量**对角线**的长度。它肯定比14厘米长一点，又不到15厘米。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f66b923d48251239638fae6a1d09c034f1bcae5aa16626b8be304fbb22db3d5f.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f6/f66b923d48251239638fae6a1d09c034f1bcae5aa16626b8be304fbb22db3d5f.jpg)
 
 那是不是尺子的精度不够，量不出准确长度呢？
 

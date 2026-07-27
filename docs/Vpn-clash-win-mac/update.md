@@ -35,16 +35,16 @@ toc: true
 
 打开小火箭主界面，选择：设置——>订阅——>将：打开时更新 、 自动后台更新开启。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/37/37efa65a186262ac7f5785cdfe0d633b94e804c478b74ba7cee22110ca8b9999.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/37/37efa65a186262ac7f5785cdfe0d633b94e804c478b74ba7cee22110ca8b9999.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e7/e73273ed5dc6d25da95f6ff012170152e96054a2d70fdad1c7f4fe5c289ae8df.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e7/e73273ed5dc6d25da95f6ff012170152e96054a2d70fdad1c7f4fe5c289ae8df.png)
 
 
 
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -60,4 +60,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

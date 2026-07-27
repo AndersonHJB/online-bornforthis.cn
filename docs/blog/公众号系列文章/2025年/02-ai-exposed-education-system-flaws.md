@@ -17,7 +17,7 @@ backToTop: true
 toc: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f0/f06f1432c71b946d5cfd1ac24ff499d37c2a8fade8ef722601f16c009399e6fa.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f0/f06f1432c71b946d5cfd1ac24ff499d37c2a8fade8ef722601f16c009399e6fa.jpeg)
 
 **人工智能工具向我们展示了教育系统的真正缺陷。**
 
@@ -43,7 +43,7 @@ toc: true
 
 作业和考试大部分只是测试你能回忆多少信息。（也就是在考你能记住多少东西）
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/61/6199188ebf4a4e30d2147d19fad7fb1733c361b48f5e57403cb44747b52fe322.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/61/6199188ebf4a4e30d2147d19fad7fb1733c361b48f5e57403cb44747b52fe322.jpeg)
 
 **它们只是在测试你的记忆提取能力，而不是你的思维过程**。换句话说：检查你的记忆力，以及你对于记忆力中数据的检索能力，并不是真正考察你的思考过程！
 
@@ -95,7 +95,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -111,4 +111,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

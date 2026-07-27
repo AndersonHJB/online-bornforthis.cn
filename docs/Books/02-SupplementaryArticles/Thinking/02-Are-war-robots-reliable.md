@@ -45,7 +45,7 @@ watermark:
 
 ## 2. 这不是宠物狗，是“战争载具”
 
-![BigDog](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b61f3e1ac1a27378b9520a4c4f4424ca17a420005c6724627fa0a28b45724b4d.png)
+![BigDog](https://blog.images.bornforthis.cn/docs-images/sha256/b6/b61f3e1ac1a27378b9520a4c4f4424ca17a420005c6724627fa0a28b45724b4d.png)
 
 在 2010年美国在阿富汗部署的一种新型机器人，它的名字叫“BigDog”（中文可以叫“大狗”机器人）——由**波士顿动力**公司研发。
 
@@ -53,11 +53,11 @@ watermark:
 
 为什么美军要带着“大狗”上战场？原因很简单：**装备运输**难题。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3f/3f0a33f92847bbf938737981188ec24ae1102323ceaa5bdac6ea35ac422fc995.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3f/3f0a33f92847bbf938737981188ec24ae1102323ceaa5bdac6ea35ac422fc995.png)
 
 一般情况下，军队是靠汽车来运送装备。但是阿富汗地形崎岖，车子开不了，最早他们是用**骡子**运装备。于是就有了这样一幕：高科技士兵一手拿步枪，一手牵着骡子……酷不起来。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/53/53b6b83e9d81f62426ee25ff1c5d8c73dfb5858b74ad794748397fc11f69b045.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/53/53b6b83e9d81f62426ee25ff1c5d8c73dfb5858b74ad794748397fc11f69b045.png)
 
 酷不酷倒不是最主要的，主要是：万一有敌人发起突袭，枪声一响，骡子可能被吓得四处乱跑，士兵们打完仗还要漫山遍野去找骡子，想想这个画面也是很搞笑。
 
@@ -67,7 +67,7 @@ watermark:
 
 最后美军还是又用回了骡子，哈哈哈哈哈……好笑不。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/dfe01d6c6f58221a29b43341e855287c976f35db215b752eee854532369bd991.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/df/dfe01d6c6f58221a29b43341e855287c976f35db215b752eee854532369bd991.png)
 
 不过大狗也没完全退役——它被一些国家改造成了“带枪的战士”。
 
@@ -77,7 +77,7 @@ watermark:
 
 ## 3. 谁来做决定，AI 还是人类？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/26/2641a17ae0419067eda440c4147826171b2b8572a348ff00432f9f189b7ef289.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/26/2641a17ae0419067eda440c4147826171b2b8572a348ff00432f9f189b7ef289.png)
 
 你可能会想，既然大狗能扛枪，那是不是能装上“**识别人脸自动射击**”的系统？
 
@@ -87,7 +87,7 @@ watermark:
 
 在这个想法上，科学家却不这么看，因为这样太危险了！
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9e/9e0adaafb7e6941a621def6428875ceef5e6ccfb5d69c83c15793ad174668fdb.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9e/9e0adaafb7e6941a621def6428875ceef5e6ccfb5d69c83c15793ad174668fdb.png)
 
 2017年，有人做了一个警示视频：恐怖分子掌握了**AI技术**，给无人机上面装了人脸识别功能。无人机用 AI 识别目标，然后自动引爆炸弹——一旦识别出“人脸”，就发动攻击。哪怕你戴口罩遮半张脸，也逃不过它的识别系统。
 
@@ -95,15 +95,15 @@ watermark:
 
 如果 AI“认错人”，会不会误伤平民？如果程序被**黑客控制**，它是不是就可能“倒戈”攻击好人？这不是科幻，这是现实可能发生的事。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2b/2b29e4e8b7d01f46a009930db036ba0053b4f59a67f68fa0c528df14da9e025a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2b/2b29e4e8b7d01f46a009930db036ba0053b4f59a67f68fa0c528df14da9e025a.png)
 
 于是，2017年，包括**斯蒂芬·霍金**和**埃隆·马斯克**在内的全球顶级科学家，联名发出呼吁：反对 AI武器的开发。
 
-![联合声明图片·AI生成图片，内容切勿全信](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/38/3848b2ee6e28f640646012423de90983d065a31469fdb405d2613f51380227ce.png)
+![联合声明图片·AI生成图片，内容切勿全信](https://blog.images.bornforthis.cn/docs-images/sha256/38/3848b2ee6e28f640646012423de90983d065a31469fdb405d2613f51380227ce.png)
 
 ## 4. 是福是祸？关键看“怎么用”
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d6/d60b1546da3341f1fa7f4157a958967b5404b7920e3a892ae4c6cc75538858ee.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d6/d60b1546da3341f1fa7f4157a958967b5404b7920e3a892ae4c6cc75538858ee.png)
 
 人工智能到底是救世主还是潘多拉魔盒？
 

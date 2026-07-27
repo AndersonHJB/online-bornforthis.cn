@@ -159,7 +159,7 @@ In the file named [wifi.xlsx](../data/wifi.xlsx) within the `data` directory, yo
 
 Perform the following calculations using **singular formulas** within the spreadsheet in the clearly labeled cells given to you **at the top-right of the spreadsheet worksheet**, to the right of all the columns with the raw data in them.
 
-![spreadsheet_organization](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/04/04860db7a6f403dd0123e5b16040b804c06b91d1a39b153882266d28b97b4aa6.png)
+![spreadsheet_organization](https://blog.images.bornforthis.cn/docs-images/sha256/04/04860db7a6f403dd0123e5b16040b804c06b91d1a39b153882266d28b97b4aa6.png)
 
 Each formula **must also be entered into the [README.md]() file** in the designated space.
 
@@ -212,7 +212,7 @@ Answer the following questions, and enter your responses into the `README.md` fi
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -228,4 +228,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

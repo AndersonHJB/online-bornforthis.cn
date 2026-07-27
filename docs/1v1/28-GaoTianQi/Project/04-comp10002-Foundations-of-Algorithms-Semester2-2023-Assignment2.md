@@ -32,7 +32,7 @@ In this project, you will demonstrate your understanding of dynamic memory and l
 
 ## Background
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3d/3d012620f3edd413ed588471a6426c2f3c5ab93b218ad8739c90eb278df94c8d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3d/3d012620f3edd413ed588471a6426c2f3c5ab93b218ad8739c90eb278df94c8d.png)
 
 The recent success of generative tools has spawned many new applica-tions and debates in society. A generative tool is trained on a massive dataset, for example, pictures or texts. Then, given a new input, re-ferred to as a *prompt*, patterns in the prompt get matched to the frequent patterns in the model learned by the tool, and the contextual extensions of the recognized pattern get generated.
 
@@ -59,7 +59,7 @@ The input will always follow the proposed format. You can make your program robu
 
 ## 背景
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3d/3d012620f3edd413ed588471a6426c2f3c5ab93b218ad8739c90eb278df94c8d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3d/3d012620f3edd413ed588471a6426c2f3c5ab93b218ad8739c90eb278df94c8d.png)
 
 生成工具的最近成功催生了社会上许多新的应用和争论。生成工具是在一个巨大的数据集上进行训练的，例如图片或文本。然后，给定一个新的输入，被称为*提示*，该提示中的模式将与工具学到的模型中的频繁模式相匹配，然后生成被识别模式的上下文扩展。
 
@@ -111,7 +111,7 @@ Line 1 of the output prints the Stage 0 header. Lines 2 and 3 print the total nu
 
 Figure 2e shows the prefix automaton constructed from the eight input statements in test0.txt, whereas Figures 2a to 2d show intermediate automata constructed from subsets of the input statements. Nodes of an automaton are *states*, each with a unique identifier, while arcs encode characters. Note that state identifiers are used for presentation only and do not impact the output your tool should generate. In an automaton, the node without incoming arcs is the initial state, and a node without outgoing arcs is a leaf state. The characters encountered on the arcs traversed on a walk from the initial state to a leaf state (without visiting the same state twice) define a *statement*. The statements defined by an automaton are all and only statements the automaton was constructed from. Note that the automaton in Figure 2e has 29 states reported on line 4 of the output listing.
 
-![Figure 2: Prefix automata constructed from input statements in the test0.txt file.](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bb/bb479de13bb8ff02efe6ed0b97ea08fc36112b2307106a04e0de788286a7b184.png)
+![Figure 2: Prefix automata constructed from input statements in the test0.txt file.](https://blog.images.bornforthis.cn/docs-images/sha256/bb/bb479de13bb8ff02efe6ed0b97ea08fc36112b2307106a04e0de788286a7b184.png)
 
 
 
@@ -153,7 +153,7 @@ You should not make assumptions about the maximum number of statements and the n
 
 图2e显示了从test0.txt中的八个输入声明构建的前缀自动机，而图2a至2d显示了从输入声明的子集构建的中间自动机。自动机的节点是*状态*，每个都有一个唯一的标识符，而弧线则编码字符。请注意，状态标识符仅用于表示，不影响你的工具应生成的输出。在自动机中，没有输入弧的节点是初始状态，而没有输出弧的节点是叶状态。从初始状态到叶状态的遍历中遇到的弧上的字符（没有访问同一个状态两次）定义了一个*声明*。自动机定义的声明都是且仅是用来构建自动机的声明。注意，图2e中的自动机有29个状态，这些状态在输出列表的第4行上报告。
 
-![图2：从test0.txt文件中的输入声明构建的前缀自动机。](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bb/bb479de13bb8ff02efe6ed0b97ea08fc36112b2307106a04e0de788286a7b184.png)
+![图2：从test0.txt文件中的输入声明构建的前缀自动机。](https://blog.images.bornforthis.cn/docs-images/sha256/bb/bb479de13bb8ff02efe6ed0b97ea08fc36112b2307106a04e0de788286a7b184.png)
 
 例如，图2a中的自动机是从test0.txt中的第一个输入声明构建的。在这个自动机中，初始状态的标识符为0，唯一的叶状态的标识符为8。从状态0走到状态8时遇到的弧线定义了输入的第1行的声明。状态用遍历的频率注释，即当执行定义用于构建自动机的声明的所有遍历时，到达和离开它们。例如，图2a中的自动机中的所有状态（除了叶状态）都用频率一 (f=1) 注释，而叶状态用频率零 (f=0) 注释。图2b、2c和2d分别显示了从输入的前两行、四行和六行中的声明构建的自动机。对于任意两个声明，结果自动机重用与它们的最长公共前缀相对应的状态和弧（参见图2b中的状态0和1以及弧“H”）。
 
@@ -583,7 +583,7 @@ If the automaton does not support a replay of the entire prompt, the output shou
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -599,4 +599,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

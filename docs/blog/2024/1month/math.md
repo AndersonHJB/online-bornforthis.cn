@@ -20,7 +20,7 @@ toc: true
 
 ## Question 1
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ca/cafd6645b229fcb5dada0e6b5a30832f7c6aa2d387a97e97718d982fded8769f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ca/cafd6645b229fcb5dada0e6b5a30832f7c6aa2d387a97e97718d982fded8769f.png)
 
 设关于 x 的不等式 $ax^2+8(a+1)x+7a+16 \geq 0(a \in Z)$ 只有有限个整数解，且 0 是其中一个解，则全部不等式的整数解的和为 `____`
 
@@ -50,7 +50,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -66,4 +66,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

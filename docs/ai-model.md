@@ -33,7 +33,7 @@ head:
 
 GPT 这个通用智能模型的出现，让新的高效工作流也逐渐浮出水面。不管市场怎么推进，**个人最关注的永远是怎么利用 GPT 提效，实现代上班。**
 
-![新思路、新逻辑](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4a/4af4efda5537dfa0d6fd95a32b66c31c4b1e855e7e1bbc6e9a48edda79babe11.jpg)
+![新思路、新逻辑](https://blog.images.bornforthis.cn/docs-images/sha256/4a/4af4efda5537dfa0d6fd95a32b66c31c4b1e855e7e1bbc6e9a48edda79babe11.jpg)
 
 想要获取 GPT 助力减负的秘诀，就在这么几个问题里。
 
@@ -166,19 +166,19 @@ OpenAI 的创始人 Sam Altman 说，“**通用人工智能（AGI）已经离�
 
 ### 抓住新的技术红利
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/7965a40cd387a4e176d0ee5a00148c80f2b66bd45a45f360f0560644f3a98286.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/79/7965a40cd387a4e176d0ee5a00148c80f2b66bd45a45f360f0560644f3a98286.png)
 
 ### 这个私教班有什么特色?
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/82/825d1e018d4a5971b99ea3a24454eda162abfba763c1957062c12b81d5fcf746.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/82/825d1e018d4a5971b99ea3a24454eda162abfba763c1957062c12b81d5fcf746.png)
 
 ### 学完即可开发出一个生产环境
 
 #### 可用的智能问答机器人
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a0/a0c6322ab4929a6281ffb3847f93865b99ad7346514c9a3fb29b445dd535bf53.png" style="zoom: 50%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/a0/a0c6322ab4929a6281ffb3847f93865b99ad7346514c9a3fb29b445dd535bf53.png" style="zoom: 50%;" />
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/70/7009b8d5ec562221e543ac82efcc7f004fcf143edd9bacd5eddbd89604e09fa3.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/70/7009b8d5ec562221e543ac82efcc7f004fcf143edd9bacd5eddbd89604e09fa3.png)
 
 ### 课程大纲
 
@@ -312,7 +312,7 @@ V0.2 版本中，小悦已经初步实现了企业内部的知识库对接。虽
 
 
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/eb/eb0eed48cd3429d060df8e3fd2807b1cd5696daff33982eeedd0cb4448d76a7b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/eb/eb0eed48cd3429d060df8e3fd2807b1cd5696daff33982eeedd0cb4448d76a7b.png)
 
 
 
@@ -338,5 +338,5 @@ V0.2 版本中，小悦已经初步实现了企业内部的知识库对接。虽
 
 微信：
 
-<div align=center><img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/51f1983c47ad09a50469d03ff84853eddd43b52c02bc8320e13de6cdb90ed9a7.jpg" alt="微信号：Jiabcdefh" style="zoom:25%;" /></div>
+<div align=center><img src="https://blog.images.bornforthis.cn/docs-images/sha256/51/51f1983c47ad09a50469d03ff84853eddd43b52c02bc8320e13de6cdb90ed9a7.jpg" alt="微信号：Jiabcdefh" style="zoom:25%;" /></div>
 

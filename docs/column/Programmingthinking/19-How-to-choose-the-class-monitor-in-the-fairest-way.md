@@ -29,7 +29,7 @@ B 同学呢，成绩一般般。但是，**人缘**特别好，和谁都能玩�
 
 C 同学呢，**品德**特别好，特别正直，还特别愿意帮助别人。但人缘不如 B 同学。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0c/0cf1429572d72ecb364faec815d1436b99a5db406ac4f7e3777fae87990e0aa6.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/0c/0cf1429572d72ecb364faec815d1436b99a5db406ac4f7e3777fae87990e0aa6.jpg)
 
 那假如让你来选，会选谁做班长呢？你看三个人啊，每个人都有自己的专长，成绩、人缘、品德，各占了一项。虽然，我们不能说**成绩**代表一切，但是作为班长，成绩好确实可以给大家起到表率作用，这挺重要的吧？但**人缘**好也很重要，毕竟班长是要和全班同学打交道的，选一个大家都喜欢的人也是理所当然嘛。那**品德**呢？就更不用说了，你肯定不能想象一个班长品德不好对吧？ 
 
@@ -45,13 +45,13 @@ C 同学呢，**品德**特别好，特别正直，还特别愿意帮助别人�
 
 现在，有些科学家还在研究一种软件，只要扫一下一个人面部的表情，就能判断出来这个人的**情绪**是惊讶、生气、高兴，还是害怕。诶，这也是在做决策。那咱们就一起通过这样的**情绪判断软件**，看看科学家是怎么让计算机做决策的。学会这个方法，你自己也能轻松解决选班长的问题了。 
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b3/b34fa28beece90c1f1f4f0a0ab21fa31b3492cba8b39fca6c3ca56ef49f724f4.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b3/b34fa28beece90c1f1f4f0a0ab21fa31b3492cba8b39fca6c3ca56ef49f724f4.jpg)
 
 咱们之前的课程里说过，计算机要先把图片上的一个个**像素点都转换成数字**。经过学习之后，它就能够分辨出来哪里是眼睛、哪里是嘴巴。但要想读懂表情，光能分辨眼睛、鼻子、嘴肯定是不够的，计算机还要找到我们脸上反映情绪的关键位置。
 
 比方说吧，你开心的时候，**嘴角**肯定会**上扬**对吧？眉毛中间也会往上翘。像嘴角、眉毛这些地方，能特别明显地反映一个人的情绪，就都属于关键位置。当然了，光有两个关键位置还不够，为了让计算机能够更精确地判断我们的情绪，科学家在咱们脸上找了几十个关键位置。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9a/9a398e2859cebd0b81e9586af6a213802ddfa0e3ceac5440f41c62b0efdcb46f.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9a/9a398e2859cebd0b81e9586af6a213802ddfa0e3ceac5440f41c62b0efdcb46f.jpg)
 
 那现在，有了可以观察的关键位置，具体要怎么判断呢？
 
@@ -63,7 +63,7 @@ C 同学呢，**品德**特别好，特别正直，还特别愿意帮助别人�
 
 每个专家模块都会给出一个判断，比如眼睛专家会认为，这个人眉开眼笑，投9分给高兴，投7分给惊讶。嘴巴专家不同意，觉得这个人大张嘴巴应该是惊讶，所以给惊讶8分，给高兴5分。鼻子专家呢，给高兴投了1分，愤怒投了5分。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/23/23f2e8434aff6ad8b6e229f4494b8ec0c28cffc17dea7eba04d98a2545cf9d8b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/23/23f2e8434aff6ad8b6e229f4494b8ec0c28cffc17dea7eba04d98a2545cf9d8b.jpg)
 
 这时候，如果你把分数加起来可能发现，高兴和惊讶都是15分。可必须要选一个，怎么选呢？这就要说到另一种有意思的方法了，叫做**给权重**。诶，权重是什么意思呢？
 
@@ -131,7 +131,7 @@ C 同学呢，**品德**特别好，特别正直，还特别愿意帮助别人�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -147,4 +147,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

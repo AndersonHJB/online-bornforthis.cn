@@ -43,7 +43,7 @@ footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https:/
 
 《程序设计基础 **Python**》试卷
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a2/a257c2f028306c361f92506284f2ca33e94968118783c1e69a04eb05134d4ae0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a2/a257c2f028306c361f92506284f2ca33e94968118783c1e69a04eb05134d4ae0.png)
 
 ## 一、选择题(每小题 2 分，共 20 分)
 
@@ -186,7 +186,7 @@ with open("demo.txt", "r") as f:
     print(content)
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b3/b33fadc2fb4d7bec6974acb67664606b44115538d50f2cc241a4ebb59eec29f7.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b3/b33fadc2fb4d7bec6974acb67664606b44115538d50f2cc241a4ebb59eec29f7.jpeg)
 
 
 
@@ -355,7 +355,7 @@ print(total)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -371,5 +371,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

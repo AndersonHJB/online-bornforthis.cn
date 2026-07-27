@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: home
 title: 案例上手 Python 数据可视化
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/56/56e8734fb2c0d7cb6957bb24016b53c46fd8a6e69ef5d8b23cb0e6ef0b320e60.jpg
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/56/56e8734fb2c0d7cb6957bb24016b53c46fd8a6e69ef5d8b23cb0e6ef0b320e60.jpg
 heroText: 案例上手 Python 数据可视化
 heroFullScreen: false
 tagline: 6 个可视化工具 + 20 个案例让数据分析更简单
@@ -75,7 +75,7 @@ footer: 立志降低教育成本，普及编程教育，提供优质资源教程
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -91,7 +91,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

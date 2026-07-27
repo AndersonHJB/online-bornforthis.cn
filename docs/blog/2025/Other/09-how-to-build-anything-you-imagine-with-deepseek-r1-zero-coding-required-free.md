@@ -18,7 +18,7 @@ backToTop: true
 toc: true
 ---
 
-![Image Source: https://ollama.com/library/deepseek-r1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c7/c7dedf9e37eda23e7c8d559abfd088fea7562530ae4970e4af92c0d458a1205a.png)
+![Image Source: https://ollama.com/library/deepseek-r1](https://blog.images.bornforthis.cn/docs-images/sha256/c7/c7dedf9e37eda23e7c8d559abfd088fea7562530ae4970e4af92c0d458a1205a.png)
 
 ## Introduction: Meet DeepSeek-R1 — Your New AI Powerhouse
 
@@ -66,7 +66,7 @@ Let’s break down how it stacks up against popular models like **GPT-4o**, **O1
 
 *DeepSeek-R1 outperforms O1-Pro in coding tasks and matches GPT-4o’s logic at 1/10th the cost.*
 
-![Image Source: https://ollama.com/library/deepseek-r1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4d/4d0dd84c50f84ac35e6f67a434e48c42bae237da90e9d9feb92edac024e666a7.png)
+![Image Source: https://ollama.com/library/deepseek-r1](https://blog.images.bornforthis.cn/docs-images/sha256/4d/4d0dd84c50f84ac35e6f67a434e48c42bae237da90e9d9feb92edac024e666a7.png)
 
 ## Why This Matters to YOU
 
@@ -347,7 +347,7 @@ pygame.quit()
 
 **Here’s the game:**
 
-![Image: Space Invaders game Genreated by DeepSeek-r1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ae/aeb5b4f1baec507e4dd7b74b637ec444358c302b08290907027b34f5ac6b9434.png)
+![Image: Space Invaders game Genreated by DeepSeek-r1](https://blog.images.bornforthis.cn/docs-images/sha256/ae/aeb5b4f1baec507e4dd7b74b637ec444358c302b08290907027b34f5ac6b9434.png)
 
 **What Happens?**
 
@@ -373,13 +373,13 @@ Want AI that works offline? **Ollama** lets you run DeepSeek-R1 directly on your
 1. Visit [Ollama.ai ](https://ollama.com/library/deepseek-r1)→ Download → Install.
 2. Open Terminal → Type: `ollama run deepseek-r1`.
 
-![Image: Downloading and Installating DeepSeek-R1 7B Model in local](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b4/b4e1c12c4b689ddfc97ec1b4b72e0eafa5b860debe285a6ba569fce5681d2ac3.png)
+![Image: Downloading and Installating DeepSeek-R1 7B Model in local](https://blog.images.bornforthis.cn/docs-images/sha256/b4/b4e1c12c4b689ddfc97ec1b4b72e0eafa5b860debe285a6ba569fce5681d2ac3.png)
 
 **Analogy**:It’s like having a mini-Jarvis in your laptop. No subscriptions, no ads — just pure AI power.
 
 **Real-World Example**:I used the local version to build a **simple** **calculator**. DeepSeek generated HTML/CSS code — all offline and free of cost.
 
-![Image: Query: How many r there in strawberry](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c7/c74634285a035f2bb28511307cfc8a53526b0a19822c9c3eff027d7904eff13f.png)
+![Image: Query: How many r there in strawberry](https://blog.images.bornforthis.cn/docs-images/sha256/c7/c74634285a035f2bb28511307cfc8a53526b0a19822c9c3eff027d7904eff13f.png)
 
 **Pro Tip**: Use the **7B model** (smaller, faster) unless you’ve got a NASA-grade computer 😳
 
@@ -494,7 +494,7 @@ If you enjoyed this guide:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -510,7 +510,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://iamshobhitagarwal.medium.com/how-to-build-anything-you-imagine-with-deepseek-r1-zero-coding-required-free-0d582513e7ab)
 

@@ -17,7 +17,7 @@ backToTop: true
 toc: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/edc80f9b2b32aef04a24221c83bf8ca94fcdc99a7c4d82cec1235aea42a1ccc6.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ed/edc80f9b2b32aef04a24221c83bf8ca94fcdc99a7c4d82cec1235aea42a1ccc6.png)
 
 你好，我是悦创。
 
@@ -29,7 +29,7 @@ DeepSeek 掀起了一阵本地部署的热潮，越来越多的人开始关注�
 
 本文就以 LM Studio + Lobe Chat 为例，完全在本地实现一套实用又美观的 DeepSeek 方案。
 
-![ 最终效果展示](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b611edc1915cf36afae1dd05d219afee3849b2cea7585d32e0e7a4e8c3cb7be7.png)
+![ 最终效果展示](https://blog.images.bornforthis.cn/docs-images/sha256/b6/b611edc1915cf36afae1dd05d219afee3849b2cea7585d32e0e7a4e8c3cb7be7.png)
 
 ## 1. 通过 LM Studio 部署和使用 R1 模型
 
@@ -43,15 +43,15 @@ DeepSeek 掀起了一阵本地部署的热潮，越来越多的人开始关注�
 
 LM Studio 会根据你的电脑配置自动推荐适合的模型。以我使用的 Mac mini M4 为例，它会推荐适合该硬件的 Llama 蒸馏版 8B 模型。所以你只需要点击右下角的 Download 即可（这里我已经下载了显示的是 Use in New Chat）。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/50/5014c5ac116673cd6ead22ff820f38fddf8e8a55e80b2f410628e301cf096d52.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/50/5014c5ac116673cd6ead22ff820f38fddf8e8a55e80b2f410628e301cf096d52.png)
 
 **启动模型**：下载完成后，点击 LM Studio 顶部的下拉框，选择刚刚下载好的模型，然后点击“加载模型”即可，LM Studio 会自动为你部署模型。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d0/d0307961fa7ad2162208058379784136ea121d2d437ab4c9d97acce3159c5955.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d0/d0307961fa7ad2162208058379784136ea121d2d437ab4c9d97acce3159c5955.png)
 
 完成后，就可以点击左侧的聊天图标，进入对话界面了。LM Studio 提供了一个对话界面，你可以直接与 DeepSeek 对话。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a1/a138b5da83d138750ad00da85eea251cae6f2f256a795e3db8c4fd7abbbc000a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a1/a138b5da83d138750ad00da85eea251cae6f2f256a795e3db8c4fd7abbbc000a.png)
 
 ## 2. 关于模型参数量和精度等级
 
@@ -65,7 +65,7 @@ LM Studio 会根据你的电脑配置自动推荐适合的模型。以我使用�
 
 所以，我们在网上看到的各种“部署什么规格的模型需要什么显卡配置的表格”版本非常多，且极有可能是 AI 生成。因为你的电脑可能跑不起 14B 的 Q8 但可以跑得动 70B 的 Q2，这都是有可能的。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7f/7f2fa97c9b25c8ee7afd7da387415fd744853ed56bfd380861d6ab7359860d97.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/7f/7f2fa97c9b25c8ee7afd7da387415fd744853ed56bfd380861d6ab7359860d97.png)
 
 LM Studio 在这方面给了充分的参考，告诉你应该下载哪个版本的模型。我的建议是根据它提供的建议进行选择。即使你能勉强跑的动“过大”的模型，也可能会出现输出过慢之类的问题。
 
@@ -75,7 +75,7 @@ LM Studio 在这方面给了充分的参考，告诉你应该下载哪个版本�
 
 **启用 API 服务**：在 LM Studio 中，点击左侧的“终端”图标，点击 Status 开关，就可以启用 API 服务。系统会自动为你生成一个 RESTful API 服务。通常开放在 [http://内网IP:1234](http://xn--ip-214cy05o:1234/) 上（显示在右侧）。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/67/67ff91af919ab40915ee0c7235fcc23e31ec88d953bfcb90f6cee6c5a90e6817.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/67/67ff91af919ab40915ee0c7235fcc23e31ec88d953bfcb90f6cee6c5a90e6817.png)
 
 ## 4. 案例：使用 Docker 部署 LobeChat 来接入本地模型
 
@@ -83,7 +83,7 @@ LM Studio 在这方面给了充分的参考，告诉你应该下载哪个版本�
 
 [LobeChat](https://lobechat.com/) 是一个开放源代码的 AI 对话平台，它支持与多种语言模型集成，提供更多的插件和功能。可以去这里了解更多：[🔗 Lobe Chat 中文介绍](https://github.com/lobehub/lobe-chat/blob/main/README.zh-CN.md)。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/47/47897189fe9f925c18646f620dc1b67eb07e4a2cf49766417020fbd6242d00a9.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/47/47897189fe9f925c18646f620dc1b67eb07e4a2cf49766417020fbd6242d00a9.png)
 
 本文这里主要介绍如何本地部署 LobeChat 来接入刚刚部署好的 DeepSeek。
 
@@ -97,7 +97,7 @@ docker run -d -p 3210:3210 lobehub/lobe-chat:latest
 
 完成后你就可以进入 [http://127.0.0.1:3210](http://127.0.0.1:3210/) 看到对话界面了。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c9/c989f1190110a253a53c5db7ea75cfde61cd89c1f79d3288c88d44a84649e38f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c9/c989f1190110a253a53c5db7ea75cfde61cd89c1f79d3288c88d44a84649e38f.png)
 
 接下来，你需要在设置中配置一个 OpenAI 语言模型，具体配置如下——
 
@@ -108,7 +108,7 @@ docker run -d -p 3210:3210 lobehub/lobe-chat:latest
 
 最后检查一下是否可以正确连接。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7b/7b62f8843245b68f5b0b272f713f581e7a52c6c12e880221b6ef06b8f53b383a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/7b/7b62f8843245b68f5b0b272f713f581e7a52c6c12e880221b6ef06b8f53b383a.png)
 
 LM Studio 采用了 OpenAI 兼容接口，所以只要是“允许自定义 API 代理地址”+“自定义模型名称”的服务，都可以借用 OpenAI 连接器来实现连接，无需找单独的 LM Studio 接口。
 
@@ -130,7 +130,7 @@ Lobe Chat 在 2025 年 1 月 15 日的 [PR 中正式添加了对 LM Studio 的�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -146,7 +146,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://utgd.net/article/21063)
 ::: details

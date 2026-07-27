@@ -73,7 +73,7 @@ backToTop: true
 
 学习书法不从笔画练习开始，直接临摹怀素的《自叙帖》，这是名副其实的“要去哪里，就从哪里开始”了。这种行为看似很不严肃，从严格意义上来讲，这不叫学习书法，这是“玩儿”。但是就从这个“玩儿”当中，我提出以下问题：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3a/3ab9387108467dfefdc35f4476b5f55b34d88fc2dfb8d0797e1e69d51ede7c1d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3a/3ab9387108467dfefdc35f4476b5f55b34d88fc2dfb8d0797e1e69d51ede7c1d.png)
 
 被誉为天下第一草书的怀素《自叙帖》（局部）
 
@@ -117,7 +117,7 @@ backToTop: true
 
 钢琴买回来以后，我打印了当时最爱的一份肖邦琴谱C小调夜曲作品第48号第1首（Nocturne No. 13 in C Minor, Op. 48, No. 1）。对，我“自不量力”了，就是那首极为著名的肖邦夜曲。这跟刚接触书法就临摹怀素的《自叙帖》实在是太相似了。我在钢琴上照着谱子摸第一行，摸了两个钟头。我甚至要去查低音谱号的记谱规则，以明确左手到底应该按在哪些琴键上。
 
-![C小调夜曲作品第48号第1首乐谱第一行](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/19/19443ddc91308b4d02d2b3d1a3015867a8a58ce125c216ba7890a196e7d7d85e.jpeg)
+![C小调夜曲作品第48号第1首乐谱第一行](https://blog.images.bornforthis.cn/docs-images/sha256/19/19443ddc91308b4d02d2b3d1a3015867a8a58ce125c216ba7890a196e7d7d85e.jpeg)
 
 我不知道你是否会弹钢琴。如果你不会弹钢琴，太好了，我们可以做一个试验。你能看懂上面这行乐谱吗，看不懂的话，再好不过了，现在是你“上手”阅读五线谱的最好时机！
 
@@ -151,13 +151,13 @@ backToTop: true
 
 接下来，我向你全盘展示我的“上手”套路：
 
-![我的第一幅油画作品：自画像](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/14/147e592d497a71def67a7cb81a8da7ba58f803f3383908d0899b0eadadcf7428.jpeg)
+![我的第一幅油画作品：自画像](https://blog.images.bornforthis.cn/docs-images/sha256/14/147e592d497a71def67a7cb81a8da7ba58f803f3383908d0899b0eadadcf7428.jpeg)
 
 - 跟买一台五十多万的钢琴回来从零开始学钢琴一样，我先研究了一下油画颜料和油画布顶级的品牌，锁定了老荷兰（Old Holland）。回来直接画了一幅自画像。
 - 跟学钢琴请名师类似，我结识了一位中央美术学院在读的油画系博士。我拿出第一幅油画作品给他看，他说：“哟，悦创你没画过，一出手就能画成这样很不错了。但是咱们说油画啊，是要用油，但是不能用酱油啊。你这生抽加老抽……”他带我去他的画室，我亲眼见他调色、用笔，看他的作品，问他局部细节的作画手法，油画媒介的调和方式。
 - 学钢琴的过程中，除了老师教我，我还会听大量的演奏名家录音，也会在YouTube上看大量的演奏视频。我清楚地知道，学画画，看画册用处不大。我跑到美国和日本多家美术馆和博物馆看画，同时在作画的过程中遇到难解的问题，我也会在YouTube上看名家的教学视频，大多数问题得以解决。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/fa3176f534ffca394018563872b62ebdb5fb57e3ad42d09fd23ac8cc8f464a2d.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fa/fa3176f534ffca394018563872b62ebdb5fb57e3ad42d09fd23ac8cc8f464a2d.jpeg)
 
 经过十个月的学习与练习，我最近完成的一幅油画。
 
@@ -167,7 +167,7 @@ backToTop: true
 
 原因是目标的不同。或者说我的目标更加明确，兴趣也更大。我的表妹学钢琴，就是学钢琴；我学钢琴，是因为我想用钢琴弹一首我真真切切喜欢的曲子。我的妻子学画画，就是学画画；我学画画，是因为当前住的房子大，墙面需要一些画来装点。希望你可以看到我“上手”油画一年多所形成的进步。
 
-![2019年3月新近完成的一幅油画，画中人物利奥·科特基（Leo Kottke）](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/41/4110403174fb4899419edcce3a58c884cc973d8d2e379064db981a2230252123.jpeg)
+![2019年3月新近完成的一幅油画，画中人物利奥·科特基（Leo Kottke）](https://blog.images.bornforthis.cn/docs-images/sha256/41/4110403174fb4899419edcce3a58c884cc973d8d2e379064db981a2230252123.jpeg)
 
 讲到这里，你可能对我有点儿熟悉了。其实我想要的不是你对我的熟悉，而是亲切。这种亲切，应该来自你看到我的做事方式而能够想到自己，发现你我的共性，才是我最感欣慰的。如果现在这种亲切感还不够强烈，我希望本书能带来一点儿推动作用。
 

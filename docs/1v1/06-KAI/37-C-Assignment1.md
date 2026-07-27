@@ -45,13 +45,13 @@ This assignment gives you practice working with pointers, trees, and dynamic all
 
 The program uses a tree to represent its knowledge about animals. Each leaf node contains the name of an animal, and each interior node contains a question. For example, the tree,
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77d9deef7bcc7225fcce9ab7966d025daced2f7d69d0291660c7cd75aec63bdf.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77d9deef7bcc7225fcce9ab7966d025daced2f7d69d0291660c7cd75aec63bdf.png)
 
 would cause the program to ask if the animal you are thinking of is a feline. If you respond “yes”, it will ask you if it is bigger than a person. If you respond “no”, it will guess that you are thinking of a cat.
 
 If you had responded “no” when asked if it is a feline, it will guess dog. If that is not correct, the program will augment the tree with the animal you were thinking of by asking you what your animal was and asking for a question to distinguish your animal from a dog. Suppose you indicate that your animal was a bear and the question to distinguish a bear from a dog is “Is it canine?”. The program will ask you what the answer for “bear” is and, when you say “no”, it will add a “bear” node to the tree as follows:
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3b4c093d401ccd18debe4a0975deac33e9b774bd402ba468df53f89fa414bcee.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3b/3b4c093d401ccd18debe4a0975deac33e9b774bd402ba468df53f89fa414bcee.png)
 
 
 
@@ -124,13 +124,13 @@ As I stated in class, you should write your own code. You may work with other st
 
 程序使用一棵树来表示它关于动物的知识。每个叶子节点包含一个动物的名称，每个内部节点包含一个问题。例如，如下的树，
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77d9deef7bcc7225fcce9ab7966d025daced2f7d69d0291660c7cd75aec63bdf.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77d9deef7bcc7225fcce9ab7966d025daced2f7d69d0291660c7cd75aec63bdf.png)
 
 会让程序询问你所想的动物是否是猫科动物。如果你回答“是”，它会问你它是否比人大。如果你回答“不是”，它会猜你想的是猫。
 
 如果你在被问及是否是猫科动物时回答“不是”，它会猜狗。如果这是不正确的，程序将通过询问您的动物是什么并询问一个问题来区分您的动物和狗来增强这棵树。假设你指出你的动物是熊，区分熊和狗的问题是“它是犬科动物吗？”。程序会询问你“熊”的答案是什么，当你说“不是”时，它会按如下方式将一个“熊”的节点添加到树中：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3b4c093d401ccd18debe4a0975deac33e9b774bd402ba468df53f89fa414bcee.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3b/3b4c093d401ccd18debe4a0975deac33e9b774bd402ba468df53f89fa414bcee.png)
 
 注意，已经创建了两个新的节点，一个为狗，一个为熊。旧的狗节点已被问题覆盖。注意，树始终是一个严格的二叉树，这意味着每个节点要么是叶子，要么有两个子节点。
 
@@ -206,7 +206,7 @@ tar -xzvf filename
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -222,4 +222,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

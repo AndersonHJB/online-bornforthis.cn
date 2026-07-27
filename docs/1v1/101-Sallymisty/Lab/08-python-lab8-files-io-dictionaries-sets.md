@@ -59,7 +59,7 @@ For this exercise, you will need some directories and files to work with. On the
 
 When you are done, you should have something like the following:
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/98/980428be387a3872c9d9580b5c4abcfc3940df1c83278a3751b761342935ef7a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/98/980428be387a3872c9d9580b5c4abcfc3940df1c83278a3751b761342935ef7a.png)
 
 In the python3 shell, import the `os` module:
 
@@ -726,7 +726,7 @@ def invert_dictionary_non_unique(dictionary):
     return inv
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a4c204dcce6840f78e7c20d3f09107c808be9b6ea892f1830c7db79b231c46fa.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a4/a4c204dcce6840f78e7c20d3f09107c808be9b6ea892f1830c7db79b231c46fa.png)
 
 @tab wordplay.py（Problem 1）
 
@@ -794,7 +794,7 @@ if __name__ == "__main__":
     print(len(non_present_bigrams(word_list)))  # 打印数量更直观
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a8/a8cc4bbfbac824ac375a79a24f8693699ad564a59776c1a475cdf7e4dd903dd4.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a8/a8cc4bbfbac824ac375a79a24f8693699ad564a59776c1a475cdf7e4dd903dd4.png)
 
 @tab closed_sets.py（Problem 2）
 
@@ -829,7 +829,7 @@ if __name__ == "__main__":
     print(closed_sets(p2))  # 例如 [{'alice','bob','carol','dave','eve'}]
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/59/59c3c275b166b4324eb62a3d2b19a5ca6852d8ba71c8a608b0786ef9be8820ed.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/59/59c3c275b166b4324eb62a3d2b19a5ca6852d8ba71c8a608b0786ef9be8820ed.png)
 
 
 
@@ -849,7 +849,7 @@ if __name__ == "__main__":
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -865,4 +865,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

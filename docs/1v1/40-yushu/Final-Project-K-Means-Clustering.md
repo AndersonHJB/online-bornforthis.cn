@@ -54,13 +54,13 @@ toc: true
 
     动物的聚类：陆地 vs. 海洋。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/41/410636fe18996a0b616e469c7266403a4170a03beeb47e4dc1bdd3384b22109e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/41/410636fe18996a0b616e469c7266403a4170a03beeb47e4dc1bdd3384b22109e.png)
 
 ## Clustering Example, 2
 
 - Clustering of animals: Mammals vs. Non-mammals.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d4df0c4bff944cfbc07181e298409cc889ab8de935b4e51dea836e9c918d5ae2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d4/d4df0c4bff944cfbc07181e298409cc889ab8de935b4e51dea836e9c918d5ae2.png)
 
 ## Similarities
 
@@ -143,19 +143,19 @@ Suppose your dataset $D$ contains $n$ observations in d-dimensional space.Then K
 
 > K-Means聚类算法：演示
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e7/e777d501148f0601aef7f0f630b8627750c1e9dc19548a94e599766378074484.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e7/e777d501148f0601aef7f0f630b8627750c1e9dc19548a94e599766378074484.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/fa5cdfb1032d66eaac568d34f46922704d477edf39bf87384f84e7b076d24060.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fa/fa5cdfb1032d66eaac568d34f46922704d477edf39bf87384f84e7b076d24060.png)
 
 
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/36/362f6a3cbe9e8bf8d5afdcf426c9639e6018d65117fd864f42e51f36643623a9.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/36/362f6a3cbe9e8bf8d5afdcf426c9639e6018d65117fd864f42e51f36643623a9.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/74e8238d573f75ea324faca73c3dbcc2e8608614bd73ff0a0fbd7d88a79181eb.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/74/74e8238d573f75ea324faca73c3dbcc2e8608614bd73ff0a0fbd7d88a79181eb.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4b/4bdebf5afdff785b9ca97f710f8d325be589c531f8e4280d3e7b234748102c12.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/4b/4bdebf5afdff785b9ca97f710f8d325be589c531f8e4280d3e7b234748102c12.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8a/8a7585c7d98ba2b36d4597998f6c5806953cd388071de517827976cecd62fca6.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8a/8a7585c7d98ba2b36d4597998f6c5806953cd388071de517827976cecd62fca6.png)
 
 The new centers do not lead to a different assignment comparing to iteration 2.
 
@@ -440,7 +440,7 @@ legend("topleft", legend = c("Data Points", "Initial Centers"),
 
 **R Graphical Parameters**
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/95/95f19514b3c9a6efbd1e3cf14a3241bf25dcb3dfa0180af74d825198c3dfb104.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/95/95f19514b3c9a6efbd1e3cf14a3241bf25dcb3dfa0180af74d825198c3dfb104.png)
 
 - [https://www.statmethods.net/advgraphs/parameters.html](https://www.statmethods.net/advgraphs/parameters.html)
 - [http://www.sthda.com/english/wiki/graphical-parameters](http://www.sthda.com/english/wiki/graphical-parameters)
@@ -1081,7 +1081,7 @@ for (pair in variable_pairs) {
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1097,4 +1097,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

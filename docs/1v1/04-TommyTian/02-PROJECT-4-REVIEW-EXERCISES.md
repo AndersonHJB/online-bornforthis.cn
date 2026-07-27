@@ -22,7 +22,7 @@ backToTop: true
 toc: true
 ---
 
-- [Project-4-Review-Exercises-Creative-Coding-Fall-2022-Section-E.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/04-TommyTian/02-PROJECT-4-REVIEW-EXERCISES/Project-4-Review-Exercises-Creative-Coding-Fall-2022-Section-E.pdf)
+- [Project-4-Review-Exercises-Creative-Coding-Fall-2022-Section-E.pdf](https://blog.images.bornforthis.cn/1v1/04-TommyTian/02-PROJECT-4-REVIEW-EXERCISES/Project-4-Review-Exercises-Creative-Coding-Fall-2022-Section-E.pdf)
 
 ## Brief: 
 
@@ -40,7 +40,7 @@ For the next few weeks, you will be implementing a series of exercises to review
 
 > (30%) Sol LeWitt壁画:函数，循环，随机-重建Sol LeWitt的壁画289从中间起24行，每边的中点起12行，每角起12行。
 
-![image-20221124194455921](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/34/341d34d72fcb44b70970d5b6209de33525fae124788513257f973dc53c19c981.png)
+![image-20221124194455921](https://blog.images.bornforthis.cn/docs-images/sha256/34/341d34d72fcb44b70970d5b6209de33525fae124788513257f973dc53c19c981.png)
 
 - Create three functions, that uses the count parameter to draw random lines of that given count. (hint: Use loops and random() in these functions) 
 
@@ -186,7 +186,7 @@ Submission Form: https://forms.gle/ro8jWXyUrbvhjC4c7
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -202,7 +202,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

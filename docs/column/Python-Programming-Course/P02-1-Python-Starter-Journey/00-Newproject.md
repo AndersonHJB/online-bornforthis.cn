@@ -33,7 +33,7 @@ watermark: true
 
 界面介绍：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d0/d04799952a6b278fac2149ccc7ef774c9a1fdb3b36e64cf30879b0923e84f9ae.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d0/d04799952a6b278fac2149ccc7ef774c9a1fdb3b36e64cf30879b0923e84f9ae.png)
 
 **步骤：**
 
@@ -94,33 +94,33 @@ watermark: true
 
 ## 1. 打开 PyCharm
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b991893cfcab957abe4aaa06fb469785b5f5455c642e6b5846c192a99992bbfc.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b9/b991893cfcab957abe4aaa06fb469785b5f5455c642e6b5846c192a99992bbfc.png)
 
 ## 2. 设置项目相关信息
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a2/a2ca2da8fe85c4e1c8542fa75ea6096906e0ba87cac1eac626d3acc40184b1f6.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a2/a2ca2da8fe85c4e1c8542fa75ea6096906e0ba87cac1eac626d3acc40184b1f6.png)
 
 最后点击 Create 即可。
 
 ## 3. 创建项目之后的界面
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/aa/aa463104641c73f5cbb70690548c4afd95d29bd30fd8c6e613d081c936b89489.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/aa/aa463104641c73f5cbb70690548c4afd95d29bd30fd8c6e613d081c936b89489.png)
 
 ## 4. 运行代码测试
 
 鼠标右键运行后，看见输出结果，则表明环境正常。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f9/f996fa32c369edd424af4a16117ae86732b6ff4422563f01d2c8f20f85285fd2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f9/f996fa32c369edd424af4a16117ae86732b6ff4422563f01d2c8f20f85285fd2.png)
 
 ## 5. 删除 main.py
 
 编程环境测试成功后，删除自动创建的 main.py 即可。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/56/56dc07accada5441f25e2b8110e5a7f8a10ac723487dbc33646de5eed2564f31.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/56/56dc07accada5441f25e2b8110e5a7f8a10ac723487dbc33646de5eed2564f31.png)
 
 删除时，会有提示，点击确认即可。
 
-![点击确认](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9a/9a9ce44bbab3c0e07e40ce30d32629c7f6228f41d10bc6e6164a4a657f1bab43.png)
+![点击确认](https://blog.images.bornforthis.cn/docs-images/sha256/9a/9a9ce44bbab3c0e07e40ce30d32629c7f6228f41d10bc6e6164a4a657f1bab43.png)
 
 ## 6. 注意⚠️
 
@@ -132,15 +132,15 @@ watermark: true
 
 放在要新建的文件夹 `Coder` 上，鼠标右键操作：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f5bb5a9f9c2b04007aa3fdc9f15ca3760270419d08d99093323e1abc0153ccbe.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f5/f5bb5a9f9c2b04007aa3fdc9f15ca3760270419d08d99093323e1abc0153ccbe.png)
 
 输入创建的文件夹名称，推荐使用英文命名。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/253bcc6adaf218feb04350661e60ed609a7135d8ebd9091be33936c906c6d912.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/25/253bcc6adaf218feb04350661e60ed609a7135d8ebd9091be33936c906c6d912.png)
 
 下图即可看见创建成功：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8e/8ebf66b95b9c6a9ad288a2541b14f090eb7fe03a9365db7281ee0a4f4590d5cb.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8e/8ebf66b95b9c6a9ad288a2541b14f090eb7fe03a9365db7281ee0a4f4590d5cb.png)
 
 
 
@@ -150,15 +150,15 @@ watermark: true
 
 在你想把代码放在哪个文件夹，在那个文件夹上面鼠标右键。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9a/9ad9a031b9c41b6cdb87949998b77678b059c4be89e54f5989940a818fc5c808.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9a/9ad9a031b9c41b6cdb87949998b77678b059c4be89e54f5989940a818fc5c808.png)
 
 输入要创建的 Python 代码文件名称：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/41/41bb8dfcb743b9ee14f9d9354a9538e9edce7c06608ce11bb926fde886a14d7c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/41/41bb8dfcb743b9ee14f9d9354a9538e9edce7c06608ce11bb926fde886a14d7c.png)
 
 创建成功后，可以编写代码进行测试：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f7/f7c280fdb05e45d2c858d08c81b69c50ba3b2329e19fc1ea1d0755ce6ea399ee.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f7/f7c280fdb05e45d2c858d08c81b69c50ba3b2329e19fc1ea1d0755ce6ea399ee.png)
 
 
 
@@ -168,11 +168,11 @@ watermark: true
 
 有时候，我们会需要重新命名文件夹或者代码文件，所以接下来带你操作文件、文件夹重命名。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/42/42b24e8b29075b8f9f8197c41204eea20c422c068c64d98b8d0b36f8416647c8.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/42/42b24e8b29075b8f9f8197c41204eea20c422c068c64d98b8d0b36f8416647c8.png)
 
 输入要重新命名的的名称，不要动 `.py`：
 
-![修改名称即可](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1a/1a37aaf89ff3995bde340afc8941d97c4df4904d01ff5dc4c479950ba94dc2c1.png)
+![修改名称即可](https://blog.images.bornforthis.cn/docs-images/sha256/1a/1a37aaf89ff3995bde340afc8941d97c4df4904d01ff5dc4c479950ba94dc2c1.png)
 
 文件夹也是如法炮制！
 
@@ -182,9 +182,9 @@ watermark: true
 
 在 Python 开发中，虚拟环境是一个非常重要的概念，它允许你为每个项目创建一个独立的环境，这样就可以在不同项目之间隔离依赖，避免版本冲突。想象一下，你有两个项目，一个需要 Django 2.0，而另一个需要 Django 3.0。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cbaf51f6d94dd777095326e3c37b8f15e9ce8b55c12633dfdd8b088b7e5ce5ee.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/cb/cbaf51f6d94dd777095326e3c37b8f15e9ce8b55c12633dfdd8b088b7e5ce5ee.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e4a90978959c2f5a9e3783b8e9d29af7920e1a1a91b5ad631f36eaa5260da58a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e4/e4a90978959c2f5a9e3783b8e9d29af7920e1a1a91b5ad631f36eaa5260da58a.png)
 
 如果没有虚拟环境，这两个版本的 Django 就会发生冲突「因为，是在同一台电脑同一个 Python 肯定会冲突」。就像你一台电脑只能安装一个 QQ 和微信一样，只能存在一个版本的 QQ 和微信，不能存在多个不同版本的 QQ 和微信。
 

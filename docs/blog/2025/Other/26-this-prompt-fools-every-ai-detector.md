@@ -117,15 +117,15 @@ First, I ran it without the prompt. Then, I tried it with. See the difference fo
 
 **No Prompt:**
 
-![As you can see, this is extremely AI-ified.](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/edacc184507fa28fc34710df538c5196fb2f454e9665179bf598da4d1223c4db.png)
+![As you can see, this is extremely AI-ified.](https://blog.images.bornforthis.cn/docs-images/sha256/ed/edacc184507fa28fc34710df538c5196fb2f454e9665179bf598da4d1223c4db.png)
 
 **Here it is with the humanized writing prompt:**
 
-![This just innately feels more human.](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fe/fee3a90a7e337e6f6c2468244fb985fb1425214c2d224fe05332d8bb40d1d05d.png)
+![This just innately feels more human.](https://blog.images.bornforthis.cn/docs-images/sha256/fe/fee3a90a7e337e6f6c2468244fb985fb1425214c2d224fe05332d8bb40d1d05d.png)
 
 Let's check it in the GPT Zero AI detector:
 
-![Yessir.](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b5/b50b189e3e6a7301b18eeb4b88927b1c2d90c9556b764ef420bdf9eec10bfa1c.png)
+![Yessir.](https://blog.images.bornforthis.cn/docs-images/sha256/b5/b50b189e3e6a7301b18eeb4b88927b1c2d90c9556b764ef420bdf9eec10bfa1c.png)
 
 **Still don't believe me?** Here's another example:
 
@@ -133,21 +133,21 @@ Let's say I want to write an essay about the cultural significance of food festi
 
 **No Prompt:**
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f3/f3c1aa117e4567ad7cd37b9937f65b88f9404ced72a4aecdf1b83ac8bd93b097.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f3/f3c1aa117e4567ad7cd37b9937f65b88f9404ced72a4aecdf1b83ac8bd93b097.png)
 
 There are so many AI tropes that it's actually funny…
 
 Let's check our trusty AI detector on this one:
 
-![Whew, absolutley brutal eh?](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5c/5ceb614289bd1190313c82ef6a71b4e406b6c573dfb3872f47815be8b21723b6.png)
+![Whew, absolutley brutal eh?](https://blog.images.bornforthis.cn/docs-images/sha256/5c/5ceb614289bd1190313c82ef6a71b4e406b6c573dfb3872f47815be8b21723b6.png)
 
 **With the prompt:**
 
-![A pretty distinct stylistic shift, it's really quite different.](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3a/3a372827a7843a918386e9d28f85cdf7b104680cc21cb8c118ef543eee15ece8.png)
+![A pretty distinct stylistic shift, it's really quite different.](https://blog.images.bornforthis.cn/docs-images/sha256/3a/3a372827a7843a918386e9d28f85cdf7b104680cc21cb8c118ef543eee15ece8.png)
 
 And the AI detector?
 
-![Boom.](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9b/9bda1baec9f130435c9f275143a36e2a3c06a0f87f1ff98d5a9e4d92529ed085.png)
+![Boom.](https://blog.images.bornforthis.cn/docs-images/sha256/9b/9bda1baec9f130435c9f275143a36e2a3c06a0f87f1ff98d5a9e4d92529ed085.png)
 
 Boom.
 
@@ -167,7 +167,7 @@ I hope this prompt saves you hours of editing time!
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -183,4 +183,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

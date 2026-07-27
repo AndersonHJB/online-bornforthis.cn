@@ -73,7 +73,7 @@ Part-2: Following the rules we have studied, derive the corresponding relational
 
 **E-R Diagram for Problems 2 and 4:**
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f3/f377e8f14c33815a08c860bb24ff3a747d2156749760c458b4934a715b664ea2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f3/f377e8f14c33815a08c860bb24ff3a747d2156749760c458b4934a715b664ea2.png)
 
 
 
@@ -98,7 +98,7 @@ Part-2: Following the rules we have studied, derive the corresponding relational
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -114,4 +114,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

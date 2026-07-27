@@ -46,7 +46,7 @@ Read below for more details of each submission.
 
 ### 2.1 Context
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/fa6deb03bb796b13194d2827c467c9f3b15d95670f08a928886a54fbaa8c5d8e.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fa/fa6deb03bb796b13194d2827c467c9f3b15d95670f08a928886a54fbaa8c5d8e.jpeg)
 
 In the next three assignments, you will implement the common single-player card game called “Poker Polygon”, a more general version of the older game “Poker Squares”. You can play the game of Poker Squares [here](https://www.solitaireparadise.com/games_list/poker-solitaire.html) to get a sense of the game in its most basic form.
 
@@ -297,7 +297,7 @@ Be mindful of which test cases you place in which test class! *Technically,* you
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -313,5 +313,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

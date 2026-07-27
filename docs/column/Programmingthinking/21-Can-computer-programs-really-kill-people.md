@@ -23,7 +23,7 @@ toc: true
 
 如果一位程序员拍着胸脯跟你保证，说自己的程序没问题了，但你又不太放心他的程序。那有没有别的方法能帮他 debug 一下呢？
 
-![电脑程序](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ce/ce2740144709dd536dc010d24eb174536c939303fc36bc953d8e81ee5852a5f6.png)
+![电脑程序](https://blog.images.bornforthis.cn/docs-images/sha256/ce/ce2740144709dd536dc010d24eb174536c939303fc36bc953d8e81ee5852a5f6.png)
 
 这个时候，你可能要抢答了：“老师我知道，我们在编写完程序之后，可以在自己的电脑上试着**运行**一下。程序员也可以用这个方法给程序**捉捉虫**嘛。”
 
@@ -35,7 +35,7 @@ toc: true
 
 在30多年前，有一家公司制造了一种**放射性治疗仪**。什么是放射性治疗仪呢？简单地说，你可以把它想象成一种特别强大的**X光机**，它可以发射能量很大的射线，把病人身体里的坏细胞给杀死。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d1/d166bfcf2d2049de2b609d7758aaa089a60136da9a29b4e3963382024920a2ee.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d1/d166bfcf2d2049de2b609d7758aaa089a60136da9a29b4e3963382024920a2ee.jpg)
 
 医生们经常用这种机器来**治疗癌症**，诶，使用得还挺多的。不过，这一家公司造的放射性治疗仪出了点问题。
 
@@ -49,7 +49,7 @@ toc: true
 
 可给人治病是生死攸关的大事，医生也肯定不会乱操作啊。这下调查**陷入了僵局**。好在，有一位医生回忆起了一个小细节：机器出故障的时候，会弹出一个提示。抓住这一点，程序员们一分析发现，这个错误竟然是因为正常操作引起的。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/90/9021ab1c3129691043fe116fac4a0dfacffc7771120a82ddd87d7c5588de0af2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/90/9021ab1c3129691043fe116fac4a0dfacffc7771120a82ddd87d7c5588de0af2.png)
 
 正常操作怎么会导致悲剧的发生呢，是不是有的新手医生笨手笨脚的，操作不够熟练啊？**恰恰相反**，问题的原因就是，医生操作机器的时候**太过熟练**了。
 
@@ -67,7 +67,7 @@ toc: true
 
 假设，咱们少年得到要做一次更新，把少年得到首页上免费的“**每日新知**”栏目给取消了，换成一个每天播**动画片**的模块。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4b/4bea1ab0526b805376f5a37fadbd1614cee61eddff70c896f502e3b651c4d49b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/4b/4bea1ab0526b805376f5a37fadbd1614cee61eddff70c896f502e3b651c4d49b.jpg)
 
 那为了确保新版本的App能正常运行，程序员们肯定会绞尽脑汁，排除掉每一种出错的可能性。想来想去，觉得没啥问题了，诶，就要请出灰度测试了。
 
@@ -83,7 +83,7 @@ toc: true
 
 当然了，除了在编程领域有用，灰度测试的思想也可以用在其他地方。比如说，你一回家，妈妈正在尝试做新菜，做一锅海鲜汤。之前，她并没有做过这样的**海鲜汤**来喝。做好了之后，爸爸就建议，往里面放点**胡椒**；妈妈建议呢，往里放点**醋**。
 
-![海鲜汤](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ec/ecbd28f972f604a3ffd0be62c22dcd7010d08e6d401ab6662bbd32eb76b04d17.jpg)
+![海鲜汤](https://blog.images.bornforthis.cn/docs-images/sha256/ec/ecbd28f972f604a3ffd0be62c22dcd7010d08e6d401ab6662bbd32eb76b04d17.jpg)
 
 如果直接往大锅里放胡椒或者是醋，万一不好喝，这一锅汤可就毁了。那相信你听完前面的灰度测试肯定能想到吧，这时候，可以**先取一小部分汤**，比如小半碗，在里面加入胡椒或者是醋，尝尝到底哪个好喝。等判断完之后，再往整锅汤里放调料，这样才最安全。
 
@@ -115,7 +115,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -131,4 +131,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

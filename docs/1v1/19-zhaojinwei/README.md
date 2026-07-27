@@ -35,7 +35,7 @@ toc: true
 - 从右到左
 - 最后一步，才是赋值
 
-![image-20230109122426506](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/27/2797b25337b5064fd4234c377481e4eb4f8e785e1dfca8b738c70d2dd3ca34e6.png)
+![image-20230109122426506](https://blog.images.bornforthis.cn/docs-images/sha256/27/2797b25337b5064fd4234c377481e4eb4f8e785e1dfca8b738c70d2dd3ca34e6.png)
 
 ## 3. 实操
 
@@ -229,7 +229,7 @@ aiyc
 
 ### 6.2 不能使用数字开头
 
-![image-20230110121421807](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9c/9cdcd9bba6186eac4ed82ef6e4e8f9828384552edb0da9afacbb58c0d6be9db9.png)
+![image-20230110121421807](https://blog.images.bornforthis.cn/docs-images/sha256/9c/9cdcd9bba6186eac4ed82ef6e4e8f9828384552edb0da9afacbb58c0d6be9db9.png)
 
 那，为什么不能使用数字开头呢？——数字开头，计算机会认为是数字。认为它是数字，但是数字后面又跟着一个「或几个」字母，把计算机搞懵了，分不清。
 
@@ -252,7 +252,7 @@ print(n11111u2222m2112121212121)
 
 ### 6.2 不能空格间隔
 
-![image-20230110122125656](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b8/b85d58ee5a60ed2e79944daa0cbf070387600420e198194c6a3504bbe6cb9b56.png)
+![image-20230110122125656](https://blog.images.bornforthis.cn/docs-images/sha256/b8/b85d58ee5a60ed2e79944daa0cbf070387600420e198194c6a3504bbe6cb9b56.png)
 
 ```python
 username = "aiyc"
@@ -274,7 +274,7 @@ as = "aiyc"
 # 计算机是要认为你这个 as 是关键词呢、还是变量呢？——显然，计算机不是人，就算是人看到这样的变量也会有疑惑吧。
 ```
 
-![image-20230110122549523](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/67/67495274ba39ecd2224f6530c0b676012862a2905175ab5720467d87fba404b5.png)
+![image-20230110122549523](https://blog.images.bornforthis.cn/docs-images/sha256/67/67495274ba39ecd2224f6530c0b676012862a2905175ab5720467d87fba404b5.png)
 
 ::: info 如何查看关键词
 
@@ -282,7 +282,7 @@ as = "aiyc"
 help("keywords")
 ```
 
-![image-20230110122642465](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5d/5dd7673ec76db345a97bee4c19b04a1b2af63c900ea71050cda49a073369740f.png)
+![image-20230110122642465](https://blog.images.bornforthis.cn/docs-images/sha256/5d/5dd7673ec76db345a97bee4c19b04a1b2af63c900ea71050cda49a073369740f.png)
 
 :::
 
@@ -301,7 +301,7 @@ print = "zhaojinwei"
 print(print)
 ```
 
-![image-20230110123310231](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/11/1199958d3f78c29c1deaff8ac6a337fb265944cd04a0060015adcd57a6105ba8.png)
+![image-20230110123310231](https://blog.images.bornforthis.cn/docs-images/sha256/11/1199958d3f78c29c1deaff8ac6a337fb265944cd04a0060015adcd57a6105ba8.png)
 
 
 
@@ -315,7 +315,7 @@ print(print)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -331,4 +331,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

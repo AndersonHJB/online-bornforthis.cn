@@ -17,7 +17,7 @@ backToTop: true
 toc: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/43/4359ea5b533b3e23aff433848ddfe1919ecd6b2e0d33bce7fa2bb202e0771f62.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/43/4359ea5b533b3e23aff433848ddfe1919ecd6b2e0d33bce7fa2bb202e0771f62.png)
 
 你好，我是悦创。
 
@@ -53,9 +53,9 @@ toc: true
 
 重点来了 —— **不是 AI Agent 这个概念能解决问题，而是 Sub-Agent 这种“运行模型”在起作用**。子代理，通过上下文隔离，让专业的 Agent 做专业的事儿，不是为了让 Claude 做得更多， 而是为了让 Claude **记得更少，但记得对**。
 
-![专业的 Agents 做专业的事儿](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/48/4889c1fbccc31b143746252b01fbcbb1f54d14dabcffa6adec4be899ddf8aa32.png)
+![专业的 Agents 做专业的事儿](https://blog.images.bornforthis.cn/docs-images/sha256/48/4889c1fbccc31b143746252b01fbcbb1f54d14dabcffa6adec4be899ddf8aa32.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a7/a7186f03bff4b6e6a9b2380274bccc12dd21b6e9c0eb23cfc980cea3bf2b773d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a7/a7186f03bff4b6e6a9b2380274bccc12dd21b6e9c0eb23cfc980cea3bf2b773d.png)
 
 PS：OpenClaw 链接：[https://github.com/openclaw/openclaw](https://github.com/openclaw/openclaw)
 
@@ -65,7 +65,7 @@ PS：OpenClaw 链接：[https://github.com/openclaw/openclaw](https://github.com
 
 我们可以用一句话定义它。子代理相当于一个“专职小助手”，带着自己的规则、工具权限、上下文窗口，去完成某一类任务，然后把“结果摘要”带回来。你可以把它理解成：**把一个大脑拆成多个岗位角色**，每个岗位只做一件事，并且有明确的权限边界。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/32/32586bae572b388929662ef4e7240520c1461284847a03a75f0447903dfc0358.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/32/32586bae572b388929662ef4e7240520c1461284847a03a75f0447903dfc0358.png)
 
 图中目录下设置了 3 个专门的子代理，用于处理循环经济知识图谱项目。这三个代理形成了一个完整的工作流：组织 PDF → 提取知识图谱 → 分析结果。
 
@@ -153,7 +153,7 @@ tools: Read, WebFetch, WebSearch
 
 你可能已经在使用子代理，只是没意识到而已。Claude Code 内置了一系列子代理（以后也许会有更多），当你问 Claude——“给我解释解释这个 Github 代码库”时，在不知不觉间，Claude Code 就会自动调用内置子代理。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/11/117ffd8708a2199794aa53788f0dab587c97838dcfd41b4d71789c031642c7ee.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/11/117ffd8708a2199794aa53788f0dab587c97838dcfd41b4d71789c031642c7ee.jpg)
 
 下面简单介绍其中的三个。
 
@@ -214,7 +214,7 @@ tools: Read, WebFetch, WebSearch
 
 例如跑一次测试会输出几百行日志，但你只想知道通过还是失败；扫描日志和错误栈时，真正有价值的可能只是一两条关键错误；在整个代码库里做搜索，最终只需要知道相关文件在哪里；生成一份长报告，主对话只需要摘要。
 
-![子代理把大量混乱的信息隔离起来，并进行提纯工作](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/85/85c1c32c43631c66289b4f98416814ea593fbc32000a7c6c6a08ae343eae7d94.png)
+![子代理把大量混乱的信息隔离起来，并进行提纯工作](https://blog.images.bornforthis.cn/docs-images/sha256/85/85c1c32c43631c66289b4f98416814ea593fbc32000a7c6c6a08ae343eae7d94.png)
 
 这些场景中，执行过程本身就是噪声，用子代理把过程隔离起来，只把结论带回来，是最自然、也最干净的做法。
 
@@ -224,7 +224,7 @@ tools: Read, WebFetch, WebSearch
 
 **第三类**适合用子代理的，是**可以并行展开的研究型任务**。当你需要同时调研认证逻辑、数据库设计和 API 接口，或者对比几种技术方案、从多个视角分析同一个问题时，这些探索之间往往是相互独立的。与其在主对话里来回切换，不如让多个子代理各自去完成自己的探索，再把结果汇总回来。子代理在这里的价值，不只是隔离上下文，更是天然的并行加速器。
 
-![各个子代理的任务可以并行执行](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/30f8d5bc566b97f84fc064585fa730d17844df718949c5ff776f110ca7d7d3e1.png)
+![各个子代理的任务可以并行执行](https://blog.images.bornforthis.cn/docs-images/sha256/30/30f8d5bc566b97f84fc064585fa730d17844df718949c5ff776f110ca7d7d3e1.png)
 
 **第四类**适合用子代理的，是可**以拆成清晰阶段的流水线式任务**。比如先定位代码位置，再做代码审查，然后进行修改，最后跑测试验证。
 
@@ -290,7 +290,7 @@ frontmatter 部分（`---` 之间）定义子代理的元数据和配置，下�
 
 上述文件中出现的以及未出现的 frontmatter 字段详解如下。其中  `name` 和  `description` 是必填字段，其余均为可选：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/12/121c5a580bf5935feba29b7738d7cf217815d1eeee9759b76ee4326dc0dd72bd.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/12/121c5a580bf5935feba29b7738d7cf217815d1eeee9759b76ee4326dc0dd72bd.jpg)
 
 下面对几个关键字段做重点说明。
 
@@ -338,13 +338,13 @@ disallowedTools: Write, Edit
 
 ### 7.3 model：模型选择与默认值
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cba1968ee1a0f9cf1c3eaafae7edcd8888da9e2464b40ec7c3a6f231a327cbfa.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/cb/cba1968ee1a0f9cf1c3eaafae7edcd8888da9e2464b40ec7c3a6f231a327cbfa.jpg)
 
 ### 7.4 permissionMode：权限模式
 
 `permissionMode` 控制子代理在执行过程中遇到需要权限的操作时如何处理。子代理会继承主对话的权限上下文，但可以通过此字段覆盖行为：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cbb273bd1f1b1dc8bd5dbe40124c29ce18485bbe77613d56809fed2dd4c83f64.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/cb/cbb273bd1f1b1dc8bd5dbe40124c29ce18485bbe77613d56809fed2dd4c83f64.jpg)
 
 举个例子，如果你希望子代理能跑  `git diff` 但绝不能修改文件，可以这样配置：
 
@@ -401,7 +401,7 @@ Hook 的详细机制我们会在后续 Hook 专题课程中展开。这里先建
 
 子代理可以被设置为不同的作用域。当多个作用域存在同名子代理时，高优先级的会覆盖低优先级的。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/8092e048fa91d0650e56f50261422ddc0180383bf6100c9f20ded601ffe00392.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/80/8092e048fa91d0650e56f50261422ddc0180383bf6100c9f20ded601ffe00392.jpg)
 
 子代理可以被设置为项目级或用户级，**项目级**（仅当前项目可用）存放位置如下所示，适合项目特有的角色，比如针对特定框架的测试运行器：
 
@@ -438,7 +438,7 @@ your-project/
 步骤 7：保存
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cd/cd6fc352a075cff58c70097f825c1daddaae9722af2065d752096c1da653a1fd.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/cd/cd6fc352a075cff58c70097f825c1daddaae9722af2065d752096c1da653a1fd.png)
 
 这种方式简单直观，Claude 会帮你生成初始的 prompt。
 
@@ -454,7 +454,7 @@ your-project/
 
 子代理可以在前台或后台运行。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4f/4fc848721e81b78fe8f20fde486baa3e9fa43b61dbbde7047cb90113996ac5a4.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/4f/4fc848721e81b78fe8f20fde486baa3e9fa43b61dbbde7047cb90113996ac5a4.jpg)
 
 Claude 会根据任务自动选择前台或后台。你也可以手动控制。
 
@@ -513,7 +513,7 @@ Claude 会根据任务自动选择前台或后台。你也可以手动控制。
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -529,4 +529,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -33,7 +33,7 @@ toc: true
 
 虽然每一次的计算都不复杂，但老师也觉得，每统计一次就要搜集一次数据，这件事太麻烦了，有没有别的办法能够解决这个问题呢？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/07/07dec49e403916768b3a5554a0100e5f5800bfac638c46ecceff7c3e05f978ca.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/07/07dec49e403916768b3a5554a0100e5f5800bfac638c46ecceff7c3e05f978ca.jpeg)
 
 诶，我就给他出了一个注意。
 
@@ -47,7 +47,7 @@ toc: true
 
 确实，一开始在建立档案的时候，要输入很多数据。但在建立完一份份的档案之后，好处就明显了，老师不光可以计算平均身高、平均分这样的数据。而且，可以单独针对某一位同学的档案进行分析。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/44/445045b3102d58b83d8f754b3ebc84f801f9efa184734d106f9de2b02bbc18fa.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/44/445045b3102d58b83d8f754b3ebc84f801f9efa184734d106f9de2b02bbc18fa.jpg)
 
 比如小明的英语成绩很好但语文成绩一直很差，那说明他可能**偏科**了。如果小刚连续几次数学考试成绩都在下降，那就说明他可能在数学上碰到了困难，应该问问他需不需要帮助。
 
@@ -61,7 +61,7 @@ toc: true
 
 和前面说的蚁群算法、蒙特卡洛算法不同，**基于对象的编程并不是指某种具体的算法**。它的核心就是**按照我们更习惯的角度，去整合数据或者是编写程序**。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c504597f1b0cf2cf3d44fd8cf2179c86d548c086953d6af40edd8543ea315cf4.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c5/c504597f1b0cf2cf3d44fd8cf2179c86d548c086953d6af40edd8543ea315cf4.jpg)
 
 这种思想对软件工程师来说特别重要。
 
@@ -73,7 +73,7 @@ toc: true
 
 工程师们最关注的不是这一堆堆数据，而是汽车的各个部件能顺利运行。所以他们来说，**把发动机、车轮等等部件看成一个个对象**更合适。确定完对象，就可以像建立学生档案一样，把和发动机、车轮有关的信息都打包好，塞进对应的档案里。
 
-![汽车发动机](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/31/3188fa3880fe012b50843a3eb5d4930126cd379785eb0384e567c18de8e6e870.jpg)
+![汽车发动机](https://blog.images.bornforthis.cn/docs-images/sha256/31/3188fa3880fe012b50843a3eb5d4930126cd379785eb0384e567c18de8e6e870.jpg)
 
 在编写代码的时候，也会专门针对发动机、车轮这些部件编写，比如命令发动机温度过高了就加紧散热。
 
@@ -97,7 +97,7 @@ toc: true
 
 既然有这么多好处，大部分工程师在开发大型软件的时候都会用这种编程方法。而且我要告诉你，这种编程思想对你的生活也特别有用。
 
-![西红柿炒鸡蛋](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/00/00e400e8c1bc70e35d1a076cf9679cc8c615c49ed9e105f31af80b9faff2ed27.jpg)
+![西红柿炒鸡蛋](https://blog.images.bornforthis.cn/docs-images/sha256/00/00e400e8c1bc70e35d1a076cf9679cc8c615c49ed9e105f31af80b9faff2ed27.jpg)
 
 在之前的课程里，我教你用**并行算法**的思维做了**西红柿炒鸡蛋**。如果你真的做了这道菜，可能会出现各种各样的问题，比如放了油和葱花，发现鸡蛋还没打，或者是炒完鸡蛋发现西红柿还没切呢。
 
@@ -163,7 +163,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -179,4 +179,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

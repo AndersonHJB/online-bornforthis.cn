@@ -28,13 +28,13 @@ toc: true
 
 下面就是我收到的开发板子：
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ad/ad1e7326d06df6b382cedf8ddcc9afb931c51e41810605e04dc8873bc9a78a6d.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/ad/ad1e7326d06df6b382cedf8ddcc9afb931c51e41810605e04dc8873bc9a78a6d.png" style="zoom:25%;" />
 
 香橙派 AIpro 启动后支持用户通过**远程登录模式**或者**本机显示模式**登录开发板推理任务，此处可根据两种模式所需的配件，自行选择其中一种模式准备相关硬件即可。
 
 ## 1. 设备介绍
 
-![一图胜千言](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/12/12eb09119e9d8fbbfe80dd2e04a393b85a4443d7f2acb33c866cf984dc3d7862.png)
+![一图胜千言](https://blog.images.bornforthis.cn/docs-images/sha256/12/12eb09119e9d8fbbfe80dd2e04a393b85a4443d7f2acb33c866cf984dc3d7862.png)
 
 
 
@@ -97,7 +97,7 @@ sudo chmod +x ~/.vnc/xstartup
 
 直接使用 VNC 软件连接即可。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/01/01c82fbb572640e6a0b5f6299fb55dafa42033469fb89f5da3631b2ebdf3e852.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/01/01c82fbb572640e6a0b5f6299fb55dafa42033469fb89f5da3631b2ebdf3e852.png)
 
 6. 问题：focal vnc 灰屏
 
@@ -213,7 +213,7 @@ Threads fairness:
 
 操作截图：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/7596e211c0f9436b02e07b4539b7d1ffb3f7e2f3001a17ae4f3fc8b8502daad1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/75/7596e211c0f9436b02e07b4539b7d1ffb3f7e2f3001a17ae4f3fc8b8502daad1.png)
 
 #### 3.1.3 评价
 
@@ -296,7 +296,7 @@ stress-ng: info:  [11430] successful run completed in 10.15s
 
 操作截图：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8c/8c770d7269598fe99004dc8eb0b0ded942d9bb56d0aee431d0cd87135c3b493d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8c/8c770d7269598fe99004dc8eb0b0ded942d9bb56d0aee431d0cd87135c3b493d.png)
 
 #### 3.2.3 评价
 
@@ -496,7 +496,7 @@ Mean +- std dev: 340 ms +- 9 ms
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -512,4 +512,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

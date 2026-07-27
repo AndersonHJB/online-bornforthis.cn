@@ -27,11 +27,11 @@ toc: true
 
 随着互联网的不断发展，我们每天都在产生大量数据，这些数据又反向的产生价值。——**数据分析，就是发现数据的价值。**
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7e/7e520a0d63c6c83b0c978e36b6b93e05d68ff634fae6b66ceab16dd3e1f3bcca.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/7e/7e520a0d63c6c83b0c978e36b6b93e05d68ff634fae6b66ceab16dd3e1f3bcca.png)
 
 
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/42/42c6890a6119c2b2eb43a77140e4c3dd67f9bb0c7817d139de3bf11fb64c4b83.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/42/42c6890a6119c2b2eb43a77140e4c3dd67f9bb0c7817d139de3bf11fb64c4b83.png)
 
 - **用户**：作为用户，我们网上购物的时候，会根据评价，购买量，价格——去挑选一件商品。当然，商家也会反向的分析，我们这些用户行为，进一步决定：挑选什么样的商品、如何定价、如何宣传文案等；
 - **产品经理**：那作为产品经理，在进行设计和优化的时候，也会跟踪用户行为路径，根据监测到的数据制定方案、设计产品。
@@ -48,7 +48,7 @@ toc: true
 - 硬技能
 - 软技能
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/06/06d9105ce47d807aefc33d44f0579072a2cc75a82a710a8cd7633f2b44ba64e9.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/06/06d9105ce47d807aefc33d44f0579072a2cc75a82a710a8cd7633f2b44ba64e9.png)
 
 **什么是硬技能呢？**
 
@@ -67,7 +67,7 @@ toc: true
 
 ——对事物的认知方式，以及经验积累。
 
- ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/037e0bd6d976dc170a2eea4912c4037d574860f949d272a51c9573aed9f75682.png)
+ ![](https://blog.images.bornforthis.cn/docs-images/sha256/03/037e0bd6d976dc170a2eea4912c4037d574860f949d272a51c9573aed9f75682.png)
 
 比如：给你一组股票价格的走势图， 深蓝色的代表股票 A，浅蓝色的代表股票 B。
 
@@ -90,7 +90,7 @@ toc: true
 
 #### 1.1.3 课程优势
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ca/caba6e774f4fda399e5fabb4a6dae1ca8914b7b6fa0ebec5463d6e343b336049.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ca/caba6e774f4fda399e5fabb4a6dae1ca8914b7b6fa0ebec5463d6e343b336049.png)
 
 
 
@@ -105,7 +105,7 @@ toc: true
 
 - **从 0 到 1**：指的就是数据分析的全流程，也就是说：从目标确定，数据获取，数据清洗，数据探索，洞察结论，数据报告——这整个流程，我都会带着你，一步一步的实现。告诉你怎么去做，告诉你重点在哪里，要注意什么。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d0/d017f7aaf76555cc308bb97642015e58ec21015d806c54d51c1ff45b16256a2a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d0/d017f7aaf76555cc308bb97642015e58ec21015d806c54d51c1ff45b16256a2a.png)
 
 ### 1.2 从互联网数据分析说起
 
@@ -113,7 +113,7 @@ toc: true
 
 - 互联网指的是信息传输的一种载体，这种载体是线上的，通过电子化的方式留存信息，与我们传统线下基于实物的传输方式相对应；
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/87/87692d3cd3e6151ac8ffe4c55da458c669de0e4d9f669124cfbaae69714a76e0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/87/87692d3cd3e6151ac8ffe4c55da458c669de0e4d9f669124cfbaae69714a76e0.png)
 
 
 
@@ -123,7 +123,7 @@ toc: true
 - 一个是线上的，相对虚拟的形式。
 - 但是两者，大部分情况下是等值的。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/84/847654828000f329dad04d825a1f2886ba4b816b479b10a53c4b35f0a21dd023.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/84/847654828000f329dad04d825a1f2886ba4b816b479b10a53c4b35f0a21dd023.png)
 
  那么，数据分析前面加了 **互联网** 又是什么含义呢？
 
@@ -133,7 +133,7 @@ toc: true
     - 接着，在基于我拿到的数据，统计数据分析岗位的职位数——统计职位数「等相关指标」
     - 那同时为了比较，我还需要统计其它类似岗位的招聘数，比如：大数据开发，产品，运营，销售，市场等等，来明确数据分析岗的需求，是否旺盛——同类比较
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1c/1ca8701e00ff16e90f3d847b68d7e663a952d6892da2c402f24da8ee0b53492b.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/1c/1ca8701e00ff16e90f3d847b68d7e663a952d6892da2c402f24da8ee0b53492b.png)
 
 
 
@@ -153,7 +153,7 @@ toc: true
 
 **而数据，就是我们最原始的生产材料。**
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0a/0a7af34fa11acf995c07f01a61e06134b2dfa28235a4388ab783358fbca565f0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/0a/0a7af34fa11acf995c07f01a61e06134b2dfa28235a4388ab783358fbca565f0.png)
 
 那在后续的课程中，我们讲进一步认识数据的类型，与基本特性。让大家学会，如何快速的理解和描述一组数据。
 
@@ -161,7 +161,7 @@ toc: true
 
 #### 1.2.2 章节回顾
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a0/a0a51ce5ec23994d84fac57546b0096d2623a02fc11514f7a22fec4ca3a2cc8f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a0/a0a51ce5ec23994d84fac57546b0096d2623a02fc11514f7a22fec4ca3a2cc8f.png)
 
 我们学习了互联网的基本概念，互联网指的是线上的一种传输方式。还学习了数据分析的基本概念，数据分析指的是利用数据规律进行决策。而互联网数据分析呢，指的是对基于线上产生的数据进行分析。
 
@@ -201,11 +201,11 @@ B 线上的
 
 我们上网，看到的这些网站、网页，它上面都布满了数据。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b0/b0e84fb5e25c350f49584c0a96ecad6950da8a173beb705264dcc8b642d139d0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b0/b0e84fb5e25c350f49584c0a96ecad6950da8a173beb705264dcc8b642d139d0.png)
 
 我们用的报表，文档，甚至看到的菜单等等，都是由数据所组成的
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b7/b772ae8a195a447025c6eeb0d75be8ba44871cca5016a67526d301934e8d5873.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b7/b772ae8a195a447025c6eeb0d75be8ba44871cca5016a67526d301934e8d5873.png)
 
 
 
@@ -228,7 +228,7 @@ B 线上的
 
 #### 2.1.4 定类数据
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/de/de1e5b29a3525be06110a7a5d5f203c9b45f21c70fbc7f67aad713069df768d6.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/de/de1e5b29a3525be06110a7a5d5f203c9b45f21c70fbc7f67aad713069df768d6.png)
 
 - 颜色：红色、白色、黄色
 - 性别：男性、女性
@@ -246,7 +246,7 @@ B 线上的
 
 #### 2.1.5 定序数据
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/35/3567dbd9e4bea566ba107bdcd51590966d144a1d155deb20c66c5a356af0ea13.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/35/3567dbd9e4bea566ba107bdcd51590966d144a1d155deb20c66c5a356af0ea13.png)
 
 - 受教育程度：小学，初中，高中，大学，硕士，博士
 - 季度：春，夏，秋，冬
@@ -265,7 +265,7 @@ B 线上的
 
 #### 2.1.6 定距数据
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e1/e10c453aa54aeaf17f84ab946d46c24d362d2e3e083c6c8f6c52ccfa4d18f7f5.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e1/e10c453aa54aeaf17f84ab946d46c24d362d2e3e083c6c8f6c52ccfa4d18f7f5.png)
 
 - 温度：20º、50º、100º
 - 成绩：50、65、70、100
@@ -279,7 +279,7 @@ B 线上的
 
 #### 2.1.7 定比数据
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c55065d3b4d3480c67e21dd184144f425770196676903b497ceae37c76f37317.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c5/c55065d3b4d3480c67e21dd184144f425770196676903b497ceae37c76f37317.png)
 
 - 利润：10万、20万、30万
 - 薪酬：3000、6000、9000、12000
@@ -297,7 +297,7 @@ B 线上的
 
 #### 2.1.8 定性、定量数据
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f7/f7c7c2aa8d316e3b3cea750c9999505ec21cd18ebfe3396f8b8367560924dce0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f7/f7c7c2aa8d316e3b3cea750c9999505ec21cd18ebfe3396f8b8367560924dce0.png)
 
 我们来总结一下，我们聊到的四个数据，它可以统称为：定性数据和定量数据。
 
@@ -310,21 +310,21 @@ B 线上的
 
 上面的数据，以一定标准组成起来的时候，就组成了数据矩阵。——也就是我们经常接触到的二维数据表。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2f/2f51e736304c2ebe0d837ccf3faf1db5141211c55306dd332d49de8a7502634c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2f/2f51e736304c2ebe0d837ccf3faf1db5141211c55306dd332d49de8a7502634c.png)
 
 我们把数据表横的一行，称为观测值或者说记录。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bc/bc0e53d8d86b1e5868f74e604d6bbeef8b521c06a6c445f563c21dd502c1f7c7.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/bc/bc0e53d8d86b1e5868f74e604d6bbeef8b521c06a6c445f563c21dd502c1f7c7.png)
 
 我们把数据表开头的，第一行的数据「列表字段」称为我们的数据属性或者数据纬度。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d4d014468142eb64858bae4a48db696d3dd77aa0006f8b417dff654694550331.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d4/d4d014468142eb64858bae4a48db696d3dd77aa0006f8b417dff654694550331.png)
 
 而这也是我们展现数据的主要方式，
 
 #### 2.1.10 章节回顾
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/37/370ba4505c5a759d5e57c1ff9447ce716768146c24d6f5a9954abdacba715dc0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/37/370ba4505c5a759d5e57c1ff9447ce716768146c24d6f5a9954abdacba715dc0.png)
 
 1. 什么是数据
 2. 数据的类型
@@ -336,17 +336,17 @@ B 线上的
 
 #### 2.1.11 课后作业
 
-![image-20220815221832865](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7c/7cb68241fd3a8ac015a107e2b89879a0e2d22a893d2ecffa991d18bfece87e23.png)
+![image-20220815221832865](https://blog.images.bornforthis.cn/docs-images/sha256/7c/7cb68241fd3a8ac015a107e2b89879a0e2d22a893d2ecffa991d18bfece87e23.png)
 
 基于上面的二维数据表，大家观察一下，第一列的列字段，也就是我们的数据属性、数据维度。请告诉我：它们对应的数据类型时哪一个。
 
-![image-20220815223913656](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/28/28a27f81f1906a0d818b5b7b4b9a62ca4061a24cbb980cdc0d5bc98c9693da8d.png)
+![image-20220815223913656](https://blog.images.bornforthis.cn/docs-images/sha256/28/28a27f81f1906a0d818b5b7b4b9a62ca4061a24cbb980cdc0d5bc98c9693da8d.png)
 
 ### 2.2 【学习任务】根据所学知识辨识对应的数据类型
 
 基于下面这个二维的数据表，根据第一列的列字段，也就是我们的数据属性和数据维度，告诉我对应的是什么数据类型？
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/22/22b91f383a22defaa12c3feac12e2c7a08e2b9246991627ad1e637b5e5f42458.jpg)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/22/22b91f383a22defaa12c3feac12e2c7a08e2b9246991627ad1e637b5e5f42458.jpg)
 
 > 1. 定性：姓名、性别、职业
 > 2. 定量：用户标识、年龄、薪酬
@@ -393,17 +393,17 @@ B 线上的
 
 #### 2.3.1 什么是统计指标
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ca/ca470a11ab4f20d18d669bbe9cafc6cf94506487c4fd9dc2cee05ce3dd8edf44.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ca/ca470a11ab4f20d18d669bbe9cafc6cf94506487c4fd9dc2cee05ce3dd8edf44.png)
 
 如果把数据分析比喻成找工作的过程，招聘网站发布的职位信息，就是我们要分析的职位对象。我们想要通过职位信息，分析出：它对应岗位需要的技能有哪些、它的整体薪酬水平和我能力溢价水平是否相符、它对工作年限是否有要求、它对业务背景是否有偏好？——这些问题，我们需要什么依据，才能回答这些问题呢？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/38/3825ae6b47cce068fd5911b2e44579d4a7ace348c8ab20c4203a192d570a14de.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/38/3825ae6b47cce068fd5911b2e44579d4a7ace348c8ab20c4203a192d570a14de.png)
 
 首先我们需要寻找大量的职位信息，通过观察这些信息，提取有用的部分。比如：薪酬数据、地点数据、工作年限、教育背景、技能数据等。那通过对这些关键信息的汇总、处理、计算得到初步的结论。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/52/520b9fa010150a338a80c278224a9a1ca0f1bbdce7e14666136620059529d7cb.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/52/520b9fa010150a338a80c278224a9a1ca0f1bbdce7e14666136620059529d7cb.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/85/854e4bd3f6457eb3074fba612f330551e9d0f53913796fb1dca3b32ed3f4031b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/85/854e4bd3f6457eb3074fba612f330551e9d0f53913796fb1dca3b32ed3f4031b.png)
 
 那这个过程就是在计算统计指标，帮助我们去回答，我们要解决的问题。
 
@@ -411,7 +411,7 @@ B 线上的
 
 根据分析目的不同，统计指标也会一直在变化。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/06/06d4f06305755a68a5dc84057c66c3b9907f40a8da3143d84464281d34c937b5.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/06/06d4f06305755a68a5dc84057c66c3b9907f40a8da3143d84464281d34c937b5.png)
 
 比如，在做房屋设计的时候，我们统计对象是建筑面积，竣工面积，技术装备率；
 
@@ -423,19 +423,19 @@ B 线上的
 
 #### 2.3.2 总量指标
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b0/b0367fcfcedd7114f9497f7f6288754be10ce3dd7106689823fc6664a5a68b9a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b0/b0367fcfcedd7114f9497f7f6288754be10ce3dd7106689823fc6664a5a68b9a.png)
 
 那当我们想计算 GDP（国内生产总值）、总人口、销售总额，这种体现总体规模，总体水平或者工作总量的时候，我们就需要总量指标。那也是我们通常意义上的所说的总和（SUM）。「也就是累加和」这也是一种最基本的统计指标。
 
 #### 2.3.3 平均指标「集中趋势指标」
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/08/083a1f1c173f042a63dfacf362a5e93fc5c49a37102ca85cf1cc821b946985ae.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/08/083a1f1c173f042a63dfacf362a5e93fc5c49a37102ca85cf1cc821b946985ae.png)
 
 那当我们想要描述一组数据的平均水平的时候，我们会使用平均指标。——用一个数字，去显示总体的其一般水平。那我们常说的平均值，就是平均指标的一种。平均指标又叫：集中趋势指标。那这一章节的内容，我们会在下一节课具体说。
 
 #### 2.3.4 相对指标
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/20/2007b31f4a1c56b162137bf18b6d584d98823ef8659b8b6d00a47bb9cccfb739.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/20/2007b31f4a1c56b162137bf18b6d584d98823ef8659b8b6d00a47bb9cccfb739.png)
 
 那总体指标是体现总体情况的，这样一个指标，我以一个完整的圆来表示。那相对指标就是体现相对情况的指标。
 
@@ -449,9 +449,9 @@ B 线上的
 
 那我们以销售额的数据为例：
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d9/d96f2168afc652bfd433f073f83e839f913bd319089b0d65cbe2dba10957cc12.png" alt="image-20220821153204736" style="zoom: 33%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/d9/d96f2168afc652bfd433f073f83e839f913bd319089b0d65cbe2dba10957cc12.png" alt="image-20220821153204736" style="zoom: 33%;" />
 
-![image-20220821233210910](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/21/21ca38a5bd1a2c95127c7228021557cbcd5580c3e4d5203b0ce0ed3b5a27db94.png)
+![image-20220821233210910](https://blog.images.bornforthis.cn/docs-images/sha256/21/21ca38a5bd1a2c95127c7228021557cbcd5580c3e4d5203b0ce0ed3b5a27db94.png)
 
 上面的数据是 1 到 12 月，一整年销售额数据，通过计算总和「也就是：总量指标」我们一年销售额数据是 78000，那用每个月销售额数据去除以我们的总量指标，我们就可以得到每个月相对于总体的占比数。——那这个占比数据，就是我们俗称的比例。`比例 = 各数据 / 总比 %` 它指的的是总体中，各数据占总体的比重，反应的是总体的构成和比例，体现的是部分与整体的关系。
 
@@ -465,11 +465,11 @@ B 线上的
 
 #### 2.3.6 环比、同比
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6f/6f9aaea4b9cdfc65c5b0c9d06323fe47c4a50726067caef5b6978cfb144afeb0.png" alt="image-20220821234956318" style="zoom:33%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/6f/6f9aaea4b9cdfc65c5b0c9d06323fe47c4a50726067caef5b6978cfb144afeb0.png" alt="image-20220821234956318" style="zoom:33%;" />
 
 就是我们想知道，每个月的业务是增长的趋势还是下跌的趋势。
 
-![image-20220822113313694](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4f/4f98a545b059e80ccb334bafccae55fcb8c4ff8309ed9416304d3689a08960f4.png)
+![image-20220822113313694](https://blog.images.bornforthis.cn/docs-images/sha256/4f/4f98a545b059e80ccb334bafccae55fcb8c4ff8309ed9416304d3689a08960f4.png)
 
  比如：我想知道近两个月的销售情况是怎么样的？
 
@@ -479,7 +479,7 @@ B 线上的
 
 代表的是我们当前 12月的周期和上一个周期的增长速率是什么样的「也就是短期的增长速率是怎么样的」
 
-![image-20220823000532092](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/73/736fff6d3cf151a21e585a7e00e1f711298101f66a5241fdab356f7ea56a7ce7.png)
+![image-20220823000532092](https://blog.images.bornforthis.cn/docs-images/sha256/73/736fff6d3cf151a21e585a7e00e1f711298101f66a5241fdab356f7ea56a7ce7.png)
 
 那如果我们要了解长期的增长速率，比如说第一年的销售数据和第二年的销售数据进行比较，我们可以使用第二年年末的数据除以第一年年末的数据。来以此去判断业务整体的增长趋势，那计算方式也是和环比一样的 `(本期数 - 同期数) / 同期数 * 100%`。也就是本期数 12月的 3450 减去上一个周期「去年12月，上一年同一个月份的销售额」2300，再除以起初的 2300 这个数据，得到 50%。`(3450 - 2300) / 2300* 100% = 50%` 。这个 50% 就是我们的同比增长率。
 
@@ -487,7 +487,7 @@ B 线上的
 
 #### 2.3.7 章节总结
 
-![image-20220823000612371](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/df523c2fb9c44a5b745c0b8f62ce56b61e1d817d4f37a93e7067a56750469d6e.png)
+![image-20220823000612371](https://blog.images.bornforthis.cn/docs-images/sha256/df/df523c2fb9c44a5b745c0b8f62ce56b61e1d817d4f37a93e7067a56750469d6e.png)
 
 #### 2.3.8 课后作业
 
@@ -497,7 +497,7 @@ B 线上的
 2. 每月占总销售的占比是多少？
 3. 平均每月的销售额是多少？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c9/c9d29ca8a505e86bc26ba9b133509bd6260760d2b494368a84c92af487a63134.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c9/c9d29ca8a505e86bc26ba9b133509bd6260760d2b494368a84c92af487a63134.png)
 
 **Tips：本节课的答案在我们的代码仓库里面可以找到哦~**
 
@@ -509,7 +509,7 @@ B 线上的
 2. 每月占总销售的占比是多少？
 3. 平均每月的销售额是多少？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c9/c9d29ca8a505e86bc26ba9b133509bd6260760d2b494368a84c92af487a63134.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c9/c9d29ca8a505e86bc26ba9b133509bd6260760d2b494368a84c92af487a63134.png)
 
 **Tips：本节课的答案在我们的代码仓库里面可以找到哦~**
 
@@ -519,7 +519,7 @@ B 线上的
 
 在数据分析的过程中，我们会经常遇到下面的问题：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/84/84a3c02b6678707611d50ffc71fc805aef90400600dea42a2e7d4bb5facab05d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/84/84a3c02b6678707611d50ffc71fc805aef90400600dea42a2e7d4bb5facab05d.png)
 
 - 哪个营销渠道引流效果最佳？
     - 便于我们决定将资源、钱、精力，投入到哪个营销渠道。
@@ -535,7 +535,7 @@ B 线上的
 
 #### 2.5.2 什么是集中趋势指标？
 
-![image-20220826111157803](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a1/a1fe07755af0b748bb595300db81cba4a4097f38098276c4e5ac51abeac3aacb.png)
+![image-20220826111157803](https://blog.images.bornforthis.cn/docs-images/sha256/a1/a1fe07755af0b748bb595300db81cba4a4097f38098276c4e5ac51abeac3aacb.png)
 
 集中趋势指标体现的就是同来体现数据一般水平的指标，帮助我们快速了解数据概况。最常用的，就是上面提到的集中趋势指标，也就是就是 **平均值**。
 
@@ -543,7 +543,7 @@ B 线上的
 
 平均值的计算方式很简单：`平均值=所有数据相加/数据个数`
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c1/c12268e9b7ae8fd3691d70b30de830e28f667b3be925e263ca7ba5111aed3d88.png" alt="image-20220826111441791" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/c1/c12268e9b7ae8fd3691d70b30de830e28f667b3be925e263ca7ba5111aed3d88.png" alt="image-20220826111441791" style="zoom:25%;" />
 
 - 加和：151100
 - 平均值：16789
@@ -556,7 +556,7 @@ B 线上的
 
 如果你不用一些科学的方法，去处理异常值的话，它「异常值」会导致你平均值等，集中趋势指标出现异常「谬误」。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b60d0bbf4148d4249d683675fdfa4cb21234172daddab9b556eaad680ce6fa94.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b6/b60d0bbf4148d4249d683675fdfa4cb21234172daddab9b556eaad680ce6fa94.png)
 
 这个时候，我们把异常值去除，去除之后。我们再一次计算八个数据的加和、除以个数就可以得到平均值：`去除异常值后的平均值：10762`。
 
@@ -570,11 +570,11 @@ B 线上的
 
 中位数指的是，一组数据按顺序排列后，居于中间位置的数。
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/94/94ba6e7b1a2d0a7848907335d00aed4a5a28ff129a9cf50189398bdf5276097e.png" style="zoom:33%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/94/94ba6e7b1a2d0a7848907335d00aed4a5a28ff129a9cf50189398bdf5276097e.png" style="zoom:33%;" />
 
 我们讲刚刚上面九个人的薪酬，从小到大排列一下。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6c/6c0e3fcfddf28f60cb1e939a751ae2c71c07c57b8878ad749640f50c9e16bf9d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/6c/6c0e3fcfddf28f60cb1e939a751ae2c71c07c57b8878ad749640f50c9e16bf9d.png)
 
 最小的 7500，最大的 65000。位于中间的数值 11000。「也就是 (9 + 1)/2 的位置」
 
@@ -586,13 +586,13 @@ B 线上的
 
 众数指的是出现次数最多的数值。
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7f/7fddce5da4eb376a2621ac2e00af74483967e56d51eb76a61883b1309c36b58e.png" style="zoom:33%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/7f/7fddce5da4eb376a2621ac2e00af74483967e56d51eb76a61883b1309c36b58e.png" style="zoom:33%;" />
 
 我现在统计三百多人的薪酬，并且将这九个薪酬分为九个不同范围，对应薪酬范围人员出现次数，我也统计在上标中了。
 
 我们可以发现出现次数最大的值是 59，也就是它对应的 9001 到 10000 是我们这里所提到的众数。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/53/53544ae11546311882f0becfb76069030e072dfc33582d5c834fb71cb4c6542e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/53/53544ae11546311882f0becfb76069030e072dfc33582d5c834fb71cb4c6542e.png)
 
 众数反应的是局部的特征，也就是最密集、最频繁出现的数据项，就是我们所说的众数。对于众数来说，是可以有多个的。
 
@@ -600,7 +600,7 @@ B 线上的
 
 那对于，集中趋势指标。不同的，统计方式、统计标准。——都是从不同的维度，反应了我们的样本特性。那将刚刚的薪酬区间与对应的次数「人数」，画成折线图，我们得到下面的图表格。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/84/84b17cd5858d01d287d5b03acc8838898531a39e2b96c849ef99036a7c4f4f18.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/84/84b17cd5858d01d287d5b03acc8838898531a39e2b96c849ef99036a7c4f4f18.png)
 
 x 轴是我们的薪酬范围。纵轴「y」是我们的人数。通过连点成线的方式，我们得到了中间高两边低的折线图。
 
@@ -608,23 +608,23 @@ x 轴是我们的薪酬范围。纵轴「y」是我们的人数。通过连点�
 
 - 平均值：平均值是所有数据加和得到的值，除以它的个数。在上图也就是我们所有 300 多人的薪酬相加在一起，除以三百多人的个数。得到的平均值是 9500。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e9/e9eb01a85cd6bacc1cc761453d80766badf250bd0e21a0e044cb7cfd8818ebeb.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e9/e9eb01a85cd6bacc1cc761453d80766badf250bd0e21a0e044cb7cfd8818ebeb.png)
 
 也就是我们每个人能拿到的钱是 9500「平均值」。
 
 - 中位数：指的是数据项从小到达排列之后，处于中间的值。也就是 7001～8000。如果，你在这三百多人中，拿到了八千以上的薪酬，那说明你的薪酬是处在中上位置的。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8b/8b2dfbd9d3c31aaff22bc09e32b2532b1991636106aa7380147577a656c958d4.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8b/8b2dfbd9d3c31aaff22bc09e32b2532b1991636106aa7380147577a656c958d4.png)
 
 - 众数：指的是出现次数最多的数值，也就是这里最高的点所对应的 9001～10000。也就是说：在这三百多人中，拿 9001～10000 是最普遍的现象。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7e/7e0af47af80726817ea212424c23e2ad88a5d37bbdc5c4fcd518032c6fc57d39.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/7e/7e0af47af80726817ea212424c23e2ad88a5d37bbdc5c4fcd518032c6fc57d39.png)
 
 #### 2.5.6 课后作业
 
 基于本节课所学习的内容，给大家两组薪酬数据，计算这两组薪酬数据的 **平均值、中位数、众数** ，并根据平均值、中位数和众数来判断哪一组的薪酬水平更高，原因是什么？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f7/f7d5f535012db039fc27ce950336732b57689d7c9023ac17ea17ac553b44947e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f7/f7d5f535012db039fc27ce950336732b57689d7c9023ac17ea17ac553b44947e.png)
 
 你也可以把自己判断的理由和根据发表出，大家一起讨论～～
 
@@ -634,13 +634,13 @@ x 轴是我们的薪酬范围。纵轴「y」是我们的人数。通过连点�
 
 基于本节课所学习的内容，给大家两组薪酬数据，计算这两组薪酬数据的**平均值、中位数、众数**，并根据平均值、中位数和众数来判断哪一组的薪酬水平更高，原因是什么？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/df21882f5f63d882320825c2be2b6107c9ac386ecfd8ab4809c1f1608841c841.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/df/df21882f5f63d882320825c2be2b6107c9ac386ecfd8ab4809c1f1608841c841.jpg)
 
 你也可以把自己判断的理由和根据发表出，大家一起讨论～～
 
 > **Tips**：这两组薪酬数据的平均值是相等的哦，本节课作业的答案也会放到代码仓库去。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e2/e2612d00dea6917fbf183b2e8e225a29ada93be10dc12901d1f5cd5f5f0b12b6.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e2/e2612d00dea6917fbf183b2e8e225a29ada93be10dc12901d1f5cd5f5f0b12b6.jpg)
 
 ### 2.7 统计指标：离散趋势 
 
@@ -650,11 +650,11 @@ x 轴是我们的薪酬范围。纵轴「y」是我们的人数。通过连点�
 
 我以两支股票价格波动数据为例：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f5b0cdd13ddfb5326ae7ac611c05fd6503ffb98ef01bba3e92244d45f62916b0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f5/f5b0cdd13ddfb5326ae7ac611c05fd6503ffb98ef01bba3e92244d45f62916b0.png)
 
 可以看到，股票 A，也就是蓝色这条线，它的波动比较平缓。股票 B 也就是橘色的那条，波动比较大。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6c/6cea3fd8e236b328fd3193c30339c30b98b72dca3fc31901c82dc45acf28a0e8.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/6c/6cea3fd8e236b328fd3193c30339c30b98b72dca3fc31901c82dc45acf28a0e8.png)
 
 那用数值化来表示，股票 A 的波动幅度是在：10.22～10.88 之间；
 
@@ -674,11 +674,11 @@ x 轴是我们的薪酬范围。纵轴「y」是我们的人数。通过连点�
 
 我们将收盘价的数据，以折线图的形式进行表示：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ab/ab1365df1f0d5778b5933ab8938c5d2a8a2078401f52b47d31b40359eb132d5b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ab/ab1365df1f0d5778b5933ab8938c5d2a8a2078401f52b47d31b40359eb132d5b.png)
 
 **极差就是求：两个相差最远点的之间的距离。**
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/68/68b483b2c662b451068bce1a68882cf614ef5a4bae4101fd11128fc63f29006f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/68/68b483b2c662b451068bce1a68882cf614ef5a4bae4101fd11128fc63f29006f.png)
 
 那在上面的收盘价中，最小的值是 10.12，最大的值是 11.67。那通过计算：**极差=最大值-最小值=1.55** ，它体现的就是数据内部最大的差异情况。
 
@@ -686,7 +686,7 @@ x 轴是我们的薪酬范围。纵轴「y」是我们的人数。通过连点�
 
 我们来观察两组数据：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/da/da0cae4c0c731a6910317e2670ca2aeb53519fe880ff83db20a1f3ec8d5cf3e5.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/da/da0cae4c0c731a6910317e2670ca2aeb53519fe880ff83db20a1f3ec8d5cf3e5.png)
 
 可以试想一下，上图左边是公司项目组 A 的业绩情况，右边是公司项目组 B 的业绩情况。
 
@@ -694,25 +694,25 @@ x 轴是我们的薪酬范围。纵轴「y」是我们的人数。通过连点�
 
 在项目组 B 中，表现最好与表现最差的，它们相差额度是 200万。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b9451e50cb765c3c7c70db9ad0ec1e1e23b1a17b9b04309829bc2c807db0a87d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b9/b9451e50cb765c3c7c70db9ad0ec1e1e23b1a17b9b04309829bc2c807db0a87d.png)
 
 那么，通过观察我们的图表，项目组 A 相差 100 万，它们内部的离散程度，一定比项目组 B 相差 200 万极差的数据，离散程度要更小吗？——其实不一定的，也就是说： **极差不能体现，数据内部真正的离散程度** 。那么想要知道一组数据内部真正的差异情况，我们可以使用平均差。
 
 #### 2.7.3 平均差
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/29/29b91c732e7d38c5569625d54efb491dd375ab3c5169f7799227f88e461bc2f8.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/29/29b91c732e7d38c5569625d54efb491dd375ab3c5169f7799227f88e461bc2f8.png)
 
 平均差，就是指：每一个点，每一个数据，它相对于我们的平均值，与平均值之间的平均距离——也就是点与点之间的平均差异程度，就是我们的平均差。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8b/8bd294f612bc440feefc07dc6e5cd48927ff61b5765f401754b672e0f4532332.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8b/8bd294f612bc440feefc07dc6e5cd48927ff61b5765f401754b672e0f4532332.png)
 
 公式：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/13/13a1682af9c7e3250d3b55f00e0242c1158c602522a05f8e5eebfd391adb468f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/13/13a1682af9c7e3250d3b55f00e0242c1158c602522a05f8e5eebfd391adb468f.png)
 
 
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a7/a7ea67f9beeaa38a1fed8168acb672a0e573ad91a41d795705678481d71e16ad.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a7/a7ea67f9beeaa38a1fed8168acb672a0e573ad91a41d795705678481d71e16ad.png)
 
 上面的 0.32 指的就是我内部的价格差异。
 
@@ -724,7 +724,7 @@ x 轴是我们的薪酬范围。纵轴「y」是我们的人数。通过连点�
 
 那为了，更好的观察到，我们每天收盘价的变化，我把涨跌幅也放进去。
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/808d1badd06a27a92896973811b681997f88db7caaa5fa36019e404d75ecc633.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/80/808d1badd06a27a92896973811b681997f88db7caaa5fa36019e404d75ecc633.png" style="zoom:25%;" />
 
 大家可以观察一下，它明显是一个异常值的数据。
 
@@ -738,7 +738,7 @@ x 轴是我们的薪酬范围。纵轴「y」是我们的人数。通过连点�
 
 标准差的公式和平均差很相似：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/29/297e0fcab2184624d191cf6fd4f92549ab7f3faa9a4fee8969fa8f5bcd12f226.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/29/297e0fcab2184624d191cf6fd4f92549ab7f3faa9a4fee8969fa8f5bcd12f226.png)
 
 
 
@@ -746,15 +746,15 @@ x 轴是我们的薪酬范围。纵轴「y」是我们的人数。通过连点�
 
 我们还是用刚刚的收盘股票数据，来验证一下。收盘价 A 是原有的收盘价数据，收盘价 B 是把异常值换成了和上一个交易日相同的数据。（也就是抹去了异常值的存在）
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/13/13c856b4c5beff1b2ab92a3fa190a9b8a28dcd017cdfa16d16d3b7cde270adb3.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/13/13c856b4c5beff1b2ab92a3fa190a9b8a28dcd017cdfa16d16d3b7cde270adb3.png" style="zoom:25%;" />
 
 那这个时候，我们计算这两组数据的平均差和标准差。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f4/f4102fef43dc3e4918758a5474c92db8cf8908c7ec80543aee9cc183f1a0f815.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f4/f4102fef43dc3e4918758a5474c92db8cf8908c7ec80543aee9cc183f1a0f815.png)
 
 A/B 的平均差，差了 1.8 倍。标准差差了 2.0 倍。也就是说用标准差更能「更直观」体现数据内部的差异程度。「离散程度」
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/05/05cb1e5e51d3275bd3a4424b4347c8f34c77e84af234eea4bff23c1ecfa9948b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/05/05cb1e5e51d3275bd3a4424b4347c8f34c77e84af234eea4bff23c1ecfa9948b.png)
 
 实际上，标准差也是我们最常用的离散指标。在风控相关的：比如股票投资品类的风险的时候，我们都是使用标准差来对价格数据进行计算。
 
@@ -762,11 +762,11 @@ A/B 的平均差，差了 1.8 倍。标准差差了 2.0 倍。也就是说用标
 
 #### 2.7.5 章节回顾
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3d/3db932ab35f6ab8eac16c1149de8695e695a2e50aad0ebc417fc171f603e6517.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3d/3db932ab35f6ab8eac16c1149de8695e695a2e50aad0ebc417fc171f603e6517.png)
 
 #### 2.7.6 课后作业
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ae/aeb83eabecc5fbdb4594f01c56983c112573c0fb295f269a76c1a7156f648ed8.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ae/aeb83eabecc5fbdb4594f01c56983c112573c0fb295f269a76c1a7156f648ed8.png)
 
 ### 2.8 【学习任务】动手算两组股票数据的统计指标
 
@@ -774,7 +774,7 @@ A/B 的平均差，差了 1.8 倍。标准差差了 2.0 倍。也就是说用标
 
 根据给出的两组股票数据，动手算一下它们的极差、平均差、标准差：
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f7/f76e6d4591a1773a9fef4ccb4b1f87767058359e928a0c902c8dd46bc3d08ee0.png" style="zoom: 50%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/f7/f76e6d4591a1773a9fef4ccb4b1f87767058359e928a0c902c8dd46bc3d08ee0.png" style="zoom: 50%;" />
 
 计算完成之后可以判断一下哪一支股票的风险更大呢？
 
@@ -816,7 +816,7 @@ A/B 的平均差，差了 1.8 倍。标准差差了 2.0 倍。也就是说用标
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -832,4 +832,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

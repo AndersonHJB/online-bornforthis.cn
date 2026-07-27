@@ -23,7 +23,7 @@ backToTop: true
 toc: true
 ---
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f7/f7821115d744fb62587a69c556b361e79860f4c39c291f253f8b53492bd5a374.jpg)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/f7/f7821115d744fb62587a69c556b361e79860f4c39c291f253f8b53492bd5a374.jpg)
 
 > 富贵必从勤苦得。——杜甫
 
@@ -65,11 +65,11 @@ toc: true
 
 2. 下载完成后打开安装程序，界面上勾选「Install launcher for all users」和「Add Python 3.7 to Path」（**重要**）。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cb7c135a66ec56b112ad8078f386105b9133442f67a87b62ec575a95e110d72f.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/cb/cb7c135a66ec56b112ad8078f386105b9133442f67a87b62ec575a95e110d72f.png)
 
 之后点击「Install Now」完成后续的安装。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/23/23d90d9b0d2be37ac6c9f9d7fc0237fd837dee1ea1d127710a0182ed4c5ffb95.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/23/23d90d9b0d2be37ac6c9f9d7fc0237fd837dee1ea1d127710a0182ed4c5ffb95.png)
 
 3. 我们可以通过如下方式来验证安装是否成功，打开命令行（CMD）输入：
 
@@ -167,7 +167,7 @@ python3 --version
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -183,4 +183,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

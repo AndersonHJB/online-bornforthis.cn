@@ -26,14 +26,14 @@ toc: true
 
 ## 资料
 
--   [Asignment_1.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/09-liujiahui/01-Coursework-1-Property-Viewer/Asignment_1.pdf)
--   [cw1-base.zip](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/09-liujiahui/01-Coursework-1-Property-Viewer/cw1-base.zip)
--   [PPA-Term1-01.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/09-liujiahui/kejian/PPA-Term1-01.pdf)
--   [PPA-Term1-02.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/09-liujiahui/kejian/PPA-Term1-02.pdf)
--   [PPA-Term1-03.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/09-liujiahui/kejian/PPA-Term1-03.pdf)
--   [PPA-Term1-04.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/09-liujiahui/kejian/PPA-Term1-04.pdf)
--   [PPA-Term1-05.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/09-liujiahui/kejian/PPA-Term1-05.pdf)
--   [PPA-Term1-05.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/09-liujiahui/kejian/PPA-Term1-05.pdf)
+-   [Asignment_1.pdf](https://blog.images.bornforthis.cn/1v1/09-liujiahui/01-Coursework-1-Property-Viewer/Asignment_1.pdf)
+-   [cw1-base.zip](https://blog.images.bornforthis.cn/1v1/09-liujiahui/01-Coursework-1-Property-Viewer/cw1-base.zip)
+-   [PPA-Term1-01.pdf](https://blog.images.bornforthis.cn/1v1/09-liujiahui/kejian/PPA-Term1-01.pdf)
+-   [PPA-Term1-02.pdf](https://blog.images.bornforthis.cn/1v1/09-liujiahui/kejian/PPA-Term1-02.pdf)
+-   [PPA-Term1-03.pdf](https://blog.images.bornforthis.cn/1v1/09-liujiahui/kejian/PPA-Term1-03.pdf)
+-   [PPA-Term1-04.pdf](https://blog.images.bornforthis.cn/1v1/09-liujiahui/kejian/PPA-Term1-04.pdf)
+-   [PPA-Term1-05.pdf](https://blog.images.bornforthis.cn/1v1/09-liujiahui/kejian/PPA-Term1-05.pdf)
+-   [PPA-Term1-05.pdf](https://blog.images.bornforthis.cn/1v1/09-liujiahui/kejian/PPA-Term1-05.pdf)
 
 ## PPA01A
 
@@ -54,7 +54,7 @@ Type: Assignment
 - 当你打开它时，你会看到下面描述的类结构。
 - 四个类中的三个已经完全实现，所以你不需要修改它们。有一个类，**PropertyViewer** ，还没有完成，你的工作是完成这个类的实现。
 
-![01](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/7401cdcec56cec10df114ddaa71692a766b94f13217a4b60303d292df61add41.png)
+![01](https://blog.images.bornforthis.cn/docs-images/sha256/74/7401cdcec56cec10df114ddaa71692a766b94f13217a4b60303d292df61add41.png)
 
 
 
@@ -135,7 +135,7 @@ Type: Assignment
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 

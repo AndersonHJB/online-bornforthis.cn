@@ -31,16 +31,16 @@ toc: true
 
 附图第一张是直接拍摄后的结果，第二张是后期处理后的结果，其余四张是局部放大，可以看到恢复的细节。
 
-![01](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/25be552629753ea805ec8dd6fcef29379a230f65df55512ff249d928c1ec2258.jpeg)
+![01](https://blog.images.bornforthis.cn/docs-images/sha256/25/25be552629753ea805ec8dd6fcef29379a230f65df55512ff249d928c1ec2258.jpeg)
 
-![01](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/16849a6fd354884fd1e3d86a9dda2adeca9467dd53fed1aba13486b2017781e8.jpeg)
+![01](https://blog.images.bornforthis.cn/docs-images/sha256/16/16849a6fd354884fd1e3d86a9dda2adeca9467dd53fed1aba13486b2017781e8.jpeg)
 
-![01](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f0/f07e3d6f7fe462f4e7e1d114f7db6089e2425e763e5943875100aa114ecae191.jpeg)
+![01](https://blog.images.bornforthis.cn/docs-images/sha256/f0/f07e3d6f7fe462f4e7e1d114f7db6089e2425e763e5943875100aa114ecae191.jpeg)
 
-![01](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4f/4fea590abf72da7e7770067a1060e483e874016c06a426ccf1bab2abd2fbfdc4.jpeg)
+![01](https://blog.images.bornforthis.cn/docs-images/sha256/4f/4fea590abf72da7e7770067a1060e483e874016c06a426ccf1bab2abd2fbfdc4.jpeg)
 
-![01](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/29/295e344c9f7f8adeab45e354dd315a696487ac180541e269d819655b84f1bceb.jpeg)
+![01](https://blog.images.bornforthis.cn/docs-images/sha256/29/295e344c9f7f8adeab45e354dd315a696487ac180541e269d819655b84f1bceb.jpeg)
 
-![01](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b3/b3a4ba9c5c14f571d9e149c82b8d239b476fdc064277eb7bb9dd9299a525e1df.jpeg)
+![01](https://blog.images.bornforthis.cn/docs-images/sha256/b3/b3a4ba9c5c14f571d9e149c82b8d239b476fdc064277eb7bb9dd9299a525e1df.jpeg)
 
 > 需要自由职业摄影师的，加我微信：Jiabcdefh

@@ -85,11 +85,11 @@ toc: true
 
 ## 3. 图片
 
-![image-20240320150004382](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/67/67c7604581b7aade97bf62b9ea41fe6f547359e374540b5cf442a27c8c3039ce.png)
+![image-20240320150004382](https://blog.images.bornforthis.cn/docs-images/sha256/67/67c7604581b7aade97bf62b9ea41fe6f547359e374540b5cf442a27c8c3039ce.png)
 
 
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/82/82587d80543b01fc95411117cbdaab91a8167859d8a14c6de795b5777fea443e.png" alt="image-20240320150146782" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/82/82587d80543b01fc95411117cbdaab91a8167859d8a14c6de795b5777fea443e.png" alt="image-20240320150146782" style="zoom:25%;" />
 
 
 
@@ -129,7 +129,7 @@ $x^2 + y_1 + \sqrt{10} + \frac{1}{2}$​
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -145,7 +145,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

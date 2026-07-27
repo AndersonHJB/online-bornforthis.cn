@@ -150,7 +150,7 @@ Matching games are a popular class of games, with titles like Bejeweled and Cand
 
 > 匹配游戏是一种受欢迎的游戏类型，像《宝石迷阵》和《糖果传奇》这样的游戏在近年来取得了巨大的成功。在这个任务中，我们将创建自己的基本匹配游戏。
 
-![Bejeweled](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/17e225b7c9b5df2c3c7f20fb2cec33b51e1dd50705170aaa8f45c9b2cd2a307a.png)
+![Bejeweled](https://blog.images.bornforthis.cn/docs-images/sha256/17/17e225b7c9b5df2c3c7f20fb2cec33b51e1dd50705170aaa8f45c9b2cd2a307a.png)
 
 An example of the Bejeweled matching game (Wikipedia).
 
@@ -171,7 +171,7 @@ board = [['B', 'G', 'B', 'Y'],
 ['B', 'Z', 'Z', 'Z']]
 ```
 
-![Our representation](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/33/33be77ec53d23fb840a986e69202f2a1f6d290d77f38219f938be367662811b6.png)
+![Our representation](https://blog.images.bornforthis.cn/docs-images/sha256/33/33be77ec53d23fb840a986e69202f2a1f6d290d77f38219f938be367662811b6.png)
 
 Note that `board[0][0]` therefore corresponds to the position in the top-left corner of the board. A 4 x 4 board is shown, but our game will allow for boards of sizes up to 99 x 99.
 
@@ -1299,7 +1299,7 @@ print(legal_move([["A", "A", "D", "C"], ["A", "B", "C", "A"], ["C", "B", "B", "A
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/da/dac42ea751b6cb80eaa9baea05c90fa3cbc82b4e319e1a822ff1ebc08cf08080.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/da/dac42ea751b6cb80eaa9baea05c90fa3cbc82b4e319e1a822ff1ebc08cf08080.png)
 
 ## Make a Move
 
@@ -1325,7 +1325,7 @@ In the event of a tie (i.e. a single move causes more than one 2 x 2 square to b
 
 > 如果出现平局（即一个单一的移动导致形成多个2x2的正方形），则以最低行号开头的正方形将被消除。如果两个正方形都从同一行号开始，则列号最低的正方形将被消除。在填充其间隙之前，只能消除一个正方形。
 
-![image-20230424212928462](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ab/ab108246f8a6b1bd748d9157bc54a1529d48e9ce5f3d439ee267ab030fa58a90.png)
+![image-20230424212928462](https://blog.images.bornforthis.cn/docs-images/sha256/ab/ab108246f8a6b1bd748d9157bc54a1529d48e9ce5f3d439ee267ab030fa58a90.png)
 
 For example, given the following board:
 
@@ -1962,7 +1962,7 @@ def ai_player(board):
 
 @tab 一个隐藏测试没有通过
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6d/6dc43c7dba60fd216a7a731b2b84edc767567a0f23d6e852aca1b44b4d00534e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/6d/6dc43c7dba60fd216a7a731b2b84edc767567a0f23d6e852aca1b44b4d00534e.png)
 
 ```python {248-283}
 DIR_UP = "u"
@@ -3293,7 +3293,7 @@ print(ai_player(board2))
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -3309,4 +3309,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

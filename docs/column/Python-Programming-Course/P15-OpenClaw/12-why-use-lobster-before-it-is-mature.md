@@ -17,9 +17,9 @@ backToTop: true
 toc: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/60/60528c4b28e374e428b7813f8c10548e514078e071b34c329f9ee88b5729dce1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/60/60528c4b28e374e428b7813f8c10548e514078e071b34c329f9ee88b5729dce1.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fe/fe38a135af6635774f5067ee397a8011bf60153282c58d97b056bf3257d278da.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fe/fe38a135af6635774f5067ee397a8011bf60153282c58d97b056bf3257d278da.png)
 
 选择更适合你的一句：
 
@@ -33,7 +33,7 @@ toc: true
 
 ## 1. OpenClaw：它根本不是一个“产品”
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a5/a543178930c475047d1f703fd5b16720d95db1a28ac1eccc544bab9bf43c60fe.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a5/a543178930c475047d1f703fd5b16720d95db1a28ac1eccc544bab9bf43c60fe.png)
 
 你好，我是悦创。
 
@@ -49,7 +49,7 @@ toc: true
 
 ## 2. 一个关键问题：技术必须“成熟”才能用吗？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/10/1022adcf56952fff003eee110e580881586b7ca037564fb9cbccb38e5e33d56d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/10/1022adcf56952fff003eee110e580881586b7ca037564fb9cbccb38e5e33d56d.png)
 
 但问题就在这里——**我们是不是只能在“成熟之后”才去使用一项技术？**
 
@@ -67,7 +67,7 @@ toc: true
 
 ## 3. 火车的隐喻：一个真实发生过的故事
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/21/21515a19b7180f849243db50bb2fa5edb613c96c55127e266ee0bb51a028d473.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/21/21515a19b7180f849243db50bb2fa5edb613c96c55127e266ee0bb51a028d473.png)
 
 ::: tip 懒人版
 
@@ -109,7 +109,7 @@ toc: true
 
 ## 4. 为什么必须“先坐上火车”？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/12/12eb22079cf8188a25fb225da67ad842c5ccb96710964c97029e26748dca79df.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/12/12eb22079cf8188a25fb225da67ad842c5ccb96710964c97029e26748dca79df.png)
 
 我一直有一个很明确的判断：当火车出现的那一刻，我希望我自己、以及我身边的人，是那个坐在火车上的人，而不是那个站在轨道旁边评判它的人。哪怕它慢、哪怕它贵、哪怕它不稳定。
 
@@ -119,7 +119,7 @@ toc: true
 
 ## 5. 使用 OpenClaw 的真正价值：不是赚钱，是认知升级
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/85/85233374af6407757e2cf75f568433f0f5d7bfbc36f79dddaae401379002ca95.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/85/85233374af6407757e2cf75f568433f0f5d7bfbc36f79dddaae401379002ca95.png)
 
 同样的逻辑，放在今天的 OpenClaw，放在“龙虾”这个AI身上，是完全成立的。
 
@@ -140,7 +140,7 @@ toc: true
 
 ## 6. 代际影响：你用不用，决定下一代学什么
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/46/4626171ca0a54a6d39d5dabfcd17f955c19c4a2dab024bcd11b2e7d5b5c4e5f2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/46/4626171ca0a54a6d39d5dabfcd17f955c19c4a2dab024bcd11b2e7d5b5c4e5f2.png)
 
 就像那个时代，如果你已经坐过火车，你大概率不会再让你的孩子把“骑马”当作一项核心竞争力去培养。
 
@@ -158,7 +158,7 @@ AI也是一样。
 
 ## 7. AI 时代的特殊性：变化是指数级的
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a1/a1e95ca0df8901f1b9bc735c4513b556103bbeff2da9cfa301c4dc6975ed2156.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a1/a1e95ca0df8901f1b9bc735c4513b556103bbeff2da9cfa301c4dc6975ed2156.png)
 
 区别在于，这一轮变化，比火车时代更激烈。
 
@@ -168,7 +168,7 @@ AI也是一样。
 
 ## 8. 结论：把 OpenClaw 当作“时代入口”，而不是工具
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e4d77b3b7b08ac5e9fe49c9466ffb60160676252ecbc52416daed1793f333121.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e4/e4d77b3b7b08ac5e9fe49c9466ffb60160676252ecbc52416daed1793f333121.png)
 
 所以我一直在强调一件事：
 
@@ -186,7 +186,7 @@ AI也是一样。
 
 ## 9. 最后一句话
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/90/9054ad5174f9ed010e5cca78afbb548985a0a6189013e6931371a483e1962c15.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/90/9054ad5174f9ed010e5cca78afbb548985a0a6189013e6931371a483e1962c15.png)
 
 所以我的建议很简单：**在龙虾还没有变得完美之前，就去用它。**
 
@@ -415,7 +415,7 @@ AI也是一样。
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -431,4 +431,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

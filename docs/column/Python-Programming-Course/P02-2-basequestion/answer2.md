@@ -165,7 +165,7 @@ x 自身的值不会被 `replace()` 影响。具体理解可以参考 [https://b
 
 ::: details 图片版答案： 
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/dff57dafb31a5c9f2fcec286174205bb1944b37ab1f902814202695e83e8ca74.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/df/dff57dafb31a5c9f2fcec286174205bb1944b37ab1f902814202695e83e8ca74.png)
 
 :::
 

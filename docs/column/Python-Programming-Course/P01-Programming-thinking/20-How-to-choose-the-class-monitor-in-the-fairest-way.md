@@ -17,7 +17,7 @@ backToTop: true
 toc: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c1/c11dc5544db99cf016212c9c416042fab97ca6ff4f6355b87db98f5e1127bc90.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c1/c11dc5544db99cf016212c9c416042fab97ca6ff4f6355b87db98f5e1127bc90.png)
 
 有时候，做选择真的是一件令人头大的事。
 
@@ -27,7 +27,7 @@ toc: true
 
 ## 1. 「情景剧开场」三位候选班长
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b5/b5738c31ee3e523112e596830c4038ddae1d2a3968250bff2eaf8d15cb854c2b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b5/b5738c31ee3e523112e596830c4038ddae1d2a3968250bff2eaf8d15cb854c2b.png)
 
 在正式开始之前，我先请你看一个例子。
 

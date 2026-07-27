@@ -48,7 +48,7 @@ HTML **由一系列的元素组成**，这些元素用于组成网页上的模�
 
 头部的效果：
 
-![image-20220713215158944](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fc/fccf37c5f7f1377d4839b111b1ebf8571b66a5b3b44a19ad5f2ab848f0847e68.png)
+![image-20220713215158944](https://blog.images.bornforthis.cn/docs-images/sha256/fc/fccf37c5f7f1377d4839b111b1ebf8571b66a5b3b44a19ad5f2ab848f0847e68.png)
 
 ## 学习 HTML 的重点
 
@@ -70,7 +70,7 @@ HTML 的标签大约几十个。每个标签有几个属性。在初学阶段，
 
 HTML 的元素构成如图：
 
-![HTML概述](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/90/90b79d8824d8df21bd0def023858dcedd1e67856a5ac054a1690448823ff0a53.png)
+![HTML概述](https://blog.images.bornforthis.cn/docs-images/sha256/90/90b79d8824d8df21bd0def023858dcedd1e67856a5ac054a1690448823ff0a53.png)
 
 - **开始标签：** 开始标签包含元素的名称（本例为 P元素），被一对尖括号“`<>`”包围。它表示元素从这里开始 ， 本例则表示段落由此开始。
 
@@ -83,7 +83,7 @@ HTML 的元素构成如图：
 
 元素还可以包含属性。**属性就是元素的额外信息**，这些信息不会出现在网页的内容中。
 
-![HTML概述-02](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0c/0c861534d87495fb35c686c9f899f07910ed94430a0a0e2bc667c931a974ecd5.png)
+![HTML概述-02](https://blog.images.bornforthis.cn/docs-images/sha256/0c/0c861534d87495fb35c686c9f899f07910ed94430a0a0e2bc667c931a974ecd5.png)
 
 本例中，属性“`class`”额外说明了 `<p>` 元素的识别名字，“`class` ”可以用作识别 `<p>` 元素的样式以及其它信息。
 
@@ -100,11 +100,11 @@ HTML 的元素构成如图：
 
 如：下面的语法是错误的。
 
-![image-20220714171356444](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a3/a3fd37df19807db6194f2311f88bc4be9841bea2b0ded3cb486857ccbbfb40b5.png)
+![image-20220714171356444](https://blog.images.bornforthis.cn/docs-images/sha256/a3/a3fd37df19807db6194f2311f88bc4be9841bea2b0ded3cb486857ccbbfb40b5.png)
 
 - **如果在属性值中已使用了双引号，双引号里面的内容还需要引用，则得使用单引号。**
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4f/4f3d51d9cba3136bea03ec84b2b1a7513677b3a68ecd0a34bf04981cea425813.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/4f/4f3d51d9cba3136bea03ec84b2b1a7513677b3a68ecd0a34bf04981cea425813.png)
 
 【排序】怎么排列才能正确显示 `<em>` 元素？
 
@@ -211,11 +211,11 @@ HTML 的元素构成如图：
 
 #### 之前：内联元素运行效果
 
-![image-20220716092933554](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/34/34dcb5219dccca59dd335b7e51876a047c16afd5ecdb9f702b29f67c412eb8ca.png)
+![image-20220716092933554](https://blog.images.bornforthis.cn/docs-images/sha256/34/34dcb5219dccca59dd335b7e51876a047c16afd5ecdb9f702b29f67c412eb8ca.png)
 
 #### 之后：块级元素运行效果
 
-![image-20220716093001963](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cf/cf7c467ad30c2163215122f1539e839b141f3ec5a65cb01c03e1df7d8a687482.png)
+![image-20220716093001963](https://blog.images.bornforthis.cn/docs-images/sha256/cf/cf7c467ad30c2163215122f1539e839b141f3ec5a65cb01c03e1df7d8a687482.png)
 
 ## 空元素
 
@@ -237,7 +237,7 @@ HTML 的元素构成如图：
 
 你看到这张图片了吗？
 
-![image-20220716094109125](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6b/6b5ba8b38d8b6fb0eb0aaa39544c4745ad30bd50722570f7f68f6d98bc5e8b99.png)
+![image-20220716094109125](https://blog.images.bornforthis.cn/docs-images/sha256/6b/6b5ba8b38d8b6fb0eb0aaa39544c4745ad30bd50722570f7f68f6d98bc5e8b99.png)
 
 它是由 `<img>` 元素中的属性 `src =""` 双引号内的地址，向浏览器指定了一张图片。
 
@@ -266,7 +266,7 @@ HTML 的元素构成如图：
 - `<head></head>`：`<head>` 元素是一个容器。它包含了所有 HTML 页面的头部信息。这些信息用户不一定全都看见。这些信息包括搜索关键字，页面描述，CSS 样式等。
 -  `<title></title>`：`<title>` 元素用来设置页面标题。它出现在浏览器标签上，当你的浏览器标记或收藏页面时，它可用来描述页面。如：`bornforthis.cn` 的主页面 title
 
-![image-20220801231401758](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8c/8c6c35ebe359df08e9ee188262333d6ad93c033e072d332b612cdb57d980d446.png)
+![image-20220801231401758](https://blog.images.bornforthis.cn/docs-images/sha256/8c/8c6c35ebe359df08e9ee188262333d6ad93c033e072d332b612cdb57d980d446.png)
 
 
 
@@ -276,7 +276,7 @@ HTML 的元素构成如图：
 
 【选词填空】选择合适的元素填写在空格处。
 
-![image-20220801231641053](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/2576adfe43dbd1362b213dc5a5bb7b2c5bd51eb01c6623f5bee15b354b05a441.png)
+![image-20220801231641053](https://blog.images.bornforthis.cn/docs-images/sha256/25/2576adfe43dbd1362b213dc5a5bb7b2c5bd51eb01c6623f5bee15b354b05a441.png)
 
 
 
@@ -304,7 +304,7 @@ My Puppy</title>
 
 ::: details 答案
 
-![image-20220801232129060](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6f/6fbfab0d1b51cbce539bd0989005a264f6a342c932e4c6ba8d96703431cd5d7f.png)
+![image-20220801232129060](https://blog.images.bornforthis.cn/docs-images/sha256/6f/6fbfab0d1b51cbce539bd0989005a264f6a342c932e4c6ba8d96703431cd5d7f.png)
 
 :::
 
@@ -312,7 +312,7 @@ My Puppy</title>
 
 为了方便网民阅读网页，网页具有一定的结构，如图：
 
-![image-20220801232355720](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/82/82ddcb8f130f7f392e336e6da1516fbdbf892ec5127d1768fc93ee729d2181c4.png)
+![image-20220801232355720](https://blog.images.bornforthis.cn/docs-images/sha256/82/82ddcb8f130f7f392e336e6da1516fbdbf892ec5127d1768fc93ee729d2181c4.png)
 
 以上是一则新闻，它的结构包含标题、图片和段落。
 
@@ -337,7 +337,7 @@ My Puppy</title>
 
 下图：
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/38/380a5fac16f63d477b9ca8e413836921de9fc425cb377a3bacc1566648e7851d.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/38/380a5fac16f63d477b9ca8e413836921de9fc425cb377a3bacc1566648e7851d.png)
 
 点击“尝试一下”，看看 `<img>` 元素运行的效果：
 
@@ -368,7 +368,7 @@ My Puppy</title>
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -384,7 +384,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

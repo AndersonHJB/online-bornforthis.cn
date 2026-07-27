@@ -37,11 +37,11 @@ toc: true
 
 那到底什么是图灵测试呢？今天，我会借着一部叫做 **《机械姬》** 的电影，给你讲一讲。
 
-![《机械姬》电影海报](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/98/984ebf220b910846ed08813a9015c4dfe408bc4f339b4cb238b2e9044d71cb80.png)
+![《机械姬》电影海报](https://blog.images.bornforthis.cn/docs-images/sha256/98/984ebf220b910846ed08813a9015c4dfe408bc4f339b4cb238b2e9044d71cb80.png)
 
 故事的主角叫做**史密斯**，是一位**程序员**，在一家特别厉害的科技公司工作。有一天呢，这个公司搞了一个内部的抽奖活动。恰巧，史密斯就抽到了**头号大奖**，获得了和老板共度周末的机会，这可把他高兴坏了。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f58baad8c3d78dc5668a9c2fd317a858155937a15bfd76a1963de8bbc8cea9d9.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f5/f58baad8c3d78dc5668a9c2fd317a858155937a15bfd76a1963de8bbc8cea9d9.png)
 
 你可能要问了，跟老板共度周末有什么好高兴的？在公司不是天天能见着老板吗？还真不是，这个公司的老板**神神秘秘**的，不轻易露面。而且这个老板特别厉害，算得上是一位**人工智能专家**了，要是能跟他共度周末，估计能学不少东西呢。
 
@@ -53,7 +53,7 @@ toc: true
 
 你看，老板也提到了图灵测试，那到底什么是图灵测试呢？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/af/af4833f0dbea11d80cf4fee2e8855304b335eb7ac4818be4ef796babbbed8015.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/af/af4833f0dbea11d80cf4fee2e8855304b335eb7ac4818be4ef796babbbed8015.jpg)
 
 **图灵**是一个科学家的名字。图灵测试呢，就是他提出来的。这个图灵特别厉害，被称作**人工智能之父**，在后面，我还会详细给你说他的故事。
 
@@ -95,7 +95,7 @@ toc: true
 
 比方说，你可能碰到过一类数学题，问你一个数字，加上10，乘以10，减去10，除以10之后，还是10，问你这个数字是几。这时候，你用逆推法，倒着算一遍就特别容易算出答案是1，感兴趣的话你可以动手试一试。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1d/1d48509d54a21a2ee24df7320f58cffe06cdb97fad39614fd1fb87b37cc72fe2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/1d/1d48509d54a21a2ee24df7320f58cffe06cdb97fad39614fd1fb87b37cc72fe2.png)
 
 
 

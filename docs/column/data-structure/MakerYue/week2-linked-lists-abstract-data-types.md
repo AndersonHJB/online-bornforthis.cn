@@ -384,7 +384,7 @@ def add_last(self, x):
 
 那知道原因之后，我们如何解决呢？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/13/13b0433a9fb561d3a555c982de08af3e4c371b6912502651ee9f7ea45ecae5fe.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/13/13b0433a9fb561d3a555c982de08af3e4c371b6912502651ee9f7ea45ecae5fe.jpeg)
 
 ——**<span style="color:orange">加一个哨兵在最前面</span>**
 
@@ -392,7 +392,7 @@ def add_last(self, x):
 
 也就是第一个不算数据，但是从这个开始，往后面的人才算数据。「也就是不管你是空链表还是非空链表，第一位都是我们哨兵同志」
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/25/256c98f5439aad656a3d20a1a0eee2ff9e100d117ed1841593fbf576cd425c02.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/25/256c98f5439aad656a3d20a1a0eee2ff9e100d117ed1841593fbf576cd425c02.png)
 
 
 
@@ -680,9 +680,9 @@ if __name__ == '__main__':
 
 why？因为移除最后一个后，我们还得找到最新的最后一个，也就是我们删除的上一个。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a4d61c3a12c3ffb4934d8fc0585ddacf9b31c91eeda2a25ca186bf0df5057c2f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a4/a4d61c3a12c3ffb4934d8fc0585ddacf9b31c91eeda2a25ca186bf0df5057c2f.png)
 
-![ ](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/87/87a0da078578b9b9f8ab5a40375f64b420b1887523f60182489900950c6cff31.png)
+![ ](https://blog.images.bornforthis.cn/docs-images/sha256/87/87a0da078578b9b9f8ab5a40375f64b420b1887523f60182489900950c6cff31.png)
 
 有可能会想着缓存，但是我们需要知道：我们不可能把每一个缓存，我们不可能就删一次，我们也不知道具体链表会有多长。不可能每次删除最后一个，都存上一个节点。
 
@@ -692,7 +692,7 @@ why？因为移除最后一个后，我们还得找到最新的最后一个，�
 
 ### 4.1 初探双向链表实现
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cc/ccfea1fe3833d0ce58c8d0081c0ca10cd76efad3eaf7d097f8601cae2d2a1517.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/cc/ccfea1fe3833d0ce58c8d0081c0ca10cd76efad3eaf7d097f8601cae2d2a1517.png)
 
 那我们就多加一条指针，每个节点：不仅仅记录下一个节点是谁，还记录上一个节点。
 
@@ -1033,7 +1033,7 @@ test_dllist()
 
 
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cf/cfc8b8b7ab9084f3f170fcde66749d9c4e3bca2f011eafbe468e7754c836a85d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/cf/cfc8b8b7ab9084f3f170fcde66749d9c4e3bca2f011eafbe468e7754c836a85d.png)
 
 
 
@@ -1202,23 +1202,23 @@ if __name__ == '__main__':
 
 ### 4.7 形成一个环状链表
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7a/7ac651ab771ea6f68a78b440bf39bfcf6498675a02f425d883d3f3821272905c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/7a/7ac651ab771ea6f68a78b440bf39bfcf6498675a02f425d883d3f3821272905c.png)
 
 - 形成一个回环
 - 哨兵节点的下一个元素是第一个「号」元素
 - 哨兵节点的前一个元素是最后一号元素
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9c/9c7fcde370cb3e0750290c80cd47c54cb06411d66715bf12af2648e96cc80810.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9c/9c7fcde370cb3e0750290c80cd47c54cb06411d66715bf12af2648e96cc80810.png)
 
 ::: tabs
 
 @tab 1
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a49d6edb3b65fb40bee35f24c323b9f5f06c2c4ba1ea752e2bd3cf17666f9cd7.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a4/a49d6edb3b65fb40bee35f24c323b9f5f06c2c4ba1ea752e2bd3cf17666f9cd7.png)
 
 @tab 2
 
-![其实就是哨兵前后都指向新添加的节点](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/57/57e99ab86bc3f87d9397b43a35f19e6e9e2511b4baa302d11d53dbdea0180475.png)
+![其实就是哨兵前后都指向新添加的节点](https://blog.images.bornforthis.cn/docs-images/sha256/57/57e99ab86bc3f87d9397b43a35f19e6e9e2511b4baa302d11d53dbdea0180475.png)
 
 :::
 
@@ -1261,35 +1261,35 @@ class DLList(object):
 
 @tab 1
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9a/9a54c9863d8373479e4df6a6bacba6a661a5f468c9bb38768ab79c3f178e242e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9a/9a54c9863d8373479e4df6a6bacba6a661a5f468c9bb38768ab79c3f178e242e.png)
 
 @tab 2-中间插入一个新的元素
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a6/a6610d443b63ac94b4e874174d957a74a4feb0f88a9c186a82a3640a64a400b2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a6/a6610d443b63ac94b4e874174d957a74a4feb0f88a9c186a82a3640a64a400b2.png)
 
 @tab 3-插入节点-1
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d2/d26677cd2d875b2a73b4bbf1701ee742207bf8fd053de1a59ed099f93e3a2fb9.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d2/d26677cd2d875b2a73b4bbf1701ee742207bf8fd053de1a59ed099f93e3a2fb9.png)
 
 @tab 4-插入节点-2
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3f/3f850abb260ea3b5f55291f05e5e933615d9e21481763fbc2f0cc8a7ced20c66.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3f/3f850abb260ea3b5f55291f05e5e933615d9e21481763fbc2f0cc8a7ced20c66.png)
 
 
 
 @tab other
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/15cab241104033435c67b8db04a90c40c988fe2501a8f0054f8cf0cb4f626438.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/15/15cab241104033435c67b8db04a90c40c988fe2501a8f0054f8cf0cb4f626438.png)
 
 @tab other2-下面的图完成了哪几条线的修改
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/70/7055362a052b3502be338aee860366a6fcb8dc08df8246fbe0ca92d88a1fba53.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/70/7055362a052b3502be338aee860366a6fcb8dc08df8246fbe0ca92d88a1fba53.png)
 
 
 
 @tab other 步骤
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/81/8158fab6acb9dc82e719b45c1349e9aa7f4f5f4235298d197821dec8e6adc3a7.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/81/8158fab6acb9dc82e719b45c1349e9aa7f4f5f4235298d197821dec8e6adc3a7.png)
 
 :::
 
@@ -1440,21 +1440,21 @@ class DLList(object):
 
 @tab img 0
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/89/8979fa970183e4217138b622a4b80f18d13e3a645a2608808b9b3c574cce4a4a.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/89/8979fa970183e4217138b622a4b80f18d13e3a645a2608808b9b3c574cce4a4a.jpeg)
 
 @tab img 1
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ca/caa822fffd2a727613f71ec90b3a44bd67a5314c84d70dcafb6e60b81ab7c4d2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ca/caa822fffd2a727613f71ec90b3a44bd67a5314c84d70dcafb6e60b81ab7c4d2.png)
 
 @tab img 2
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6a/6a47d1551946c206b1ade87e0b8d708e0d409aed5c6c2d4814410da451c7f383.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/6a/6a47d1551946c206b1ade87e0b8d708e0d409aed5c6c2d4814410da451c7f383.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e6/e689f97bbe3a209da87d45b14ae355146f0bb6df6105a4a61671b62fe3fd9f1a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e6/e689f97bbe3a209da87d45b14ae355146f0bb6df6105a4a61671b62fe3fd9f1a.png)
 
 @tab img 3
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/48/48bd218a7b62657ed12c6257d2e39fe803d0669cc378399d83adb0583f827d4b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/48/48bd218a7b62657ed12c6257d2e39fe803d0669cc378399d83adb0583f827d4b.jpg)
 
 :::
 
@@ -1505,7 +1505,7 @@ class DLList(object):
 
 ADT 所关心的就是，有哪些方法可以去用。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b5/b5f718118b228b5bdce5067bfd2994dc950274a8da309601e4d44c107cb73ffa.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b5/b5f718118b228b5bdce5067bfd2994dc950274a8da309601e4d44c107cb73ffa.png)
 
 所以说，我们所说的双端队列，两端都有。ADT 就是知其然，不用知其所以然。
 
@@ -1518,7 +1518,7 @@ ADT 所关心的就是，有哪些方法可以去用。
 - `push(x)`: 将 x 放在栈的顶端
 - `pop()`: 将栈最上面的元素拿走并取出来得到它的值
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6c/6c0bc74e783d7f8b27b72abb128ed76e761c85661ed84e5664bbfba3cc4ac529.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/6c/6c0bc74e783d7f8b27b72abb128ed76e761c85661ed84e5664bbfba3cc4ac529.png" style="zoom:25%;" />
 
 先进后出，后进先出。
 
@@ -2243,7 +2243,7 @@ permutation([i for i in range(1, n + 1)], n - 1, m)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -2259,4 +2259,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

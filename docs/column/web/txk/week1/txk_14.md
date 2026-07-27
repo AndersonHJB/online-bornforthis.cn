@@ -27,13 +27,13 @@ toc: true
 
 这是说，我们程序员开发网站都是在自己电脑上开发的，我们管这样的环境称为本地。也就是，我们所有的开发操作都是在本地上完成的。
 
-![本地开发的程序员](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8f/8f264f78ebeef51691432533497a0dbd3a371131591c5582b93f8724da10a0f3.jpg)
+![本地开发的程序员](https://blog.images.bornforthis.cn/docs-images/sha256/8f/8f264f78ebeef51691432533497a0dbd3a371131591c5582b93f8724da10a0f3.jpg)
 
 我们开发的 `.html` 、`.css` 、`.js` 等文件，是需要上传到服务器后，才能被用户看见的。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e47b668a7514e69ac9993e780036a8c25b1d7ebc4aa3e4cfd6cbccf07099468c.jpg)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/e4/e47b668a7514e69ac9993e780036a8c25b1d7ebc4aa3e4cfd6cbccf07099468c.jpg)
 
-![image-20221126091728915](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f2/f2ae1322e23677e0686aa25ffa841b6ba9d3ae362a563a83a17613f77a0957dc.png)
+![image-20221126091728915](https://blog.images.bornforthis.cn/docs-images/sha256/f2/f2ae1322e23677e0686aa25ffa841b6ba9d3ae362a563a83a17613f77a0957dc.png)
 
 
 
@@ -59,7 +59,7 @@ toc: true
 
 服务器会正确识别发来的 HTTP 请求，分析出用户想看的是哪个文件夹中的哪个文件。然后返回给用户所请求的网页：
 
-![image-20221126100921230](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0b/0bc267a4b79040527f5931e382bcadf394f462d6fdae992c62875417044a7e5b.png)
+![image-20221126100921230](https://blog.images.bornforthis.cn/docs-images/sha256/0b/0bc267a4b79040527f5931e382bcadf394f462d6fdae992c62875417044a7e5b.png)
 
 这样的我们称为 **HTTP 响应** 。
 
@@ -71,23 +71,23 @@ toc: true
 
 ## 3. 什么是前端、后端？
 
-![image-20221126120140068](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5d/5d2da6680491cf28f1eddc05c4048153bac5e4c3838ef38d85ab3f3e85f72dff.png)
+![image-20221126120140068](https://blog.images.bornforthis.cn/docs-images/sha256/5d/5d2da6680491cf28f1eddc05c4048153bac5e4c3838ef38d85ab3f3e85f72dff.png)
 
 
 
 举个例子：
 
-![image-20221126162348972](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/da/dae86be5fa5a1b2cd273dc40a5fc653475ad96f56d33d63c4ef8fae9b25c608e.png)
+![image-20221126162348972](https://blog.images.bornforthis.cn/docs-images/sha256/da/dae86be5fa5a1b2cd273dc40a5fc653475ad96f56d33d63c4ef8fae9b25c608e.png)
 
 你现在看见的是我的个人网站，那这个网站要被用户看见，要前端开发工程师和后端开发工程师共同配合的结果。——这是什么意思呢？
 
-![image-20221126162514205](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1d/1d33771088e8a54b05248f7cb0161b9d41abae0c2461b4dfb2076e1649792fed.png)
+![image-20221126162514205](https://blog.images.bornforthis.cn/docs-images/sha256/1d/1d33771088e8a54b05248f7cb0161b9d41abae0c2461b4dfb2076e1649792fed.png)
 
 这个网站的文章、标题、分类数据、数量等是这些数据，实际上是从数据库中检索而来的。然后把数据给前端，前端来进行渲染搭建。
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -103,7 +103,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

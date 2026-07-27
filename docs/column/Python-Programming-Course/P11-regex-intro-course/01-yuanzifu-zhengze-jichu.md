@@ -17,7 +17,7 @@ backToTop: true
 toc: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f8/f8d2734979151434be9eecb2998d8ffb20a5a1ab89b16e16d28ef9ee8fe7599f.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f8/f8d2734979151434be9eecb2998d8ffb20a5a1ab89b16e16d28ef9ee8fe7599f.jpg)
 
 你好，我是悦创。
 
@@ -27,27 +27,27 @@ toc: true
 
 在开篇词中，我们提到了正则常见的三种功能，它们分别是：校验数据的有效性、查找符合要求的文本以及对文本进行切割和替换等操作。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8d/8d7859e227cf61f6ccbb0e96bae420e5c155b39e84192713f3e19019469a5369.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8d/8d7859e227cf61f6ccbb0e96bae420e5c155b39e84192713f3e19019469a5369.png)
 
 那你可能会好奇，正则是如何完成这些工作的呢？让我们先从简单的字符串查找和替换讲起。
 
 我相信你一定在办公软件，比如 Word、Excel 中用过这个功能。你可以使用查找功能快速定位关注的内容，然后使用替换，批量更改这些内容。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3b5aaf1459dda65e401fae5e0e58b661161657b487f68501fefdbf98a5bd3572.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3b/3b5aaf1459dda65e401fae5e0e58b661161657b487f68501fefdbf98a5bd3572.png)
 
 让我们再回过头看看正则表达式。正则表达式，简单地说就是描述字符串的规则。在正则中，普通字符表示的还是原来的意思，比如字符 a，它可以匹配“Hanmeimei is a girl”中的 H 之后的 a，也可以匹配 is 之后的 a，这个和我们日常见到的普通的字符串查找是一样的。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d8/d801169fcd7f901dc79842dba2011a9424de4d1a00deaf31585a8e4ed84ca0a7.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d8/d801169fcd7f901dc79842dba2011a9424de4d1a00deaf31585a8e4ed84ca0a7.png)
 
 但除此之外，正则还可以做到普通的查找替换做不到的功能，**它真正的强大之处就在于可以查找符合某个规则的文本**。
 
 举个例子，假如你想查找文本中的所有数字，如果不会正则，可能需要手动敲数字，从 0 到 9 这样操作 10 次，一个个去查找，很麻烦。但如果用正则的话就方便很多了，我们直接使用 \d 就可以表示 0-9 这 10 个数字中的任意一个，如下图所示。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7f/7f7f875b5977cd313f01ba34f0a1f04b082d83e1ff4c54cd060757993e81db90.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/7f/7f7f875b5977cd313f01ba34f0a1f04b082d83e1ff4c54cd060757993e81db90.png)
 
 如果我们在后面再加上量词，就可以表示单个的数字出现了几次。比如 `\d{11}` 表示单个数字出现 11 次，即 11 位数字，如果文本中只有姓名和手机号，我们就可以利用这个查找出文本中的手机号了，如下图所示。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fe/fef79b7a999bffb51a33605f27ee71c4ea29f1f38038363678cce09476023678.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fe/fef79b7a999bffb51a33605f27ee71c4ea29f1f38038363678cce09476023678.png)
 
 那么到这里，你有没有发现正则的不同呢？像查找数字一样，在正则中，我们不需要像往常一样输入一个确定的内容，只需要敲入特殊的符号就可以帮我们完成查找和替换，像上面案例中提到的 `\d` 和 `{11}`，在正则中有一个专门的名称——元字符（Metacharacter）。
 
@@ -63,7 +63,7 @@ toc: true
 
 首先，我可以把元字符大致分成这几类：表示单个特殊字符的，表示空白符的，表示某个范围的，表示次数的量词，另外还有表示断言的，我们可以把它理解成边界限定，我会在后面的章节中专门讲解断言（Assertions）相关的内容。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/9349b7b7d7008bdbaf349adafaa4874dd87c56a17943cea08937f53966f4be86.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/93/9349b7b7d7008bdbaf349adafaa4874dd87c56a17943cea08937f53966f4be86.png)
 
 那么接下来，我们就按照前面说的元字符的分类，来逐一讲解下。
 
@@ -71,17 +71,17 @@ toc: true
 
 首先，我们来看下表示特殊单个字符的元字符，比如英文的点（`.`）表示换行以外的任意单个字符，`\d` 表示任意单个数字，`\w` 表示任意单个数字或字母或下划线，`\s` 表示任意单个空白符。另外，还有与之对应的三个 `\D`、`\W` 和 `\S`，分别表示着和原来相反的意思。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7c/7c4ad932ef797cde72c29a8528ea6b2d8af5a33d6a64a17a3e7e8a0e06e889fd.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/7c/7c4ad932ef797cde72c29a8528ea6b2d8af5a33d6a64a17a3e7e8a0e06e889fd.png)
 
 现在我们来看一下测试，我把常见数字，字母，部分标点符号作为文本，用 `\d` 去查找，可以看到只能匹配上 10 个数字。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ad/adeeda41a14120bf40711e1e8a08e55f727da20180486da70000671e52e7d2b2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ad/adeeda41a14120bf40711e1e8a08e55f727da20180486da70000671e52e7d2b2.png)
 
 这是元字符 `\d` 测试用例的链接，你不妨测试一下：[https://regex101.com/r/PnzZ4k/1](https://regex101.com/r/PnzZ4k/1)
 
 元字符 `\w` 能匹配所有的数字、字母和下划线，如下图所示：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a7/a73b582910c0846cf27ce0a8b3c7b7a720622790a10b18885e47703a412217b3.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a7/a73b582910c0846cf27ce0a8b3c7b7a720622790a10b18885e47703a412217b3.png)
 
 同样的，元字符 `\w` 测试用在这里：[https://regex101.com/r/PnzZ4k/2](https://regex101.com/r/PnzZ4k/2)
 
@@ -95,7 +95,7 @@ toc: true
 
 在正则中，也是类似于 `\n` 或 `\r` 等方式来表示空白符号，只要记住它们就行了。平时使用正则，大部分场景使用 `\s` 就可以满足需求，`\s` 代表任意单个空白符号。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b3/b3aa53810799348280c2d163dd352da5c8c73cc8c470175609124b29a3821401.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b3/b3aa53810799348280c2d163dd352da5c8c73cc8c470175609124b29a3821401.png)
 
 我们可以看到， `\s` 能匹配上各种空白符号，也可以匹配上空格。换行有专门的表示方式，在正则中，空格就是用普通的字符英文的空格来表示。
 
@@ -107,7 +107,7 @@ toc: true
 
 在正则中，英文的星号（`*`）代表出现 0 到多次，加号（`+`）代表 1 到多次，问号（`?`）代表 0 到 1 次，`{m,n}` 代表 m 到 n 次。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/724ac7d0ab371187c0dd5ef045ca5b4e26ed0d947de2dc774e25395c68cb0997.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/72/724ac7d0ab371187c0dd5ef045ca5b4e26ed0d947de2dc774e25395c68cb0997.png)
 
 
 
@@ -115,7 +115,7 @@ toc: true
 
 下面这段文本由三行数字组成，当我们使用 `\d+` 时，能匹配上 3 个，但使用 `\d*` 时能匹配上 6 个，详细匹配结果可以参考下面的图片：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/81/8190d3fc3d464a35a3ebcc86ca5f9a42ea441bef48c90412640a4fec681629ef.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/81/8190d3fc3d464a35a3ebcc86ca5f9a42ea441bef48c90412640a4fec681629ef.png)
 
 我把正则 `\d+` 示例链接放在下面了，你可以看一下：[https://regex101.com/r/PnzZ4k/8](https://regex101.com/r/PnzZ4k/8)
 
@@ -129,7 +129,7 @@ toc: true
 
 在正则表达式中，表示范围的符号有四个分类，如下图所示。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e3/e31c8ea7603c7c7f5fb1c05951b8dad502e346f8f73229512d54d3ec4f2c3800.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e3/e31c8ea7603c7c7f5fb1c05951b8dad502e346f8f73229512d54d3ec4f2c3800.png)
 
 首先是管道符号，我们用它来隔开多个正则，表示满足其中任意一个就行，比如 `ab|bc` 能匹配上 `ab`，也能匹配上 `bc`，在正则有多种情况时，这个非常有用。
 
@@ -137,7 +137,7 @@ toc: true
 
 比如某个资源可能以 `http://` 开头，或者 `https://` 开头，也可能以 `ftp://` 开头，那么资源的协议部分，我们可以使用 (`https?|ftp)://` 来表示。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/47/47088de2f3306f834002cf486574a53da1e2f3bbaff1218cb1e334b455e896b1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/47/47088de2f3306f834002cf486574a53da1e2f3bbaff1218cb1e334b455e896b1.png)
 
 同样地，我把示例链接也放在了下面，你可以参考一下：[https://regex101.com/r/PnzZ4k/5](https://regex101.com/r/PnzZ4k/5)
 
@@ -151,7 +151,7 @@ toc: true
 
 好了，学习完今天的内容，最后我来给你总结一下。正则表达式中元字符的分类记忆，你可以在脑海中回忆一下。今天我们学习了正则表达式的部分元字符，特殊单字符、空白符、范围、量词等。我整理成了一张脑图，你可以看一下，对照着练习、记忆。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/05/05b644061eedabcac6508f432ff83c47dcd4451c7ae833a57ab02d2b94acf56c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/05/05b644061eedabcac6508f432ff83c47dcd4451c7ae833a57ab02d2b94acf56c.png)
 
 ## 4. 思考题
 
@@ -220,7 +220,7 @@ s 是 space 空白
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -236,4 +236,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -31,7 +31,7 @@ toc: true
 
 答案就是谷歌 Chrome 浏览器的 F12 快捷键，也可以通过鼠标右键菜单“检查”（Inspect）打开 Chrome 自带的开发者工具，开发者工具会出现在浏览器网页的左侧或者是下面（可调整），它的样子就是这样的：
 
-![chrome浏览器开发者工具f12](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7d/7d148a1b1389c7d3b3fd80516caa326551f48c021d334cc3a17094c92bce3c3e.png)
+![chrome浏览器开发者工具f12](https://blog.images.bornforthis.cn/docs-images/sha256/7d/7d148a1b1389c7d3b3fd80516caa326551f48c021d334cc3a17094c92bce3c3e.png)
 
 让我们简单了解一下它如何使用：
 
@@ -58,7 +58,7 @@ toc: true
 
 点击一条请求的网址，右侧就会出现新的窗口显示该条请求的相信信息：
 
-![Chrome请求详情](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/23/2301932c80e892faf2a90bd485608d9bf863ff72213055181b8c5cae6eae1d8f.png)
+![Chrome请求详情](https://blog.images.bornforthis.cn/docs-images/sha256/23/2301932c80e892faf2a90bd485608d9bf863ff72213055181b8c5cae6eae1d8f.png)
 
 图中左边红框就是点击的请求网址；绿框就是详情窗口。
 
@@ -74,7 +74,7 @@ Headers帮助我们在爬虫中重建http请求，以便爬虫得到和浏览器
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -90,4 +90,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -67,9 +67,9 @@ alert('前方高能！');
 
 使用函数 `alert( )` 可在浏览器窗口内弹出 **警告框。** 引号内的'前方高能’是一个字符串参数，它是警告框里显示的内容。如下图：
 
-![image-20220804230951887](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/35/351caed423359d859aec18c88f5c97d1c54a2f7cba5528451e458c9986fff2d4.png)
+![image-20220804230951887](https://blog.images.bornforthis.cn/docs-images/sha256/35/351caed423359d859aec18c88f5c97d1c54a2f7cba5528451e458c9986fff2d4.png)
 
-![image-20220804231142876](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d6/d6976e4c5f11c696c15a76f51d88924b08fe55aaf009e5dabc094979465ef811.png)
+![image-20220804231142876](https://blog.images.bornforthis.cn/docs-images/sha256/d6/d6976e4c5f11c696c15a76f51d88924b08fe55aaf009e5dabc094979465ef811.png)
 
 
 
@@ -89,17 +89,17 @@ document.querySelector('html').onclick = function() {
 
 <button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_10/base_10-3.html" target="_blank">尝试一下</a></button>
 
-![image-20220804231652817](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d0/d07461872f1c81c3d3c62f4381cf56209b46dc64cecfdd2e49b69fa5be6ebc59.png)
+![image-20220804231652817](https://blog.images.bornforthis.cn/docs-images/sha256/d0/d07461872f1c81c3d3c62f4381cf56209b46dc64cecfdd2e49b69fa5be6ebc59.png)
 
 将事件与元素绑定有许多方法。本例选用了 `<html>` 元素，把一个匿名函数（即未命名的函数，此匿名函数包含单击鼠标时要运行的代码）赋值给了 html 的 onclick 属性。
 
 【选词填空】请选择相应的字符以使声明完整：
 
-![image-20220804231722081](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e5/e53eea668a2eb20171d7bc476855229cb6cd698423cc0eca601658c7d7b3e0b7.png)
+![image-20220804231722081](https://blog.images.bornforthis.cn/docs-images/sha256/e5/e53eea668a2eb20171d7bc476855229cb6cd698423cc0eca601658c7d7b3e0b7.png)
 
 ::: details 答案
 
-![image-20220804231753169](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b4/b436f28110da884c4eebca58679f8cabfabe499adea80ed1f3bb91fbe5180d6a.png)
+![image-20220804231753169](https://blog.images.bornforthis.cn/docs-images/sha256/b4/b436f28110da884c4eebca58679f8cabfabe499adea80ed1f3bb91fbe5180d6a.png)
 
 :::
 
@@ -139,7 +139,7 @@ else {
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -155,7 +155,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

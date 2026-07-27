@@ -25,17 +25,17 @@ toc: true
 
 （1）进入 [Python官网下载页面](https://www.python.org/downloads/windows/)，下载一个Python安装包，可用版本 3.5、3.6、3.7、3.8，推荐版本3.6或者3.8，所以这里用Python3.6做演示，如下图：
 
-![1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/939a63dbb40725c75793ecdbead24e8a3cbd31bc1d821f35b3eb81f4a6f58d06.png)
+![1](https://blog.images.bornforthis.cn/docs-images/sha256/93/939a63dbb40725c75793ecdbead24e8a3cbd31bc1d821f35b3eb81f4a6f58d06.png)
 
 下载 32 位或者 64 位的 exe 执行安装包，不清楚 32 或者 64 的，一律下载 32 位【即 `x86` 】。
 
 （2）下载后，双击 exe 文件，即可安装，不过要记得勾选 Add To Path，自动添加到环境变量，省的再去手工处理。
 
-![2](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c5b0305c12a286ad98dd2ee9066866a0545cdddbf771d928ce710b7532ca6488.png)
+![2](https://blog.images.bornforthis.cn/docs-images/sha256/c5/c5b0305c12a286ad98dd2ee9066866a0545cdddbf771d928ce710b7532ca6488.png)
 
 （3）点击安装后等待就行了，安装好之后打开 cmd，输入 Python，可以进入有 Python 输出和 `>>>` ，就表示你安装好了，如下：
 
-![3](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/98/9896ce1d0d17dd6f59f976188b8993110bd4d099704789aaf609bac5f6a1b04e.png)
+![3](https://blog.images.bornforthis.cn/docs-images/sha256/98/9896ce1d0d17dd6f59f976188b8993110bd4d099704789aaf609bac5f6a1b04e.png)
 
 安装好之后，就可以开始学习了。
 
@@ -43,7 +43,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -59,7 +59,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

@@ -42,17 +42,17 @@ toc: true
 
 统一漂亮舒适的 commond，支持12种主题切换，可以调整字体大小
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e5/e51ea12e6fe38e2dca6f11bfb5faf3cdf079693d08b9297e9504fd0748b3dd55.jpg)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/e5/e51ea12e6fe38e2dca6f11bfb5faf3cdf079693d08b9297e9504fd0748b3dd55.jpg)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c504c4b341f5be89e8676b62f09694bfb13299e71422a2f22b4c5b028b66d7e9.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c5/c504c4b341f5be89e8676b62f09694bfb13299e71422a2f22b4c5b028b66d7e9.jpg)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2e/2e105e51af20cbcf1373e0c804739591d39dbf54ad577205fa07b77cadd5d072.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2e/2e105e51af20cbcf1373e0c804739591d39dbf54ad577205fa07b77cadd5d072.jpg)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/67/671cd47163ea24f6959969c14623cf9984094c2019256a9ddca30d46c1eb909c.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/67/671cd47163ea24f6959969c14623cf9984094c2019256a9ddca30d46c1eb909c.jpg)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e9/e9ca4f2db8f3cc1838bafdcdb25e9fc9450f540605d80bef0035badb89ab7936.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e9/e9ca4f2db8f3cc1838bafdcdb25e9fc9450f540605d80bef0035badb89ab7936.jpg)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/39/398509682aadbc2fd8c6032f9d5bff2fdbec439c0d39a7a6486aa5f93bba3bb8.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/39/398509682aadbc2fd8c6032f9d5bff2fdbec439c0d39a7a6486aa5f93bba3bb8.jpg)
 
 **软件下载地址：**[**https://xiaoniaoyun.im/f/R5SQS6**](https://xiaoniaoyun.im/f/R5SQS6)
 
@@ -60,7 +60,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -76,4 +76,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

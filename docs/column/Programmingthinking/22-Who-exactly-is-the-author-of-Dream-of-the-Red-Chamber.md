@@ -21,7 +21,7 @@ toc: true
 
 今天，我想带着你用编程思维来分析一个超级大谜题：**《红楼梦》的作者究竟是谁？**
 
-![《红楼梦》插图](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/44/44f6f7c329300ce9fa2ce590961e54458d48684be84bd0edd1ec66b70a4409e4.jpg)
+![《红楼梦》插图](https://blog.images.bornforthis.cn/docs-images/sha256/44/44f6f7c329300ce9fa2ce590961e54458d48684be84bd0edd1ec66b70a4409e4.jpg)
 
 诶，你可能会有疑问了：难道作者不是**曹雪芹**吗？至多再加上一个**高鹗**。我家那本《红楼梦》，封面上写得清清楚楚呢。
 
@@ -31,7 +31,7 @@ toc: true
 
 《红楼梦》问世有200多年了。在这200多年里，叫得上名的红学家已经出了上百位，你熟悉的**鲁迅**，就算得上是个红学家。不出名的呢，可能有成千上万人。这么多人研究的一个最重要课题，就是：《红楼梦》的作者究竟是谁。
 
-![鲁迅](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/42/42dc1948e04791bcc829e9bcc9bea44b56e23795cddbc04db5a4133a7ba533e8.jpg)
+![鲁迅](https://blog.images.bornforthis.cn/docs-images/sha256/42/42dc1948e04791bcc829e9bcc9bea44b56e23795cddbc04db5a4133a7ba533e8.jpg)
 
 有人统计过，红学家们已经给《红楼梦》研究出了65个可能的作者。在这65个人里头，甚至出现了明朝最后一位皇帝**崇祯**，还有清朝的**顺治皇帝**。你看，红学家的脑洞够大的吧，前后脚两个朝代的两个皇帝，竟然都有可能是《红楼梦》的作者。
 
@@ -41,7 +41,7 @@ toc: true
 
 直到民国时期，才有一位**大学者胡适**，提出了目前的主流观点：**《红楼梦》的120回里，前80回是曹雪芹写的，后40回是高鹗写的。**
 
-![胡适](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/14/1413ebf3b5a79f230f670845c4f5e5840b7a7e8d9099035e0d0389b4edbf2755.jpg)
+![胡适](https://blog.images.bornforthis.cn/docs-images/sha256/14/1413ebf3b5a79f230f670845c4f5e5840b7a7e8d9099035e0d0389b4edbf2755.jpg)
 
 这个说法是目前最常见的说法，但批评的人也不在少数。直到现在，还是有一些人认为，整本书都是曹雪芹写的，或者干脆认为，曹雪芹、高鹗都不是作者，真正的作者另有其人。
 
@@ -57,7 +57,7 @@ toc: true
 
 于是，在大概70年前，就有人开始用统计词汇的方法研究《红楼梦》了。比如说，有个叫**潘富俊**的人，他是**植物学专业**的，于是呢，就去**研究《红楼梦》里植物出现的次数**。
 
-![《红楼梦》插图](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ac/acf819a5255e9488a873ac5b0847546f4a54cb9339a643a7563a7968dcfa3acb.jpg)
+![《红楼梦》插图](https://blog.images.bornforthis.cn/docs-images/sha256/ac/acf819a5255e9488a873ac5b0847546f4a54cb9339a643a7563a7968dcfa3acb.jpg)
 
 
 
@@ -73,13 +73,13 @@ toc: true
 
 那聚类分析是怎么做的呢？你可以看看音频封面上的这个图。是不是有很多小方块杂乱地摆在上边呢？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/97/97d057d7f84f4c87ed6d54f3f348160fb3b52617bc1eeec5e0fc6d246a0236d1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/97/97d057d7f84f4c87ed6d54f3f348160fb3b52617bc1eeec5e0fc6d246a0236d1.png)
 
 如果，我们假设每个小方块都代表一支军队，这些小方块就是几个国家的军队布置图。那现在我问你，一共有几个国家呢？
 
 你肯定会猜3个吧？每个国家的军队一般都驻扎在自己国家的城市附近，它们肯定会凑成一团的。没错，按照小方块之间距离关系，聚类分析就把它们分成了**3个阵营**，分别用红黄蓝表示。这就是聚类分析的基本思想了！
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8a/8a75d3d86dd31671b4d9e98942dd39d1912ddfe6f12727505715f9de7b8f535a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8a/8a75d3d86dd31671b4d9e98942dd39d1912ddfe6f12727505715f9de7b8f535a.png)
 
 
 
@@ -103,7 +103,7 @@ toc: true
 
 具体怎么做呢？我提示你一下啊，中国人有句老话：**物以类聚，人以群分。**就是说，同类的东西经常聚在一起，而志同道合的人呢，也经常在一起活动。这就是中国古代的聚类思想。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3a/3a9c003c9c4f61e76e69298541765eba5c53df2fbfe25020daf547638a400ceb.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3a/3a9c003c9c4f61e76e69298541765eba5c53df2fbfe25020daf547638a400ceb.png)
 
 
 
@@ -153,7 +153,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -169,4 +169,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

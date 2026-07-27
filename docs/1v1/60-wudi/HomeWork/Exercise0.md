@@ -75,9 +75,9 @@ Submit your solutions before 2pm (London time) on 29 September 2023.
 
 Include your name, student number in each file. Good luck!
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2b/2b905d97daa0cc0eabc2a25a6fd5745db3b43e9d2bf63dd5ccfe77309e673dd0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2b/2b905d97daa0cc0eabc2a25a6fd5745db3b43e9d2bf63dd5ccfe77309e673dd0.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/993b9f4ca373e33ef0cc3ff147d9218e7db22dcd5634c9fba0d37b0278221e79.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/99/993b9f4ca373e33ef0cc3ff147d9218e7db22dcd5634c9fba0d37b0278221e79.png)
 
 
 
@@ -137,7 +137,7 @@ print(new_list)  # 输出 [1, 2, 3, 4, 5, 6]
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -153,4 +153,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

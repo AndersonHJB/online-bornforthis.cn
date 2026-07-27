@@ -92,18 +92,18 @@ toc: true
 7. 尝试编写一个 Python 程序，输入两个数，比较它们的大小并输出其中较大者。
 
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2d145d4ff90355ec7cb6c9111fa80af97823776e33cdcb8179505b26bb0a7e16.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/2d/2d145d4ff90355ec7cb6c9111fa80af97823776e33cdcb8179505b26bb0a7e16.png)
 
 8. 尝试编写程序，实现分段函数计算，如下表所示：
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d4/d4d59dca7e0f6c273c4177c558fef8579c8f0a0440d2b3c4d80f3fc059a7aaf0.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/d4/d4d59dca7e0f6c273c4177c558fef8579c8f0a0440d2b3c4d80f3fc059a7aaf0.png)
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/48/48094390b6efbd89bd592dd2b6dd660bb580efe77fda7ac8c48415a328477b07.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/48/48094390b6efbd89bd592dd2b6dd660bb580efe77fda7ac8c48415a328477b07.png)
 
 9.  尝试编写程序，运行后用户输入 4 位整数作为年份，判断其是否为闰年。如果年份能被 400 整除，则为闰年；如果年份能被4整除但不能被 100 整除也为闰年。
     
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/78/78048876eb93662a96b2709e0ae833f448a3729ddcf145b36aecaf40bfbb3a69.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/78/78048876eb93662a96b2709e0ae833f448a3729ddcf145b36aecaf40bfbb3a69.png)
 
 10. 尝试编写程序，判断一个数是否为奇数或偶数。
 

@@ -64,7 +64,7 @@ In addition, please add error checking to your function:
 
 Here is a pentagon (a 5-sided polygon):
 
-![a pentagon](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f4/f45be2ca007a214f5f8aa8e5d3910a88f2f58fec9a3838fcc6601fdbe5cb44ed.gif)
+![a pentagon](https://blog.images.bornforthis.cn/docs-images/sha256/f4/f45be2ca007a214f5f8aa8e5d3910a88f2f58fec9a3838fcc6601fdbe5cb44ed.gif)
 
 
 
@@ -99,7 +99,7 @@ Write a function called `jump_to(x, y)` that moves the turtle to position (`x`, 
 
 Also, write a function called `jump_to_test()` that uses `jump_to` and `polygon` to draw this picture:
 
-![four pentagons](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/55/55d95b0146b00e90172c57f4b31b6b8c102988456ff8a023a84d3162a88b2fec.gif)
+![four pentagons](https://blog.images.bornforthis.cn/docs-images/sha256/55/55d95b0146b00e90172c57f4b31b6b8c102988456ff8a023a84d3162a88b2fec.gif)
 
 
 
@@ -161,11 +161,11 @@ Here, $r$ is the radius passed to `circle`, and $n$ is the number sides of the p
 
 The `sin` function, and `pi`, are in Python's `math` module.
 
-![a circle](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/33/335f72ab190484ae50e7e5c3424f12a74ed37212c3b75fda2161782e7695de79.gif)
+![a circle](https://blog.images.bornforthis.cn/docs-images/sha256/33/335f72ab190484ae50e7e5c3424f12a74ed37212c3b75fda2161782e7695de79.gif)
 
 Also, write a function called `circle_test()` that uses your `circle` function to draw 10 concentric circles like this:
 
-![ten circles](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a3/a35163a925cc985628b4b1472c23dd947c68b203a9d495508b17043c3ceac67f.gif)
+![ten circles](https://blog.images.bornforthis.cn/docs-images/sha256/a3/a35163a925cc985628b4b1472c23dd947c68b203a9d495508b17043c3ceac67f.gif)
 
 
 
@@ -230,11 +230,11 @@ Use the `turtle.begin_fill()` and `turtle.end_fill()` functions to fill-in the s
 
 Here's an example:
 
-![an eye](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6e/6e77a479466bee74026c8a8b24350b17668617645e6e65d5d143d3f637b7271d.gif)
+![an eye](https://blog.images.bornforthis.cn/docs-images/sha256/6e/6e77a479466bee74026c8a8b24350b17668617645e6e65d5d143d3f637b7271d.gif)
 
 Also, write a function called `eye_test()` that draws a pair of eyes of size 50 like this:
 
-![a pair of eyes](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/60/60e930f7cbb3fa57fb9b13bbba86f35fad38a5d380c3b5dceb042801aaa16479.gif)
+![a pair of eyes](https://blog.images.bornforthis.cn/docs-images/sha256/60/60e930f7cbb3fa57fb9b13bbba86f35fad38a5d380c3b5dceb042801aaa16479.gif)
 
 ```python
 import turtle
@@ -319,7 +319,7 @@ Write a function called `nose(size)` that draws a (cartoon) nose that consists o
 
 Make it so that the bigger `size` is, the bigger the nose.
 
-![a nose](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bc/bc76b159a329a3a573e59d1e8a16425d6371ff949d3d3b58dd2a878783547331.gif)
+![a nose](https://blog.images.bornforthis.cn/docs-images/sha256/bc/bc76b159a329a3a573e59d1e8a16425d6371ff949d3d3b58dd2a878783547331.gif)
 
 ```python {76-86, 90}
 import turtle
@@ -428,7 +428,7 @@ Make it so that the bigger `size` is, the bigger the mouth.
 
 Here are examples of the four mouths:
 
-![four mouths](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3d/3dcc33e9ee85c3b78bc39807608cc452a4e78400d8425ed4fcbd5ba7a7f80b81.gif)
+![four mouths](https://blog.images.bornforthis.cn/docs-images/sha256/3d/3dcc33e9ee85c3b78bc39807608cc452a4e78400d8425ed4fcbd5ba7a7f80b81.gif)
 
 
 
@@ -594,7 +594,7 @@ The size of the head should be controllable using `size`, e.g. a small value of 
 
 For instance, a head with a surprised face could look like this:
 
-![surprised face](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/19/1918ce9e278d26975d6c60d0a11a546beb256b25705edb70361420918a49e135.gif)
+![surprised face](https://blog.images.bornforthis.cn/docs-images/sha256/19/1918ce9e278d26975d6c60d0a11a546beb256b25705edb70361420918a49e135.gif)
 
 ::: code-tabs
 
@@ -922,7 +922,7 @@ Write a function called `stick_figure(size)` that draws a stick figure with a he
 
 **Include some randomness in the body beyond just the mouth randomness**. For example, you could chose the color at random, or make the arms point in random directions, etc.
 
-![a stick figure](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/84/84915586a163535ce07ed1a4d9d8da6b9ce2980d570461599109b6d05e811392.png)
+![a stick figure](https://blog.images.bornforthis.cn/docs-images/sha256/84/84915586a163535ce07ed1a4d9d8da6b9ce2980d570461599109b6d05e811392.png)
 
 
 
@@ -1495,7 +1495,7 @@ The size of each stick figure should be chosen at random in the range `min_size`
 
 For example, here is a result of `crowd(100, 5, 20)`:
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ab/abba8c1d0d06c56b1238fd163f8b8e1e80477352aac600151df5caae9c671bcb.png" alt="a random crowd of 100 stick figures" style="width:200px;"/>
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/ab/abba8c1d0d06c56b1238fd163f8b8e1e80477352aac600151df5caae9c671bcb.png" alt="a random crowd of 100 stick figures" style="width:200px;"/>
 
 
 
@@ -2115,7 +2115,7 @@ turtle.done()
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -2131,5 +2131,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

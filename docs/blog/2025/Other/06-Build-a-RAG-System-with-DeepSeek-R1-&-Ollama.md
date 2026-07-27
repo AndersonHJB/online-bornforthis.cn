@@ -53,7 +53,7 @@ Ollama lets you run models like DeepSeek R1 locally.
 ollama run deepseek-r1  # For the 7B model (default)  
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8e/8eb23b295069416dd15a6038c0b8327a1eed3481565d72c9e256d8583c9ceffa.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8e/8eb23b295069416dd15a6038c0b8327a1eed3481565d72c9e256d8583c9ceffa.png)
 
 ### 2. DeepSeek R1 Model Variants
 
@@ -65,7 +65,7 @@ ollama run deepseek-r1:1.5b
 
 **Pro tip:** Larger models like 70B offer better reasoning but require more RAM. Start small, then scale up!
 
-![ollama run deepseek-r1:1.5b](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bd/bd9be19085795193e36677765a249eb4c83681f873aa4958c45f22cfada06c0a.png)
+![ollama run deepseek-r1:1.5b](https://blog.images.bornforthis.cn/docs-images/sha256/bd/bd9be19085795193e36677765a249eb4c83681f873aa4958c45f22cfada06c0a.png)
 
 
 
@@ -87,7 +87,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.llms import Ollama  
 ```
 
-![Diagram showing LangChain + Streamlit workflow](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/75/758406c7ef40a3676e81affffbec583d75db05029c9ef601cc125eda126f9c83.png)
+![Diagram showing LangChain + Streamlit workflow](https://blog.images.bornforthis.cn/docs-images/sha256/75/758406c7ef40a3676e81affffbec583d75db05029c9ef601cc125eda126f9c83.png)
 
 ### Step 2: Upload & Process PDFs
 
@@ -113,7 +113,7 @@ Once uploaded, the PDFPlumberLoader function extracts text from the PDF, readyin
 
 We want to use the RecursiveCharacterTextSplitter, the code breaks down the original PDF text into smaller segments (chunks). Let's explain the concepts of good chunking vs bad chunking here:
 
-![Side-by-side comparison of bad vs. good text chunking](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ae/aebb5fd0334529181431c9a9fa7ea7d8468e6ae61ea6ce6673070ceb8022158b.png)
+![Side-by-side comparison of bad vs. good text chunking](https://blog.images.bornforthis.cn/docs-images/sha256/ae/aebb5fd0334529181431c9a9fa7ea7d8468e6ae61ea6ce6673070ceb8022158b.png)
 
 **Why semantic chunking?**
 
@@ -211,7 +211,7 @@ As soon as the user enters a query, the chain retrieves the best matching chunks
 
 Ask and submit questions and get instant answers!
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f5dc16deae34f38004615a2cc2174a8a7ea7e7ecb52c40195c34027fb23857df.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f5/f5dc16deae34f38004615a2cc2174a8a7ea7e7ecb52c40195c34027fb23857df.png)
 
 Here's the complete code:
 
@@ -350,7 +350,7 @@ else:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -366,7 +366,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://apidog.com/blog/rag-deepseek-r1-ollama/)[.](https://medium.com/@sebastian-petrus/developing-rag-systems-with-deepseek-r1-ollama-f2f561cfda97)
 

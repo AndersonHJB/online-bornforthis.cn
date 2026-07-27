@@ -26,7 +26,7 @@ toc: true
 
 | 序号 | 名称                                                         | 链接                                                     | 描述                     |
 | ---- | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------ |
-| 01   | ![精品MAC应用分享](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/17f1b803e9d7c6d234056b3a2e08557c7419bd903e2c3309e21bbecd00fb366f.png) | [https://xclient.info/](https://xclient.info/)           |                          |
+| 01   | ![精品MAC应用分享](https://blog.images.bornforthis.cn/docs-images/sha256/17/17f1b803e9d7c6d234056b3a2e08557c7419bd903e2c3309e21bbecd00fb366f.png) | [https://xclient.info/](https://xclient.info/)           |                          |
 | 02   | MacWk「挂了」                                                | [https://www.macwk.com/](https://www.macwk.com/)         | 绝绝子                   |
 | 03   | IDE 激活                                                     | [https://idea.medeming.com/](https://idea.medeming.com/) | IDE 激活                 |
 | 04   | PPT、演示星球                                                | [https://www.pop-ppt.com/](https://www.pop-ppt.com/)     |                          |
@@ -37,7 +37,7 @@ toc: true
 | 09   | macyy                                                        | [https://www.macyy.cn/](https://www.macyy.cn/)           | 待验证                   |
 | 10   | macapp                                                       | [https://macapp.org.cn/](https://macapp.org.cn/)         | 待验证                   |
 | 11   | **macdo**                                                    | [https://www.macdo.cn/](https://www.macdo.cn/)           | ~~待验证~~要花钱，别去！ |
-| 12   | [![AppKed](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/97/970b3fb4ebd47eb90af863fa28b45cdd356c5f09033b08955a8547899aeb4624.png)](https://www.macbed.com/) | [https://www.macbed.com/](https://www.macbed.com/)       | 待验证                   |
+| 12   | [![AppKed](https://blog.images.bornforthis.cn/docs-images/sha256/97/970b3fb4ebd47eb90af863fa28b45cdd356c5f09033b08955a8547899aeb4624.png)](https://www.macbed.com/) | [https://www.macbed.com/](https://www.macbed.com/)       | 待验证                   |
 | 13   | haxmac                                                       | [https://haxmac.cc/](https://haxmac.cc/)                 | 待验证                   |
 | 14   | macappbox                                                    | [https://www.macappbox.com/](https://www.macappbox.com/) | 待验证                   |
 
@@ -47,7 +47,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -63,5 +63,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

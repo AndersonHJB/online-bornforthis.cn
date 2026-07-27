@@ -39,7 +39,7 @@ toc: true
 
 [https://bbs.mihoyo.com/dby/home/47?type=2](https://bbs.mihoyo.com/dby/home/47?type=2)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/69/69d52a4c123a7cce5a4d72be0a86e96e16d1e8f37afad00f0c21f57c632622c8.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/69/69d52a4c123a7cce5a4d72be0a86e96e16d1e8f37afad00f0c21f57c632622c8.png)
 
 该页面为图片列表页，采用下拉浏览器刷新形式进行数据加载。
 
@@ -57,11 +57,11 @@ toc: true
 
 添加该反爬手段之后，打开开发者工具如下图所示。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/be/be5a9a5c58dd4cf7306c79b4d13b5a4d0996aba9e1f14222b7f953071f2fa19d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/be/be5a9a5c58dd4cf7306c79b4d13b5a4d0996aba9e1f14222b7f953071f2fa19d.png)
 
 解决办法非常简单，禁用浏览器 JS 调试，点击开发者工具右侧所示按钮，即可屏蔽该反爬手段。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/76/76edea1b822f2b83dbb42002ae76b3a2ad25e06c4f2a36933f6672e9a9643d78.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/76/76edea1b822f2b83dbb42002ae76b3a2ad25e06c4f2a36933f6672e9a9643d78.png)
 
 ### 1.2 抓取目标：
 
@@ -79,9 +79,9 @@ JSON 格式数据解析「教程链接之后添加，你可以记得提醒」
 
 获取列表页数据规则，通过开发者工具中 `Network` 视图配合滑动浏览器滚轮操作。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/93/938bd46fd44b5aff20de2956de19bcf2c9bddcc99a28f4569406f21099c3683c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/93/938bd46fd44b5aff20de2956de19bcf2c9bddcc99a28f4569406f21099c3683c.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b8/b88cc9a54277270f00f4858fbfa7aa7a84ffe10397d1f817a0d3ec007ad2162c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b8/b88cc9a54277270f00f4858fbfa7aa7a84ffe10397d1f817a0d3ec007ad2162c.png)
 
 上图 `1/2/3` 分别是点击步骤，滚动浏览器，寻找数据接口，在 `Network` 视图下捕获浏览器向网站服务器发送的所有数据请求，并查阅浏览器响应。
 
@@ -89,7 +89,7 @@ JSON 格式数据解析「教程链接之后添加，你可以记得提醒」
 
 快速检索接口方式，在开发者工具窗口中，按下 Ctrl+F 按键，唤醒检索工具，输入待查询文字，回车搜索，可直接定位到接口地址。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fb/fbeaeb95cef516ce1c11bce0eb4424331cf7fe35f5d59e8cb16c65deb34087aa.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fb/fbeaeb95cef516ce1c11bce0eb4424331cf7fe35f5d59e8cb16c65deb34087aa.png)
 
 以上步骤是检索数据接口常用的手段之一，在后续的博客中会反复提及，请务必掌握。
 
@@ -158,7 +158,7 @@ def request_get(url, ret_type="text", timeout=5, encoding="utf-8", host="bbs-api
         return res.json()
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/51d74f71b35aa515821696d205a54f7e037d7cacb565724330ed2843c366aae1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/51/51d74f71b35aa515821696d205a54f7e037d7cacb565724330ed2843c366aae1.png)
 
 
 
@@ -187,7 +187,7 @@ if __name__ == '__main__':
 
 该接口返回的 `JSON` 数据格式如下，重要参数为 `retcode`、`last_id`、`list`，数据都存在 `list` 中。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/13/13a1226991e461470544feb5041b1b665f3228620ca90702be3746db66b8c68f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/13/13a1226991e461470544feb5041b1b665f3228620ca90702be3746db66b8c68f.png)
 
 ## 5. 调用图片内页接口
 
@@ -248,9 +248,9 @@ def main(last_id):
 
 运行代码，此时图片一张一张的存储到了我们电脑中，爬取过程中为防止超时，建议自行添加 `try-catch` 跳过错误。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7e/7ed7950eff888a1968fec26cd31f7c6fdcbdad17b0ce932dc01805f4d9498052.gif)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/7e/7ed7950eff888a1968fec26cd31f7c6fdcbdad17b0ce932dc01805f4d9498052.gif)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/56/5641deef59a1ce940400314d48749282969c2fb9d8fb4c7011228bb7644d0761.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/56/5641deef59a1ce940400314d48749282969c2fb9d8fb4c7011228bb7644d0761.png)
 
 ## 7. 完整代码
 
@@ -327,7 +327,7 @@ if __name__ == '__main__':
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -343,4 +343,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

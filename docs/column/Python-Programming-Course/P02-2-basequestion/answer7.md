@@ -110,7 +110,7 @@ A 输出 0，1，2、C 输出1，2。其中 C 的 while 函数是先输出再执
 
 7. 下面程序的执行结果是__________________。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ba/ba1f14e057e11c7a8e30fd9f975c174631237651f8a081a05ca8eb77ec17e0b8.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/ba/ba1f14e057e11c7a8e30fd9f975c174631237651f8a081a05ca8eb77ec17e0b8.png)
 
 ::: tip 答案解析
 
@@ -122,6 +122,6 @@ for 循环里生成了 0-100 的累加效果，但累加的最终结果并没有
 
 8. 编写程序，生成一个包含 20 个随机整数的列表，然后对其中偶数下标的元素进行降序排列，奇数下标的元素不变。(提示：使用切片。)
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4d/4db593b7c13bb2af0550d834bbc1fe4c16fd1953af264f77440ea5eed0cdf87c.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/4d/4db593b7c13bb2af0550d834bbc1fe4c16fd1953af264f77440ea5eed0cdf87c.png)
 
 

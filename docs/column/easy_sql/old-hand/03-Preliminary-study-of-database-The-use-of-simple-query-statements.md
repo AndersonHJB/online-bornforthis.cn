@@ -25,7 +25,7 @@ backToTop: true
 
 ::: center
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fc/fcd2f17ef847e98ce5de90ce0b4cefc5da43fd21d852457726c51848e061c4f4.jpg)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/fc/fcd2f17ef847e98ce5de90ce0b4cefc5da43fd21d852457726c51848e061c4f4.jpg)
 
 :::
 
@@ -63,7 +63,7 @@ Navicat Premium 的官网地址为:[http://www.navicat.com.cn](http://www.navica
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -79,4 +79,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

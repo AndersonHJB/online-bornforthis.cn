@@ -31,7 +31,7 @@ toc: true
 
 网友看见了，就提问为什么文件名要小写？
 
-![image-20230125225948933](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e8/e8d23ccb44f9d48ba3d284ed6b1d7cfdfbdaf5a233c2b81fff769a6bb9b3ae71.png)
+![image-20230125225948933](https://blog.images.bornforthis.cn/docs-images/sha256/e8/e8d23ccb44f9d48ba3d284ed6b1d7cfdfbdaf5a233c2b81fff769a6bb9b3ae71.png)
 
 ::: info 我的回答
 
@@ -73,7 +73,7 @@ const module = require('./myModule');
 
 有人习惯使用[驼峰命名法](./camelcase.md)，单词的第一个字母大写，其他字母小写。这种方法的问题是，如果遇到全部是大写的缩略词，就会不适用。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f9/f956d6b75f1d0ca3f7f7dc200af199e9d66efe12512a74376c384560a2408439.jpg)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/f9/f956d6b75f1d0ca3f7f7dc200af199e9d66efe12512a74376c384560a2408439.jpg)
 
 比如，一个姓李的纽约特警，无论写成 `NYPoliceSWATLee` 还是 `NyPoliceSwatlee` ，都怪怪的，还是写成 `ny-police-swat-lee`比较容易接受。
 
@@ -81,7 +81,7 @@ const module = require('./myModule');
 
 某些系统会生成一些预置的用户目录，采用首字母大写的目录名。比如，Ubuntu 在用户主目录会默认生成 `Downloads`、 `Pictures`、`Documents` 等目录。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/61/611d8bdfbd1c7c74046c0c2728ab2e0777a19700613e507abecf50f80c90e379.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/61/611d8bdfbd1c7c74046c0c2728ab2e0777a19700613e507abecf50f80c90e379.png)
 
 Mac 系统更过分，一部分系统目录也是大写的，比如`/Library/Audio/Apple Loops/`。
 
@@ -91,7 +91,7 @@ Mac 系统更过分，一部分系统目录也是大写的，比如`/Library/Aud
 
 如果你打破砂锅问到底，为什么操作系统会采用这样的大写文件名？原因也很简单，因为早期 Unix 系统上，`ls`命令先列出大写字母，再列出小写字母，大写的路径会排在前面。因此，如果目录名或文件名是大写的，就比较容易被用户首先看到。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7f/7f3ec5de35fb5c9983978c2cb4568e7c12cccf705fdde7118610a27489edb944.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/7f/7f3ec5de35fb5c9983978c2cb4568e7c12cccf705fdde7118610a27489edb944.png)
 
 ## 4. 便捷性
 
@@ -107,7 +107,7 @@ $ find . -iname abc
 $ locate -i "*.HtmL"
 ```
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a2/a22905c7f9c519c782b183bf427454453e1bff2774022ec6b92091aa092c1709.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/a2/a22905c7f9c519c782b183bf427454453e1bff2774022ec6b92091aa092c1709.png)
 
 另外，大写字母需要按下 Shift 键，多多少少有些麻烦。如果文件名小写，就不用碰这个键了，不仅省事，还可以提高打字速度。
 
@@ -134,7 +134,7 @@ $ locate -i "*.HtmL"
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -150,4 +150,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -23,11 +23,11 @@ toc: true
 
 当然了，计算机能识别的不仅仅是咱们的**五官**，比如你可能听说过一些分辨**动物植物**的软件，只要用手机拍张照片，软件就能告诉你照片上的花花草草，或者小狗小猫是什么品种。还有些购物软件，能直接识别照片里的东西，然后给你找出一大堆和它相似的商品。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6c/6ceb17ea20226f170a55e4df95eff0565abf0143f102e03e8d36688f930adee6.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/6c/6ceb17ea20226f170a55e4df95eff0565abf0143f102e03e8d36688f930adee6.jpg)
 
 那你有没有想过，软件是怎么分辨出来你拍的到底是什么呢？万一你家的**狗**长得特别像**拖把**，比如音频封面上显示的这种，那计算机还能分辨出来吗？在辨认的时候，它又是怎么思考的呢？
 
-![狗狗or拖把？](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f8/f8a7069b26774e6a6daded2a324ee947b78c109955ed24606250095ca587cf22.jpg)
+![狗狗or拖把？](https://blog.images.bornforthis.cn/docs-images/sha256/f8/f8a7069b26774e6a6daded2a324ee947b78c109955ed24606250095ca587cf22.jpg)
 
 首先，我必须告诉你，以咱们现在的技术，并不能造出一颗真正有思考能力的大脑，我们只能让计算机**简单模仿**我们思考问题的方法。所以，要搞清楚计算机是怎么思考的，咱们必须先了解我们人类是怎么思考的。
 
@@ -43,7 +43,7 @@ toc: true
 
 可是有一天，你去别的苹果店，发现还有**绿色**的青苹果。这时候，前面的假设就不对了，但这会不会是苹果店老板的恶作剧呢？是老板故意把苹果涂绿了？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ab/ab25e6819202a3814f56a0d1a44cd14de538368cf4fcf16da079a417e312b0ae.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ab/ab25e6819202a3814f56a0d1a44cd14de538368cf4fcf16da079a417e312b0ae.jpg)
 
 这时候，你就带着“苹果还有绿色的”这个假设，去别的水果店验证，如果发现其他很多水果店里也有，那就说明这应该不是恶作剧，你对苹果颜色的认识也就增加了。
 
@@ -55,7 +55,7 @@ toc: true
 
 当然了，为了保证软件能够总结出靠谱的规律，你也要给它提供特别全面的狗狗照片，什么**哈士奇**呀、**金毛**呀、**柯基**呀，都得有。听起来有点麻烦对吧？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/65/65e1a77fa65aee3cbb5273b10fb6efa1603c78f0e39bb42d6af8e1ff78108ce0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/65/65e1a77fa65aee3cbb5273b10fb6efa1603c78f0e39bb42d6af8e1ff78108ce0.png)
 
 但是这还没完，软件自己发现的规律有可能是错的，这可怎么办呢？
 
@@ -79,7 +79,7 @@ toc: true
 
 但是，狗狗的种类太多了，你要是少说了一点，软件都可能会搞错。比如，你要是忘了告诉它**柯基**的特征，它可能就会把柯基当成别的动物，因为在它看来柯基的**腿太短**了。
 
-![柯基](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/66/66225cfa49f8768bf2a935fbc05eedf04cb0bbd25e71dd31d021057d17147f02.png)
+![柯基](https://blog.images.bornforthis.cn/docs-images/sha256/66/66225cfa49f8768bf2a935fbc05eedf04cb0bbd25e71dd31d021057d17147f02.png)
 
 
 

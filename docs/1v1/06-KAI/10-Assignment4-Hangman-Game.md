@@ -26,8 +26,8 @@ backToTop: true
 toc: true
 ---
 
-- [animals.txt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/10-Assignment4-Hangman-Game/animals.txt)
-- [words_alpha.txt](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/10-Assignment4-Hangman-Game/words_alpha.txt)
+- [animals.txt](https://blog.images.bornforthis.cn/1v1/06-KAI/10-Assignment4-Hangman-Game/animals.txt)
+- [words_alpha.txt](https://blog.images.bornforthis.cn/1v1/06-KAI/10-Assignment4-Hangman-Game/words_alpha.txt)
 
 Assignment 4: Hangman Game
 
@@ -75,7 +75,7 @@ Every student is responsible for the work they submit. If there is any doubt dur
 
 > A部分:使用数组、方法和循环设计一个Hangman游戏!
 
-![image-20221108122731241](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1d/1dfa1184d428e5275bc6c6b8f95a0a008856ff9b09f5a660f0e770b7f955f30e.png)
+![image-20221108122731241](https://blog.images.bornforthis.cn/docs-images/sha256/1d/1dfa1184d428e5275bc6c6b8f95a0a008856ff9b09f5a660f0e770b7f955f30e.png)
 
 Hangman is a simple word guessing game. Players try to figure out an secret word by guessing letters. If too many letters which do not appear in the word are guessed, the player is loses the game.
 
@@ -698,7 +698,7 @@ public class HangMan {
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -714,4 +714,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: svg
 title: SVG 教程
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c7/c7b167b00b10593980990b7a46fd007cf51dc24e58d723dc99d4e9c89f4b0456.png
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/c7/c7b167b00b10593980990b7a46fd007cf51dc24e58d723dc99d4e9c89f4b0456.png
 heroText: SVG 教程
 heroFullScreen: false
 tagline: SVG 意为可缩放矢量图形（Scalable Vector Graphics）
@@ -63,7 +63,7 @@ SVG 使用 XML 格式定义图像。
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -79,4 +79,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

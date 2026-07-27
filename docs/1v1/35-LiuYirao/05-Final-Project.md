@@ -555,7 +555,7 @@ plt.subplots_adjust(hspace=0.4, wspace=0.4)
 plt.show()
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f0/f02e3b6864b00f35b37abb66ff4072ee970051289b9e29f8355f9e3b1b703ae8.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f0/f02e3b6864b00f35b37abb66ff4072ee970051289b9e29f8355f9e3b1b703ae8.png)
 
 @tab 题目要求
 
@@ -574,7 +574,7 @@ plt.title("Products Distribution")
 plt.show()
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/1639e62a4fd00e3ea828b68d200afc0f0a9c604b3a4e5e27fa33b46b86768447.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/16/1639e62a4fd00e3ea828b68d200afc0f0a9c604b3a4e5e27fa33b46b86768447.png)
 
 ```python
 # 2. Create the distribution of self rated fitness score of the customers.
@@ -590,7 +590,7 @@ plt.xticks(range(1, 6))
 plt.show()
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f3/f3812e73494c85690b6f776117313d002687f064ab95429a42356db186df21d1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f3/f3812e73494c85690b6f776117313d002687f064ab95429a42356db186df21d1.png)
 
 @tab 优化
 
@@ -612,7 +612,7 @@ plt.xticks(range(1, 6))
 plt.show()
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/71/715a77e259ac18fcc1a51f1e7ef63c5a7356d0015ba44d3bafec23b377b4cd15.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/71/715a77e259ac18fcc1a51f1e7ef63c5a7356d0015ba44d3bafec23b377b4cd15.png)
 
 ```python
 # 创建客户自评健康状况分数的分布
@@ -634,7 +634,7 @@ plt.xticks(range(1, 6))
 plt.show()
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4f/4f325fb9b1799c349c9031f7ff897daa254c5b02bd6a130a3f73d3c45f10041c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/4f/4f325fb9b1799c349c9031f7ff897daa254c5b02bd6a130a3f73d3c45f10041c.png)
 
 :::
 
@@ -656,7 +656,7 @@ plt.show()
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -672,5 +672,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

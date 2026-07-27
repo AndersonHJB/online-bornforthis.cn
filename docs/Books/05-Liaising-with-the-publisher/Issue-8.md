@@ -19,7 +19,7 @@ toc: true
 
 ## 1. 问题
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2a/2a74cb89d9ef6439bfce1757aabfe695765ecc6e51fc5c34b1b9eb28514b4460.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2a/2a74cb89d9ef6439bfce1757aabfe695765ecc6e51fc5c34b1b9eb28514b4460.png)
 
 
 
@@ -27,15 +27,15 @@ toc: true
 
 这两张图片其实已经更换过了，因为印刷的黑白限制。如果还是不清楚，只能试一试如下图片。
 
-![图 0-7](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/22/22c2c55de16df9e2adb6d2a71eeb7c6b77f339ff62d44accc652e0314ca4ff33.png)
+![图 0-7](https://blog.images.bornforthis.cn/docs-images/sha256/22/22c2c55de16df9e2adb6d2a71eeb7c6b77f339ff62d44accc652e0314ca4ff33.png)
 
-![图 5-1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ff/ffd62d49747f34d8cd8914f787b9d6006d6346a5e3ab0281656a72de4dc6c62f.png)
+![图 5-1](https://blog.images.bornforthis.cn/docs-images/sha256/ff/ffd62d49747f34d8cd8914f787b9d6006d6346a5e3ab0281656a72de4dc6c62f.png)
 
 ## 3. 添加网址链接
 
 ::: tip P124 页，输入网址；需要添加具体的网址
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/14/14917b2fb12b6e79ffd47000533a9cbd6d21b5684da10cb7851e6ea5fa6530f8.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/14/14917b2fb12b6e79ffd47000533a9cbd6d21b5684da10cb7851e6ea5fa6530f8.png)
 
 也就是原本的：输入网址；——>输入网址：[https://codemark.bornforthis.cn/editor](https://codemark.bornforthis.cn/editor)；
 
@@ -49,7 +49,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -65,4 +65,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

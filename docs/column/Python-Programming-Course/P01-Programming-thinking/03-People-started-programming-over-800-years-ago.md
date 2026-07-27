@@ -29,7 +29,7 @@ toc: true
 
 要了解这段历史，我们得穿越回800多年前的中东。在阿拉伯帝国，有一位天才发明家，叫**伊斯梅尔·阿尔·加扎利**。他造出了一艘非常特别的小船——**一艘会自动演奏音乐的机械船**。
 
-![伊斯梅尔设计的音乐机器人](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/fa6fb64db7488c8f44d5ec493f0349133586b39d818389975ddebf09e84eb2cd.png)
+![伊斯梅尔设计的音乐机器人](https://blog.images.bornforthis.cn/docs-images/sha256/fa/fa6fb64db7488c8f44d5ec493f0349133586b39d818389975ddebf09e84eb2cd.png)
 
 这艘船上，坐着几位贵族和国王，周围还有四位“音乐家”：一人打鼓、一人吹笛、一人弹竖琴，还有一人负责节奏。这些音乐家看上去惟妙惟肖，但他们不会说话、不会走动，因为他们其实是**机械木偶**。
 
@@ -37,7 +37,7 @@ toc: true
 
 秘诀在于——**机关装置 + 编排顺序的“程序”**。
 
-![Al-Jazari_A_Musical_robot｜加扎利音乐船](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c3/c3b6c77c52522f31efb8e543a85b26ae50bc48ef3fb4ab4539be4189e3c2afc3.jpeg)
+![Al-Jazari_A_Musical_robot｜加扎利音乐船](https://blog.images.bornforthis.cn/docs-images/sha256/c3/c3b6c77c52522f31efb8e543a85b26ae50bc48ef3fb4ab4539be4189e3c2afc3.jpeg)
 
 如果你玩过八音盒，就会懂这个原理。旋转的金属圆柱上有许多小突起，每个突起在旋转时碰触内部的金属片，从而发出乐声。加扎利用类似的设计原理，让不同位置的“突起”控制木偶动作，从而实现“编排音乐”。
 
@@ -58,17 +58,17 @@ toc: true
 
 根据法律，每10年一次的大型统计工作，必须收集全美范围的年龄、性别、受教育程度、职业、健康情况等20多项数据。1880年那次统计，光是分析数据就花了整整**9年**，新一轮普查还没开始，上一轮的数据就已经过时了。
 
-![霍尔瑞斯](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/07/0709aaf49035cb5be639a52828bfc3cb841ab43327bd60f18ac1ceaec8dca516.jpg)
+![霍尔瑞斯](https://blog.images.bornforthis.cn/docs-images/sha256/07/0709aaf49035cb5be639a52828bfc3cb841ab43327bd60f18ac1ceaec8dca516.jpg)
 
 为了改变这种效率低下的局面，一位年轻工程师站了出来：**赫尔曼·霍尔瑞斯**。
 
-![打孔卡片制表机｜图片来源：Adam Schuster](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8a/8ab0dbd8ca0f37ba4edd345b8b23fc8dea8142682aa926dcd13025d6179daa86.jpg)
+![打孔卡片制表机｜图片来源：Adam Schuster](https://blog.images.bornforthis.cn/docs-images/sha256/8a/8ab0dbd8ca0f37ba4edd345b8b23fc8dea8142682aa926dcd13025d6179daa86.jpg)
 
 他设计出了一种名叫“**打孔卡片制表机**”的装置。原理也不复杂：在纸卡片上打孔，每个孔位代表一个信息，比如性别是“男”，年龄是“11岁”。然后把这些卡片送进机器，机器根据孔的位置读取数据，自动统计结果。
 
 对于很多人来说，这种方法或许并不陌生。像考试时涂答题卡，就是和打孔卡非常相似的一种做法。通过安排孔位——也就是设定机器可识别的“语言”——来告诉设备要怎么处理、统计，这本身就已经算是编程了。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4a/4a2c81e4cb7a60698bff01a0f7d38c77c477e26e20d586d25bd9430ec81d193d.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/4a/4a2c81e4cb7a60698bff01a0f7d38c77c477e26e20d586d25bd9430ec81d193d.jpg)
 
 你可以把它理解为**19世纪的“扫码统计系统”**，只是当时的“扫码”，靠的是小孔和机械触点。
 

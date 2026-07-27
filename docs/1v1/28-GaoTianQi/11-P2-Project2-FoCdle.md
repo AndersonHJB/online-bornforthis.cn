@@ -102,7 +102,7 @@ For example, here is a trace of a person solving a **FoCdle** of difficulty 10. 
 
 > 例如，这是一个人解决难度为10的FoCdle难题的痕迹。在他们的第一次猜测中，他们尝试了包含10个字符的等式“`13+12-8=17`”，并从绿色的单元格中了解到第一个运算符及其位置，并正确找到了“`=`”的位置。他们还从黄色的单元格中了解到至少有一个数字1、2、3和7（对于这些数字的每个数字，他们了解到一个数字在其中没有出现的字符位置）；并且从灰色的单元格中了解到只有一个数字1，第二个运算符不是减法，并且任何地方都没有数字8。
 
-![Example 1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/47/47300140eaa3133a85b02c067b53a341c91fdf8ee95ced44611901191512e594.png)
+![Example 1](https://blog.images.bornforthis.cn/docs-images/sha256/47/47300140eaa3133a85b02c067b53a341c91fdf8ee95ced44611901191512e594.png)
 
 
 
@@ -403,7 +403,7 @@ def create_secret(difficulty=DEF_DIFFIC):
 
 @tab submit
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4a/4a750f98ad0ce9c745bc2e3b5a6326d8a964d2d254e33e59b853851d3736e4fe.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/4a/4a750f98ad0ce9c745bc2e3b5a6326d8a964d2d254e33e59b853851d3736e4fe.png)
 
 @tab 提交通过的代码
 
@@ -2749,7 +2749,7 @@ def create_better_guess(all_info, difficulty=DEF_DIFFIC):
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -2765,4 +2765,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

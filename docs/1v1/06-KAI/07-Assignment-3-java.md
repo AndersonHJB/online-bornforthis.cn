@@ -76,7 +76,7 @@ Here is a 12 th Century Moroccan Kilim Carpet sample pattern made of 25 rows and
 > 这是一张12世纪的摩洛哥基里姆地毯样品图案，由25行和36列:(本设计由星号(星号)和空格组成，请忽略边框，
 > 颜色，以及底纹效果):
 
-![image-20221010091358229](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8b/8b0f67d61dd934eb2d1195c1bd9358d55dbd2da4b70f6174b87a74c12b074c48.png)
+![image-20221010091358229](https://blog.images.bornforthis.cn/docs-images/sha256/8b/8b0f67d61dd934eb2d1195c1bd9358d55dbd2da4b70f6174b87a74c12b074c48.png)
 
 ## Here are the requirements: 
 
@@ -2207,7 +2207,7 @@ public class Part2 {
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -2223,4 +2223,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

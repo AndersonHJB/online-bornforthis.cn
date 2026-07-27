@@ -234,4 +234,4 @@ Python 库研究：
   - [ ] 爬虫
   
 
-![微信号：Jiabcdefh](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/51f1983c47ad09a50469d03ff84853eddd43b52c02bc8320e13de6cdb90ed9a7.jpg =300x400)
+![微信号：Jiabcdefh](https://blog.images.bornforthis.cn/docs-images/sha256/51/51f1983c47ad09a50469d03ff84853eddd43b52c02bc8320e13de6cdb90ed9a7.jpg =300x400)

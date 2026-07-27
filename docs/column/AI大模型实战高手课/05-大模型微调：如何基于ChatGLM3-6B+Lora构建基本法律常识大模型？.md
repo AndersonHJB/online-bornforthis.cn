@@ -19,7 +19,7 @@ toc: true
 footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备19021486号-6</a>
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cb/cb1552a4ab25021735d1521a7c6154aa4a6e7bda22f9b55bb7ff16cfcc1be5ba.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/cb/cb1552a4ab25021735d1521a7c6154aa4a6e7bda22f9b55bb7ff16cfcc1be5ba.jpg)
 
 你好，我是悦创。
 
@@ -37,7 +37,7 @@ footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https:/
 
 简单理解，微调相当于让大模型去学习一门新的学科，在回答的时候进行闭卷考试，知识库和 API 相当于为大模型提供了新学科的课本，回答的时候进行开卷考试。几种模式并不冲突，我们可以同时使用几种方案来优化模型，提升内容输出能力，下面我简单介绍下几种模式的优缺点。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3b233f6efe87002e2eeba11fe671bd90d8e26aa109df1839c43b90cb3d628834.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3b/3b233f6efe87002e2eeba11fe671bd90d8e26aa109df1839c43b90cb3d628834.png)
 
 注意，大模型领域所谓的性能，英文原词是 Performance，指推理效果，并非我们软件开发里所说的接口性能，比如响应时间、吞吐量等。
 
@@ -114,7 +114,7 @@ with open(csv_file_path, mode='r', encoding='utf-8') as csv_file, \
 
     我们先进入到 `finetune_demo` 文件夹。执行 `pip3 install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple`，过程中报了一个错。
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7c/7cc3a4d6e5dc469a92a2dca08e489bd23cd4f1b9e47b42dd5fb3530ef458590a.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/7c/7cc3a4d6e5dc469a92a2dca08e489bd23cd4f1b9e47b42dd5fb3530ef458590a.png)
 
     原因是缺少 `libopenmpi-dev` 库，所以我们需要安装这个库。
 
@@ -144,7 +144,7 @@ with open(csv_file_path, mode='r', encoding='utf-8') as csv_file, \
 
     其他参数可以参考下面这张表格：
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/06/06c9183a7b195bcf56a08e61c9912f30229f2e5edf9847716860fafd10553a6c.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/06/06c9183a7b195bcf56a08e61c9912f30229f2e5edf9847716860fafd10553a6c.png)
 
 4. 开始微调
 
@@ -168,13 +168,13 @@ with open(csv_file_path, mode='r', encoding='utf-8') as csv_file, \
 
     如果控制台输出下面这些内容，则说明微调开始了。
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0b/0bc719934666821691e2763f833515ee2f627355786deb41dc995a53f13154c4.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/0b/0bc719934666821691e2763f833515ee2f627355786deb41dc995a53f13154c4.png)
 
 trainable params 指的是在模型训练过程中可以被优化或更新的参数数量。在深度学习模型中，这些参数通常是网络的权重和偏置。它们是可训练的，因为在训练过程中，通过反向传播算法这些参数会根据损失函数的梯度不断更新，以减小模型输出与真实标签之间的差异。通过调整 `lora.yaml` 配置文件里 `peft_config` 下面的参数 `r` 来改变可训练参数的数量，`r` 值越大，trainable params 越大。
 
 我们这次微调 trainable params 为 1.9M（190 万），整个参数量是 6B（62 亿），训练比为 3%。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5c/5cf7395c07a798dda1dd334013c82bbb7c89f5cf526160df689c853095ed8638.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/5c/5cf7395c07a798dda1dd334013c82bbb7c89f5cf526160df689c853095ed8638.png)
 
 这里有几个参数我来简单讲解下。
 
@@ -183,7 +183,7 @@ trainable params 指的是在模型训练过程中可以被优化或更新的参
 - `learning_rate`（学习率）：学习率是一个控制参数更新幅度的超参数。在优化算法中，学习率决定了在反向传播期间参数更新的步长大小。太高的学习率可能导致训练过程不稳定，而太低的学习率可能导致训练进展缓慢或陷入局部最小值。
 - `epoch`（周期）：一个 epoch 指的是训练算法在整个训练数据集上的一次完整遍历。通常需要多个 epochs 来训练模型，以确保模型能够充分学习数据集中的模式。每个 epoch 后，通常会评估模型在验证集上的表现，以监控和调整训练过程。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/69/691de61d569654afe078a4e0828de01c5bd19ba34c94010bdb471f2853d20929.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/69/691de61d569654afe078a4e0828de01c5bd19ba34c94010bdb471f2853d20929.png)
 
 ### 2.4 验证
 
@@ -232,7 +232,7 @@ trainable params 指的是在模型训练过程中可以被优化或更新的参
 
 ## 3. 小结
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cf/cffe3afa194dd011d2169f9cef4de85c4c4a3eafb7c07354156b80ae9cb70394.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/cf/cffe3afa194dd011d2169f9cef4de85c4c4a3eafb7c07354156b80ae9cb70394.png)
 
 
 
@@ -366,7 +366,7 @@ trainable params 指的是在模型训练过程中可以被优化或更新的参
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -382,4 +382,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

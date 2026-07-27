@@ -29,11 +29,11 @@ toc: true
 
 人们习惯使用十进制系统，当我们从 0 数到 9，再到 10 时，其实就是在用数字表示数量的增减。
 
-![十进制](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1c/1cfa5796f84f4e5fcd278f4e813c797ebef546a0258c5809d47d9d4ea7061cbc.png)
+![十进制](https://blog.images.bornforthis.cn/docs-images/sha256/1c/1cfa5796f84f4e5fcd278f4e813c797ebef546a0258c5809d47d9d4ea7061cbc.png)
 
 那为什么我们人类选择十进制呢？很简单，因为人有十根手指，掰着数更直观、更方便。
 
-![二进制](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/de/ded0ba18fad64e7343ca2edad73ff0735d290299b2a4f9a3570bb77f046d0760.png)
+![二进制](https://blog.images.bornforthis.cn/docs-images/sha256/de/ded0ba18fad64e7343ca2edad73ff0735d290299b2a4f9a3570bb77f046d0760.png)
 
 但计算机可没有手指，它的“手指”只有开和关两种状态。所以，它的数数方法很特殊，只能使用 0 和 1 这两个数字，这就是二进制。
 
@@ -49,19 +49,19 @@ toc: true
 
 我们再来看看二进制的：0 → 1 → 10（进位） → 11 → 100 → 101 → 110 → 111 → 1000 …
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/748db0b5e7d8fd0fb26f7676739820d3b5598b7707142369e8b20584d20a3c86.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/74/748db0b5e7d8fd0fb26f7676739820d3b5598b7707142369e8b20584d20a3c86.png)
 
 二进制咋眼一看，还真像十进制。只是看起来像，因为这就好比你在看外语：单词的拼写看起来熟悉，实际意思却完全不同。
 
 ## 3. 历史的启迪：莱布尼茨与中国八卦
 
-![莱布尼茨画像](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c5ee282d7395930ed6e0ee12aee824855777f7c6073d40ae6d8996069c476770.png)
+![莱布尼茨画像](https://blog.images.bornforthis.cn/docs-images/sha256/c5/c5ee282d7395930ed6e0ee12aee824855777f7c6073d40ae6d8996069c476770.png)
 
 其实，二进制并非现代计算机的突然发现，它早在 300 多年前就由著名数学家莱布尼茨提出。
 
 据记载，1701年左右，莱布尼茨创立了**二进制的数学体系**，这项发明背后还有一段引人入胜的小故事。
 
-![八卦图](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c3/c3d8fa188e1d31e4aefb34ec0890d57f8a9985ea94482e2d302ffff6a6cb9228.png)
+![八卦图](https://blog.images.bornforthis.cn/docs-images/sha256/c3/c3d8fa188e1d31e4aefb34ec0890d57f8a9985ea94482e2d302ffff6a6cb9228.png)
 
 当时，一位传教士向中国传播文化，对中国古代的“八卦”颇有研究。八卦图由“乾、坎、艮、震、巽、离、坤、兑”八个符号组成，每一卦都是由三根横线构成，而这些横线只有两种状态：连续或断开。
 
@@ -100,13 +100,13 @@ toc: true
 
 ### 4.2 数学运算的普适性
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/01/016db0c479c75523da54b6fec814f104dc85984e49af8205e3801eaefc4eafea.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/01/016db0c479c75523da54b6fec814f104dc85984e49af8205e3801eaefc4eafea.png)
 
 ~~所有十进制的运算都可以转换为二进制操作，而不牺牲计算能力。~~ 既然所有的十进制都可以转换成二进制，那么十进制的所有数学运算，二进制都可以。（省字版：可以做所有的数学运算）
 
 ### 4.3 电路实现的简洁性
 
-![电子元件](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c0/c0a941e13e1860f05780690f646a08e7193c5980cea53ba60910d3936811376d.png)
+![电子元件](https://blog.images.bornforthis.cn/docs-images/sha256/c0/c0a941e13e1860f05780690f646a08e7193c5980cea53ba60910d3936811376d.png)
 
 在硬件层面，采用简单的“开/关”电路设计远比实现十种状态（比如灯光的九个亮度级别）来得容易和稳定。（省字版：对电路来说，**二进制更简单**）
 
@@ -121,7 +121,7 @@ toc: true
 - 灯亮 → 表示“1”
 - 灯灭 → 表示“0”
 
-![不同亮度的灯](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d1/d17547727f5274d89247f6614e15f54daec440933b56ef0b795d3306a9652b3d.png)
+![不同亮度的灯](https://blog.images.bornforthis.cn/docs-images/sha256/d1/d17547727f5274d89247f6614e15f54daec440933b56ef0b795d3306a9652b3d.png)
 
 如果用十进制呢？一个开关只能表示两个状态，那就不够用了。为了表示从 0 到 9 的十个状态，你得配出十种不同的亮度，比如弱光、中光、强光……可想而知，这既麻烦又容易出错。
 

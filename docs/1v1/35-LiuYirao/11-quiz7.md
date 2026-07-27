@@ -58,7 +58,7 @@ get_title(movies1) ->
  'Moon']
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/72/72c013f4c69517893c1bc99ec11a90d8659c6e793913ce8a081d3c1edc7d507c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/72/72c013f4c69517893c1bc99ec11a90d8659c6e793913ce8a081d3c1edc7d507c.png)
 
 
 
@@ -104,7 +104,7 @@ with open('question2.txt', 'w') as file:
     file.write("This is new content")
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/19/19638b6e72da28d8eefec8fd1eeb3eb6a85bfc0c52dde4f672bba4a1f7a3efe3.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/19/19638b6e72da28d8eefec8fd1eeb3eb6a85bfc0c52dde4f672bba4a1f7a3efe3.png)
 
 
 
@@ -165,7 +165,7 @@ with open('grades.pkl', 'wb') as f:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -181,5 +181,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

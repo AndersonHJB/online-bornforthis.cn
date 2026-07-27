@@ -100,7 +100,7 @@ Out[9]: 3.0
 
 使用了上面的 IPython 运行代码之后，你或许会有一个问题：为什么要使用 IPython 来编写上面的代码，而不是继续使用 PyCharm 来编写。你可以直接观察下图3-1：
 
-![图3-1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1c/1c842b604f523b908f5d1f1c2739ac7c4f4791cd0dd97e11fb183ba0601ef4db.png)
+![图3-1](https://blog.images.bornforthis.cn/docs-images/sha256/1c/1c842b604f523b908f5d1f1c2739ac7c4f4791cd0dd97e11fb183ba0601ef4db.png)
 
 ~~通过图 3-1 可知，左边 IPython 明显比右边 PyCharm 的直观，左边上面代码下面对应输出。右边则需要统一编写代码，统一运行后观察下方的输出结果。如果这时，其中某一行运行没有结果，你在 PyCharm 中就需要一行行的运行，而如果是在 IPython 中则非常直观有无输出和观察整体规律。~~
 

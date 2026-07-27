@@ -39,7 +39,7 @@ toc: true
 
 [In class code (ZIP)](https://cs.nyu.edu/courses/spring23/CSCI-UA.0061-001/assignment08.zip)
 
-[In class code (ZIP)](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/34-Assignment-08-Interactive-Database/assignment08.zip)
+[In class code (ZIP)](https://blog.images.bornforthis.cn/1v1/06-KAI/34-Assignment-08-Interactive-Database/assignment08.zip)
 
 Note: The majority of this assignment uses only HTML, CSS and PHP - very little (if any) JavaScript is necessary  to solve this problem.  I've outlined the technologies needed for each  feature below.
 
@@ -74,7 +74,7 @@ Search Movies 这个按钮下实现了查找功能，可以实现标题查找和
 
 
 
-![webdev_database_movies](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/7955f5b414f9753cf70cd48e78503c16961c58e20b945e68abdd8d96f61f7d2a.gif)
+![webdev_database_movies](https://blog.images.bornforthis.cn/docs-images/sha256/79/7955f5b414f9753cf70cd48e78503c16961c58e20b945e68abdd8d96f61f7d2a.gif)
 
 
 
@@ -403,7 +403,7 @@ $all_movies = get_all_movies($db);
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -419,4 +419,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

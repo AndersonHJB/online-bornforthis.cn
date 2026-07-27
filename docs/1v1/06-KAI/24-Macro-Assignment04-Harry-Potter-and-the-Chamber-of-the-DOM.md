@@ -39,7 +39,7 @@ toc: true
 
 > 宏观作业#04:哈利·波特与DOM密室!
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f5/f5014ce2f435b7e2f3eba231df9c381e738ee5f48ca4731d000f3e8a189b4371.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f5/f5014ce2f435b7e2f3eba231df9c381e738ee5f48ca4731d000f3e8a189b4371.png)
 
 The wizards at Hogwarts need your help! Voldemort has apparently been taking a web development class and is creating havoc by casting a wide array of dangerous JavaScript spells!
 
@@ -47,7 +47,7 @@ The wizards at Hogwarts need your help! Voldemort has apparently been taking a w
 
 Your mission is to work through five challenges (4 'starter' challenges and a final one.) Each challenge is based on a single HTML file. Read through the comments in the HTML file to determine your task, and then solve it using your HTML, CSS and JavaScript skills! When you solve a challenge you can come back here and input any magical results that appear by using the buttons below. Finishing a challenge will reward you with a password. If you collect all four passwords you can open up the final challenge. [The source code for the first four challenges can be downloaded here](https://cs.nyu.edu/courses/spring23/CSCI-UA.0061-001/assignment04/assignment04-harry_potter_challenges.zip).
 
-- [24-assignment04](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/24-assignment04/assignment04-harry_potter_challenges.zip)
+- [24-assignment04](https://blog.images.bornforthis.cn/1v1/06-KAI/24-assignment04/assignment04-harry_potter_challenges.zip)
 
 > 你的任务是完成五个挑战(4个“初始”挑战和一个最终挑战)。每个挑战都基于一个 HTML 文件。阅读 HTML 文件中的注释来确定您的任务，然后使用您的 HTML, CSS 和 JavaScript 技能来解决它!当你解决了一个挑战，你可以回到这里，输入任何神奇的结果出现使用下面的按钮。完成一个挑战将奖励你一个密码。如果你收集到所有四个密码，你就可以开始最后的挑战了。前四项挑战的源代码可以在这里下载。
 
@@ -67,7 +67,7 @@ Cast a series of spells to cause the names of familiar Harry Potter words to app
 
 > 施放一系列咒语，使熟悉的哈利波特单词的名字出现。关于如何开始的说明可以在文件01.html中找到。为了检查你的作业，把你的答案打在下面的空格里。当你成功施放所有咒语时，你将获得一个密码，以证明你已经掌握了这个挑战!
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/17/17eb8e38164217ed580499684011f083e4ddb9e866042843969f652b19b48352.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/17/17eb8e38164217ed580499684011f083e4ddb9e866042843969f652b19b48352.png)
 
 @tab Challenge #2
 
@@ -79,7 +79,7 @@ Dumbledore needs your help to summon a wizard to Hogwarts! Solve the challenge d
 
 > 邓布利多需要你帮忙召唤一名巫师到霍格沃茨!解决文件02.html中描述的挑战。在下面的空白处输入你的答案，检查你的作业。当你成功施放咒语时，你将获得一个密码，以证明你已经掌握了这个挑战!
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/ed4720d2afb1c76376e885664683291576458405a9dcbfd2d7b868ada9f0b7d5.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ed/ed4720d2afb1c76376e885664683291576458405a9dcbfd2d7b868ada9f0b7d5.png)
 
 @tab Challenge #3
 
@@ -91,7 +91,7 @@ A powerful ally of Voldemorte has trapped some of Harry's friends in a magical f
 
 > 伏地魔的一个强大盟友将哈利的一些朋友困在了一个魔法力场中。用你的JavaScript技巧解开他的朋友们，把咒语重定向到阿兹卡班!
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f4/f468a61ed4dd0f1fd58c7a803de5b5f76a6f7b5f89f9d7b78ebe0dc3cea62c18.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f4/f468a61ed4dd0f1fd58c7a803de5b5f76a6f7b5f89f9d7b78ebe0dc3cea62c18.png)
 
 @tab Challenge #4
 
@@ -103,7 +103,7 @@ Professor Snape has locked his potions cabinet and he can't get it open! Solve t
 
 > 斯内普教授把他的魔药柜锁上了，打不开!解决文件中描述的挑战，帮助斯内普打破阻止他打开柜子的锁。要检查你的工作类型，在柜子里找到什么放进下面的空白处。当你成功地打开柜子时，你会得到一个密码来证明你已经掌握了这个挑战!
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fd/fdd886f401b60fb75d5dec76b0b2289724fd457f796947bbf6f993f7c2c04ae8.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fd/fdd886f401b60fb75d5dec76b0b2289724fd457f796947bbf6f993f7c2c04ae8.png)
 
 @tab Final Challenge
 
@@ -115,7 +115,7 @@ Type in the four passwords you have obtained throughout your journey. You will t
 
 > 输入你在旅途中获得的四个密码。然后你将面临最后的挑战!
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b9f6a63486d2725581967d4a048298115078ffb3ceb09583f75a001ce0e6f5a8.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b9/b9f6a63486d2725581967d4a048298115078ffb3ceb09583f75a001ce0e6f5a8.png)
 
 ::::
 
@@ -132,7 +132,7 @@ Type in the four passwords you have obtained throughout your journey. You will t
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -148,4 +148,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

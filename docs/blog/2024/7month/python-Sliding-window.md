@@ -43,7 +43,7 @@ toc: true
     1. 如果满足，再判断是否需要更新最优解，如果需要则更新最优解
     2. 如果不满足，则继续
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/51dc90c5a8ef7a62ba88ecf083da33536b91a56781533ecd7b2e89441654c15b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/51/51dc90c5a8ef7a62ba88ecf083da33536b91a56781533ecd7b2e89441654c15b.png)
 
 ### 2.1 基本组成
 
@@ -191,7 +191,7 @@ print(find_max_sum_of_k_subarray(arr, k))  # 输出应为 16
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -207,4 +207,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

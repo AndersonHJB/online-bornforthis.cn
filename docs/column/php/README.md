@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: home
 title: PHP 零基础入门到就业
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/38/3815c0fda92b479e1e0a69e618fee45e71c7587122b8d0b5be27913bbf0d8e10.webp
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/38/3815c0fda92b479e1e0a69e618fee45e71c7587122b8d0b5be27913bbf0d8e10.webp
 heroText: 【体系课】PHP 零基础入门到就业
 heroFullScreen: false
 tagline: 边学边实战，快速入门 NLP

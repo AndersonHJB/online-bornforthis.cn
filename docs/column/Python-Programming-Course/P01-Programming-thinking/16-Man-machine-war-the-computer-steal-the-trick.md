@@ -25,7 +25,7 @@ toc: true
 
 ## 1. 第一回合：蓝色巨人的进击
 
-![深蓝 Vs. 卡斯帕罗夫](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b3/b3b5ac80d98a2b48620fc6d2013b9adc9830bbe767312a3972641cd52abb330a.png)
+![深蓝 Vs. 卡斯帕罗夫](https://blog.images.bornforthis.cn/docs-images/sha256/b3/b3b5ac80d98a2b48620fc6d2013b9adc9830bbe767312a3972641cd52abb330a.png)
 
 国际象棋这场战役，机器方派出了一位响当当的选手——**深蓝（Deep Blue）**。这台由 IBM 打造的超级计算机，是科技智慧的结晶，专门为了应对最顶尖的人类棋手而生。
 
@@ -41,7 +41,7 @@ toc: true
 
 ## 2. 第二回合：黑白世界的智慧博弈
 
-![围棋](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9b/9b09ebb43336295d667cd055cb1d51afc9b9195f46f1ce6af725eb508233b3a6.png)
+![围棋](https://blog.images.bornforthis.cn/docs-images/sha256/9b/9b09ebb43336295d667cd055cb1d51afc9b9195f46f1ce6af725eb508233b3a6.png)
 
 如果说国际象棋是一场策略之战，那么围棋就是一场宇宙级的对弈。围棋的棋盘更大，变化更复杂，每一步落子都有无数种可能。过去人们普遍认为，围棋太复杂，计算机永远不可能战胜人类顶尖棋手。
 
@@ -71,7 +71,7 @@ toc: true
 
 而且，你很可能会发现原来前辈们的二次开发中还有**不完善的地方**或者不是很符合自己的需求和想法。按照自己的方法，你完全可以做得更好。这样一来，你说不定也能成为编程大师。
 
-![柯洁 Vs. Alpha Go](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c3/c35d1aa5c8c115888867c1204c1c8ea8cee28985cc3b03ec9aa0c8b40aa5bed1.png)
+![柯洁 Vs. Alpha Go](https://blog.images.bornforthis.cn/docs-images/sha256/c3/c35d1aa5c8c115888867c1204c1c8ea8cee28985cc3b03ec9aa0c8b40aa5bed1.png)
 
 如果你对围棋感兴趣，那也许听说过它打败了世界围棋冠军**柯洁**。
 

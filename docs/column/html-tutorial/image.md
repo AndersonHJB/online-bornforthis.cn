@@ -178,9 +178,9 @@ backToTop: true
 
 桌面显示器的面积较大，图像可以容纳更多细节。手机的屏幕较小，许多细节是看不清的，需要突出重点。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5e/5e78bc95187aa01f871cb1a8541b1f74dd8bb97eccbde302a961f370358edb61.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/5e/5e78bc95187aa01f871cb1a8541b1f74dd8bb97eccbde302a961f370358edb61.jpg)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/08/08ddc34e30bc18aa72bea128195308ee782715086116ee61139b8a1626c3b5b7.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/08/08ddc34e30bc18aa72bea128195308ee782715086116ee61139b8a1626c3b5b7.jpg)
 
 上面两张图片，下方的手机图片经过裁剪以后，更突出图像重点，明显效果更好。
 
@@ -314,7 +314,7 @@ backToTop: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -330,4 +330,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

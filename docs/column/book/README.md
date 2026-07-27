@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: book1
 title: 电子书免费阅读
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b9/b92b0ed2f0b3b7462fb14772f13a88e085b2003d790822d833e6eaefbe09e7f6.png
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/b9/b92b0ed2f0b3b7462fb14772f13a88e085b2003d790822d833e6eaefbe09e7f6.png
 heroText: 电子书免费阅读
 heroFullScreen: false
 tagline: 电子书分享·学习交流使用

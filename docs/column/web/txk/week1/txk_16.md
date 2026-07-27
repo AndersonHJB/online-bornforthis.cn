@@ -34,7 +34,7 @@ toc: true
 
 现在打开如下图，空白页面：
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/95/952b0dac71d1bd1e620229240d6465d9970a2125a73037d854ec44e0b34d14f9.png" alt="image-20230103105929267" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/95/952b0dac71d1bd1e620229240d6465d9970a2125a73037d854ec44e0b34d14f9.png" alt="image-20230103105929267" style="zoom:25%;" />
 
 我们如果要让其中存在内容，例如文字。那我们就需要在 VSCode 中进行编辑。
 
@@ -53,11 +53,11 @@ toc: true
 </html>
 ```
 
-![image-20230103110227193](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/95/95f2a4d4ed3ca2ab3fa079ed2057f3f0d0b8ad81c4ca5f6334f54160c12c8dfa.png)
+![image-20230103110227193](https://blog.images.bornforthis.cn/docs-images/sha256/95/95f2a4d4ed3ca2ab3fa079ed2057f3f0d0b8ad81c4ca5f6334f54160c12c8dfa.png)
 
 效果如下：「记得刷新页面」
 
-![image-20230103110457299](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/26/267b07098d1a0e1757af3612ed0c34bcb0fa20279fc8f215c528757b4a48f6bd.png)
+![image-20230103110457299](https://blog.images.bornforthis.cn/docs-images/sha256/26/267b07098d1a0e1757af3612ed0c34bcb0fa20279fc8f215c528757b4a48f6bd.png)
 
 
 
@@ -67,9 +67,9 @@ toc: true
 - 安装完插件后，在 html 文件中，按 ctrl + shift + p 键，选择 “Open With Live Server” 即可。
 - 使用这种方法必须注意：网页必须存放在文件夹中，且 VSCode 已经打开这个文件夹。
 
-![image-20230104213401027](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/11/11d96f11cd0edfd352cba0bccc9871b681daff3cbed583eebaed71a10b7e11e7.png)
+![image-20230104213401027](https://blog.images.bornforthis.cn/docs-images/sha256/11/11d96f11cd0edfd352cba0bccc9871b681daff3cbed583eebaed71a10b7e11e7.png)
 
-![image-20230104213459597](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/91f7885dfa0782bab6ca88bf90b6cd355f6e930f53657082ff5670f2ac93f498.png)
+![image-20230104213459597](https://blog.images.bornforthis.cn/docs-images/sha256/91/91f7885dfa0782bab6ca88bf90b6cd355f6e930f53657082ff5670f2ac93f498.png)
 
 安装完成后，两种运行方式：
 
@@ -80,11 +80,11 @@ toc: true
 
 @tab 方法一
 
-![方法一](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/300bbd000b510c4bfd287495ef3a86f04771e8ffaeda75915e86d4d4959f366f.png)
+![方法一](https://blog.images.bornforthis.cn/docs-images/sha256/30/300bbd000b510c4bfd287495ef3a86f04771e8ffaeda75915e86d4d4959f366f.png)
 
 @tab 方法二
 
-![方法二](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/51c24663c41b84127d97169554a9d5ff6eef433e27f3a2a0f395848166a66067.png)
+![方法二](https://blog.images.bornforthis.cn/docs-images/sha256/51/51c24663c41b84127d97169554a9d5ff6eef433e27f3a2a0f395848166a66067.png)
 
 :::
 
@@ -100,7 +100,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -116,7 +116,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

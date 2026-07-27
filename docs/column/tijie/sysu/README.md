@@ -2,7 +2,7 @@
 home: true
 icon: zhongshanling
 title: 中山大学Python题解
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/64/64fdb0b67b3ab005975fce4e534eab764e75f7d5be221db8c2a67c0b563934f3.png
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/64/64fdb0b67b3ab005975fce4e534eab764e75f7d5be221db8c2a67c0b563934f3.png
 heroText: 计算机编程
 tagline: (Python)基础2022级
 actions:

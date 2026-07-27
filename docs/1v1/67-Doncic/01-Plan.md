@@ -24,9 +24,9 @@ toc: true
 
 ### 1.1 任务
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e1/e165c646f3806f9b6b15113a8012ec75391d28158fe809ba03b96b6f4933d200.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e1/e165c646f3806f9b6b15113a8012ec75391d28158fe809ba03b96b6f4933d200.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/73/73c2e5f3f3c95e4b56fc5d16aa4da665065bd3dca89ef1a34f1f5a5dc5b81e5a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/73/73c2e5f3f3c95e4b56fc5d16aa4da665065bd3dca89ef1a34f1f5a5dc5b81e5a.png)
 
 - 利用 OpenCV 完成对给定图像的操作
 - 要求：
@@ -188,7 +188,7 @@ if __name__ == "__main__":
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -204,7 +204,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

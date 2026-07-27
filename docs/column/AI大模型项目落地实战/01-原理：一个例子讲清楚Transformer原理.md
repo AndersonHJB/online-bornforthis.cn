@@ -19,7 +19,7 @@ toc: true
 footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备19021486号-6</a>
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/76/76a2d911db3299509228b53456308ee59d6d0613e896d198bfe9a2771bc37630.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/76/76a2d911db3299509228b53456308ee59d6d0613e896d198bfe9a2771bc37630.jpg)
 
 你好，我是悦创。
 
@@ -47,13 +47,13 @@ footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https:/
 
 先看例 1，用明确的指令“翻译”让 GPT 做一个翻译。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/99f83862508ff34c1d3b659d5a82eb3b5c91b6e27ebba4b34311b64ce9781959.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/99/99f83862508ff34c1d3b659d5a82eb3b5c91b6e27ebba4b34311b64ce9781959.png)
 
 
 
 接着是例 2，如果接着输入，GPT 就会继续翻译，不再需要额外的指令。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a7/a71d20035ec6145d11ca322c032d66606d50b80a1530a7e6c2aa56fc499d6e0f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a7/a71d20035ec6145d11ca322c032d66606d50b80a1530a7e6c2aa56fc499d6e0f.png)
 
 
 
@@ -61,7 +61,7 @@ GPT 的实现原理可以用一句话表述：**通过输入一段文本，GPT �
 
 把这个过程画成流程图，会更加清晰。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/031396c4f4324138ad84f9bc7fbf9b4273a61511d5e470a2b8f9cbde1ecf1c34.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/03/031396c4f4324138ad84f9bc7fbf9b4273a61511d5e470a2b8f9cbde1ecf1c34.png)
 
 接下来，我们的任务是进一步理解 GPT（核心是 Transformer）的具体程序流程。
 
@@ -101,7 +101,7 @@ GPT 的实现原理可以用一句话表述：**通过输入一段文本，GPT �
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -117,7 +117,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

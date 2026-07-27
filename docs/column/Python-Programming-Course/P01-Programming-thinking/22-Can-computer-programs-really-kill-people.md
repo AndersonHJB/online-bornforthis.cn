@@ -17,7 +17,7 @@ backToTop: true
 toc: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8a/8a6cf2c21b8b93bbf9e35bcdc563f171b576fe2190de5e550b750c4d5f77ab90.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8a/8a6cf2c21b8b93bbf9e35bcdc563f171b576fe2190de5e550b750c4d5f77ab90.png)
 
 你有没有见过那种自信满满的程序员，写完代码拍拍胸脯说：“放心吧，绝对没问题！”可话虽这么说，你真的就能百分百放心吗？
 
@@ -29,13 +29,13 @@ toc: true
 
 ## 1. 那台“治病”的机器，居然……
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/84/848a91d697d9cd407a2f469a7785e295f8e73729045957fd9dc4a5de94d8933b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/84/848a91d697d9cd407a2f469a7785e295f8e73729045957fd9dc4a5de94d8933b.png)
 
 上世纪末，一家技术公司推出了一种用于治疗癌症的高能射线设备。你可以理解成超级加强版的 X 光机，能精准地用射线杀死癌细胞。听起来是不是挺高科技的？
 
 可惜的是，这台设备在运行中出现了严重的故障。有些患者在接受治疗时，身体突然像被火灼一样剧痛，甚至有的直接从治疗床上跳了起来。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6f/6f8dcc2da4019d41229460fac8fed3652415fa0c8016a3ad48cae1d20f7ac722.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/6f/6f8dcc2da4019d41229460fac8fed3652415fa0c8016a3ad48cae1d20f7ac722.png)
 
 调查后发现，这台机器在某些时候会**意外提升射线强度**，而且是一百多倍的那种“超载”！这不是闹着玩的，高强度射线不仅杀癌细胞，也能伤及健康细胞，甚至直接危及生命。最终，有六位病人因此受伤，其中四位不幸去世。
 
@@ -79,9 +79,9 @@ toc: true
 
 **为了让你更好的理解，我们举个例子：**
 
-![微信视频号截图](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/63/630ca6293487b731a1012ad90f0c7ff4a0407d72c1c3529f292540af3b3ba137.png)
+![微信视频号截图](https://blog.images.bornforthis.cn/docs-images/sha256/63/630ca6293487b731a1012ad90f0c7ff4a0407d72c1c3529f292540af3b3ba137.png)
 
-![微信视频号评论显示 IP 地址](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/74/748926bd108fe92dff2612e262b6b88861c2cbdb48ee336353553882a05ddc53.png)
+![微信视频号评论显示 IP 地址](https://blog.images.bornforthis.cn/docs-images/sha256/74/748926bd108fe92dff2612e262b6b88861c2cbdb48ee336353553882a05ddc53.png)
 
 假如现在微信要上新功能，可以在视频号里面显示 IP 地址这个功能（包括评论显示 IP）。那为了确保新版本的微信能正常运行，程序员们肯定会绞尽脑汁，排除掉每一种出错的可能性。想来想去，觉得没啥问题了，诶，就要请出灰度测试了。
 
@@ -107,7 +107,7 @@ Tips：现在其实有些 APP 很多数据代码都是通过请求网络来实�
 
 ## 5. 灰度测试，也能“下厨房”？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/51/51a338db1c790eb51bcbbcd8b4b0dfa739d1cc9f51faeaba1986b55198dbcf6c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/51/51a338db1c790eb51bcbbcd8b4b0dfa739d1cc9f51faeaba1986b55198dbcf6c.png)
 
 说实话，灰度测试的思维方式不仅适用于写程序，在生活中也同样管用。
 
@@ -115,7 +115,7 @@ Tips：现在其实有些 APP 很多数据代码都是通过请求网络来实�
 
 看完前面的灰度测试的例子，想想现在要怎么办？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/80ecabc23a1fea074cf3ae8e451dc32e12e11dfe0650d58b7763546303271378.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/80/80ecabc23a1fea074cf3ae8e451dc32e12e11dfe0650d58b7763546303271378.png)
 
 聪明的做法当然是——**舀一小碗**出来，各自加点调料尝一尝。哪个更好喝，再决定怎么调整整锅，这样才最安全，这不就是“灰度测试”吗？
 

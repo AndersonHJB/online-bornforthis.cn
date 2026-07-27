@@ -2,7 +2,7 @@
 home: true
 icon: columnszhuanlan
 title: Why Blog？
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bc/bcee19073d682776e45574f8bd00fc4d675e8bbbf6ed2fbec91cbdbbfff60aa9.svg
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/bc/bcee19073d682776e45574f8bd00fc4d675e8bbbf6ed2fbec91cbdbbfff60aa9.svg
 heroText: 为什么写博客？
 tagline: 浅者见浅，深者见深。
 head:
@@ -69,7 +69,7 @@ features:
 
 ## 一图胜千言
 
-![知识库](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c0/c0e19778c164b04245051f03138570e7fda6b73352c1c838395ed12bf2b5368f.jpg)
+![知识库](https://blog.images.bornforthis.cn/docs-images/sha256/c0/c0e19778c164b04245051f03138570e7fda6b73352c1c838395ed12bf2b5368f.jpg)
 
 ::: tip 手札1
 

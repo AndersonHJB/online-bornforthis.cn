@@ -36,21 +36,21 @@ toc: true
 - MacOS：Command + shift + N
 - Linux：mkdir 文件夹名称
 
-![image-20221126172402507](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77c0b3899c7b3c7abb6e62aeaafea981f960a47fa73f0a7d3be2af6be0fb8578.png)
+![image-20221126172402507](https://blog.images.bornforthis.cn/docs-images/sha256/77/77c0b3899c7b3c7abb6e62aeaafea981f960a47fa73f0a7d3be2af6be0fb8578.png)
 
-![image-20221126180234434](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/82/82670f106230c33faa83021629f77ed697624add3a9d22d6d6d6f1ebdb7029ce.png)
+![image-20221126180234434](https://blog.images.bornforthis.cn/docs-images/sha256/82/82670f106230c33faa83021629f77ed697624add3a9d22d6d6d6f1ebdb7029ce.png)
 
-![image-20221126181957036](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/16/16184f7c8d615ad95f185339cc8cf1574d956a0fe54f533ba18d79b796e26865.png)
+![image-20221126181957036](https://blog.images.bornforthis.cn/docs-images/sha256/16/16184f7c8d615ad95f185339cc8cf1574d956a0fe54f533ba18d79b796e26865.png)
 
-![image-20221126191205604](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c9/c96701883f18dd4e36726a908f8c708721c6b37895abb9592143a87e77343e53.png)
+![image-20221126191205604](https://blog.images.bornforthis.cn/docs-images/sha256/c9/c96701883f18dd4e36726a908f8c708721c6b37895abb9592143a87e77343e53.png)
 
 当然，也可以快捷键 `Command + N` ：
 
-![image-20230102202400451](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ea/ea1679eea93cd8017082a392d3cd876033c0dd4dc444666b574a4828c9b11b52.png)
+![image-20230102202400451](https://blog.images.bornforthis.cn/docs-images/sha256/ea/ea1679eea93cd8017082a392d3cd876033c0dd4dc444666b574a4828c9b11b52.png)
 
 `Command + S`：
 
-![image-20230102202449904](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/24/24861e460e04d46a68a4aa1d775dde231806756971c65845b8cfc7002250f379.png)
+![image-20230102202449904](https://blog.images.bornforthis.cn/docs-images/sha256/24/24861e460e04d46a68a4aa1d775dde231806756971c65845b8cfc7002250f379.png)
 
 ### 1.2 创建网页-方法二
 
@@ -61,11 +61,11 @@ toc: true
 
 - 必须设置操作系统“文件扩展名”为可见
 
-![image-20230102205721803](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5f/5ff7d2fef55b513d4e56c861a31ee1ae70de63baa0064a635d71bbcaaf4019cb.png)
+![image-20230102205721803](https://blog.images.bornforthis.cn/docs-images/sha256/5f/5ff7d2fef55b513d4e56c861a31ee1ae70de63baa0064a635d71bbcaaf4019cb.png)
 
-![image-20230102205737761](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e4c01c87f16144e329385247ced6ce4f63905ae423012b44f79968d73b3268fd.png)
+![image-20230102205737761](https://blog.images.bornforthis.cn/docs-images/sha256/e4/e4c01c87f16144e329385247ced6ce4f63905ae423012b44f79968d73b3268fd.png)
 
-![image-20230102205816218](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9e/9e6102b636af40c1e7e22664751781d1dded634bccba288d819386abad87a0bb.png)
+![image-20230102205816218](https://blog.images.bornforthis.cn/docs-images/sha256/9e/9e6102b636af40c1e7e22664751781d1dded634bccba288d819386abad87a0bb.png)
 
 ::: tip 提示
 
@@ -84,7 +84,7 @@ toc: true
 - **输入!（英文模式下，输入的感叹号），按 tab 键， ** 即可自动生成 HTML 的骨架
 - 如果骨架没有生成，就说明你没有将网页保存，或者网页保存格式不是 `.html` 后缀
 
-![Untitled](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/31/312877f50909ee2306187cb916edfb51a5c6606530ede33e5d03ecd359d975cf.gif)
+![Untitled](https://blog.images.bornforthis.cn/docs-images/sha256/31/312877f50909ee2306187cb916edfb51a5c6606530ede33e5d03ecd359d975cf.gif)
 
 ::: tip 注意⚠️
 
@@ -98,7 +98,7 @@ Windows：Control + S
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -114,7 +114,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

@@ -20,7 +20,7 @@ copy:
     disableSelection: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/84/84bb9f01341e7cb651548a0e5bb3b1d3452f1d2929d49d75c6ebff70bc6a892a.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/84/84bb9f01341e7cb651548a0e5bb3b1d3452f1d2929d49d75c6ebff70bc6a892a.jpeg)
 
 你好，我是悦创。
 
@@ -39,15 +39,15 @@ copy:
 
 比如，有一张图的内容是一条直线穿过两个小圆圈，图的名字是《数学》。想一下就能明白了，圆圈代表样本，直线代表理论，有两个样本就能建立精确的理论，就像过两点有且只有一条直线那样。这就理解了作者的意思，数学是一种高度精确的学科。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3a/3a7c0a434b9c297208147adec847863386cd33c5b43e47ac848d1f631c6c105c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/3a/3a7c0a434b9c297208147adec847863386cd33c5b43e47ac848d1f631c6c105c.png)
 
 另一张图里，小圆圈到处都是，一条线从左下延伸到右上，图的名字是《经济学》。意思就是，经济学的理论只能大致反映样本的趋势，但是误差太大。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/fa5bfc09d9ce4b8680759497e4db2798745925282323ffcb162c969d2e13cbaf.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fa/fa5bfc09d9ce4b8680759497e4db2798745925282323ffcb162c969d2e13cbaf.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/62/6202948a4b30487bc736f438ef320b4adb68c8b85457756a121fbea2567f1ae4.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/62/6202948a4b30487bc736f438ef320b4adb68c8b85457756a121fbea2567f1ae4.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b5/b50cf117b8f7d7d89f69fc40eca63c511fbb039f4e1527eece5995c10b4c9234.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b5/b50cf117b8f7d7d89f69fc40eca63c511fbb039f4e1527eece5995c10b4c9234.png)
 
 还有一张图，只有一个小圆圈和穿过这个小圆圈的线，图的名字是《新闻学》。意思是说，只有一个样本，也就是只有一个新闻事件，新闻学就能建立一个理论进行解释。这是作者嘲笑新闻学解释世界非常任意。
 
@@ -57,7 +57,7 @@ copy:
 
 我还见过一张很好的作品，解释高速公路上为什么没有事故也会堵车。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b5/b5ea1a2875b83f6ef4a04445d33bdaed7a7aa8a73b12085dbdbb9be9ba7468d1.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b5/b5ea1a2875b83f6ef4a04445d33bdaed7a7aa8a73b12085dbdbb9be9ba7468d1.jpeg)
 
 图的主体部分是一条隆起的高速公路，从右下到左上，右下的一辆辆汽车就像爬山那样拥堵着，整体视觉效果很强烈。接下来，图中从左上到右下标着号码 1、2、3、4，这引导着观察者的注意力。依次读标号后面的文字，你会知道一连串事件：第一辆车突然变道，导致后面的车从时速 100 公里下降到 80 公里；后面的车为了保持安全距离，依次下降车速，最后导致停车拥堵。
 
@@ -80,9 +80,9 @@ copy:
 
 这样，每个人的社交模式就形象地表示出来了。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b1/b1ff707914a4f33d86b68fefe1101a8724fe448bb114224b0e06e6cadfd1f1c2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b1/b1ff707914a4f33d86b68fefe1101a8724fe448bb114224b0e06e6cadfd1f1c2.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/61/612f55c6d4efb94a110fc59b4dfcafe5b33a131a58a821f7589237f39092b04e.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/61/612f55c6d4efb94a110fc59b4dfcafe5b33a131a58a821f7589237f39092b04e.jpeg)
 
 比如一位著名的音乐制作人，三种颜色的深浅度差不多，可以说是社交明星。相互关注的人多，他单方面关注的其他人也多，单方面被别人关注的也很多。
 
@@ -112,7 +112,7 @@ copy:
 
 南丁格尔不仅是一名护士，也是一名统计学家。刚才那张圆形图，是最早的数据可视化作品之一，还被后人起了一个名字，叫“玫瑰图”。可见这个作品不但说服力强，而且很美观。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f6b1cbd826135b20b39f9adddfd123b87b05da26800e1fa7df226b9ab8fdc745.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f6/f6b1cbd826135b20b39f9adddfd123b87b05da26800e1fa7df226b9ab8fdc745.jpeg)
 
 不过，事情的另一面是，选择就会有偏差，偏差就可能会误导受众。
 
@@ -120,13 +120,13 @@ copy:
 
 作品相当不错，既高效又美观。但是，为什么只呈现 8 年时间呢？因为拉长时间就可以看到，布什的第一任期经济表现也是很好的。但作者显然不关心真相，只关心效果。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2d/2dc40cf3cc3be570a71aeb211cef35c3be67ff4c95464378b219c7c8086a14fb.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2d/2dc40cf3cc3be570a71aeb211cef35c3be67ff4c95464378b219c7c8086a14fb.jpeg)
 
 ::: details 补充
 
 - **第一类：高效与美观的巅峰（用图表揭示真相）**
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/94/94514e9a19a1a6375cc3bede99f41f9229dc3915288354b17c3d9afbbe323a19.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/94/94514e9a19a1a6375cc3bede99f41f9229dc3915288354b17c3d9afbbe323a19.png)
 
     除了南丁格尔的玫瑰图，历史上还有两张图被公认为数据可视化的“封神之作”。
 
@@ -138,7 +138,7 @@ copy:
 
     2. **米纳尔的“拿破仑东征图” (1869年)**
 
-        ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/26/26b48cfcd5d2c051e8242c384f107dd21c5e0a0cbf0194c787d40d313c3aaca5.jpg)
+        ![](https://blog.images.bornforthis.cn/docs-images/sha256/26/26b48cfcd5d2c051e8242c384f107dd21c5e0a0cbf0194c787d40d313c3aaca5.jpg)
 
         1. **背景：** 法国工程师查尔斯·米纳尔（Charles Minard）绘制了拿破仑 1812 年远征俄国的惨烈历史。
 
@@ -229,7 +229,7 @@ copy:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -245,4 +245,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

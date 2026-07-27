@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: home
 title: Python Turtle 入门与实战
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cf/cfc08a289e0ebd3e6e7e53fdf23aa65789bd2d6ae3a029cde0ffc6fec895a2da.webp
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/cf/cfc08a289e0ebd3e6e7e53fdf23aa65789bd2d6ae3a029cde0ffc6fec895a2da.webp
 heroText: Python Turtle 入门与实战
 heroFullScreen: false
 tagline: 带你体验数学之美
@@ -58,7 +58,7 @@ footer: 立志降低教育成本，普及编程教育，提供优质资源教程
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -74,5 +74,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

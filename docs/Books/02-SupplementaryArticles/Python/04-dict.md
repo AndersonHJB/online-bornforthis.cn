@@ -325,7 +325,7 @@ after = {'a': 19, 'b': [2, 3]}
 
 从输出可知，修改 after 字典键 `'a'` 对应的值时，也会影响原本字典 original 的值。正常情况变量 original 应该需要达到不受影响才对，我们来稍微用可视化分析一下。从图中，也可以发现两个变量指向同一个值。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c5f6124f83203e4d91962eef856995156c15e0ee8231571e6197015335b2f41f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c5/c5f6124f83203e4d91962eef856995156c15e0ee8231571e6197015335b2f41f.png)
 
 使用可视化网站：[https://pythontutor.bornforthis.cn/visualize.html#mode=edit](https://pythontutor.bornforthis.cn/visualize.html#mode=edit)
 
@@ -364,7 +364,7 @@ after = {'a': 19, 'b': [2, 3]}
 
 `copy()` 函数虽然解决了上面的问题，但是对于值是一个可修改的数据时，还是会有影响。因为浅拷贝只解决了顶层问题，嵌套数据仍然共用同一个地址，看图：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a4da0b4239c760650aed4a22c1b99c948ba968305bde22719ff509402757e459.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a4/a4da0b4239c760650aed4a22c1b99c948ba968305bde22719ff509402757e459.png)
 
 从图中可知，两个字典虽然独立了。但是两个字典中键 `'b'` 对应的值还是指向同一个列表，意味着修改其中一个字典对应的列表，另外一个字典也会被影响。
 
@@ -384,7 +384,7 @@ shallow_copy = {'a': 1, 'b': [2, 3, 4]}
 
 从代码输出结果可知，两个字典的数据均被影响。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cc/ccb604ca5422ed030d6c91c0fb4f902983975cfa57c1b89b882dfbb9378db7cc.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/cc/ccb604ca5422ed030d6c91c0fb4f902983975cfa57c1b89b882dfbb9378db7cc.png)
 
 
 
@@ -408,7 +408,7 @@ original = {'a': 1, 'b': [2, 3]}
 deep_copy = {'a': 1, 'b': [2, 3, 4]}
 ```
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/14/14b9b2af18f440256ce2eeb982a94b17b7eb7aac42a4eaae5a247882c57d452c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/14/14b9b2af18f440256ce2eeb982a94b17b7eb7aac42a4eaae5a247882c57d452c.png)
 
 通过上面的图，可以发现现在已经完完全全的实现 copy 了，这才是备份思想。
 

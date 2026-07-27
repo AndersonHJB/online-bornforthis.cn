@@ -30,7 +30,7 @@ watermark:
 
 ::: details 图片
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1e/1efa76f2c460dd375c0dcbe7490646234a666a730b0cedeb5c93a935ba6b6c31.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/1e/1efa76f2c460dd375c0dcbe7490646234a666a730b0cedeb5c93a935ba6b6c31.jpg)
 
 :::
 
@@ -129,13 +129,13 @@ print(result)
 
 @tab 方法二：使用下面的代码图片
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/02/02adf6b99dd28b6b9f5e57510c2672975596848e263c20ce514a8c96bd3200ca.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/02/02adf6b99dd28b6b9f5e57510c2672975596848e263c20ce514a8c96bd3200ca.png)
 
 @tab 方法三：或者是拆分成多张
 
-![1](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/23/23c0fd1465ceddfae5eb857387486b7605ba743b29f973159e37a661cd7be065.png)
+![1](https://blog.images.bornforthis.cn/docs-images/sha256/23/23c0fd1465ceddfae5eb857387486b7605ba743b29f973159e37a661cd7be065.png)
 
-![2](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4c/4cbddf072651f26ab657b36c474269d549fd297f61613e2dc7869a436b822b88.png)
+![2](https://blog.images.bornforthis.cn/docs-images/sha256/4c/4cbddf072651f26ab657b36c474269d549fd297f61613e2dc7869a436b822b88.png)
 
 :::
 

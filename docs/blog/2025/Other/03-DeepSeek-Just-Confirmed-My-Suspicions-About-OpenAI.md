@@ -20,7 +20,7 @@ toc: true
 
 > The ChatGPT maker has been playing a losing game
 
-![Image created by author using Canva](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/13/13296b16b6ff0db69e6b37c79f6592dd4657874bf4f06debad53af79dc27b1ac.jpeg)
+![Image created by author using Canva](https://blog.images.bornforthis.cn/docs-images/sha256/13/13296b16b6ff0db69e6b37c79f6592dd4657874bf4f06debad53af79dc27b1ac.jpeg)
 
 There are three typical reasons why OpenAI makes the news:
 
@@ -32,7 +32,7 @@ They recently made the news for reason number 3.
 
 Early January, Sam Altman dropped this irksome tweet.
 
-![Screenshot by author](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b1/b10f142b4468b737e35935e3b55b09261a893f658e6c42844b37a84fc56ad9bf.jpeg)
+![Screenshot by author](https://blog.images.bornforthis.cn/docs-images/sha256/b1/b10f142b4468b737e35935e3b55b09261a893f658e6c42844b37a84fc56ad9bf.jpeg)
 
 For context, on Dec 5, 2024, OpenAI launched [the $200 ChatGPT Pro subscription](https://openai.com/index/introducing-chatgpt-pro/) which, in their own words, *“enables scaled access to the best of OpenAI’s models and tools.”*
 
@@ -114,7 +114,7 @@ Only three points are worth mentioning:
 - Usage is free, with API pricing costs [one-thirtieth](https://www.wsj.com/tech/ai/china-ai-deepseek-chatbot-6ac4ad33) of OpenAI’s o1.
 - Training one of its model cost [$5.6 million](https://www.wsj.com/tech/ai/china-ai-deepseek-chatbot-6ac4ad33), compared to the $100,000 to $1 billion cited as the cost of building a model.
 
-![Here's a look at DeepSeek doing its thing](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8a/8a741aea85b51d74c6f08ea0f78aa335b6aa3c2c5a5bec593a065a4c9f1c17ed.gif)
+![Here's a look at DeepSeek doing its thing](https://blog.images.bornforthis.cn/docs-images/sha256/8a/8a741aea85b51d74c6f08ea0f78aa335b6aa3c2c5a5bec593a065a4c9f1c17ed.gif)
 
 Instead of doing what established players in the AI industry had been doing, DeepSeek chose to do things differently. This helped them reduce cost, while achieving almost-equal results as other players in the game. They did at least [four things](https://www.analyticsvidhya.com/blog/2025/01/how-deepseek-trained-ai-30-times-cheaper/) differently:
 
@@ -155,7 +155,7 @@ Some netizens commented:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -171,7 +171,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 [.](https://medium.com/write-a-catalyst/deepseek-just-confirmed-my-suspicions-about-openai-d74edd89dcb5)
 

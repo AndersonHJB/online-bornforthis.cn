@@ -26,7 +26,7 @@ backToTop: true
 toc: true
 ---
 
-- [Assignment3_ Battleship.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/12-Assignment3-Battleship/Assignment3Battleship.pdf)
+- [Assignment3_ Battleship.pdf](https://blog.images.bornforthis.cn/1v1/06-KAI/12-Assignment3-Battleship/Assignment3Battleship.pdf)
 
 ## Assignment 5: Battleship
 
@@ -74,7 +74,7 @@ Figure 1 shows an example of the Battleship game on a 10x10 grid.
 
 > 图1显示了《战舰》游戏在10x10网格上的例子。
 
-![image-20221129213724491](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c591ea8677d3e9734860bc8140ec44a31129e6fa0f5f869c826c926e3e146219.png)
+![image-20221129213724491](https://blog.images.bornforthis.cn/docs-images/sha256/c5/c591ea8677d3e9734860bc8140ec44a31129e6fa0f5f869c826c926e3e146219.png)
 
 Figure 1: Example output after the start of the game and after multiple turns with 3 hits at D8, E8, F8
 
@@ -1162,7 +1162,7 @@ public class Ship {
 
 :::
 
-![知识库](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c0/c0e19778c164b04245051f03138570e7fda6b73352c1c838395ed12bf2b5368f.jpg)
+![知识库](https://blog.images.bornforthis.cn/docs-images/sha256/c0/c0e19778c164b04245051f03138570e7fda6b73352c1c838395ed12bf2b5368f.jpg)
 
 
 
@@ -1171,7 +1171,7 @@ public class Ship {
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1187,4 +1187,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

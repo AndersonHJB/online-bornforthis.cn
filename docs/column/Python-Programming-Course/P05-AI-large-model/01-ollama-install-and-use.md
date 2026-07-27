@@ -45,11 +45,11 @@ nvidia-smi
 
 1. 按下 `Win + X`，选择 **设备管理器**。
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0d/0d7a8d7ef52464d109e0d53ffb14185e2a0b389a6f6e5b2d4cb040c74782f510.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/0d/0d7a8d7ef52464d109e0d53ffb14185e2a0b389a6f6e5b2d4cb040c74782f510.png)
 
 2. 展开 **显示适配器**，就能看到当前电脑安装的显卡型号。
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f0/f014024161a46c95aed069f90cf6d74e3c194d4bb117f80ded00a5abedba3493.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/f0/f014024161a46c95aed069f90cf6d74e3c194d4bb117f80ded00a5abedba3493.png)
 
 **方法二：使用任务管理器**
 
@@ -59,7 +59,7 @@ nvidia-smi
 
 3. 左侧可以看到 **GPU 0**、**GPU 1** 等，点击可以查看详细显卡信息。
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a6/a65799af141f56b38d54b5f89953e16ff513a5398f5fff0dd4e327804cdd1b1c.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/a6/a65799af141f56b38d54b5f89953e16ff513a5398f5fff0dd4e327804cdd1b1c.png)
 
 **方法三：使用 `dxdiag` 工具**
 
@@ -67,7 +67,7 @@ nvidia-smi
 
 2. 输入 `dxdiag`，回车。
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5b/5b72e523b8b957796386db8d4c74c8d06e2d029ddc285a7418b5523ebbb3d02e.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/5b/5b72e523b8b957796386db8d4c74c8d06e2d029ddc285a7418b5523ebbb3d02e.png)
 
 3. 在弹出的 DirectX 诊断工具中，切换到 **显示** 页签，可以看到显卡名称和显存信息。
 
@@ -81,11 +81,11 @@ nvidia-smi
 
     这个命令会列出你所有显卡的名称。
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2e/2eaf54aa9ab1e7c566e329f5c5e10f47f28ee5b8e53ce5287a364c130b3bbfe7.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/2e/2eaf54aa9ab1e7c566e329f5c5e10f47f28ee5b8e53ce5287a364c130b3bbfe7.png)
 
 2. 运行后输出如下：
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/34/342a68ce9035d23eaf6859d46be67fd0b89a7464c9f153c83e6ce863f03bbf1a.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/34/342a68ce9035d23eaf6859d46be67fd0b89a7464c9f153c83e6ce863f03bbf1a.png)
 
     
 
@@ -97,15 +97,15 @@ nvidia-smi
 
 2. 选择 **关于本机**。
 
-    <img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e9/e97ade0f529d8a0bc825363b5b48008b84ef7d12fbdd804d83153a9fe345b663.png" style="zoom:25%;" />
+    <img src="https://blog.images.bornforthis.cn/docs-images/sha256/e9/e97ade0f529d8a0bc825363b5b48008b84ef7d12fbdd804d83153a9fe345b663.png" style="zoom:25%;" />
 
 3. 在弹出窗口中，点击 **更多信息…**。
 
-    <img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a461b1b27e3caa51cb4431379881cebff22d93e656799d1d2cd7ce8f315eac13.png" style="zoom:25%;" />
+    <img src="https://blog.images.bornforthis.cn/docs-images/sha256/a4/a461b1b27e3caa51cb4431379881cebff22d93e656799d1d2cd7ce8f315eac13.png" style="zoom:25%;" />
 
 4. 在左侧列表中，找到 **图形/显示器**，就能看到显卡型号、显存大小等信息。
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0e/0e9ba13fd587071d5140f844756ad380f54f37be163da529b060034a5ea13dec.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/0e/0e9ba13fd587071d5140f844756ad380f54f37be163da529b060034a5ea13dec.png)
 
 ##### 1.1.2.3 🐧 Linux 系统
 
@@ -146,11 +146,11 @@ nvidia-smi
 
 2. 选择你的显卡型号，下载并安装最新稳定版驱动；
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/08/088905a5ac46554e172be030e3b9012d9d8a368ab2b5ae76a08f698e588798b7.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/08/088905a5ac46554e172be030e3b9012d9d8a368ab2b5ae76a08f698e588798b7.png)
 
 3. 点击 Find：
 
-    ![Find 之后的界面](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c5058a954680c91d21b86ecf5021eb419340231c3e4772748cc37c05bf665f84.png)
+    ![Find 之后的界面](https://blog.images.bornforthis.cn/docs-images/sha256/c5/c5058a954680c91d21b86ecf5021eb419340231c3e4772748cc37c05bf665f84.png)
 
     ✅ 推荐选择：**选择「GeForce Game Ready Driver」**
 
@@ -165,7 +165,7 @@ nvidia-smi
 
 4. 点 **"View"** 按钮，下载 **Game Ready Driver 版本（576.02）** 大小约 **857.6MB**，日期为 2025-04-16，支持最新 CUDA 环境。
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7b/7b070fec0164281f93208b9a18b91b9a56e3da7a49a3ad6233e166f97b0e55ed.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/7b/7b070fec0164281f93208b9a18b91b9a56e3da7a49a3ad6233e166f97b0e55ed.png)
 
 5. 安装完成之后，重启电脑。
 
@@ -233,7 +233,7 @@ nvidia-smi
 
     为了方便阅读，我也在下面放了截图：
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/af/af0eced1e5c36996eec68f82147611b0a2841c8f9611b91bf4f245562e4338b2.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/af/af0eced1e5c36996eec68f82147611b0a2841c8f9611b91bf4f245562e4338b2.png)
 
 
 
@@ -271,21 +271,21 @@ Tue Apr 29 18:15:58 2025
 
 👉 到 NVIDIA CUDA 下载页面：[https://developer.nvidia.com/cuda-downloads](https://developer.nvidia.com/cuda-downloads)；
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2b/2bc9cbc96292534fa7d96ea5138adc6ef4da3b91825190ad3e45883ce66cfd2d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2b/2bc9cbc96292534fa7d96ea5138adc6ef4da3b91825190ad3e45883ce66cfd2d.png)
 
 但是当前 12.8 不符合我的 NVIDA 驱动支持的版本，要选择历史的版本。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/12/12962124d0e85f5a5af2a25008f4fc192ad6e99124108f2864851c2c8dada065.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/12/12962124d0e85f5a5af2a25008f4fc192ad6e99124108f2864851c2c8dada065.png)
 
 链接：[https://developer.nvidia.com/cuda-toolkit-archive](https://developer.nvidia.com/cuda-toolkit-archive)
 
 选择低于 12.6 的版本（包括 12.6 版本）：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/47/4786be77706fffeca402f2012d68808798a2c485c786f36d251208cf2a98cc11.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/47/4786be77706fffeca402f2012d68808798a2c485c786f36d251208cf2a98cc11.png)
 
 点击后会跳转到下载页面：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/46/46472118738187ea2d9682313030f1ac882a7b1e5524936fbc93c12f3842e3b8.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/46/46472118738187ea2d9682313030f1ac882a7b1e5524936fbc93c12f3842e3b8.png)
 
 
 
@@ -332,7 +332,7 @@ Build cuda_11.8.r11.8/compiler.31833905_0
 
 2. 下载与你安装的 CUDA 对应的 cuDNN 版本：
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f9/f93f0feac4b365816b65ceea21dd91e834f0446ed90cb281009d536f82fa4bf0.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/f9/f93f0feac4b365816b65ceea21dd91e834f0446ed90cb281009d536f82fa4bf0.png)
 
 ##### 1.2.4.1 版本如何选择？
 
@@ -425,19 +425,19 @@ Build cuda_11.8.r11.8/compiler.31833905_0
 
 链接：[https://developer.nvidia.com/cudnn-downloads](https://developer.nvidia.com/cudnn-downloads)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/034e96b6f1864b0de5c262710f35675fe9e29b65f8960ce09f050a434f45400b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/03/034e96b6f1864b0de5c262710f35675fe9e29b65f8960ce09f050a434f45400b.png)
 
 当前版本不合适我的 Windows 电脑，需要去历史存档下载：[https://developer.nvidia.com/cudnn-archive](https://developer.nvidia.com/cudnn-archive)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/55/554da0d62bdfe3453904a4f20acde825d4ed3f020daa38254864c91179f4a552.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/55/554da0d62bdfe3453904a4f20acde825d4ed3f020daa38254864c91179f4a552.png)
 
 点击展开有更多其它版本：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2e/2e91a0db01890f0f207b8fd5fc38df59eb8269b5585dbe859dfb49db26506c38.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2e/2e91a0db01890f0f207b8fd5fc38df59eb8269b5585dbe859dfb49db26506c38.png)
 
 链接：[https://developer.nvidia.com/rdp/cudnn-archive](https://developer.nvidia.com/rdp/cudnn-archive)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e44d0c7f6c6434df48ea2b4b9eab7f4bb93bbc14b7c9b81f0b8de5824aa014df.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e4/e44d0c7f6c6434df48ea2b4b9eab7f4bb93bbc14b7c9b81f0b8de5824aa014df.png)
 
 可以看见，每个后面都有 CUDA 对应的版本：`Download cuDNN v8.9.7 (December 5th, 2023), for CUDA 12.x`，其中 for CUDA 12.x 就是对应支持的 CUDA 版本。
 
@@ -491,7 +491,7 @@ print(torch.cuda.get_device_name(0))
 
 输出你的显卡名（如 RTX 4070 Ti）就说明 CUDA 环境配置成功！
 
-![实际操作截图](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fc/fc09ba5c476089a978b9dc3fba5458b43c62fceaee3c285341c4015db69fbb9c.png)
+![实际操作截图](https://blog.images.bornforthis.cn/docs-images/sha256/fc/fc09ba5c476089a978b9dc3fba5458b43c62fceaee3c285341c4015db69fbb9c.png)
 
 ### 1.3 🧯 常见问题解决
 
@@ -511,11 +511,11 @@ print(torch.cuda.get_device_name(0))
 
 ollama 官网：[https://ollama.com/](https://ollama.com/)
 
-![官网截图](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4e/4e817b8b19c04f4b2da8d9e62de41dc7ae0fe0b049cbe4bf66fbe533b81392bc.png)
+![官网截图](https://blog.images.bornforthis.cn/docs-images/sha256/4e/4e817b8b19c04f4b2da8d9e62de41dc7ae0fe0b049cbe4bf66fbe533b81392bc.png)
 
 点击 Download 进入下载选择页面：
 
-![选择下载页面](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/65/65de492fc883969f5bdf3438fd9fc3639a806d5afbea82870b98625162d2ae1f.png)
+![选择下载页面](https://blog.images.bornforthis.cn/docs-images/sha256/65/65de492fc883969f5bdf3438fd9fc3639a806d5afbea82870b98625162d2ae1f.png)
 
 按照你自己的系统进行选择下载，不要下载错误哦！
 
@@ -523,27 +523,27 @@ ollama 官网：[https://ollama.com/](https://ollama.com/)
 
 下载后，解压文件，会出现如下羊驼。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5e/5e512f763efe510e2ad335825bd6e47b5639ccd05e936b358b5833c2cd4e8636.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/5e/5e512f763efe510e2ad335825bd6e47b5639ccd05e936b358b5833c2cd4e8636.png)
 
 直接拖拽到“应用程序”中：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/76/7662fe2132a05aecdc32966df7f2d6b4cca818b2d3473f10a2726100febc75d4.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/76/7662fe2132a05aecdc32966df7f2d6b4cca818b2d3473f10a2726100febc75d4.png)
 
 接着去“启动台”点击 Ollama 启动：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/cf/cf865d324befd51d2d95c3fb90125d589dee117f961d7cb7e2ea9a2d83bee8d3.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/cf/cf865d324befd51d2d95c3fb90125d589dee117f961d7cb7e2ea9a2d83bee8d3.png)
 
 点击 Next：
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/68/68c4619fe88995f5e42a0481ce99cb7d026c323db0aa3eb61e9d2a1b7691a153.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/68/68c4619fe88995f5e42a0481ce99cb7d026c323db0aa3eb61e9d2a1b7691a153.png" style="zoom:25%;" />
 
 点击 install：
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c7/c786417645cb588db97c986d3ccbefe5fad653425e54280689b33e03d49fc4b4.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/c7/c786417645cb588db97c986d3ccbefe5fad653425e54280689b33e03d49fc4b4.png" style="zoom:25%;" />
 
 点击 Finish：
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bd/bd625e344fa2080804b6e0066645ecca5255b522d51227dd327e227b63dfa051.png" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/bd/bd625e344fa2080804b6e0066645ecca5255b522d51227dd327e227b63dfa051.png" style="zoom:25%;" />
 
 到此，Ollama 安装完成！
 
@@ -551,13 +551,13 @@ ollama 官网：[https://ollama.com/](https://ollama.com/)
 
 安装包下载完成后，双击运行：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9c/9c44a451c0e49bf4da2aa3e503a7929cc36a254aabfd975b0921bb93df993587.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/9c/9c44a451c0e49bf4da2aa3e503a7929cc36a254aabfd975b0921bb93df993587.png)
 
 
 
 点击 Install：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0c/0c0c586cad5ac5b39ac9051684c05db1d9cadb0aee4d6704599ee8be2c0f45d7.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/0c/0c0c586cad5ac5b39ac9051684c05db1d9cadb0aee4d6704599ee8be2c0f45d7.png)
 
 等待安装完成即可。
 
@@ -578,11 +578,11 @@ ollama run llama3.2
 
 等待安装完成，安装完成后会自动启动：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a44399ea8e39c1b0bdb47c4cd42f96011afd4ca7d7b51e10230acc57dc323bc6.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a4/a44399ea8e39c1b0bdb47c4cd42f96011afd4ca7d7b51e10230acc57dc323bc6.png)
 
 可以直接在 “>>>” 进行输入文字对哈：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/80/808d41ca246fadb192a49e09fc3f8e7559492f8ca9878d2cab7b8c7548d978f6.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/80/808d41ca246fadb192a49e09fc3f8e7559492f8ca9878d2cab7b8c7548d978f6.png)
 
 那么，我们如何退出呢？——输入 `"\bye"` 即可：
 
@@ -611,7 +611,7 @@ huangjiabao@HUANGJIABAO D:\>
 
 Ollama 支持多个预置模型，详见：[https://ollama.com/library](https://ollama.com/library)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d6/d6371ed96833927c7f4be19dbc96f355501a1411d8868d56b5ea8d2452282273.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d6/d6371ed96833927c7f4be19dbc96f355501a1411d8868d56b5ea8d2452282273.png)
 
 常见模型示例：
 

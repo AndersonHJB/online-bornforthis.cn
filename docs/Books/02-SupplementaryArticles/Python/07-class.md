@@ -287,7 +287,7 @@ if user_input == 'move':
 
 接下来，看下面的图比较直观一点，能看到每个部分代表什么：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fe/febabe044897ff0332d9aa1e35fa2a48471e59f5a990e99c26b9b83970cb717c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fe/febabe044897ff0332d9aa1e35fa2a48471e59f5a990e99c26b9b83970cb717c.png)
 
 
 
@@ -453,7 +453,7 @@ self 就是代表 `Animal()`，而当 `Animal()` 实例化了 dog（也就是 `A
 
 在类里面的函数，第一个参数都必须写 self！
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d8/d880ee7f57691930269fcba95c46a95635dbaee2a641b20981b5780e3a15e14b.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d8/d880ee7f57691930269fcba95c46a95635dbaee2a641b20981b5780e3a15e14b.png)
 
 
 

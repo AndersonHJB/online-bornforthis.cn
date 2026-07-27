@@ -27,7 +27,7 @@ head:
 
 你好，我是悦创。
 
-![image-20230104142030738](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/32/3267c77285908ad1f5bc4684486c3967f7d404228a776bee79a8a4a7565da71d.png)
+![image-20230104142030738](https://blog.images.bornforthis.cn/docs-images/sha256/32/3267c77285908ad1f5bc4684486c3967f7d404228a776bee79a8a4a7565da71d.png)
 
 今天给大家推荐一个网站，可以一键下载分析和获取网页上的所有图片，并且可以一键打包下载！
 
@@ -37,7 +37,7 @@ head:
 
 长这个样子：
 
-![image-20230104142030738](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/32/3267c77285908ad1f5bc4684486c3967f7d404228a776bee79a8a4a7565da71d.png)
+![image-20230104142030738](https://blog.images.bornforthis.cn/docs-images/sha256/32/3267c77285908ad1f5bc4684486c3967f7d404228a776bee79a8a4a7565da71d.png)
 
 大家可以看到，打开之后就是一个醒目的输入框，可以直接输入一个网站链接，然后它就可以把网站上的图片都爬取下来。
 
@@ -47,7 +47,7 @@ head:
 
 那我们就直接把这个链接贴到 [extract.pics/](https://extract.pics) 就好了：
 
-![image-20230104142256862](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b7/b79c5da30f1d9d2844a0372ca62228f5b1ac000cee296fdb4f8b22915eb5e8bc.png)
+![image-20230104142256862](https://blog.images.bornforthis.cn/docs-images/sha256/b7/b79c5da30f1d9d2844a0372ca62228f5b1ac000cee296fdb4f8b22915eb5e8bc.png)
 
 接下来，直接点击 EXTRACT 按钮即可。
 
@@ -55,7 +55,7 @@ head:
 
 稍等片刻，我们就可以发现所有的图片都被分析出来了：
 
-![image-20230104142313871](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/38/38e0d23dbe7efddb6a63c0e0d1b805783bac15f9dcaa38bf7b6066c4500c1706.png)
+![image-20230104142313871](https://blog.images.bornforthis.cn/docs-images/sha256/38/38e0d23dbe7efddb6a63c0e0d1b805783bac15f9dcaa38bf7b6066c4500c1706.png)
 
 看，所有好看的壁纸都在这里了！
 
@@ -71,7 +71,7 @@ head:
 
 滚动到页面下方，其实可以看到网站的一些介绍内容：
 
-![image-20230104142403338](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/99/9930e62fcce1650b068d1baaa5dae542adb970d5013bcf71f3d20e248e813af2.png)
+![image-20230104142403338](https://blog.images.bornforthis.cn/docs-images/sha256/99/9930e62fcce1650b068d1baaa5dae542adb970d5013bcf71f3d20e248e813af2.png)
 
 和我们理解的一样，就是用来快速提取公开网站图片的一个网站。
 
@@ -83,7 +83,7 @@ head:
 
 接着看。
 
-![image-20230104142430953](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/af/af9453b4d26bdcedfcba5a9d7671df4fc6ee11e63323a6d009bd745ce8b75833.png)
+![image-20230104142430953](https://blog.images.bornforthis.cn/docs-images/sha256/af/af9453b4d26bdcedfcba5a9d7671df4fc6ee11e63323a6d009bd745ce8b75833.png)
 
 其实原理也非常简单了，其实背后就是开了一个 Google Chrome 的浏览器，就是一个 Headless 的 WebDriver，估计大概率就是基于 Selenium、Pyppeteer、Playwright 等做的，然后自动化地把这个页面渲染出来，然后提取所有的图片并返回结果就行了。
 
@@ -99,7 +99,7 @@ head:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -115,4 +115,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

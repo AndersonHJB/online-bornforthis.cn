@@ -26,7 +26,7 @@ backToTop: true
 toc: true
 ---
 
-- [Final-Projectp.pdf](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/1v1/06-KAI/13-Final-Project/Final-Project-Introduction-to-Web-Design-and-Computer-PrinciplesSection002-NYU.pdf)
+- [Final-Projectp.pdf](https://blog.images.bornforthis.cn/1v1/06-KAI/13-Final-Project/Final-Project-Introduction-to-Web-Design-and-Computer-PrinciplesSection002-NYU.pdf)
 - AI悦创作品链接：[https://bornforthis.cn/1v1/06-KAI/13-Final-Project/PortKit/](https://github.com/AndersonHJB/blog-images/tree/main/1v1/06-KAI/13-Final-Project/PortKit)
 
 **Instructions**
@@ -282,7 +282,7 @@ Dec 18, 2022 11:59 PM
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -298,4 +298,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

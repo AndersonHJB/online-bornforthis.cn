@@ -39,19 +39,19 @@ print(completion.choices[0].message.content)
 
 @tab img1
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b4/b4d0a8adf51f11796ddbbabec538b62c8c2863ca930400467bd83497756fb8ea.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b4/b4d0a8adf51f11796ddbbabec538b62c8c2863ca930400467bd83497756fb8ea.png)
 
 @tab img2
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2e/2e90b1de0374aee4d17b7c18da81a99a5974a63e4a20c0682735ee825e966471.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2e/2e90b1de0374aee4d17b7c18da81a99a5974a63e4a20c0682735ee825e966471.png)
 
 @tab img3
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d7/d7ff04a2aad86404382953ef06776b67163e3a9f71423722c3d333c054e796cc.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d7/d7ff04a2aad86404382953ef06776b67163e3a9f71423722c3d333c054e796cc.png)
 
 @tab img4
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a8/a8ceab0c8cdd2d3d49d01478fe4c50993cfd29866d9f0b501658454dd64cc306.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a8/a8ceab0c8cdd2d3d49d01478fe4c50993cfd29866d9f0b501658454dd64cc306.png)
 
 :::
 
@@ -99,7 +99,7 @@ print(completion.choices[0].message.content)
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -115,4 +115,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

@@ -75,7 +75,7 @@ The total sum of marks is 20. It has a **hurdle** **of 7 mark out of 20**. If yo
 
 The test is 90 minutes, with no extra time for reading or submitting. Your remaining time is shown in the timer in the top left, like below.
 
-![Test timer](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/be/be19fc5b0998e1f45fa4673cbc636572d56c44db0733b681525d3eca796e8e03.png)
+![Test timer](https://blog.images.bornforthis.cn/docs-images/sha256/be/be19fc5b0998e1f45fa4673cbc636572d56c44db0733b681525d3eca796e8e03.png)
 
 
 
@@ -85,27 +85,27 @@ The test is 90 minutes, with no extra time for reading or submitting. Your remai
 
 If you wish to edit the scaffold file outside of Ed in an IDE of your choice, you can download a copy of the scaffold file from the link provided at the bottom of the question text, or from the "Files" tab in the Ed editor
 
-![Scaffold file download link and files tab location](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ba/ba48018402cfa0f409d4f7d5807f423b2430e376094e07ce57e75c6049e4afc3.jpeg)
+![Scaffold file download link and files tab location](https://blog.images.bornforthis.cn/docs-images/sha256/ba/ba48018402cfa0f409d4f7d5807f423b2430e376094e07ce57e75c6049e4afc3.jpeg)
 
 In the "Files" tab, you can download the scaffold file by right clicking on the file then clicking "Download".
 
-![Download button location](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9b/9b9df79f11476d1bae5fcd66c98e9b8c296f75f425d190daeb8d90323c9ed63e.jpeg)
+![Download button location](https://blog.images.bornforthis.cn/docs-images/sha256/9b/9b9df79f11476d1bae5fcd66c98e9b8c296f75f425d190daeb8d90323c9ed63e.jpeg)
 
 For the download link, if the file contents is displayed instead of a download dialog, you may need to right click and click "Save page as" or similar in order to save the file (use the "Files" tab download button if this doesn't work).
 
 To upload your completed file, you should press the "+" button beside the "Files" button, then click the "Upload" button in the menu that opens.
 
-![Upload button location](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c584384be8bfcf589490565b3115e2e25710b9a2f8fe66866379c6b30c3f34d0.jpeg)
+![Upload button location](https://blog.images.bornforthis.cn/docs-images/sha256/c5/c584384be8bfcf589490565b3115e2e25710b9a2f8fe66866379c6b30c3f34d0.jpeg)
 
 Note that when you upload a file, it will overwrite any existing file in Ed with the same file name. There will be no warning or confirmation prompt. Please be careful when uploading if you have an existing version of your solution already in Ed that you wish to retain.
 
 If you need to reset the scaffold file on Ed for whatever reason, click the "..." button at the top right, located beside the "Submit" button. You can reset the scaffold file using the "Reset to Scaffold" button in the drop-down menu that opens.
 
-![Reset to scaffold button location](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/31/31002fe3dae6e7b68b33680708e5af520730a7065ff5ed55ba45663276976845.jpeg)
+![Reset to scaffold button location](https://blog.images.bornforthis.cn/docs-images/sha256/31/31002fe3dae6e7b68b33680708e5af520730a7065ff5ed55ba45663276976845.jpeg)
 
 You will be warned in a confirmation dialog that this action will reset your scaffold file (and delete any other files that you have uploaded or created in Ed). The reset will only reset for that question, it will not reset your other questions.
 
-![Reset to scaffold confirmation dialog](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/05/05036cfd7bd2f56ee948320cf236b2a80acdc0fe033a9956b7f0d88983a44607.png)
+![Reset to scaffold confirmation dialog](https://blog.images.bornforthis.cn/docs-images/sha256/05/05036cfd7bd2f56ee948320cf236b2a80acdc0fe033a9956b7f0d88983a44607.png)
 
 If you are sure you have saved any work you want to save elsewhere, or are okay with losing work, continue to press the "Reset" button to reset your scaffold file.
 
@@ -121,11 +121,11 @@ Code will be **marked on the basis of functionality only** **i.e. code quality i
 
 You are provided a minimal set of basic tests in each question to aid in checking your understanding of the problem and in debugging your solution. The examples included in the question text are usually included in this set of provided tests, but not always all; and the provided tests can include additional cases not included in the examples. The provided tests can be ran by calling the test function in the scaffold file in a console (on Ed or in your IDE), or by clicking the "Test" button on Ed (on Ed only). You can click the "Test" button on Ed as many times as you want. Clicking the "Test" button also does not submit your exam -- you are still able to edit your solutions after clicking it.
 
-![Test button location](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ad/adfec93ea124e0ed832dce94a7f81c2406e8e0f4e15bd08d12e8a5e3c5d37ea5.jpeg)
+![Test button location](https://blog.images.bornforthis.cn/docs-images/sha256/ad/adfec93ea124e0ed832dce94a7f81c2406e8e0f4e15bd08d12e8a5e3c5d37ea5.jpeg)
 
 The provided minimal set of basic tests is not at all comprehensive and does not cover all edge cases. **Passing the provided set of tests does not prove that your solution is fully correct.** The marks shown when you click the "Test" button is not the marks that your solution will receive, and should be ignored. 
 
-![Marks shown when tests are ran should be ignored](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2f/2f1eeb9a8504b5cc93b7fea88878e569b20e0377e8c2213f3f96ff2d15b0ebe7.jpeg)
+![Marks shown when tests are ran should be ignored](https://blog.images.bornforthis.cn/docs-images/sha256/2f/2f1eeb9a8504b5cc93b7fea88878e569b20e0377e8c2213f3f96ff2d15b0ebe7.jpeg)
 
 For marking, your code will be tested with additional hidden test sets. An equivalent but not identical variant of the provided test set is one of the set of tests in the hidden test sets. Marks will be awarded in relation to, but not proportional to, the number of sets of hidden tests passed (each set of test may have different mark value). **Code that does not pass the provided test set equivalent will receive zero marks** regardless of number of other hidden test sets passed. A submission that does not run (for example, due to syntax errors), that violates the format instructions, or that fails every test case will also receive zero marks.
 
@@ -135,15 +135,15 @@ For marking, your code will be tested with additional hidden test sets. An equiv
 
 Once you are done with all questions, have checked your solutions, and that they have all been uploaded/transferred into Ed correctly (if applicable), and are ready to submit, press the "Submit" button in the top right corner.
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/9b/9b450f495d08b3aec7240846048bf464e2ff8f3215aff822575361957900301d.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/9b/9b450f495d08b3aec7240846048bf464e2ff8f3215aff822575361957900301d.png)
 
 A dialog will pop up asking you to confirm whether you want to submit your test. If you have yet to press "Test" on any of your questions, you will be warned in the dialog that some of your slides may be incomplete.
 
-![Submit confirmation dialog (test not ran for some questions)](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/68/68048ada85fb16bd94d7ef29d37ef076026d13b564a8417f6bbf469d9771a9fb.png)
+![Submit confirmation dialog (test not ran for some questions)](https://blog.images.bornforthis.cn/docs-images/sha256/68/68048ada85fb16bd94d7ef29d37ef076026d13b564a8417f6bbf469d9771a9fb.png)
 
 
 
-![Submit confirmation dialog](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e8/e8f91a7658540e5a5b348c867134e88b54166b7f215e9f7c782a1b48d2242540.png)
+![Submit confirmation dialog](https://blog.images.bornforthis.cn/docs-images/sha256/e8/e8f91a7658540e5a5b348c867134e88b54166b7f215e9f7c782a1b48d2242540.png)
 
 If you are sure you want to submit, tick the "I'm ready to submit" box to enable the "Submit" button, then click the "Submit" button in the to submit your test. 
 
@@ -1742,7 +1742,7 @@ def test_step_product():
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1758,4 +1758,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

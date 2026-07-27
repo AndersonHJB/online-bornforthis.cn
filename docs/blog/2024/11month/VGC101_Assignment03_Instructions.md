@@ -50,11 +50,11 @@ Identify the process of preparing 2D concept art
 
 @tab 新建图层
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f6df4ebe7550909a45be3307d78c6fc307c9b3577fa728f8d715bcc7d2e7287a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f6/f6df4ebe7550909a45be3307d78c6fc307c9b3577fa728f8d715bcc7d2e7287a.png)
 
 @tab 素材
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f6/f60c33a0b420b562438ad8eb928e3f01f256b52781df664ea8c4218171a57fa5.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f6/f60c33a0b420b562438ad8eb928e3f01f256b52781df664ea8c4218171a57fa5.png)
 
 :::
 
@@ -66,41 +66,41 @@ Identify the process of preparing 2D concept art
 
 @tab 1. 栅格化图层
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dc/dce4c513054764a94756c2d345d1e68324d5de22d9f4502f06a64a9e9cf7f99d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/dc/dce4c513054764a94756c2d345d1e68324d5de22d9f4502f06a64a9e9cf7f99d.png)
 
 @tab 去色
 
 - 快捷键：Ctrl/Command + Shift + U
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/15/15e9ecd36024c7ef235ef8bba005aab0262501f7a221ff15817a61378ca4f6b5.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/15/15e9ecd36024c7ef235ef8bba005aab0262501f7a221ff15817a61378ca4f6b5.png)
 
 @tab 反向
 
 - Ctrl/Command + I
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e1/e1ceadfd15215e5630994d17e607fa0127682a464ec7a3fa92a61a30fbbb1f88.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/e1/e1ceadfd15215e5630994d17e607fa0127682a464ec7a3fa92a61a30fbbb1f88.png)
 
 @tab 颜色减淡（混合选项）
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b6/b6221a3d908ae323a5866eb9c5ef28c3415bb7985b546ca241de4fcf5dd99456.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b6/b6221a3d908ae323a5866eb9c5ef28c3415bb7985b546ca241de4fcf5dd99456.png)
 
 @tab 混合模式
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ba/bad35f5e2ee9526c286bc7effa2a89a48da698b8f1908679c7b98eab8be1a10e.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ba/bad35f5e2ee9526c286bc7effa2a89a48da698b8f1908679c7b98eab8be1a10e.png)
 
 @tab 线性减淡
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fe/fe3a23c04b6b6fb0c31e9a0fd5127cd9061cd52e33521114d3e5f9d1655cbbd1.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fe/fe3a23c04b6b6fb0c31e9a0fd5127cd9061cd52e33521114d3e5f9d1655cbbd1.png)
 
 @tab 滤镜
 
 - 滤镜—>其它—>最小值
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/92/92f3323b437b3b8904fbcd37751def2b35f6c2b5b0f6f255771bf2a1cb2542a9.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/92/92f3323b437b3b8904fbcd37751def2b35f6c2b5b0f6f255771bf2a1cb2542a9.png)
 
 @tab 数值大小就是线条粗细
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/779e44ddf2f5f33f6455a291de5e117859ae393de263869535835cc04cd0fd4c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/779e44ddf2f5f33f6455a291de5e117859ae393de263869535835cc04cd0fd4c.png)
 
 @tab 解决问题
 
@@ -118,9 +118,9 @@ Identify the process of preparing 2D concept art
 
 ## 2. 夸张
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ba/ba0d2951e1a6fb7b3e6ee57ade35f232c7175508f9d24c20040bbb0562740b6a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ba/ba0d2951e1a6fb7b3e6ee57ade35f232c7175508f9d24c20040bbb0562740b6a.png)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f8/f85f119f2139bb41a8057af5f42f9d7b9ca340acc7b1d3f565a068fb703a6aaf.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f8/f85f119f2139bb41a8057af5f42f9d7b9ca340acc7b1d3f565a068fb703a6aaf.png)
 
 
 
@@ -150,7 +150,7 @@ Identify the process of preparing 2D concept art
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -166,4 +166,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

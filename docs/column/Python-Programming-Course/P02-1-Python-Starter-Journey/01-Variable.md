@@ -147,7 +147,7 @@ print(a, b, c, sep=' 间隔 ')
 
 - sep 写不写都是必然存在的，并不是 print 当中不写 sep，sep 就不存在。因为从 print 本身开发之时，sep 就已经内嵌在 print 函数当中，且默认是空格。
 
-    ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ed/edd5ce04aba7c6d52b8fac91a617fad6339308692a63d2b015550d4fc32c14cf.png)
+    ![](https://blog.images.bornforthis.cn/docs-images/sha256/ed/edd5ce04aba7c6d52b8fac91a617fad6339308692a63d2b015550d4fc32c14cf.png)
 
 - **问一**：sep 也存在其它场景吗？其它代码需要做输出的时候，是不是也需要拥有类似 print 的 sep 参数？
 
@@ -200,7 +200,7 @@ print(a, b, c, sep=' 间隔 ')
     >
     > ::: details image
     >
-    > ![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d7/d7c21e9e1165a0c822d965619d0e41ec5ca4a78c065c43b06df79b6b3d9cb631.png)
+    > ![](https://blog.images.bornforthis.cn/docs-images/sha256/d7/d7c21e9e1165a0c822d965619d0e41ec5ca4a78c065c43b06df79b6b3d9cb631.png)
     >
     > :::
 

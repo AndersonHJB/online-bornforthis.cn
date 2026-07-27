@@ -23,7 +23,7 @@ toc: true
 
 你熟悉的自动驾驶汽车、智能音箱，还有咱们前面说的围棋机器人 Alpha Go 都属于人工智能技术。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b1/b115fb157ce07b737835df486bbdf7216890a0c64999bf6162ce01b00c3a1237.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/b1/b115fb157ce07b737835df486bbdf7216890a0c64999bf6162ce01b00c3a1237.jpg)
 
 今天我要给你说的人工智能技术叫**专家系统**。听这个名字你可能会觉得有点陌生。
 
@@ -41,7 +41,7 @@ toc: true
 
 比如，咱们人类的老祖先看见了木头能浮在水面上，就推理出来咱们可以用这种木头造船。他们发现火特别烫，就推理出，用火可以加热食物，这就是用逻辑推理能力获取的知识。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7c/7c193d2505585771cc5bafef7977868da09afa7f34015597126697a0089f621a.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/7c/7c193d2505585771cc5bafef7977868da09afa7f34015597126697a0089f621a.jpg)
 
 另外，我们还可以在**已知的知识**的基础上继续进行推理，发现更多的知识。举个你比较熟悉的例子吧，在小学阶段，你肯定学过三角形的面积公式对吧？
 
@@ -55,7 +55,7 @@ toc: true
 
 听上去挺有道理的吧？而且，还真有科学家做出过类似的程序。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/13/13bf39c3658906479cb17a1d5ecdc1f473af8751e459f08465744473bda0abc3.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/13/13bf39c3658906479cb17a1d5ecdc1f473af8751e459f08465744473bda0abc3.jpg)
 
 这款程序名叫“**逻辑推理家**”，科学家往这个程序里输入了一堆数学知识和推理规则，它真的推理出了一些数学定理，而且有些定理的证明过程甚至比数学家的证明方法还要好。
 
@@ -77,7 +77,7 @@ toc: true
 
 当时有人就想了，既然人工智能在这么多领域当专家，要不我们搞个超级专家系统？把目前人类知道的所有知识都输进去，再告诉它一些基本的推理规则，这样一来，这个超级专家系统就无所不知、无所不能了，简直和**哆啦A梦**一样。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/53/53be30c0a36e1eba13b5d8b75d60878460e40758b3fed4746e13fcf96aa5e32e.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/53/53be30c0a36e1eba13b5d8b75d60878460e40758b3fed4746e13fcf96aa5e32e.jpg)
 
 这事想想就令人激动啊，于是，在**1984年**，一个名叫 Cyc 的专家系统项目诞生了。制作 Cyc 系统的科学家特别自信，按照他的计划，15年之后，每个人家里都得买一台 Cyc 专家系统。
 
@@ -91,7 +91,7 @@ toc: true
 
 但要是只有逻辑推理能力，没有人类的理解能力，就可能会推出奇奇怪怪的结论。比如金属可以导电，钢铁是金属，一个人拥有钢铁般的意志，所以这个人的意志可以导电，这就是个荒谬的结论了。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2b/2bae2c3c9622334ce3ef913110f63f499739635e4283b03fed8f5adb969f1e55.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2b/2bae2c3c9622334ce3ef913110f63f499739635e4283b03fed8f5adb969f1e55.jpg)
 
 虽然 Cyc 项目失败了，但令人没想到的是，专家系统里一个不起眼的小分支，却发展壮大了，这个分支叫做**知识图谱**。
 
@@ -101,7 +101,7 @@ toc: true
 
 在这些角色之间，就可以画出一个关系图谱，我给你简化了一张示意图，你可以点开屏幕看一看。从这张图里你就能知道佩奇和亚历山大是什么关系，乔治和克洛伊是什么关系。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/28/28ab960244a7cffcfeacda4be13a68dfb12f6f452ef16df036a6a9674c775eda.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/28/28ab960244a7cffcfeacda4be13a68dfb12f6f452ef16df036a6a9674c775eda.jpg)
 
 这就是知识图谱的思路。当然了，现实中的知识图谱复杂得多，计算机要对信息做处理，理解这些信息的含义。
 
@@ -143,7 +143,7 @@ toc: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -159,4 +159,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

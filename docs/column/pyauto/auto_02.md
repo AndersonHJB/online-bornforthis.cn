@@ -120,7 +120,7 @@ hight = 180
 
 上面提到的整数、浮点数和布尔型都是属于数字类型。除了这些，Python 还支持很多种数据类型，包括数字、字符串、元组、列表、集合、字典等。它们之间的关系，我用下面的思维导图为你进行展示。
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c58f76918a28b3e079b25e737abb084d36946a4675c8d206967d08fc81cc5be8.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/c5/c58f76918a28b3e079b25e737abb084d36946a4675c8d206967d08fc81cc5be8.png)
 
 我在课程中会逐一为你剖析它们的用处, 让你能够全部掌握。当你学会这些类型的时候, 可以更精确地描述数据，比如，我想用 Python 的数据类型存储“5 个苹果和 10 个橘子”，我们就需要使用字典和字符串来表示这些数据。你可以看一下下面这个记录水果数量的例子：
 
@@ -233,7 +233,7 @@ import 后面指定要使用的库的名称，使用库的具体功能，通过�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -249,7 +249,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

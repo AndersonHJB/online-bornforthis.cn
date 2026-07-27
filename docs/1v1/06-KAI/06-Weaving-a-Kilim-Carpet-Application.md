@@ -85,7 +85,7 @@ Write a program to weave **your own Kilim carpet** with 30 rows by 30 columns. T
 
 > 这是一张12世纪的摩洛哥Kilim地毯样品图案，25行36柱(这个图案由星号和空格组成，请忽略边框、颜色和阴影效果):
 
-![image-20221002115755664](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8b/8b0f67d61dd934eb2d1195c1bd9358d55dbd2da4b70f6174b87a74c12b074c48.png)
+![image-20221002115755664](https://blog.images.bornforthis.cn/docs-images/sha256/8b/8b0f67d61dd934eb2d1195c1bd9358d55dbd2da4b70f6174b87a74c12b074c48.png)
 
 
 
@@ -123,7 +123,7 @@ Write a program to weave **your own Kilim carpet** with 30 rows by 30 columns. T
 
 ### 1. 一行一行分析「第一行」
 
-![image-20221002165218970](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/5c/5c5579b6ca7728f96b02261d89ad4dd983a6a9567adf6d2d6644c8ee6fef04dd.png)
+![image-20221002165218970](https://blog.images.bornforthis.cn/docs-images/sha256/5c/5c5579b6ca7728f96b02261d89ad4dd983a6a9567adf6d2d6644c8ee6fef04dd.png)
 
 上面的 `*` 有几个？—— 36
 
@@ -154,11 +154,11 @@ public class Example2 {
 
 ### 2. 第二、三行
 
-![image-20221002170100625](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c1/c1f316673aeda27f1440fcdacd23b1654fb7082525226f7e3345d9986d4f0bb4.png)
+![image-20221002170100625](https://blog.images.bornforthis.cn/docs-images/sha256/c1/c1f316673aeda27f1440fcdacd23b1654fb7082525226f7e3345d9986d4f0bb4.png)
 
 3 * 6 = 18
 
-![image-20221002171127155](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d6/d6edab2b4a42af45beb73c67ffd865083cdfabcf19a168619724888f64229da7.png)
+![image-20221002171127155](https://blog.images.bornforthis.cn/docs-images/sha256/d6/d6edab2b4a42af45beb73c67ffd865083cdfabcf19a168619724888f64229da7.png)
 
 ```java
 public class Example2 {
@@ -182,7 +182,7 @@ public class Example2 {
 
 输出：
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e4/e4e066bfa0c7c64a2980f282378eff0b0b06978422a8c4071efff451715aec66.png" alt="image-20221002171204901" style="zoom:25%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/e4/e4e066bfa0c7c64a2980f282378eff0b0b06978422a8c4071efff451715aec66.png" alt="image-20221002171204901" style="zoom:25%;" />
 
 ```java
 ************************************
@@ -191,7 +191,7 @@ public class Example2 {
 
 显而易见，这是单次循环生成的结果，那我们接下来可以实现多次循环。「也就是，在这两个循环外面包裹一次循环」
 
-![image-20221002172029729](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/be/beb41bf0a7e092a0b2027934dda41632f919242365a1787905ce33057d492ca0.png)
+![image-20221002172029729](https://blog.images.bornforthis.cn/docs-images/sha256/be/beb41bf0a7e092a0b2027934dda41632f919242365a1787905ce33057d492ca0.png)
 
 ```java
 public class Example2 {
@@ -224,7 +224,7 @@ public class Example2 {
 
 那还有一行？怎么弄？copy 一份，在写一个？——再嵌套吧！「谁叫你们老师要嵌套」
 
-![image-20221002200919182](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7d/7d964ae42921167d1cea7f01b0e84a26a4ddd74c174c1ca253400f1f5b87a220.png)
+![image-20221002200919182](https://blog.images.bornforthis.cn/docs-images/sha256/7d/7d964ae42921167d1cea7f01b0e84a26a4ddd74c174c1ca253400f1f5b87a220.png)
 
 ```java
 public class Example2 {
@@ -255,7 +255,7 @@ public class Example2 {
 
 ### 3. 第四、五行
 
-![image-20221002221611005](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/54/545b4444ac78d28932b529e61837043565286abdc44abbdca640ff996ebf4615.png)
+![image-20221002221611005](https://blog.images.bornforthis.cn/docs-images/sha256/54/545b4444ac78d28932b529e61837043565286abdc44abbdca640ff996ebf4615.png)
 
 ```java
 public class Example2 {
@@ -306,7 +306,7 @@ public class Example2 {
 
 ### 4. 第六行
 
-![image-20221002221831542](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/91/914cdb79aa17e3a4be851bd015ca35844cf22fd43522ed14d54fd893cafa0349.png)
+![image-20221002221831542](https://blog.images.bornforthis.cn/docs-images/sha256/91/914cdb79aa17e3a4be851bd015ca35844cf22fd43522ed14d54fd893cafa0349.png)
 
 ```java
 public class Example2 {
@@ -422,7 +422,7 @@ public class rhombus {
 
 **观察循环规律，改写成嵌套循环。**
 
-![image-20221002235133217](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/52/521b05d15ea1c1f2ee016462e2e9af5252af51ae809205a15bfd5f3fef03315e.png)
+![image-20221002235133217](https://blog.images.bornforthis.cn/docs-images/sha256/52/521b05d15ea1c1f2ee016462e2e9af5252af51ae809205a15bfd5f3fef03315e.png)
 
 ```java
 public class Example2 {
@@ -589,7 +589,7 @@ for (int rows = 0; rows < 5; rows++) {
 
 下半部分菱形：
 
-![image-20221003083019617](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/10/10fda2c7761f8d9fb79753cb61a70e6360d72b6545c967f85d958d908d9b02e8.png)
+![image-20221003083019617](https://blog.images.bornforthis.cn/docs-images/sha256/10/10fda2c7761f8d9fb79753cb61a70e6360d72b6545c967f85d958d908d9b02e8.png)
 
 菱形解决之后，后面的和上面的如法炮制。
 
@@ -1320,7 +1320,7 @@ When we type any letter or word, the computer translates them into numbers (bina
 
 > 下面是四种数字系统中从1到15的转换示意图:
 
-![image-20221003001441676](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fa/fa7973155c84e6b9f5dd618fded1011d1712c25982bec22d396299be9544d144.png)
+![image-20221003001441676](https://blog.images.bornforthis.cn/docs-images/sha256/fa/fa7973155c84e6b9f5dd618fded1011d1712c25982bec22d396299be9544d144.png)
 
 Your application allows the user to enter a number in a specific numbers system chosen by the user and then your program converts this number to the number system that the user has chosen. 
 
@@ -1892,7 +1892,7 @@ public class Part2 {
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1908,4 +1908,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

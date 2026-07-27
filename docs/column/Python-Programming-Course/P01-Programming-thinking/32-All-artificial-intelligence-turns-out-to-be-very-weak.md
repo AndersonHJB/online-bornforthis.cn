@@ -17,7 +17,7 @@ backToTop: true
 toc: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/35/3519f6e29311adaff85f5bcab6521316cadc5f0380dbbe85e66e4ec6bdc4eb6d.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/35/3519f6e29311adaff85f5bcab6521316cadc5f0380dbbe85e66e4ec6bdc4eb6d.png)
 
 还记得我们之前在《如何识破伪装成人类的机器人？从图灵测试谈起》提到的**《机械姬》**吗？里面的机器人**艾娃**杀了自己的创造者，逃出实验室，开启了自由人生。
 
@@ -33,7 +33,7 @@ toc: true
 
 ## 1. 鹦鹉和乌鸦：两种不同的智慧
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f9/f980c734a2710d3829405c2db5d42e27f827a6883f55e9951b2655c87afe5950.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f9/f980c734a2710d3829405c2db5d42e27f827a6883f55e9951b2655c87afe5950.png)
 
 鹦鹉能学人说话，听起来聪明极了。但其实它们只是**复读机**，对自己说的内容根本没理解。无论你问啥，它可能都是一句标准回答。你问：“今天吃了啥？”它回答：“吃了。”你问：“哥哥去哪了？”它还是：“吃了。”场面有点尴尬。
 
@@ -105,7 +105,7 @@ toc: true
 
 ## 4. 捉迷藏大战：让 AI 自我成长
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/86/86a0e602a792666692a37a61e9346bf9e19643496099331f50fa96b6bfc78682.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/86/86a0e602a792666692a37a61e9346bf9e19643496099331f50fa96b6bfc78682.png)
 
 科学家们设计了一个虚拟世界，里面有两队小人：红队和蓝队。
 
@@ -137,7 +137,7 @@ toc: true
 
 ## 6. AI 进化的乌龙事件
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/45/453686826d6212bab032cc03496bf46def5aac86c9a6ddf52c9fe04202251d15.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/45/453686826d6212bab032cc03496bf46def5aac86c9a6ddf52c9fe04202251d15.png)
 
 要想让 AI 自己进化，还真不是一条平坦路。
 
@@ -159,7 +159,7 @@ toc: true
 
 ## 7. 小结：现在的 AI，还早着呢！
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/76/760152adaebda96bf7a0460cbabd11834dca1ed310168933e4eef1a58a96e256.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/76/760152adaebda96bf7a0460cbabd11834dca1ed310168933e4eef1a58a96e256.png)
 
 总结一下：
 

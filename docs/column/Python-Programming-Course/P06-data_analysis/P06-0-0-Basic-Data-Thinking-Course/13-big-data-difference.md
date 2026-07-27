@@ -20,7 +20,7 @@ copy:
     disableSelection: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/44/44de70d22bd5645e59ad5e381a9bc0c15f3f824e3551ed82f8171704dd131386.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/44/44de70d22bd5645e59ad5e381a9bc0c15f3f824e3551ed82f8171704dd131386.jpeg)
 
 你好，我是悦创。
 
@@ -103,7 +103,7 @@ copy:
 
 ::: details Facebook（脸书）最典型、最接近
 
-![facebook 截图](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/37/37c6bf1b05cff10defc0bfd2145c0603c4d1a20d03cd5820f3238ad2b2fc2d41.png)
+![facebook 截图](https://blog.images.bornforthis.cn/docs-images/sha256/37/37c6bf1b05cff10defc0bfd2145c0603c4d1a20d03cd5820f3238ad2b2fc2d41.png)
 
 - Facebook 会持续 PUSH “People You May Know（你可能认识的人）”
 - 对好友数量较低的用户，算法会更频繁地推荐、促使你添加好友
@@ -139,9 +139,9 @@ copy:
 >
 > **算法把用户推到某个行为模式里，让看似自然的事情变得不自然。**
 
-![微博本身是有阶级的（保护创作者、商业化产物），不是 Facebook 朋友的机制。](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a6/a69c3b490aa9a78c88460708ac8b72d17503f67a6e8b01ebfc22f029b026736d.png)
+![微博本身是有阶级的（保护创作者、商业化产物），不是 Facebook 朋友的机制。](https://blog.images.bornforthis.cn/docs-images/sha256/a6/a69c3b490aa9a78c88460708ac8b72d17503f67a6e8b01ebfc22f029b026736d.png)
 
-![控制中国言论平台之一](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/79/7986f4173e90e7f9b2fc46bf78ccc1fb26ce52ea84b37c85948d9321198ed263.png)
+![控制中国言论平台之一](https://blog.images.bornforthis.cn/docs-images/sha256/79/7986f4173e90e7f9b2fc46bf78ccc1fb26ce52ea84b37c85948d9321198ed263.png)
 
 掌控言论的平台，掌控背后就是：各大企业交付资金，去控制热搜等。微博的热搜，不一定是真的。
 
@@ -346,7 +346,7 @@ copy:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -362,4 +362,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

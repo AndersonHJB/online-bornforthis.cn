@@ -33,7 +33,7 @@ toc: true
 
 ## 3. 图灵测试到底是怎么回事？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/44/445b29566b8fb8c793508edc542b2fd88cc834e70c6127eafb2ac715d8c28c7a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/44/445b29566b8fb8c793508edc542b2fd88cc834e70c6127eafb2ac715d8c28c7a.png)
 
 图灵测试的原理其实很简单：**你在不知道对方是谁的情况下，只靠聊天判断，对方是人还是机器人**。
 
@@ -67,7 +67,7 @@ toc: true
 
 或者做数学题，比如：有个数，加10，乘10，减10，再除以10后变成10，问这个数是多少？
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1d/1d48509d54a21a2ee24df7320f58cffe06cdb97fad39614fd1fb87b37cc72fe2.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/1d/1d48509d54a21a2ee24df7320f58cffe06cdb97fad39614fd1fb87b37cc72fe2.png)
 
 你可以从头算一遍，但更快的方法是“从后往前推”：倒着来算，就很容易得到答案是1。
 

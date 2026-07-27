@@ -36,7 +36,7 @@ toc: true
 
 ## 2. 示例程序
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0f/0f4dae29c8588421d3711dc05fdd12b07bd03e57f0145ca167e32754e2ce352c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/0f/0f4dae29c8588421d3711dc05fdd12b07bd03e57f0145ca167e32754e2ce352c.png)
 
 ## 3. 可能会用到的函数
 

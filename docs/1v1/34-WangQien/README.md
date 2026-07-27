@@ -39,15 +39,15 @@ toc: true
 footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备19021486号-6</a>
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/fb/fb58b26153ef924fbe6c1baa756b245e147b6ade257427fe42953b2c34c73c7f.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/fb/fb58b26153ef924fbe6c1baa756b245e147b6ade257427fe42953b2c34c73c7f.png)
 
 ::: details 详细
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c9/c9f3f29f744345521966b3aa8f66d75efa9c718c0a265cadbd57bf8340b1ccdd.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/c9/c9f3f29f744345521966b3aa8f66d75efa9c718c0a265cadbd57bf8340b1ccdd.png)
 
 老师好，想问一下这个求最小公因数的问题
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1a/1aade51e9f0778ba452bd09037a0499d8502e3234616cbd330e341333b58403c.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/1a/1aade51e9f0778ba452bd09037a0499d8502e3234616cbd330e341333b58403c.png)
 
 结果是这样的
 
@@ -73,7 +73,7 @@ a,b=b,a%b 这部看不太懂，想问问您
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -89,5 +89,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

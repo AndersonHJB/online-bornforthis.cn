@@ -21,7 +21,7 @@ backToTop: true
 toc: true
 ---
 
-![1568962558573.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/1c/1c726e5cd6e9ffdcf0e21d963ac2f1a1cdc3c91e7818f6495c5e28e20aca3562.png)
+![1568962558573.png](https://blog.images.bornforthis.cn/docs-images/sha256/1c/1c726e5cd6e9ffdcf0e21d963ac2f1a1cdc3c91e7818f6495c5e28e20aca3562.png)
 
 我们接下来看一下什么是正则表达式，什么时候用到正则表达式。
 
@@ -96,7 +96,7 @@ Hello 123 4567 World_This is a Regex Demo
 
 ```
 
-![1568964202441.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/20/20d8330218ea3978e078fbea1d6cb14cba9919558e7c020108db6c35e003ddd5.png)
+![1568964202441.png](https://blog.images.bornforthis.cn/docs-images/sha256/20/20d8330218ea3978e078fbea1d6cb14cba9919558e7c020108db6c35e003ddd5.png)
 
 上面的匹配是最常规的匹配，写了很长的正则表达式。这样的正则表达式通用性也不强，这时候刚刚燃气对正则表达式的好感又有点小慌，那咋办？别急，下面继续看。
 
@@ -169,7 +169,7 @@ Hello 123 4567 World_This is a Regex Demo
 
 为了方便理解，我画一草图：
 
-![1568965254422.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/eb/ebcac5eb90b7d5fc2652c006d9f2851c9858899150ee9f85c87e04afa2525513.png)
+![1568965254422.png](https://blog.images.bornforthis.cn/docs-images/sha256/eb/ebcac5eb90b7d5fc2652c006d9f2851c9858899150ee9f85c87e04afa2525513.png)
 
 ```python
 import re
@@ -331,7 +331,7 @@ print(result.group(1))
 
 #### 2.1.6 匹配模式
 
-![1568969690656.png](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e8/e8c77dac65fba58afec93036d48be059ad9a4f66319da925c831c863e527a46c.png)
+![1568969690656.png](https://blog.images.bornforthis.cn/docs-images/sha256/e8/e8c77dac65fba58afec93036d48be059ad9a4f66319da925c831c863e527a46c.png)
 
 ```python
 # 由上面的图片我们可以知道，返回的是 None。为什么呢？因为 . (点).	匹配任意字符，除了换行符，当re.DOTALL标记被指定时，则可以匹配包括换行符的任意字符。
@@ -1380,7 +1380,7 @@ https://read.douban.com/ebook/31154855/?dcs=book-hot&amp;dcm=douban&amp;dct=read
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -1396,4 +1396,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

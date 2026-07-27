@@ -17,7 +17,7 @@ backToTop: true
 toc: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4e/4e65b1040c4bbeaadc5c52746567564eba2f480099573ac370bc4ea76f3f82ea.webp)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/4e/4e65b1040c4bbeaadc5c52746567564eba2f480099573ac370bc4ea76f3f82ea.webp)
 
 你好，我是悦创。让我们正式开启第一课的学习。
 
@@ -42,7 +42,7 @@ toc: true
 
 我们先花几分钟，把 Claude Code 用起来。第一步，在[这里](https://code.claude.com/docs/en/desktop)下载匹配你系统的 Claude Code 版本。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/98/98211a88d98241915fbb46d92fa1b65828cccb4459dc1fa0d4b1f49f9f66755a.webp)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/98/98211a88d98241915fbb46d92fa1b65828cccb4459dc1fa0d4b1f49f9f66755a.webp)
 
 安装过程非常简单，跟着官方的说明就好。
 
@@ -70,7 +70,7 @@ Claude Code 是付费软件，需要在 Claude 网站开账户。它所支持的
 - Claude Pro / Max / Teams / Enterprise（推荐）
 - Claude Console（API 访问，需预付费）
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8e/8eb28cac327c56fdc062c04a820d0faccc7799510d8f44b649e570aa3005ea91.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/8e/8eb28cac327c56fdc062c04a820d0faccc7799510d8f44b649e570aa3005ea91.png)
 
 ::: tabs
 
@@ -91,7 +91,7 @@ export ANTHROPIC_API_KEY=sk-xxx
 
 如果你暂时搞不定网络和支付，下面这些工具和 Claude Code 是同一个物种——终端 AI Agent，同一套 Agentic Loop 内核，本课程的概念框架几乎可以迁移。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a926c2d7c4b803442f2b7d9fbc649ce8c6d76064d7a2db82f3407ca050646f55.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a9/a926c2d7c4b803442f2b7d9fbc649ce8c6d76064d7a2db82f3407ca050646f55.jpg)
 
 其中，OpenCode 是最好的平替，支持 DeepSeek、Qwen、Kimi、GLM 等国内模型的 API。
 
@@ -139,7 +139,7 @@ claude                      # 启动交互模式
 > 提交我的更改                      # Git 操作
 ```
 
-![常用命令的速查表](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/0e/0ea16269d43c30894fe966d1ad6b99a477f37e137b57b449bda55d1937c618c0.jpg)
+![常用命令的速查表](https://blog.images.bornforthis.cn/docs-images/sha256/0e/0ea16269d43c30894fe966d1ad6b99a477f37e137b57b449bda55d1937c618c0.jpg)
 
 除了在命令行中直接使用 Claude 命令之外，另一种更为常见的方式就是和 VS Code 浏览器中，甚至是其它 AI Coder 中（如 Cursor），把 Coding IDE 和 Claude Code 命令行集成使用。这样既可以享受 IDE 的便利，又可以利用命令行的强大，一举两得。
 
@@ -165,7 +165,7 @@ Claude Code 可以生成代码，从 0 开始做项目，整理文件，甚至�
 
 举个例子：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/2a/2a78dac18dccefbf262a7b1daed2f013cbd70f993955099b034997a2acbbcd86.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/2a/2a78dac18dccefbf262a7b1daed2f013cbd70f993955099b034997a2acbbcd86.jpg)
 
 
 
@@ -189,7 +189,7 @@ Claude Code 可以生成代码，从 0 开始做项目，整理文件，甚至�
 
 Claude Code 的底层能力从技术上拆解可以分为四个层次：基础层、扩展层、集成层和编程接口层。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a4/a48ea19789d6b215119eaaf7f9eef25cf17de40a1d2c7db6f3453fa7e6442327.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a4/a48ea19789d6b215119eaaf7f9eef25cf17de40a1d2c7db6f3453fa7e6442327.jpg)
 
 让我从下往上解释每一层。
 
@@ -306,7 +306,7 @@ Commands 是显式、可复用、可审计、通过斜杠命令固定触发的�
 
 SubAgents 适合**隔离执行**——高噪声任务（比如在大量日志中寻找出错信息，在大量文档中检索相关资源）、需要特定权限的任务。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/07/078a6df5ba4e6068dec59bdd03a4a1e316eef4bb78aa32fbe04f2b70da0dec7a.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/07/078a6df5ba4e6068dec59bdd03a4a1e316eef4bb78aa32fbe04f2b70da0dec7a.png)
 
 ### 5.4 Hooks（钩子）
 
@@ -371,7 +371,7 @@ result = client.query(
 
 首先看触发方式，也就是**这些组件是怎么被激活的**？不同组件的触发方式决定了它们的使用场景。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/24/2438ad13ea52ee1c197b605867e41dcbb51a474491f3cbd9de3d3620cf0ff6fe.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/24/2438ad13ea52ee1c197b605867e41dcbb51a474491f3cbd9de3d3620cf0ff6fe.jpg)
 
 
 
@@ -389,7 +389,7 @@ result = client.query(
 
 理解了触发方式，我们来看数据是怎么在系统中流动的。这张图展示了一个典型请求的生命周期：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/f7/f796d376b9e59d4652ea32770976324634aa1b717da6be596e58c6b370a17b1e.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/f7/f796d376b9e59d4652ea32770976324634aa1b717da6be596e58c6b370a17b1e.jpg)
 
 让我结合一个具体场景来解释这个流程——当用户输入“`帮我修复 src/api.js 中的安全漏洞`”之后，Claude 可能的处理流程如下。
 
@@ -443,7 +443,7 @@ Plugin 的价值在于**可复用、可版本化、可分发**。在第 16 讲�
 
 目前，理论知识已经足够了，但当你面对一个真实需求时，如何选择正确的技术？下面这是我总结的决策流程：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/85/858c00cccab83f5e85c5136db25cf07d2ea7712957d2e5f560304244a5bf4b4b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/85/858c00cccab83f5e85c5136db25cf07d2ea7712957d2e5f560304244a5bf4b4b.jpg)
 
 让我用几个真实问题来演示这个决策树的使用。
 
@@ -467,7 +467,7 @@ Plugin 的价值在于**可复用、可版本化、可分发**。在第 16 讲�
 
 为了帮助你快速匹配，我也准备了一份场景 VS 方案的速查表。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/dd/dda75dcf71706cea0e9f066063b7a4ff017809aae1c7c66496f3d5ce927521cf.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/dd/dda75dcf71706cea0e9f066063b7a4ff017809aae1c7c66496f3d5ce927521cf.jpg)
 
 ### 8.5 组合使用
 
@@ -494,7 +494,7 @@ Plugin 的价值在于**可复用、可版本化、可分发**。在第 16 讲�
 
 这五个步骤涉及五种不同的技术，但组合在一起就是一个完整的自动化流程。这就是可组合的威力。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/03/03d7e5724902817fc030c7ba54b3df1d4513fa8a8bc1a0d3bd742267b7abe5e0.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/03/03d7e5724902817fc030c7ba54b3df1d4513fa8a8bc1a0d3bd742267b7abe5e0.png)
 
 
 
@@ -524,7 +524,7 @@ Plugin 的价值在于**可复用、可版本化、可分发**。在第 16 讲�
 
 **Claude Code 扩展层 · 四大核心组件对照表**
 
-![Claude Code 扩展层 · 四大核心组件对照表](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d9/d980588d35eb5fa976634b7bf909d3ef35d5385fb8aa199face9dad79a67d4f6.jpg)
+![Claude Code 扩展层 · 四大核心组件对照表](https://blog.images.bornforthis.cn/docs-images/sha256/d9/d980588d35eb5fa976634b7bf909d3ef35d5385fb8aa199face9dad79a67d4f6.jpg)
 
 理解了全景之后，下一讲我们从最基础的组件——**Memory 记忆系统**开始学习，让 Claude 从“每次都要重新解释”变成“一次配置，永久生效”。
 
@@ -548,7 +548,7 @@ Plugin 的价值在于**可复用、可版本化、可分发**。在第 16 讲�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -564,4 +564,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

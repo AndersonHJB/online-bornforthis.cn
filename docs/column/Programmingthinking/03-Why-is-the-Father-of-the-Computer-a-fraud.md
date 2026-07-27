@@ -25,11 +25,11 @@ toc: true
 
 这位科学家的名字叫**查尔斯·巴贝奇**。巴贝奇小时候可能跟你一样，充满了好奇心，尤其是对各种**机械**。他喜欢把玩具、闹钟啥的**拆个稀巴烂**——你一定也这样做过吧？而且很可能你拆完了就装不回去了，或者装是装回去了，但多了零件出来。巴贝奇就不是这样了，他拆完任何东西，都可以**原模原样**装回去。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d6/d6fe5dfd54d4f72ec30c85c89514c82e910aab60d1fc716d0aace879b0cec9cf.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/d6/d6fe5dfd54d4f72ec30c85c89514c82e910aab60d1fc716d0aace879b0cec9cf.jpg)
 
 除了在机械上很有天赋，巴贝奇还是一个实打实的数学天才。他轻轻松松考进了**剑桥大学三一学院**。三一学院你可能没听说过，但大名鼎鼎的牛顿，也是从这里毕业的。
 
-![剑桥大学三一学院](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/b4/b4916ad94509ff4fedb2001877b2592c554ac1e631bdfe4c6f60ede6fa3552f9.jpg)
+![剑桥大学三一学院](https://blog.images.bornforthis.cn/docs-images/sha256/b4/b4916ad94509ff4fedb2001877b2592c554ac1e631bdfe4c6f60ede6fa3552f9.jpg)
 
 在这么厉害的地方，巴贝奇是不是能学到更多厉害的知识呢？巴贝奇一开始也是这么想的，可学着学着巴贝奇就觉得不对劲了，这老师的水平怎么还不如自己高呢？老师不如自己，那巴贝奇就自己想办法去学。 
 
@@ -47,7 +47,7 @@ toc: true
 
 怎么办呢？巴贝奇就自己造了一台能做这种复杂计算的机器，叫**差分机**。 
 
-![差分机的未完成作品](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/50/50d21383446f48edb74c59e1a2b0f61b8013f101b25d8a0a3875da8bb7e125b8.jpg)
+![差分机的未完成作品](https://blog.images.bornforthis.cn/docs-images/sha256/50/50d21383446f48edb74c59e1a2b0f61b8013f101b25d8a0a3875da8bb7e125b8.jpg)
 
 巴贝奇先是造了一台**功能简单**的差分机。这台简化版的机器表现得特别好，用它做的数学用表几乎没有什么错误，巴贝奇很受鼓舞，于是想做一台真正的、**完全符合自己设计**的差分机。英国政府也特别支持他，出钱**支持**他造机器。 
 
@@ -67,7 +67,7 @@ toc: true
 
 这样一来，只要换不同的卡，机器就能干不同的工作了。巴贝奇的这个想法，引起了一位**女数学家**的兴趣，她叫**埃达**。
 
-![埃达的画像](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c5/c51238d42693fb362f5331017a4963ac8486b1dcb74d1c393e39373e953b04d7.jpg)
+![埃达的画像](https://blog.images.bornforthis.cn/docs-images/sha256/c5/c51238d42693fb362f5331017a4963ac8486b1dcb74d1c393e39373e953b04d7.jpg)
 
 埃达觉得这个想法太棒了，要是真有这样一台机器，不光能做数学计算，还可以在各个方面给人们提供帮助。她甚至写了一些可以给分析机用的程序。
 
@@ -77,7 +77,7 @@ toc: true
 
 虽然埃达很重视分析机，但分析机却根本造不出来——它比差分机还要复杂。巴贝奇只完成了分析机的**一小部分**。现在，这一小部分还在**伦敦科学博物馆**里，如果你有机会去那里，可以亲眼看一看这台机器。 
 
-![分析机](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/36/3649d73285d6dc62546d2dc22d55865a2a0f92e5acf3348e466c16b9f7036acc.jpg)
+![分析机](https://blog.images.bornforthis.cn/docs-images/sha256/36/3649d73285d6dc62546d2dc22d55865a2a0f92e5acf3348e466c16b9f7036acc.jpg)
 
 在巴贝奇之后，还有很多人使用类似的思路，制造了一些有意思的机器。比如，被尊为“**人工智能之父**”的**图灵**，就设计过一种叫“**图灵机**”的机器。图灵机是要用一条打着孔的纸条来让机器知道，接下来要做什么任务。你看，这个想法是不是和巴贝奇的分析机特别像？
 

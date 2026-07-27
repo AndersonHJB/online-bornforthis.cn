@@ -3,7 +3,7 @@ blog: false
 home: true
 icon: home
 title: Linux命令行与shell脚本编程大全
-heroImage: https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/39/396e4f31a7583b6813ae530f877447f9d526c008a01d751a9cf897226c25360e.jpg
+heroImage: https://blog.images.bornforthis.cn/docs-images/sha256/39/396e4f31a7583b6813ae530f877447f9d526c008a01d751a9cf897226c25360e.jpg
 heroText: Linux & shell
 heroFullScreen: false
 tagline: Linux命令行与shell脚本编程大全
@@ -48,7 +48,7 @@ footer: 立志降低教育成本，普及编程教育，提供优质资源教程
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -64,5 +64,5 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 

@@ -30,7 +30,7 @@ a)  Die Definition eines *privaten* Datentyps element, der ein Listenelement mit
 
 b)  Die Definition eines Datentyps queue (unten beispielhaft abgebildet), der aus 3 *priva- ten* Komponenten besteht: einer ganzen Zahl für die Länge der Warteschlange sowie je einem Zeiger auf das Anfangselement (head) und das Endelement (tail) der War- teschlange. (**Alternative Implementierung: zyklische Liste mit Zugriff (nur) über tail-Pointer.**) Die *Initialisierung* der Datenstruktur (als leere Liste) *muss* in der Typdefinition erfolgen, da es keine Initialisierungsprozedur gibt.
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/63/635b9b38b998b7b5e5530f39a1b55c041e1d97609860372587c93ad0c355c408.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/63/635b9b38b998b7b5e5530f39a1b55c041e1d97609860372587c93ad0c355c408.png)
 
 c)  Eine über den generischen Prozedurnamen EMPTY aufrufbare logische Funktion, die testet, ob eine als Argument übergebene Warteschlange vom Typ queue leer ist.
 

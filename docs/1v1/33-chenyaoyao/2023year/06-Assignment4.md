@@ -130,7 +130,7 @@ Another example:
 >
 > 另一个例子：
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/52/52dad068666c11852616981ed6a682781762c22d7ffda17956065004f6a71e08.png)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/52/52dad068666c11852616981ed6a682781762c22d7ffda17956065004f6a71e08.png)
 
 `H = [1,8,6,2,5,4,8,3,7]`
 
@@ -290,7 +290,7 @@ print(is_special(num, count_digits(num)))  # 输出：True，因为124是特殊�
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -306,7 +306,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

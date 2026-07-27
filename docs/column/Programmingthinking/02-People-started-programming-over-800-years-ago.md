@@ -29,7 +29,7 @@ toc: true
 
 船上坐着一位国王和几位贵族，他们在开宴会，喝酒呢。在船的角落里，还坐着**4位音乐家**，两位负责打鼓，一位负责弹竖琴，还有一位吹笛子。他们在演奏动听的音乐。虽然技术高超，但这些音乐家都不会说话，也不能喝酒。因为，他们都是**木头人**。
 
-![伊斯梅尔设计的音乐机器人](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d5/d539fedfd92bb168267b22861b7c1d536edb8d54e7ffa09eca6ac6f0d1b8a66e.jpg)
+![伊斯梅尔设计的音乐机器人](https://blog.images.bornforthis.cn/docs-images/sha256/d5/d539fedfd92bb168267b22861b7c1d536edb8d54e7ffa09eca6ac6f0d1b8a66e.jpg)
 
 诶，问题来了，木头人是怎么演奏音乐的呢？这里头的秘密跟**八音盒**有关。八音盒你一定玩过吧，只要给八音盒上好发条，它就会开始旋转，并且发出清脆的音乐声。
 
@@ -41,13 +41,13 @@ toc: true
 
 我在屏幕上放了一张**加扎利音乐船**的图片。图片的最左侧就是四位音乐家，他们的座位下面，就能看到那个金属圆柱。
 
-![加扎利音乐船](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/63/632e01e2c7f52ae6cc7b1407a94a78a51b827431dd6a9ff117b41ccb5c727ff5.jpg)
+![加扎利音乐船](https://blog.images.bornforthis.cn/docs-images/sha256/63/632e01e2c7f52ae6cc7b1407a94a78a51b827431dd6a9ff117b41ccb5c727ff5.jpg)
 
 诶，就这样，事先设置好拨动琴键的顺序，让机器在特定时间发出特定的声音，其实就是可以算作最早的编程了。可惜的是，加扎利并没有把这种想法运用到别的领域去。很快，这种制作技巧就失传了。
 
 后来，一代又一代的发明家，又各自独立地想出了很多编程的主意。其中，对咱们今天影响最大的，是一个叫**霍尔瑞斯**的人。
 
-![霍尔瑞斯](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/07/0709aaf49035cb5be639a52828bfc3cb841ab43327bd60f18ac1ceaec8dca516.jpg)
+![霍尔瑞斯](https://blog.images.bornforthis.cn/docs-images/sha256/07/0709aaf49035cb5be639a52828bfc3cb841ab43327bd60f18ac1ceaec8dca516.jpg)
 
 霍尔瑞斯是个美国人。那个时候的美国啊，碰到了一个大麻烦。
 
@@ -65,7 +65,7 @@ toc: true
 
 危难之际总有英雄出现，这次，一个年轻的小伙子站出来了，他就是霍尔瑞斯。霍尔瑞斯发明了一种新机器，叫“**打孔卡片制表机**”。这台机器呢，有点像一台打印机，把一摞摞打了孔的卡片塞进去，统计结果自己就出来了。
 
-![打孔卡片制表机   图片来源：Adam Schuster](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/8a/8ab0dbd8ca0f37ba4edd345b8b23fc8dea8142682aa926dcd13025d6179daa86.jpg)
+![打孔卡片制表机   图片来源：Adam Schuster](https://blog.images.bornforthis.cn/docs-images/sha256/8a/8ab0dbd8ca0f37ba4edd345b8b23fc8dea8142682aa926dcd13025d6179daa86.jpg)
 
 那这台机器到底靠不靠谱呢？普查办公室特地举办了一场比赛，让霍尔瑞斯和其他拍胸脯保证能解决问题的人，一起当场比试。结果，霍尔瑞斯果然大获全胜。他只花了半天就交卷出场了，而他的对手，最快的，也要忙活2天，才能才交出答卷！毫无疑问，霍尔瑞斯赢了，拿下了这单大生意。
 

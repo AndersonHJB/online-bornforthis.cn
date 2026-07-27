@@ -33,7 +33,7 @@ toc: true
 
 你愿意帮我装修网页日记吗？
 
-![CSS实战](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e8/e8cba9c04a0e4457f183e8e8db99c77fb5f8099b6a4cc51a1a0fbbdbd081a569.jpg)
+![CSS实战](https://blog.images.bornforthis.cn/docs-images/sha256/e8/e8cba9c04a0e4457f183e8e8db99c77fb5f8099b6a4cc51a1a0fbbdbd081a569.jpg)
 
 ## 第1步 更改段落字体颜色
 
@@ -43,11 +43,11 @@ CSS 能达成的美观程度取决于 CSS 的样式。
 
 因此，请**在项目文件中新建一个 styles 文件夹**，专门用于存放 CSS 的各类样式文件。
 
-![image-20220804204018133](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a979d233ac9901ed851071ba8b738ff89b2cab8d00e9fdd78e0c3ce69166824c.png)
+![image-20220804204018133](https://blog.images.bornforthis.cn/docs-images/sha256/a9/a979d233ac9901ed851071ba8b738ff89b2cab8d00e9fdd78e0c3ce69166824c.png)
 
 新建一个文件，文件命名为：`css1.css` ：
 
-![image-20220804204757133](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/62/62762965a87222b45c25213689761f9b0da1f93a17872b61021264131005326c.png)
+![image-20220804204757133](https://blog.images.bornforthis.cn/docs-images/sha256/62/62762965a87222b45c25213689761f9b0da1f93a17872b61021264131005326c.png)
 
 将下面这段代码复制到新的文件里：
 
@@ -57,7 +57,7 @@ p {
 }
 ```
 
-![image-20220804204915086](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/39/39c7cd7a6a24ef0924c82b164d3fc50a9ff1466985a25f89fd24eeb6e0802e14.png)
+![image-20220804204915086](https://blog.images.bornforthis.cn/docs-images/sha256/39/39c7cd7a6a24ef0924c82b164d3fc50a9ff1466985a25f89fd24eeb6e0802e14.png)
 
 **还记得，这段 CSS 代码的含义吗？**
 
@@ -85,7 +85,7 @@ p {
 <link href="styles/css1.css" rel="stylesheet" type="text/css">
 ```
 
-![image-20220804205745412](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/38/38710cc2a1778b1a3887cd314f02efcebe5eb18b83afb8fb888205cc88f2dc2b.png)
+![image-20220804205745412](https://blog.images.bornforthis.cn/docs-images/sha256/38/38710cc2a1778b1a3887cd314f02efcebe5eb18b83afb8fb888205cc88f2dc2b.png)
 
 再次把 `index.html` 文件拖入浏览器中，看看发生了什么变化？
 
@@ -93,11 +93,11 @@ p {
 
 ###  Before 网页
 
-![image-20220804210007255](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/94/94814d5debdc4c6b5629c0953fd790c81dd875c6834dde3434d59bd381a235d6.png)
+![image-20220804210007255](https://blog.images.bornforthis.cn/docs-images/sha256/94/94814d5debdc4c6b5629c0953fd790c81dd875c6834dde3434d59bd381a235d6.png)
 
 ### After 网页
 
-![image-20220804210223138](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d2/d2da5d986dfed0cfe39474f30eccfe0f2149af5911f6df58624b408f56360e7a.png)
+![image-20220804210223138](https://blog.images.bornforthis.cn/docs-images/sha256/d2/d2da5d986dfed0cfe39474f30eccfe0f2149af5911f6df58624b408f56360e7a.png)
 
 你发现了吗？
 
@@ -117,11 +117,11 @@ html {
 }
 ```
 
-![image-20220804210625235](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6d/6da4cb5f6f987bdeab892b4a9999b95f32925ef938eebf7b9b73d9840feefe5c.png)
+![image-20220804210625235](https://blog.images.bornforthis.cn/docs-images/sha256/6d/6da4cb5f6f987bdeab892b4a9999b95f32925ef938eebf7b9b73d9840feefe5c.png)
 
 保存当前 html 文件后，请将 `index.html` 文件拖入浏览器，看看变化：
 
-![image-20220804210950582](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/df/df5d43f40871f41161324d8cf4c312e903c8c308de0ba1f559bb2b209ac6c124.png)
+![image-20220804210950582](https://blog.images.bornforthis.cn/docs-images/sha256/df/df5d43f40871f41161324d8cf4c312e903c8c308de0ba1f559bb2b209ac6c124.png)
 
 网页的背景颜色由白色变为灰色了！
 
@@ -147,7 +147,7 @@ h1 {
 - **margin：0;** 它可覆盖浏览器为 `<h1>` 设置的默认样式。
 - **text-shadow: 3px 3px 1px grey;** 它能为 `<h1>` 字体添加阴影效果。
 
-![image-20220804211359841](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/07/07a71df3d198044da508bad2b1029b2fd60f37cf6863f12fa27d068fd16e4ea6.png)
+![image-20220804211359841](https://blog.images.bornforthis.cn/docs-images/sha256/07/07a71df3d198044da508bad2b1029b2fd60f37cf6863f12fa27d068fd16e4ea6.png)
 
 注意：
 
@@ -155,7 +155,7 @@ h1 {
 
 如果你跟着我们的步骤，你的网页已发生了变化：
 
-![image-20220804211456290](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c0/c0423f3dd580f1c0c994f0a91c516843bc0b447f100061c862bc2fb73cdd94fb.png)
+![image-20220804211456290](https://blog.images.bornforthis.cn/docs-images/sha256/c0/c0423f3dd580f1c0c994f0a91c516843bc0b447f100061c862bc2fb73cdd94fb.png)
 
 ## 第4步 更改文档体格式设置
 
@@ -173,7 +173,7 @@ body {
 }
 ```
 
-![image-20220804211626909](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/e0/e0ca9e216b3c07be984751663f050e5e59e35c1b8471522d14b092cf9982ef1b.png)
+![image-20220804211626909](https://blog.images.bornforthis.cn/docs-images/sha256/e0/e0ca9e216b3c07be984751663f050e5e59e35c1b8471522d14b092cf9982ef1b.png)
 
 你能理解以上代码的含义吗？
 
@@ -186,7 +186,7 @@ body {
 
 如果你跟着我们的步骤，猎豹的成长日记现在已经是这样的了：
 
-![image-20220804215136030](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/3b/3b8d4f19697b61ca655cac7a49768ef6be4fccb81bc2d3afc2ec695011e0b56d.png)
+![image-20220804215136030](https://blog.images.bornforthis.cn/docs-images/sha256/3b/3b8d4f19697b61ca655cac7a49768ef6be4fccb81bc2d3afc2ec695011e0b56d.png)
 
 猜你可能并不喜欢粉萌的配色。
 
@@ -213,7 +213,7 @@ img {
 
 如果你在 `index.html` 文件中引用了以上 CSS 的样式, 原本向左对齐的图片都能居中显示了：
 
-![image-20220804215541047](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/73/7322ab2de4bd7589550df4f9347a12f427b17e7a243d041b5e4efdca7945fe24.png)
+![image-20220804215541047](https://blog.images.bornforthis.cn/docs-images/sha256/73/7322ab2de4bd7589550df4f9347a12f427b17e7a243d041b5e4efdca7945fe24.png)
 
 此刻，如果你的编译器中已存有 5 个 css 文件，说明你：
 
@@ -233,7 +233,7 @@ img {
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -249,7 +249,7 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
 
 
 

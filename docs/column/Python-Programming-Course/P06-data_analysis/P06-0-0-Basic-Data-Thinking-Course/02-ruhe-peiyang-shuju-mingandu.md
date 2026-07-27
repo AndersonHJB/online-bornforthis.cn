@@ -20,7 +20,7 @@ copy:
     disableSelection: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6d/6d4a5d0c1e1a9694becfadaab86d9b630a9023f5b5583c12e5dfbc9656fa9757.jpeg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/6d/6d4a5d0c1e1a9694becfadaab86d9b630a9023f5b5583c12e5dfbc9656fa9757.jpeg)
 
 你好，我是悦创。
 
@@ -193,7 +193,7 @@ copy:
 
 **可视化效果如下：**
 
-![情绪的量转型示例图](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/af/afbfba098487683e0e7018bc837bf530b0aebe39f84585f80cbacac129ad619f.png)
+![情绪的量转型示例图](https://blog.images.bornforthis.cn/docs-images/sha256/af/afbfba098487683e0e7018bc837bf530b0aebe39f84585f80cbacac129ad619f.png)
 
 #### 1.4.1 📌 为什么情绪量化有用？
 
@@ -327,7 +327,7 @@ copy:
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -343,4 +343,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

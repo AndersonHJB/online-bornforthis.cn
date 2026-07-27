@@ -17,7 +17,7 @@ backToTop: true
 toc: true
 ---
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bb/bb18d9e58b69c34248dee0d09ac2d2b6d9cff7fb468c22f1597d48fa4d2fa64b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/bb/bb18d9e58b69c34248dee0d09ac2d2b6d9cff7fb468c22f1597d48fa4d2fa64b.jpg)
 
 你好，我是悦创。
 
@@ -55,7 +55,7 @@ toc: true
 
 而小数据往往是在企业经营范围内产生的，他们的数据量很小，但是他们蕴含的数据价值（熵）会非常大，所以分析的时候要更讲究，因为每一个数据背后都蕴含着大量的知识，我们要了解它背后的规律才能掌握数据的命脉。
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ac/ac03ab1960c6c7721b13e44f0c28c9105515a436bad718521ddb036db741a0c3.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/ac/ac03ab1960c6c7721b13e44f0c28c9105515a436bad718521ddb036db741a0c3.jpg)
 
 我来给你举个大数据和小数据的例子。从大数据的方向来说，抖音的推荐算法就是典型的大数据代表。抖音需要在复杂多变的环境找到你喜爱的视频并推荐给你，不断增强你的体验，从而让你爱不释手。如果抖音没有一个很好的推荐算法，其实是很难达到今天的地位的。
 
@@ -254,7 +254,7 @@ Question
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -270,4 +270,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)

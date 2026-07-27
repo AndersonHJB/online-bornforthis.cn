@@ -35,7 +35,7 @@ head:
 footer: 长期招收编程一对一学员！微信：Jiabcdefh, <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备19021486号-6</a>
 ---
 
-![img](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d5/d5ecb704fadd9d38976116d02076657cca1910a52cd364204d8ac6a417232775.png)
+![img](https://blog.images.bornforthis.cn/docs-images/sha256/d5/d5ecb704fadd9d38976116d02076657cca1910a52cd364204d8ac6a417232775.png)
 
 ## 写在前面的话 
 
@@ -105,7 +105,7 @@ Python 一对一答疑/教学，按具体需要来定制，支持私人定制。
 
 联系方式：Jiabcdefh
 
-![image-20230114124314923](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a9/a948618305a73fc9dc6d89d657292e820a5f9f0a98f30f9cacdcbd5e337e2485.png)
+![image-20230114124314923](https://blog.images.bornforthis.cn/docs-images/sha256/a9/a948618305a73fc9dc6d89d657292e820a5f9f0a98f30f9cacdcbd5e337e2485.png)
 
 ## 课程内容：
 
@@ -171,5 +171,5 @@ Python 一对一答疑/教学，按具体需要来定制，支持私人定制。
 
 如果你有其他需求或者疑问，点击：[QQ 在线客服](http://wpa.qq.com/msgrd?v=3&uin=1432803776&site=qq&menu=yes)
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/a2/a2b05495a937d44c3c620024f60ef3f407b9efd454eebc452d0a88d03a2a166a.png)						
+![](https://blog.images.bornforthis.cn/docs-images/sha256/a2/a2b05495a937d44c3c620024f60ef3f407b9efd454eebc452d0a88d03a2a166a.png)						
 		

@@ -33,9 +33,9 @@ backToTop: true
 
 多边形是由直线组成，其形状是"封闭"的（所有的线条 连接起来）。
 
-![Remark](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/6f/6fb0af4f1f113ded1924122fef9242bfceee9e1adac95bb462f47d03b5f6e298.gif)polygon 来自希腊。 "Poly" 意味 "many" ， "gon" 意味 "angle".
+![Remark](https://blog.images.bornforthis.cn/docs-images/sha256/6f/6fb0af4f1f113ded1924122fef9242bfceee9e1adac95bb462f47d03b5f6e298.gif)polygon 来自希腊。 "Poly" 意味 "many" ， "gon" 意味 "angle".
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/c1/c159c49c8b89d066f782c087fb2f710bf94d7a9593e8c71a12cda84af3d93745.png" alt="image-20221103231604940" style="zoom:33%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/c1/c159c49c8b89d066f782c087fb2f710bf94d7a9593e8c71a12cda84af3d93745.png" alt="image-20221103231604940" style="zoom:33%;" />
 
 下面是 SVG 代码：
 
@@ -70,7 +70,7 @@ backToTop: true
 
 使用 `<polygon>` 元素创建一个星型:
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/7f/7f8ba224ac01a7e8c76cbcddbde947e0d222442226e9c7ee944137c1dbf3a434.png" alt="image-20221103232552814" style="zoom:33%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/7f/7f8ba224ac01a7e8c76cbcddbde947e0d222442226e9c7ee944137c1dbf3a434.png" alt="image-20221103232552814" style="zoom:33%;" />
 
 下面是 SVG 代码：
 
@@ -87,7 +87,7 @@ backToTop: true
 
 改变 fill-rule 属性为 "evenodd":
 
-<img src="https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/bd/bd3e657d3d43534764250c5c465f8c3970daefa86cb5002becba2308c9212b58.png" alt="image-20221103232618016" style="zoom: 33%;" />
+<img src="https://blog.images.bornforthis.cn/docs-images/sha256/bd/bd3e657d3d43534764250c5c465f8c3970daefa86cb5002becba2308c9212b58.png" alt="image-20221103232618016" style="zoom: 33%;" />
 
 下面是 SVG 代码：
 
@@ -104,7 +104,7 @@ backToTop: true
 
 ::: details 公众号：AI悦创【二维码】
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/77/77f67d48a67ec6a44a4ef1f01ffc85830eb3c121b1ece45dc5ada06e20e2f52b.jpg)
 
 :::
 
@@ -120,4 +120,4 @@ C++ 信息奥赛题解，长期更新！长期招收一对一中小学信息奥�
 
 :::
 
-![](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
+![](https://blog.images.bornforthis.cn/docs-images/sha256/30/3087c629da73428daa0ee050f5b31709c30f650686164b54c724b892a422c585.jpg)
