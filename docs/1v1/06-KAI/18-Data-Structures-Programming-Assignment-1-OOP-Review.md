@@ -33,7 +33,7 @@ backToTop: true
 toc: true
 ---
 
-<Share colorful services="qq,weibo,email,qrcode"/>
+`<Share colorful services="qq,weibo,email,qrcode"/>`
 
 - [https://cs.nyu.edu/courses/spring23/CSCI-UA.0102-001/index.html](https://cs.nyu.edu/courses/spring23/CSCI-UA.0102-001/index.html)
 - [hw01.pdf](https://blog.images.bornforthis.cn/1v1/06-KAI/18-Data-Structures-Programming-Assignment-1-OOP-Review/hw01.pdf)

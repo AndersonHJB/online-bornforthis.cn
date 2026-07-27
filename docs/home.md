@@ -381,7 +381,6 @@ tagline: 浅者见浅，深者见深——黄家宝
 <Share colorful services="qq,weibo,email,qrcode"/>
 ```
 
-<Share colorful services="qq,weibo,email,qrcode"/>
 
 ### 7.3 VideoPlayer
 

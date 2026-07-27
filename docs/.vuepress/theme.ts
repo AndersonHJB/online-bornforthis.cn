@@ -389,21 +389,10 @@ const theme = hopeTheme({
     //   // envId: "https://twikoo.ccknbc.vercel.app",
 
     components: {
-      componentOptions: {
-
-        share: {
-
-          // services: ["email", "qq", "weibo", "qrcode"],
-          services: ["email", "qq", "qrcode"],
-        }
-      },
       components: [
         "VPCard",
         "PDF",
       ],
-      rootComponents: {
-
-      }
     },
 
     copyright: {
