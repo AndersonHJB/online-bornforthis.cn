@@ -24,7 +24,7 @@ footer: 立志降低教育成本，普及编程教育，提供优质资源教程
 
 ![img](https://blog.images.bornforthis.cn/docs-images/sha256/8e/8e4a01cae1249fd05a5d7196f1f4b9c34f1fdbcd987bc42e6ddd13ea3e74582a.jpeg)
 
-<VidStack src="https://github.aiyc.top/teacher-per-capita/01/01-罗维.mp4" />
+`<VidStack src="https://github.aiyc.top/teacher-per-capita/01/01-罗维.mp4" />`
 
 ![img](https://blog.images.bornforthis.cn/docs-images/sha256/76/76d0668b67bdf811f935b8f987e72bf8cb82c4b1a4295d0c8dbfad6a375fe478.jpeg)
 

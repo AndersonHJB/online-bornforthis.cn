@@ -17,6 +17,6 @@ backToTop: true
 toc: true
 ---
 
-<VidStack
+`<VidStack
   src="https://cdn.bornforthis.cn/Books/Kunstkammer-Wien-der-Schiffsautomat.mp4"
-/>
+/>`

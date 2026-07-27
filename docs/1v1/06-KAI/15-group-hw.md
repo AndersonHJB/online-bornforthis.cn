@@ -570,7 +570,7 @@ public class Main {
 
 在他们的那个代码逻辑上 尽量不要大改棋盘。实现这个效果
 
-<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/15-group-hw/demo.mp4" />
+`<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/15-group-hw/demo.mp4" />`
 
 欢迎关注我公众号：AI悦创，有更多更好玩的等你发现！
 

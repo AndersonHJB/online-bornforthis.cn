@@ -192,7 +192,7 @@ Here is a video example of how the game is played. Note that you may redesign yo
 
 - [assignment03_images.zip](https://blog.images.bornforthis.cn/1v1/06-KAI/22-Macro-Assignment-03-Gotta-Catch-em-All/assignment03_images.zip)
 
-<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/22-Macro-Assignment-03-Gotta-Catch-em-All/yt1s.com-webdev-assignment03-2021_1080p.mp4" />
+`<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/22-Macro-Assignment-03-Gotta-Catch-em-All/yt1s.com-webdev-assignment03-2021_1080p.mp4" />`
 
 Here are some overarching hints to help you get started:
 

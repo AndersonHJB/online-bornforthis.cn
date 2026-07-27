@@ -48,11 +48,11 @@ Remember that micro assignments are time sensitive! You should try and complete 
 
 ## JavaScript Promises
 
-<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/33-Micro-Assignment08/webdev-micro08-promises.mp4" />
+`<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/33-Micro-Assignment08/webdev-micro08-promises.mp4" />`
 
 ## The "fetch" API
 
-<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/33-Micro-Assignment08/webdev-micro08-fetch.mp4" />
+`<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/33-Micro-Assignment08/webdev-micro08-fetch.mp4" />`
 
 **Making a Basic Fetch Request in Code**
 

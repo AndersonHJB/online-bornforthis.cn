@@ -185,7 +185,7 @@ For this assignment you will be creating 'matching game' that will allow visitor
 
 > 对于这个作业，你将创建一个“匹配游戏”，允许访问者尝试和匹配一系列隐藏的令牌。速度是关键，最好的时间将被存储在你的电脑上的“高分”-未来的玩家将需要尝试并打破这个分数，以成为新的匹配冠军!下面是一段简短的视频，展示了该系统的基本功能:
 
-<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/30-Assignment06-Matching-Game/webdev%20matching%20game_360p.mp4" />
+`<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/30-Assignment06-Matching-Game/webdev%20matching%20game_360p.mp4" />`
 
 Your program should do the following. [You can download all of the artwork used in this project here](https://cs.nyu.edu/courses/spring23/CSCI-UA.0061-001/images/assignment06/assignment06_images.zip).
 

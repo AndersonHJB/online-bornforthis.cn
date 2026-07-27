@@ -63,7 +63,7 @@ Here's a quick video that shows the basic features of the system:
 
 > 这是一个简短的视频，展示了系统的基本功能：
 
-<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/31-Assignment07-Server-side-Quizzing-System/yt1s.com-simpsonsquiz%20assignment6_360p.mp4" />
+`<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/31-Assignment07-Server-side-Quizzing-System/yt1s.com-simpsonsquiz%20assignment6_360p.mp4" />`
 
 网页结构如下从上到下：
 

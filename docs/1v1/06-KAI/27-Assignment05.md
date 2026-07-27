@@ -39,7 +39,7 @@ For this assignment you will be creating an online system that lets users keep t
 
 > 对于这个作业，你将创建一个在线系统，让用户跟踪季节活动。这里有一个视频例子，说明这个程序应该如何工作。请注意，您可以重新设计系统以使用自己的内容、颜色和布局，但总体逻辑应该是相同的。
 
-<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/27-Assignment05/27-Assignment05.mp4" />
+`<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/27-Assignment05/27-Assignment05.mp4" />`
 
 
 ## Phase 1

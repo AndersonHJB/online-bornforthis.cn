@@ -31,7 +31,7 @@ backToTop: true
 
 ## 1. 视频讲解
 
-<VidStack src="https://aiyc.top/SQL-MySQL-Easy-Learn/01/01-什么是Database？.mp4" />
+`<VidStack src="https://aiyc.top/SQL-MySQL-Easy-Learn/01/01-什么是Database？.mp4" />`
 
 ## 2. 什么是 Database？
 

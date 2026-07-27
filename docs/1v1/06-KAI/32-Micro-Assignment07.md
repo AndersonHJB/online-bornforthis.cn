@@ -55,21 +55,21 @@ Remember that micro assignments are time sensitive! You should try and complete 
 
 ## PHP File I/O
 
-<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/32-Micro-Assignment07/01-php-fileIO.mp4" />
+`<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/32-Micro-Assignment07/01-php-fileIO.mp4" />`
 
 
 
 ## Cookies vs. LocalStorage
 
-<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/32-Micro-Assignment07/02-cookies-vs-localstorage.mp4" />
+`<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/32-Micro-Assignment07/02-cookies-vs-localstorage.mp4" />`
 
 
 
 ## PHP Cookies
 
-<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/32-Micro-Assignment07/03-cookies-and-php.mp4" />
+`<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/32-Micro-Assignment07/03-cookies-and-php.mp4" />`
 
-<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/32-Micro-Assignment07/04-practical-cookies.mp4" />
+`<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/32-Micro-Assignment07/04-practical-cookies.mp4" />`
 
 ## Programming Challenge
 

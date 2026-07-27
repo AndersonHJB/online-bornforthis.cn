@@ -17,6 +17,4 @@ backToTop: true
 toc: true
 ---
 
-<VidStack
-  src="https://cdn.bornforthis.cn/Books/Kunstkammer-Wien-der-Schiffsautomat.mp4"
-/>
+视频链接：[https://cdn.bornforthis.cn/Books/Kunstkammer-Wien-der-Schiffsautomat.mp4](https://cdn.bornforthis.cn/Books/Kunstkammer-Wien-der-Schiffsautomat.mp4)

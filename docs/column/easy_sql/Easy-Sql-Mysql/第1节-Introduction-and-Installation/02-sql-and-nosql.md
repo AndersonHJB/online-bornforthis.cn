@@ -23,12 +23,9 @@ backToTop: true
 
 :::
 
-## 1. 视频讲解
-
-<VidStack src="https://aiyc.top/SQL-MySQL-Easy-Learn/01/02-SQL和NOSQL.mp4" />
 
 
-## 2. SQL
+## 1. SQL
 
 上节课我们了解到，我们「APP」操作 DBMS「数据库管理系统」。那肯定使用的是接口吧，接口肯定需要通信语言。这个通信语言肯定是各种各样的，在我们的数据库中叫做：SQL。
 
@@ -37,7 +34,7 @@ backToTop: true
 
 那有关系型数据库，就会有非关系型数据库。
 
-## 3.SQL VS NO-SQL
+## 2.SQL VS NO-SQL
 
 ![SQL-and-NoSQL-databases](https://blog.images.bornforthis.cn/docs-images/sha256/38/38d67321fe9ca092eaad39255a606b77c57be03d6afc17d35c49ccdf08a892e4.jpeg)
 

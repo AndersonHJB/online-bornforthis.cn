@@ -69,31 +69,31 @@ Remember that micro assignments are time sensitive! You should try and complete 
 
 > PHP基础(回顾)
 
-<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/29-Micro-Assignment06/01-php-fundamentals-v2.mp4" />
+`<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/29-Micro-Assignment06/01-php-fundamentals-v2.mp4" />`
 
 ## PHP CGI (GET & POST requests)
 
 > PHP CGI (GET & POST请求)
 
-<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/29-Micro-Assignment06/02-php-cgi.mp4" />
+`<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/29-Micro-Assignment06/02-php-cgi.mp4" />`
 
 ## PHP 'header' function
 
 > PHP 'header'函数
 
-<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/29-Micro-Assignment06/03-php-header.mp4" />
+`<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/29-Micro-Assignment06/03-php-header.mp4" />`
 
 ## PHP Debugging Techniques
 
 > PHP调试技术
 
-<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/29-Micro-Assignment06/05-php-debugging.mp4" />
+`<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/29-Micro-Assignment06/05-php-debugging.mp4" />`
 
 ## Additional Topics
 
 > 额外的话题
 
-<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/29-Micro-Assignment06/06-linux-command-line.mp4" />
+`<VidStack src="https://blog.images.bornforthis.cn/1v1/06-KAI/29-Micro-Assignment06/06-linux-command-line.mp4" />`
 
 ## Programming Challenge
 
