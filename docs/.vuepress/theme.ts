@@ -288,6 +288,8 @@ const theme = hopeTheme({
       locales: {
         "/": {
           placeholder: '搜索文档',
+          // initialQuery: 'AI悦创·长期招收编程私教学员！微信:Jiabcdefh',
+          maxResultsPerGroup: 10,
           translations: {
             button: {
               buttonText: '搜索文档',
