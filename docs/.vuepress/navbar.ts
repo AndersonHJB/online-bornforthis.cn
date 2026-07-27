@@ -135,7 +135,7 @@ export const zhNavbar = navbar([
   // {
   //   text: "私教计划",
   //   icon: "1v1-4",
-  //   link: "https://bornforthis.cn/web_runing/Tester/1554.html",
+  //   link: "https://web.online.bornforthis.cn/Tester/1554.html",
   // },
   // {
   //   text: "Course",

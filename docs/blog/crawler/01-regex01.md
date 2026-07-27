@@ -24,7 +24,7 @@ toc: true
 
 ## 1. 需求
 
-1. 抓取目标网站：[https://bornforthis.cn/web_runing/crawler/regex/index.html](https://bornforthis.cn/web_runing/crawler/regex/index.html)
+1. 抓取目标网站：[https://web.online.bornforthis.cn/crawler/regex/index.html](https://web.online.bornforthis.cn/crawler/regex/index.html)
 2. 技术限制：
     1. requests
     2. re
@@ -49,7 +49,7 @@ import re
 from requests.exceptions import RequestException
 from urllib.parse import urljoin
 
-BASE = "https://bornforthis.cn/web_runing/crawler/regex/"
+BASE = "https://web.online.bornforthis.cn/crawler/regex/"
 
 
 def requests_fun(url, binary=False):
@@ -90,7 +90,7 @@ def postfix(url):
 
 
 def main():
-    url = "https://bornforthis.cn/web_runing/crawler/regex/index.html"
+    url = "https://web.online.bornforthis.cn/crawler/regex/index.html"
     html = requests_fun(url)
     # url_lst = parse(html)
     url_list = joint(parse(html))

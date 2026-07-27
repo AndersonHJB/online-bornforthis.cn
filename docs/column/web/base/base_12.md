@@ -114,7 +114,7 @@ window.onload = function () {
 
 将 `index.html` 拖入浏览器中，点击第一张图标，看看是否完成了图片切换效果。
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_13/01/base_13-1.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_13/01/base_13-1.html" target="_blank">尝试一下</a></button>
 
 当你点击图片上图，它能自动切换，你的图像切换器就制作完成啦！
 
@@ -184,13 +184,13 @@ window.onload = function () {
 
 ![image-20220804235928828](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/4e/4eb5658486225208e2153ecb3c2d4d1b52d8e0662ce60b9956d2e22011974cb4.png)
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_13/01/base_13-2.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_13/01/base_13-2.html" target="_blank">尝试一下</a></button>
 
 
 
 ## 代码下载
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/data/base_13/base_13.zip" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/data/base_13/base_13.zip" target="_blank">尝试一下</a></button>
 
 ::: details 公众号：AI悦创【二维码】
 

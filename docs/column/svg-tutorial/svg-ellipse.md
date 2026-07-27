@@ -42,7 +42,7 @@ backToTop: true
 </svg>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/06/06.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/06/06.html" target="_blank">尝试一下</a></button>
 
 **代码解析：**
 
@@ -65,7 +65,7 @@ backToTop: true
 </svg>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/06/06-1.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/06/06-1.html" target="_blank">尝试一下</a></button>
 
 ## 实例 3
 
@@ -80,7 +80,7 @@ backToTop: true
 </svg>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/06/06-2.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/06/06-2.html" target="_blank">尝试一下</a></button>
 
 欢迎关注我公众号：AI悦创，有更多更好玩的等你发现！
 

@@ -38,7 +38,7 @@ backToTop: true
 </svg>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/07/07.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/07/07.html" target="_blank">尝试一下</a></button>
 
 - x1 属性在 x 轴定义线条的开始
 - y1 属性在 y 轴定义线条的开始

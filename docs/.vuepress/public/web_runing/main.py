@@ -1,6 +1,6 @@
 import os
 
-BASE_URL = "https://bornforthis.cn/web_runing/"
+BASE_URL = "https://web.online.bornforthis.cn/"
 path_lst = ["FAQ", "data", "web_base", "crawler", "pyechars", "blog", "Tester", "video_cloumn"]
 
 

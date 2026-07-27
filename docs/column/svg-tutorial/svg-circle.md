@@ -38,7 +38,7 @@ backToTop: true
 </svg>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/05/05.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/05/05.html" target="_blank">尝试一下</a></button>
 
 **代码解析：**
 

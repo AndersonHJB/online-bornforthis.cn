@@ -153,7 +153,7 @@ HTML 的元素构成如图：
 <p>我的名字叫猎豹。我是一只<strong>萨摩耶</p>。</strong>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_03/base_03.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_03/base_03.html" target="_blank">尝试一下</a></button>
 
 你发现句号被单独列为一行了，对吗？
 
@@ -176,7 +176,7 @@ HTML 的元素构成如图：
 <p><em>沐春风,</em>惹红尘一身</p>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_03/base_03-1.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_03/base_03-1.html" target="_blank">尝试一下</a></button>
 
 ## 块级元素和内联元素
 
@@ -195,7 +195,7 @@ HTML 的元素构成如图：
 <em>周杰伦是歌手。</em><em>周杰伦是音乐制作人。</em><em>周杰伦是电影导演。</em>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_03/base_03-2.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_03/base_03-2.html" target="_blank">尝试一下</a></button>
 
 内联元素 `<em>` 使关于周杰伦的介绍如**行状**显示。
 
@@ -205,7 +205,7 @@ HTML 的元素构成如图：
 <p>周杰伦是歌手。</p><p>周杰伦是音乐制作人。</p><p>周杰伦是电影导演。</p>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_03/base_03-3.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_03/base_03-3.html" target="_blank">尝试一下</a></button>
 
 相同的内容，块级元素如**块状**显示。
 
@@ -233,7 +233,7 @@ HTML 的元素构成如图：
 <img src="https://bornforthis.cn/gzh.jpg">
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_03/base_03-4.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_03/base_03-4.html" target="_blank">尝试一下</a></button>
 
 你看到这张图片了吗？
 
@@ -259,7 +259,7 @@ HTML 的元素构成如图：
 </html>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_03/base_03-5.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_03/base_03-5.html" target="_blank">尝试一下</a></button>
 
 - `<!DOCTYPE html >`：**它是文档声明** 。你不需要记忆这行代码，也不需要纠结于它的意义。当它出现时，知道它是一行文档类型的说明即可。
 - `<html></html>`：`<html>` 元素是整个完整页面的根元素。
@@ -300,7 +300,7 @@ My Puppy</title>
  </body>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_03/base_03-6.html" target="_blank">尝试一下·去补全</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_03/base_03-6.html" target="_blank">尝试一下·去补全</a></button>
 
 ::: details 答案
 
@@ -331,7 +331,7 @@ My Puppy</title>
 <h6>阿坝首个A级景区完成授牌</h6>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_03/base_03-7.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_03/base_03-7.html" target="_blank">尝试一下</a></button>
 
 - **第2步：使用 `<img>` 元素。** 它是空元素，它只有一个标签。它是用来在 `<img>` 所在的位置插入一张指定的图片。
 
@@ -342,10 +342,10 @@ My Puppy</title>
 点击“尝试一下”，看看 `<img>` 元素运行的效果：
 
 ```html
-<img src="https://bornforthis.cn/web_runing/data/base_03/img/base-03-01.png" alt="views">
+<img src="https://web.online.bornforthis.cn/data/base_03/img/base-03-01.png" alt="views">
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_03/base_03-8.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_03/base_03-8.html" target="_blank">尝试一下</a></button>
 
 在上述案例中，`src=""` 是 `<img>` 的必要属性。它的值是图片文件的 URL。URL 就是浏览器找到该图的路径。 `alt=""` 也是 `<img>` 的属性。它的值是文本。它规定了当图像无法显示时的替代显示。
 
@@ -355,7 +355,7 @@ My Puppy</title>
 <p>7月20日上午，在川西高原最美的时节，来自四方的宾朋齐聚在世外桃源—神座村，隆重举行阿坝·神座特种4A级景区授牌仪式。</p>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_03/base_03-9.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_03/base_03-9.html" target="_blank">尝试一下</a></button>
 
 通过以上 3 个步骤，你也能制作出简单结构的网页了。
 

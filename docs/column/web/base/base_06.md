@@ -185,13 +185,13 @@ Lisa想这样写：
 
 ![image-20220802215421253](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/ee/ee71c9104fc276d0acd2f583f4398d877840fea5e74dc34b5177c9abe860d4d9.png)
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_06/index.html" target="_blank">成品</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_06/index.html" target="_blank">成品</a></button>
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_06/base_06.html" target="_blank">在线试一试</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_06/base_06.html" target="_blank">在线试一试</a></button>
 
 ## 代码下载 
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/data/base_06/base_06.zip" target="_blank">代码下载</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/data/base_06/base_06.zip" target="_blank">代码下载</a></button>
 
 ::: details 公众号：AI悦创【二维码】
 

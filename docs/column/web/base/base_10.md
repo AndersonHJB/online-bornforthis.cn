@@ -84,7 +84,7 @@ let y = 13
 let z = x + y
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_10/base_10-1.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_10/base_10-1.html" target="_blank">尝试一下</a></button>
 
 如果无法更改 JS 的值，网页就无法响应任何动态。因此，JS 的变量无处不在。
 

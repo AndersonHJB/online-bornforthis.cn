@@ -46,7 +46,7 @@ SVG 文件推荐使用 **.svg**（全部小写）作为此类文件的扩展名�
 </svg>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/02/02.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/02/02.html" target="_blank">尝试一下</a></button>
 
 显示结果如下：
 

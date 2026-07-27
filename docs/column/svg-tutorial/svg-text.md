@@ -43,7 +43,7 @@ backToTop: true
 </svg>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/SVG-text/SVGtext.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/SVG-text/SVGtext.html" target="_blank">尝试一下</a></button>
 
 ## 实例 2
 
@@ -59,7 +59,7 @@ backToTop: true
 </svg>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/SVG-text/SVGtext-1.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/SVG-text/SVGtext-1.html" target="_blank">尝试一下</a></button>
 
 ### 实例 3
 
@@ -79,7 +79,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
 </svg>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/SVG-text/SVGtext-2.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/SVG-text/SVGtext-2.html" target="_blank">尝试一下</a></button>
 
 ### 实例 4
 
@@ -96,7 +96,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
 </svg>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/SVG-text/SVGtext-3.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/SVG-text/SVGtext-3.html" target="_blank">尝试一下</a></button>
 
 ## 实例 5
 
@@ -115,7 +115,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
 </svg>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/SVG-text/SVGtext-4.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/SVG-text/SVGtext-4.html" target="_blank">尝试一下</a></button>
 
 欢迎关注我公众号：AI悦创，有更多更好玩的等你发现！
 

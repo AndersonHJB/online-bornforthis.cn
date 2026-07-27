@@ -56,9 +56,9 @@ SVG有一些预定义的形状元素，可被开发者使用和操作：
 </svg>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/04/04.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/04/04.html" target="_blank">尝试一下</a></button>
 
-对于 Opera 用户： [查看SVG文件](https://bornforthis.cn/web_runing/svg/04/rect1.svg)（右键单击SVG图形预览源）。
+对于 Opera 用户： [查看SVG文件](https://web.online.bornforthis.cn/svg/04/rect1.svg)（右键单击SVG图形预览源）。
 
 **代码解析:**
 
@@ -94,7 +94,7 @@ SVG有一些预定义的形状元素，可被开发者使用和操作：
 </html>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/04/04-1.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/04/04-1.html" target="_blank">尝试一下</a></button>
 
 **代码解析：**
 
@@ -116,7 +116,7 @@ SVG有一些预定义的形状元素，可被开发者使用和操作：
 </svg>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/04/04-2.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/04/04-2.html" target="_blank">尝试一下</a></button>
 
 - CSS opacity 属性用于定义了元素的透明值 (范围: 0 到 1)。
 
@@ -135,7 +135,7 @@ SVG有一些预定义的形状元素，可被开发者使用和操作：
 
 - rx 和 ry 属性可使矩形产生圆角。
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/04/04-3.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/04/04-3.html" target="_blank">尝试一下</a></button>
 
 
 

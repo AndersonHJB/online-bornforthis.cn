@@ -50,7 +50,7 @@ if (bestchoice === 'bornforthi.com') {
 
 如果返回为假（else）,则跳过第一个代码块，执行第二个代码块——容我再想想。
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_10/base_10-2.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_10/base_10-2.html" target="_blank">尝试一下</a></button>
 
 ## 函数
 
@@ -87,7 +87,7 @@ document.querySelector('html').onclick = function() {
 }
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_10/base_10-3.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_10/base_10-3.html" target="_blank">尝试一下</a></button>
 
 ![image-20220804231652817](https://raw.githubusercontent.com/AndersonHJB/blog-images/refs/heads/main/docs-images/sha256/d0/d07461872f1c81c3d3c62f4381cf56209b46dc64cecfdd2e49b69fa5be6ebc59.png)
 

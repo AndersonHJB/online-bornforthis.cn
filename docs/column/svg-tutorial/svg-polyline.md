@@ -42,7 +42,7 @@ backToTop: true
 </svg>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/09/09.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/09/09.html" target="_blank">尝试一下</a></button>
 
 ### 实例 2
 
@@ -58,7 +58,7 @@ backToTop: true
 </svg>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/09/09-1.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/09/09-1.html" target="_blank">尝试一下</a></button>
 
 
 

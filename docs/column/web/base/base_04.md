@@ -26,10 +26,10 @@ toc: true
 ## 重温 `<img>` 元素
 
 ```html
-<img src="https://bornforthis.cn/web_runing/data/base_03/img/base-03-02.jpg">
+<img src="https://web.online.bornforthis.cn/data/base_03/img/base-03-02.jpg">
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_03/base_03-10.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_03/base_03-10.html" target="_blank">尝试一下</a></button>
 
 以上是一个 `<img>` 元素，在之前的课程中我们知道它是空元素。
 
@@ -38,10 +38,10 @@ toc: true
 该元素还包括一个替换文字属性 alt。该属性是图像的描述内容。当图像不能正常显示时，它负责说明。点击“尝试一下”看看属性 alt 的作用：
 
 ```html
-<img src="https://bornforthis.cn/web_runing/data/base_03/img/base-03-02." alt="图片不见了！">
+<img src="https://web.online.bornforthis.cn/data/base_03/img/base-03-02." alt="图片不见了！">
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_03/base_03-11.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_03/base_03-11.html" target="_blank">尝试一下</a></button>
 
 在以上案例中，属性 src 中指向的图片位置因缺少文件格式 jpg，导致图片无法显示。此时，属性 alt 中的文字“ **图片不见了** ”就发挥了说明的作用。
 
@@ -71,7 +71,7 @@ toc: true
 <a href="https://bornforthis.cn/">随时随地学编程，请上 bornforthis.cn</a>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_03/base_03-12.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_03/base_03-12.html" target="_blank">尝试一下</a></button>
 
 ::: tip 试一试
 
@@ -118,7 +118,7 @@ Q2:实现点击文字 tag 跳转：
 </ul>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_03/base_03-13.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_03/base_03-13.html" target="_blank">尝试一下</a></button>
 
 点击“尝试一下”，看看制作手工辣条的有序步骤列表（节选）：
 
@@ -133,7 +133,7 @@ Q2:实现点击文字 tag 跳转：
 </ol>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_03/base_03-14.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_03/base_03-14.html" target="_blank">尝试一下</a></button>
 
 ::: details 公众号：AI悦创【二维码】
 

@@ -63,7 +63,7 @@ div {
 }
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_08/base_08-1.html" target="_blank">在线试一试</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_08/base_08-1.html" target="_blank">在线试一试</a></button>
 
 让我们自己算算：
 300px (宽)
@@ -91,7 +91,7 @@ div {
 
 总元素的高度=高度+顶部填充+底部填充+上边框+下边框+上边距+下边距
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_08/base_08-3.html" target="_blank">在线试一试</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_08/base_08-3.html" target="_blank">在线试一试</a></button>
 
 ## 浏览器的兼容性问题
 
@@ -129,7 +129,7 @@ IE8 及更早IE版本不支持设置填充的宽度和边框的宽度属性。
 </html>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/web_base/base_08/base_08-2.html" target="_blank">在线试一试</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/web_base/base_08/base_08-2.html" target="_blank">在线试一试</a></button>
 
 
 

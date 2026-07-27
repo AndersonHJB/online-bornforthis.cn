@@ -41,7 +41,7 @@ SVG 使用 XML 格式定义图像。
 </html>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/README/README.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/README/README.html" target="_blank">尝试一下</a></button>
 
 **点击 "尝试一下" 按钮查看运行结果.**
 

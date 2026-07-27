@@ -80,7 +80,7 @@ SVG 的代码可以直接嵌入到 HTML 页面中，或您可以直接链接到 
 </svg>
 ```
 
-<button name="button" style="color: black"><a href="https://bornforthis.cn/web_runing/svg/03/03.html" target="_blank">尝试一下</a></button>
+<button name="button" style="color: black"><a href="https://web.online.bornforthis.cn/svg/03/03.html" target="_blank">尝试一下</a></button>
 
 ## 链接到 SVG 文件
 
@@ -92,7 +92,7 @@ SVG 的代码可以直接嵌入到 HTML 页面中，或您可以直接链接到 
 <a href="circle1.svg">查看 SVG 文件</a>
 ```
 
-**结果:**[查看 SVG 文件](https://bornforthis.cn/web_runing/svg/03/circle1.svg)
+**结果:**[查看 SVG 文件](https://web.online.bornforthis.cn/svg/03/circle1.svg)
 
 欢迎关注我公众号：AI悦创，有更多更好玩的等你发现！
 
