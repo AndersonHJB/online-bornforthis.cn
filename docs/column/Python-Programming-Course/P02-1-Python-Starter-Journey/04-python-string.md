@@ -992,6 +992,22 @@ capitalize_string = string.capitalize().capitalize()
 
 寻找目标字符或单词在特定字符串中，第一次出现的下标。也就是出现重复的，也只是返回第一次出现的下标。如果是查找单词，那么 `find()` 返回目标单词的第一个字符的下标。
 
+::: tip 语法补充，find 如何找到第二次、第三次……出现的下标。夏思涵 2026 年 7 月 27 日 20:00:00
+
+**语法**：`字符串.find(查找内容, 开始位置)`
+
+```python
+# find 查找第二次出现的下标
+string = "bornforthis"
+first_r = string.find('r')  # 第一次出现 r 的下标
+# find_string = string[first_r + 1:]  # 把第一个 r 剔除
+second_r = string.find('r', first_r + 1)
+print(second_r)
+# 循环延生：找到所有下标使用 find 或累计
+```
+
+:::
+
 如果，查询的字符或单词不存在，则返回 `-1`。
 
 ~~寻找目标字符或单词在特定字符串中，第一次出现的下标。如果字符或单词不存在，则返回 `-1`。~~
