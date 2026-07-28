@@ -92,10 +92,6 @@ const theme = hopeTheme({
 
   encrypt: {
     config: {
-      // "/column/py/basequestion/hw_word_game.html": {
-      //     hint: "Password: 提示",
-      //     password: "aiyc",
-      // },
       "/column/Python-Programming-Course/P15-OpenClaw/openclaw-core-principles-practice/": ["aiyc", "oc"],
       "/column/Python-Programming-Course/P17-ai-course-resources/": ["aiyc"],
       "/column/Python-Programming-Course/python-exam-crash-course/": ["aiyc", "liang-20052016"],
@@ -174,19 +170,19 @@ const theme = hopeTheme({
       },
     ],
     highlighter: {
-    //   type: "shiki",
-    //   collapsedLines: 15,
-    //   // lineNumbers: 1,
-    //   notationDiff: true,  // [!code --]
-    //   notationFocus: true, // [!code focus:3]
-    //   highlightLines: true,
-    //   notationHighlight: true,
-    //   notationWordHighlight: true,
-    //   //   langs: ['sql', 'python', 'java', 'javascript', 'c', 'c#', 'c++', 'html', 'css',
-    //   //     'bash', 'rust', 'php', 'r', 'cmd', 'yaml', 'markdown', 'http', 'cmake', 'matlab',
-    //   //     'plsql', 'ini', "fortran-free-form", "fortran-fixed-form", 'go', 'vue', 'tex', 'text', 'csv', 'fish',
-    //   //     'makefile', 'typescript',
-    //   //   ],
+      type: "shiki",
+      collapsedLines: 15,
+      // lineNumbers: 1,
+      notationDiff: true,  // [!code --]
+      notationFocus: true, // [!code focus:3]
+      highlightLines: true,
+      notationHighlight: true,
+      notationWordHighlight: true,
+        langs: ['sql', 'python', 'java', 'javascript', 'c', 'c#', 'c++', 'html', 'css',
+          'bash', 'rust', 'php', 'r', 'cmd', 'yaml', 'markdown', 'http', 'cmake', 'matlab',
+          'plsql', 'ini', "fortran-free-form", "fortran-fixed-form", 'go', 'vue', 'tex', 'text', 'csv',
+          'makefile', 'typescript',
+        ],
       langAlias: {
         ["excel"]: "bash",
         ["url"]: "bash",
@@ -282,13 +278,13 @@ const theme = hopeTheme({
       // 你的选项
       // appId, apiKey 和 indexName 是必填的
       appId: "ACD1S100IT",
-      apiKey: "409311158985cfee5c0a535e5998ddd2",
+      // apiKey: "409311158985cfee5c0a535e5998ddd2",
+      apiKey: "0e67ac1ea01b068986ff028b1e469bf7",
       indexName: "bornforthis",
       // placeholder: "搜索",
       locales: {
         "/": {
           placeholder: '搜索文档',
-          // initialQuery: 'AI悦创·长期招收编程私教学员！微信:Jiabcdefh',
           maxResultsPerGroup: 10,
           translations: {
             button: {
