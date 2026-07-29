@@ -2037,6 +2037,51 @@ split_result = replace_string.split()
 print(split_result)
 ```
 
+::: tip 思路捋清，添加日期：2026 年 7 月 29 日 夏思涵
+
+- Step 1：首先从题目可知，需要进行分割。故而，可以直接想到 `split()` 函数。使用 `split()` 进行代码编写：
+
+    ```python
+    string = "ai--------bornforthis------ai"
+    split_result = string.split('-')
+    print(split_result)
+    
+    # ---output---
+    ['ai', '', '', '', '', '', '', '', 'bornforthis', '', '', '', '', '', 'ai']
+    ```
+
+- Step 2：从输出结果可以明显的查看出，分割后得到的列表元素有多余且不应该存在的元素。进一步尝试分割多个连续的 `-`，看是否可以成功进行分割。其实，从字符串来看已经可以知道：中间的 `-` 并不是左右对称的。
+
+    ```python
+    string = "ai--------bornforthis------ai"
+    split_result = string.split('------')  # 6 个 -
+    print(split_result)
+    
+    # ---output---
+    ['ai', '--bornforthis', 'ai']
+    ```
+
+    问题依然存在，需要进一步解决。
+
+- Step 3：所以第二步的处理逻辑是不通的！那应该怎么办呢？——既然 `-` 的数量不一致且不对称，那我们就想办法去掉 `-`。`split()` 函数对默认空格分割是有优化的，故而问题就转换成：如何把目标字符串分割的间隔转换成空格。（采用：问题转换思想）
+
+    转换⇄其实就是：替换！——> `replace()` 函数。
+
+    先把 `-` 间隔全部替换成空格，再进行 `split()` 分割。就可以完美的解决！
+
+- Step 4：编写最终逻辑代码：
+
+    ```python
+    string = "ai--------bornforthis------ai"
+    replace_string = string.replace('-', ' ')  # 第一步：先把 `-` 间隔全部替换成空格
+    split_result = replace_string.split()  # 第二步：再进行 `split()` 分割，完美的解决！
+    print(split_result)
+    ```
+
+    
+
+:::
+
 ### 5.26 小试牛刀 3：列表转数字
 
 ::: tip 日期：2026 年 4 月 27 日 10:20 李昂
