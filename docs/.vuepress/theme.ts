@@ -278,8 +278,8 @@ const theme = hopeTheme({
       // 你的选项
       // appId, apiKey 和 indexName 是必填的
       appId: "ACD1S100IT",
-      // apiKey: "409311158985cfee5c0a535e5998ddd2",
-      apiKey: "0e67ac1ea01b068986ff028b1e469bf7",
+      apiKey: "409311158985cfee5c0a535e5998ddd2",
+      // apiKey: "0e67ac1ea01b068986ff028b1e469bf7",
       indexName: "bornforthis",
       // placeholder: "搜索",
       locales: {
