@@ -230,50 +230,9 @@ const theme = hopeTheme({
             link: "/aboutblog.md",
             type: "default",
           },
-          // {
-          //   text: "Discord",
-          //   link: "https://discord.gg/PwE4twnVmM",
-          //   type: "default",
-          // },
-          // {
-          //   text: "QQ客服",
-          //   link: "http://wpa.qq.com/msgrd?v=3&uin=1432803776&site=qq&menu=yes",
-          //   type: "default",
-          // },
-          // {
-          //   text: "Now",
-          //   link: "/Now.md",
-          //   type: "default",
-          // },
         ],
       },
     ],
-    // slimsearch: {
-    //   hotKeys: [{ key: "k", ctrl: true }, { key: "/", ctrl: true }],
-    //   // 你的选项
-    //   indexContent: true,
-    //   suggestion: true,
-    //   queryHistoryCount: 5,
-    //   resultHistoryCount: 5,
-    //   sortStrategy: 'max',
-    //   hotReload: false,
-    //   locales: {
-    //     "/": {
-    //       placeholder: "搜索",
-    //     }
-    //   }
-    // },
-    // slimsearch: true,
-    // search: {
-    //   maxSuggestions: 10,
-    //   hotKeys: [],
-    //   // 你的选项
-    //   locales: {
-    //     "/": {
-    //       placeholder: "搜索",
-    //     }
-    //   }
-    // },
     docsearch: {
       // 你的选项
       // appId, apiKey 和 indexName 是必填的
@@ -360,24 +319,6 @@ const theme = hopeTheme({
       noCopyright: true,
       dark: "auto",
     },
-    // If you don’t need comment feature, you can remove following option
-    // The following config is for demo ONLY, if you need comment feature, please generate and use your own config, see comment plugin documentation for details.
-    // To avoid disturbing the theme developer and consuming his resources, please DO NOT use the following config directly in your production environment!!!!!
-    // comment: {
-    //   /**
-    //    * Using Giscus
-    //    */
-    //   // provider: "giscus",
-    //   // repo: "BornforthisHJB/comment",
-    //   // repoId: "R_kgDOHTJESw",
-    //   // category: "Announcements",
-    //   // categoryId: "DIC_kwDOHTJES84CO_Qz",
-
-    //   /**
-    //    * Using Twikoo
-    //    */
-    //   // provider: "Twikoo",
-    //   // envId: "https://twikoo.ccknbc.vercel.app",
 
     components: {
       components: [
