@@ -193,7 +193,7 @@ print(a, b, c)
 
 ## 5. 练习一下
 
-<!-- @include: ../../column/Python-Programming-Course/P02-2-basequestion/special_variabl.md{29-122} -->
+`<!-- @include: ../../column/Python-Programming-Course/P02-2-basequestion/special_variabl.md{29-122} -->`
 
 ```python
 Austin = "Coke"

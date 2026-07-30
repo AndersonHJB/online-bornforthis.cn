@@ -159,47 +159,47 @@ Sep27Lunch.txt
 
 ### 1. cd
 
-<!-- @include: inventory.md{37-128} -->
+`<!-- @include: inventory.md{37-128} -->`
 
 ### 2. ls
 
-<!-- @include: inventory.md{132-240} -->
+`<!-- @include: inventory.md{132-240} -->`
 
 ### 3. cat
 
-<!-- @include: inventory.md{246-438} -->
+`<!-- @include: inventory.md{246-438} -->`
 
 ### 4. echo
 
-<!-- @include: inventory.md{442-482} -->
+`<!-- @include: inventory.md{442-482} -->`
 
 ### 5. sort
 
-<!-- @include: inventory.md{486-624} -->
+`<!-- @include: inventory.md{486-624} -->`
 
 ### 6. |
 
-<!-- @include: inventory.md{628-792} -->
+`<!-- @include: inventory.md{628-792} -->`
 
 ### 7. grep
 
-<!-- @include: inventory.md{796-880} -->
+`<!-- @include: inventory.md{796-880} -->`
 
 ### 8. uniq
 
-<!-- @include: inventory.md{886-994} -->
+`<!-- @include: inventory.md{886-994} -->`
 
 ### 9. bc
 
-<!-- @include: inventory.md{998-1034} -->
+`<!-- @include: inventory.md{998-1034} -->`
 
 ### 10. cp
 
-<!-- @include: inventory.md{1038-1185} -->
+`<!-- @include: inventory.md{1038-1185} -->`
 
 ### 11. 文件权限
 
-<!-- @include: inventory.md{1189-1363} -->
+`<!-- @include: inventory.md{1189-1363} -->`
 
 
 

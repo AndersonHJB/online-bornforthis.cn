@@ -149,12 +149,12 @@ const theme = hopeTheme({
     spoiler: true,
     sup: true,
     tasklist: true,
-    include: true,
+    include: false,
     attrs: false,
     footnote: true,
     align: true,
     flowchart: false,
-    gfm: true,
+    gfm: false,
     preview: true,
     stylize: [
       {
@@ -217,7 +217,7 @@ const theme = hopeTheme({
       {
         path: "/",
         title: "通知",
-        content: "建议开启：梯子🪜(VPN)来访问本网站，会加速图片加载速度！",
+        content: "建议开启：梯子🪜(VPN)来访问本网站，会加速图片加载速度！联系我购买《编程启蒙：思维与代码》➕好评，赠送全球上网 1 年！",
         showOnce: true,
         actions: [
           {
