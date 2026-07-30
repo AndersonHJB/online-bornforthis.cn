@@ -1,0 +1,6 @@
+Deployment branch: pages
+Source branch: main
+Source commit: e519e9c8781d05311bb7f5929b5f52a1bc69edbc
+Build time: 2026-07-30 19:41:23 +0800
+Node version: v25.8.1
+pnpm version: 11.16.0
